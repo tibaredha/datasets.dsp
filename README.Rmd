@@ -36,6 +36,6 @@ This is a basic example which shows you how to solve a common problem:
 ```{r example,warning=FALSE,message=FALSE}
 library(datasets.dsp)
 library(tidyverse)
-df_oph_2025 %>% select(AGE,SEXE,DATE_INTERVENTION,MEDECIN,DIAGNOSTIC,TYPE) %>% head()
+df_oph %>% select(AGE,SEXE,DATE_INTERVENTION,MEDECIN,DIAGNOSTIC,TYPE) %>% head()
 ```
 

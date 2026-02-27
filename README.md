@@ -25,14 +25,14 @@ This is a basic example which shows you how to solve a common problem:
 ``` r
 library(datasets.dsp)
 library(tidyverse)
-df_oph_2025 %>% select(AGE,SEXE,DATE_INTERVENTION,MEDECIN,DIAGNOSTIC,TYPE) %>% head()
+df_oph %>% select(AGE,SEXE,DATE_INTERVENTION,MEDECIN,DIAGNOSTIC,TYPE) %>% head()
 #> # A tibble: 6 × 6
-#>     AGE SEXE  DATE_INTERVENTION MEDECIN                         DIAGNOSTIC TYPE 
-#>   <dbl> <chr> <date>            <chr>                           <chr>      <chr>
-#> 1    66 M     2025-01-01        Jorge Amet Ramis Big&ntilde;ott Extraccio… Urge…
-#> 2    83 F     2025-01-01        Jorge Amet Ramis Big&ntilde;ott Extraccio… Urge…
-#> 3    73 M     2025-01-01        Jorge Amet Ramis Big&ntilde;ott Extraccio… Urge…
-#> 4    75 M     2025-01-01        Jorge Amet Ramis Big&ntilde;ott Extraccio… Urge…
-#> 5    39 F     2025-01-02        ANISLEY Lashley Parris          Iridotomi… Prog…
-#> 6    52 M     2025-01-02        HECTOR Santiago Montes Fong     Extraccio… Urge…
+#>     AGE SEXE  DATE_INTERVENTION   MEDECIN                 DIAGNOSTIC TYPE     
+#>   <dbl> <chr> <dttm>              <chr>                   <chr>      <chr>    
+#> 1    76 M     2024-01-02 00:00:00 Yaimeris Martinez pavon Pterygium. Programme
+#> 2    42 M     2024-01-02 00:00:00 Yaimeris Martinez pavon Pterygium. Programme
+#> 3    74 M     2024-01-02 00:00:00 Yaimeris Martinez pavon Pterygium. Programme
+#> 4    38 F     2024-01-02 00:00:00 Yaimeris Martinez pavon Pterygium. Programme
+#> 5    57 M     2024-01-02 00:00:00 Yaimeris Martinez pavon Pterygium. Programme
+#> 6    70 M     2024-01-02 00:00:00 Yaimeris Martinez pavon Pterygium. Programme
 ```
