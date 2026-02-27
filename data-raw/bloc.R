@@ -4,9 +4,9 @@ p_load(tidyverse,readxl,lubridate,ggthemes,sf,mapsf,foreign,stringr,knitr,kableE
 
 date1 <- "2025-01-01";
 date2 <- "2025-12-31"
-df_ehs_oph_2025 <- read_excel("data-raw/ehs_oph_bloc_2025.xlsx")
+df_oph_2025 <- read_excel("data-raw/ehs_oph_bloc_2025.xlsx")
 
-df_oph_2025 <- df_ehs_oph_2025  %>%
+df_oph_2025 %>%
   mutate(DATE_INTERVENTION=dmy(DATE_INTERVENTION)) %>% #2025
   mutate(DATENAIS_PATIENT=dmy(DATENAIS_PATIENT)) %>%   #2025
   dplyr::filter(DATE_INTERVENTION >= date1 & DATE_INTERVENTION  <= date2) %>%
@@ -19,4 +19,4 @@ df_oph_2025 <- df_ehs_oph_2025  %>%
   select(STRUCTURE,AGE,SEXE,DATE_INTERVENTION,MEDECIN,DIAGNOSTIC,TYPE)
 
 usethis::use_data(df_oph_2025, overwrite = TRUE)
-rm(df_ehs_oph_2025,df_oph_2025,date1,date2)
+rm(df_oph_2025,date1,date2)
