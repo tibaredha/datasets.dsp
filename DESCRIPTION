@@ -1,0 +1,10 @@
+Package: datasets.dsp
+Title: Provides the RDP datasets.dsp
+Version: 0.0.0.9000
+Authors@R: 
+    person("Redha", "TIBA", , "tibaredha@yahoo.fr", role = c("aut", "cre"))
+Description: Provides the RDP datasets.dsp.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
