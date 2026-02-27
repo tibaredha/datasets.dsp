@@ -3,7 +3,7 @@
 #' Look up df_oph.
 #'
 #' @source DSP Djelfa
-#' @format Data frame with 07 columns  and 26,568 rows
+#' @format Data frame with 07 columns  and 51,397 rows
 #' \describe{
 #' \item{STRUCTURE}{établissement.}
 #' \item{AGE}{age en année.}

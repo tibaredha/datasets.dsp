@@ -5,7 +5,7 @@
 \alias{df_oph}
 \title{df_oph}
 \format{
-Data frame with 07 columns  and 26,568 rows
+Data frame with 07 columns  and 51,397 rows
 \describe{
 \item{STRUCTURE}{établissement.}
 \item{AGE}{age en année.}
