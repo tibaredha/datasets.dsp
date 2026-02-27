@@ -6,7 +6,7 @@ date1 <- "2025-01-01";
 date2 <- "2025-12-31"
 df_oph_2025 <- read_excel("data-raw/ehs_oph_bloc_2025.xlsx")
 
-df_oph_2025 %>%
+df_oph_2025 <- df_oph_2025 %>%
   mutate(DATE_INTERVENTION=dmy(DATE_INTERVENTION)) %>% #2025
   mutate(DATENAIS_PATIENT=dmy(DATENAIS_PATIENT)) %>%   #2025
   dplyr::filter(DATE_INTERVENTION >= date1 & DATE_INTERVENTION  <= date2) %>%

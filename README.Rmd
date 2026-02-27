@@ -33,8 +33,9 @@ pak::pak("tibaredha/datasets.dsp")
 
 This is a basic example which shows you how to solve a common problem:
 
-```{r example}
+```{r example,warning=FALSE,message=FALSE}
 library(datasets.dsp)
-head(df_oph_2025)
+library(tidyverse)
+df_oph_2025 %>% select(AGE,SEXE,DATE_INTERVENTION,MEDECIN,DIAGNOSTIC,TYPE) %>% head()
 ```
 
