@@ -54,6 +54,7 @@ df_oph %>% select(AGE,SEXE,DATE_INTERVENTION,MEDECIN,DIAGNOSTIC,TYPE) %>% head()
 rh %>% dplyr::select(structure,nom,prenom,sexe,datenaissance,age,grade,nv_grade,specialité) %>% head()
 ```
 
+### deceshosp
 
 ```{r}
 deceshosp %>%  select(DINS, DATENAISSANCE, SEX) %>% head()

@@ -60,6 +60,8 @@ rh %>% dplyr::select(structure,nom,prenom,sexe,datenaissance,age,grade,nv_grade,
 #> 6 DSP Djelfa KAMESSE  FATIHA F     1983-07-02       42 Secr… Other    <NA>
 ```
 
+### deceshosp
+
 ``` r
 deceshosp %>%  select(DINS, DATENAISSANCE, SEX) %>% head()
 #>         DINS DATENAISSANCE SEX
