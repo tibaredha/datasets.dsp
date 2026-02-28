@@ -16,3 +16,28 @@
 #' @examples
 #'   df_oph
 "df_oph"
+
+
+#' rh
+#'
+#' Look up df_oph.
+#'
+#' @source DSP Djelfa
+#' @format Data frame with 09 columns  and 9364 rows
+#' \describe{
+#' \item{wilaya}{wilaya.}
+#' \item{structure}{structure.}
+#' \item{sexe}{sexe.}
+#' \item{datenaissance}{datenaissance.}
+#' \item{grade}{grade.}
+#' \item{specialité}{specialité.}
+#' \item{nom}{nom.}
+#' \item{prenom}{prenom.}
+#' }
+#' @examples
+#'   rh
+"rh"
+
+
+
+

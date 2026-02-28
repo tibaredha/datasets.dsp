@@ -40,6 +40,19 @@ This is a basic example which shows you how to solve a common problem:
 ```{r example,warning=FALSE,message=FALSE}
 library(datasets.dsp)
 library(tidyverse)
+```
+
+### bloc ophtalmologie
+
+```{r}
 df_oph %>% select(AGE,SEXE,DATE_INTERVENTION,MEDECIN,DIAGNOSTIC,TYPE) %>% head()
 ```
+
+### rh
+
+```{r}
+rh %>% dplyr::select(wilaya,structure,sexe,datenaissance,grade,specialité) %>% head()
+```
+
+
 
