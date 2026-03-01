@@ -3,7 +3,7 @@
 \docType{data}
 \name{rh}
 \alias{rh}
-\title{rh}
+\title{ressource humaine}
 \format{
 Data frame with 09 columns  and 9364 rows
 \describe{
