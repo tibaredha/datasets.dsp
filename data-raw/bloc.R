@@ -33,14 +33,14 @@ df_oph_2025 <- df_oph_2025 %>%
   select(STRUCTURE,AGE,SEXE,DATE_INTERVENTION,MEDECIN,DIAGNOSTIC,TYPE)
 
 ## combine datasets ----
-df_oph <- rbind(df_oph_2024,df_oph_2025)
+bloc <- rbind(df_oph_2024,df_oph_2025)
 rm(df_oph_2024,df_oph_2025)
 
 ## save datasets ----
-usethis::use_data(df_oph, overwrite = TRUE)
+usethis::use_data(bloc, overwrite = TRUE)
 
 ## remove data ----
-rm(df_oph,date1,date2)
+rm(bloc,date1,date2)
 
 ## mise a jour documentation ----
 devtools::document()

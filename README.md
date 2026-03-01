@@ -33,7 +33,7 @@ library(tidyverse)
 ### bloc ophtalmologie
 
 ``` r
-df_oph %>% select(AGE,SEXE,DATE_INTERVENTION,MEDECIN,DIAGNOSTIC,TYPE) %>% head()
+bloc %>% select(AGE,SEXE,DATE_INTERVENTION,MEDECIN,DIAGNOSTIC,TYPE) %>% head()
 #> # A tibble: 6 × 6
 #>     AGE SEXE  DATE_INTERVENTION   MEDECIN                 DIAGNOSTIC TYPE     
 #>   <dbl> <chr> <dttm>              <chr>                   <chr>      <chr>    
