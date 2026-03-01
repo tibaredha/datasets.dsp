@@ -3,7 +3,7 @@
 \docType{data}
 \name{bloc}
 \alias{bloc}
-\title{bloc}
+\title{activités bloc opératoire}
 \format{
 Data frame with 07 columns  and 51,397 rows
 \describe{

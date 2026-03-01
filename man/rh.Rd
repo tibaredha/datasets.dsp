@@ -24,7 +24,7 @@ DSP Djelfa
 rh
 }
 \description{
-Look up df_oph.
+Look up rh.
 }
 \examples{
   rh

@@ -1,4 +1,4 @@
-#' bloc
+#' activités bloc opératoire
 #'
 #' Look up bloc.
 #'
@@ -20,7 +20,7 @@
 
 #' rh
 #'
-#' Look up df_oph.
+#' Look up rh.
 #'
 #' @source DSP Djelfa
 #' @format Data frame with 09 columns  and 9364 rows
