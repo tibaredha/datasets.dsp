@@ -116,9 +116,9 @@ rh <- rh %>%
 
 usethis::use_data(rh, overwrite = TRUE)
 ## remove databases ----
-
 rm(rh)
 
 ## mise a jour documentation ----
 devtools::document()
 devtools::build_readme()
+remove.packages("datasets.dsp")

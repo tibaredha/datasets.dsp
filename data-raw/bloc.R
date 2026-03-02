@@ -45,3 +45,4 @@ rm(bloc,date1,date2)
 ## mise a jour documentation ----
 devtools::document()
 devtools::build_readme()
+remove.packages("datasets.dsp")

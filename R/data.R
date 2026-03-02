@@ -69,3 +69,48 @@
 #'   deceshosp
 "deceshosp"
 
+
+#' géométrie wilayas
+#'
+#' Look up sig.w.
+#'
+#' @source DSP Djelfa
+#' @format Data frame with 03 columns  and  48 rows
+#' \describe{
+#' \item{CC_1}{code wilaya.}
+#' \item{NAME_1}{nom wilaya.}
+#' \item{geometry}{geometry.}
+#' }
+#' @examples
+#'   sig.w
+"sig.w"
+
+
+#' géométrie communes
+#'
+#' Look up sig.c.
+#'
+#' @source DSP Djelfa
+#' @format Data frame with 04 columns  and  1504 rows
+#' \describe{
+#' \item{CC_2}{code commune.}
+#' \item{NAME_1}{nom wilaya.}
+#' \item{NAME_2}{nom commune.}
+#' \item{geometry}{geometry.}
+#' }
+#' @examples
+#'   sig.c
+"sig.c"
+
+
+
+
+
+
+
+
+
+
+
+
+

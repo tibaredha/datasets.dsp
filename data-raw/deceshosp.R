@@ -114,3 +114,17 @@ deces_maj_mysql()
 ## mise a jour documentation ----
 devtools::document()
 devtools::build_readme()
+remove.packages("datasets.dsp")
+
+## mise ajour news ?????
+library(newsmd)
+my_news <- newsmd() # Initializes a new news object
+my_news$add_version("0.0.1")
+my_news$add_subtitle("Bugfixes")
+my_news$add_bullet(c("this is point 1", "this is point 2"))
+my_news$get_text()  print(my_news)
+my_news$write()
+
+
+
+
