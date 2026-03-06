@@ -1,0 +1,1164 @@
+N;NOM PRENOM;x;AGE;SEXE;COMMUNE;PATHOLOGIE;DATE
+1;Zian Saad;;54;M;Ain Maabed;brucellose;04/01/2021
+2;Chaib Abdelbaki;;37;M;HBB;L.C;04/01/2021
+3;Haythem Mimoune;;19;M;HBB;L.C;04/01/2021
+4;Reouan Riad;;33;M;HBB;brucellose;13/01/2021
+5;Touissi Said;;25;M;HBB;brucellose;13/01/2021
+6;Gettouf Brahim;;37;M;HBB;brucellose;13/01/2021
+7;Hemil Bachir;;38;M;HBB;brucellose;13/01/2021
+8;Bader Bouzid;;66;M;Zafraan;brucellose;14/01/2021
+9;Selt Abdelhakim;;26;M;HBB;L.C;17/01/2021
+10;Thameur Saad;;21;M;Hassi Eleuch;brucellose;17/01/2021
+11;Djaroun Kadour;;65;M;HBB;brucellose;18/01/2021
+1;Dif Allah Omelkhire;;82;F;Ain Maabed;brucellose;20/01/2021
+2;Zkaik Bachir;;17;M;Zafraan;brucellose;21/01/2021
+3;Kadri Sadek;;14;M;Zafraan;brucellose;21/01/2021
+4;Ledjal Tahar;;32;M;Zafraan;brucellose;21/01/2021
+5;Benassloun Mohamed;;31;M;HBB;brucellose;21/01/2021
+6;Zebir Yamna;;26;M;Hassi Eleuch;L.C;21/01/2021
+7;Brahimi Sadek;;17;M;Dar Chioukh;brucellose;24/01/2021
+8;Guettaf Rahmoun;;66;M;Dar Chioukh;brucellose;24/01/2021
+9;Kraiouel Fairouz;;20;M;Dar Chioukh;brucellose;24/01/2021
+10;Zerouk Messaoud;;67;M;Dar Chioukh;brucellose;24/01/2021
+11;Zenatti Ahmed;;27;M;Dar Chioukh;brucellose;24/01/2021
+12;Kraiouel Fares ;;10;M;Dar Chioukh;brucellose;24/01/2021
+13;Youcfi Messaoud;;33;M;Zafraan;brucellose;24/01/2021
+14;Bayou Belkhith;;57;M;HBB;brucellose;25/01/2021
+15;Hazerchi Ahmed;;23;M;HBB;L.C;26/01/2021
+16;Saoudi Mohamed;;31;M;HBB;L.C;26/01/2021
+17;Ledjal Dzakhroufa;;29;F;Zafraan;brucellose;31/01/2021
+18;Ledjal Khadra;;5;F;Zafraan;brucellose;31/01/2021
+19;Ragda Fatna;;50;F;HBB;brucellose;31/01/2021
+20;Oukazi Mansour;;23;M;Zafraan;brucellose;31/01/2021
+21;Hermas Djamila;;32;F;HBB;T.E.P;31/01/2021
+22;Bdririna Ismail;;42;H;HBB;T.E.P;31/01/2021
+23;Zerouki Maya;;12;F;HBB;T.E.P;31/01/2021
+24;Djaballah Zohra;;47;F;HBB;T.P;31/01/2021
+25;Djaouaf Aicha;;19;F;HBB;T.E.P;31/01/2021
+1;Fada Mabkhout;;41;M;Hassi Eleuch;brucellose;02/02/2021
+2;Khloufi Kouider;;28;M;Hassi Eleuch;brucellose;02/02/2021
+3;Larbi Abderrahman;;32;M;HBB;brucellose;03/02/2021
+4;Abderhim Fatna;;36;F;HBB;brucellose;03/02/2021
+5;Benestala Nouerrdine;;36;M;HBB;brucellose;07/02/2021
+6;Abdelsalam Haboul;;51;M;HBB;brucellose;08/02/2021
+7;Khader Kouider;;50;M;Zafraan;brucellose;08/02/2021
+8;Grar Lhadi;;55;M;HBB;brucellose;08/02/2021
+9;Souilah Mohamed;;8;M;Mliliha;L.C;10/02/2021
+10;Tahah Khadra;;60;F;HBB;brucellose;14/02/2021
+11;Sebiha Elrebeh;;37;F;HBB;brucellose;14/02/2021
+12;Ledjal Yahia;;22;M;Zafraan;brucellose;14/02/2021
+13;Saadoun Ameur;;54;M;Zafraan;brucellose;14/02/2021
+14;Rahmani Ali;;23;M;Zafraan;brucellose;15/02/2021
+15;Touati Taoumi;;23;M;HBB;brucellose;15/02/2021
+16;Bab Omelkhir;;22;F;Dar Chioukh;brucellose;17/02/2021
+17;Zahya Fatima;;22;F;HBB;brucellose;17/02/2021
+18;Kaiach Ahmed;;28;M;Dar Chioukh;brucellose;17/02/2021
+19;Ben Rouane Belkacem;;67;M;HBB;brucellose;18/02/2021
+20;Sebiha Meriem;;42;F;Hassi Eleuch;brucellose;22/02/2021
+21;Hemil Ahmed;;62;M;HBB;brucellose;22/02/2021
+22;Toueba Lamin;;19;M;Zafraan;brucellose;23/02/2021
+23;Allawa Bouazza;;24;M;Dar Chioukh;brucellose;24/02/2021
+24;Yazir Massouda;;48;F;Dar Chioukh ;brucellose;24/02/2021
+25;Benomrani Lakhder;;41;M;Dar Chioukh;brucellose;24/02/2021
+26;Kaiach Mokhtar;;28;M;Dar Chioukh;brucellose;24/02/2021
+27;Lhadi Mokhtar;;30;M;Dar Chioukh;brucellose;24/02/2021
+28;Elkhad Attia;;27;M;Dar Chioukh;brucellose;24/02/2021
+29;Abdellaoui Nadjat;;36;F;Dar Chioukh;brucellose;24/02/2021
+30;Bouchaiba Zohra;;31;F;Dar Chioukh;brucellose;24/02/2021
+31;Benmabkhouti Bakhta;;11;F;Sidi Baizid;brucellose;24/02/2021
+32;Hemama Mohamed;;28;M;Sidi Baizid;brucellose;24/02/2021
+33;Maiza Djomaa;;73;M;Dar Chioukh;brucellose;24/02/2021
+34;Bab Omelkhir;;22;F;Dar Chioukh;brucellose;24/02/2021
+35;Zergua Abderrahman;;60;M;Dar Chioukh;brucellose;24/02/2021
+36;Bensalem Abdelkarim;;22;M;Dar Chioukh;brucellose;24/02/2021
+37;Karouss Mohamed;;77;M;Dar Chioukh;brucellose;24/02/2021
+38;Amraoui Abir;;17;F;Dar Chioukh;brucellose;24/02/2021
+39;Cheddad Makhlouf;;65;M;HBB;brucellose;24/02/2021
+40;Fetillina Bendaoud;;21;M;HBB;brucellose;24/02/2021
+41;Aissaoui Sif Islam;;9;M;Hassi Eleuch;brucellose;25/02/2021
+42;Aissaoui Aya;;20;F;Hassi Eleuch;brucellose;25/02/2021
+43;Brahimi Bendahman;;46;M;HBB;brucellose;25/02/2021
+44;Khelifa Massoud;;31;M;HBB;brucellose;25/02/2021
+45;Ammar Mohamed;;26;M;HBB;brucellose;25/02/2021
+46;Khloufi Miloud;;54;M;Hassi Eleuch;brucellose;28/02/2021
+47;Khloufi Morad;;22;M;Zafraan;brucellose;28/03/2021
+48;Boukari Ali;;57;M;HBB;brucellose;28/03/2021
+49;akhal ben daifallah ;;30;M;HBB;TEP;28/02/2021
+50;arabi  dahmene ;;72;M;HBB;TEP;28/02/2021
+51;attoui  ousama ;;12;M;HBB;TEP;28/02/2021
+52;abderahim  fatima ;;40;F;HBB;TEP;28/02/2021
+53;Amraoui Abir;;17;F;Dar Chioukh;brucellose;24/02/2021
+54;Cheddad Makhlouf;;65;M;HBB;brucellose;24/02/2021
+55;Fetillina Bendaoud;;21;M;HBB;brucellose;24/02/2021
+56;Aissaoui Sif Islam;;9;M;Hassi Eleuch;brucellose;25/02/2021
+57;Aissaoui Aya;;2;F;Hassi Eleuch;brucellose;25/02/2021
+58;Brahimi Bendahman;;46;M;HBB;brucellose;25/02/2021
+59;Khelifa Massoud;;31;M;HBB;brucellose;25/02/2021
+60;Ammar Mohamed;;26;M;HBB;brucellose;25/02/2021
+61;Khloufi Miloud;;54;M;Hassi Eleuch;brucellose;28/02/2021
+1;Baga Ahlam;;28;F;HBB;brucellose;03/03/2021
+2;Salhi Belkhir;;74;M;HBB;brucellose;03/03/2021
+3;Khalfaoui Fatiha;;33;F;Zafraan;brucellose;04/03/2021
+4;Salhi Bachir;;30;M;HBB;brucellose;07/03/2021
+5;Hazerchi Mokhtar;;21;M;HBB;brucellose;07/03/2021
+6;Boubakri Nacira;;40;F;HBB;brucellose;07/03/2021
+7;Laboukh Souhila;;29;F;HBB;brucellose;08/03/2021
+8;Saleh Ledjaal;;25;M;Zafraan;brucellose;08/03/2021
+9;Kheloufi Hanan;;19;F;HBB;brucellose;08/03/2021
+10;Khoubizi Abdelnour;;65;M;Hassi Eleuch;brucellose;08/03/2021
+11;Guerd Boudissa;;16;M;Sidi Baizid;brucellose;08/03/2021
+12;Choukri Ahmed;;50;M;Mouileh;brucellose;08/03/2021
+13;Amraoui Abir;;17;F;Dar Chioukh;brucellose;08/03/2021
+14;Ben Rezgua Belkacem;;72;M;Sidi Baizid;brucellose;08/03/2021
+15;Abdelhafidi Abdelkader;;47;M;HBB;brucellose;09/03/2021
+16;Naoui Lghouaini;;28;M;HBB;brucellose;09/03/2021
+17;Chougbat Tahar;;15;M;Hassi Eleuch;brucellose;09/03/2021
+18;Rahmani Abdellah;;50;M;HBB;brucellose;10/03/2021
+19;Khoubaizi Mohamed;;18;M;HBB;brucellose;10/03/2021
+20;Thmeur Bouzid;;25;M;Hassi Eleuch;brucellose;10/03/2021
+21;Haboul Bachir;;23;M;HBB;brucellose;10/03/2021
+22;Kheloufi Yousera;;16;F;Zafraan;brucellose;10/03/2021
+23;Salhi Thameur;;40;M;Zafraan;brucellose;10/03/2021
+24;Salhi Mourad;;10;M;Zafraan;brucellose;10/03/2021
+25;Mouafki Fatima;;24;F;HBB;brucellose;11/03/2021
+26;Chouitar Laid;;55;M;HBB;brucellose;11/03/2021
+27;Choukhbat Hmaida;;12;M;Hassi Eleuch;brucellose;14/03/2021
+28;Choukhbat Kouider;;39;M;Hassi Eleuch;brucellose;14/03/2021
+29;Salhi Tahar;;22;M;HBB;brucellose;14/03/2021
+30;Cheddad Ramliya;;40;F;HBB;L.C;14/03/2021
+31;Azzouzi Embarka;;25;F;Zafraan;brucellose;15/03/2021
+32;Saadi Brahim;;12;M;Miliha;brucellose;15/03/2021
+33;Senni Allaa;;21;M;Miliha;brucellose;15/03/2021
+34;Saiddi Ahmed;;8;M;Miliha;brucellose;15/03/2021
+35;Saiddi Aicha;;18;M;Miliha;brucellose;15/03/2021
+36;Saiddi Mohamed;;16;M;Miliha;brucellose;15/03/2021
+37;Kraioual Dahman;;40;M;Sidi Baizid;brucellose;15/03/2021
+38;Benchikh Mohamed;;36;M;Sidi Baizid;brucellose;15/03/2021
+39;Kraioual Nariman;;41;F;Sidi Baizid;brucellose;15/03/2021
+40;Kraioual Kalthoum;;18;F;Sidi Baizid;brucellose;15/03/2021
+41;Kraioual Roueya;;5;F;Sidi Baizid;brucellose;15/03/2021
+42;Kraioual Aya;;41;F;Sidi Baizid;brucellose;15/03/2021
+43;Kacem Embarka;;55;F;Dar Chioukh;brucellose;15/03/2021
+44;Allawa Lamine;;17;M;Dar Chioukh;brucellose;15/03/2021
+45;Hassen Hafida;;27;F;HBB;L.C;16/03/2021
+46;Raaga Mohamed;;26;M;HBB;brucellose;16/03/2021
+47;Fedoul Lhadj;;37;M;HBB;brucellose;16/03/2021
+48;Tammar  Mohamed;;43;M;Zafraan;brucellose;17/03/2021
+49;Ben Cherik Mohamed;;60;M;Zafraan;brucellose;17/03/2021
+50;Wassel Miloud;;36;M;Hassi Eleuch;brucellose;17/03/2021
+51;Raguaa Ahmed;;34;M;HBB;brucellose;17/03/2021
+52;Lahoual Fatima;;4;F;Hassi Eleuch;brucellose;17/03/2021
+53;Kheloufi Khaira;;50;F;Zafraan;brucellose;21/03/2021
+54;Bouaicha Messaouda;;62;F;Hassi Eleuch;brucellose;22/03/2021
+55;Souiah Nacer Eddine;;21;M;HBB;brucellose;22/03/2021
+56;Djouaa Fatima;;40;F;Dar Chioukh;brucellose;22/03/2021
+57;Elkhad Amar;;21;M;Dar Chioukh;brucellose;22/03/2021
+58;Khelif Khadra;;27;F;Dar Chioukh;brucellose;22/03/2021
+59;Basstami Mohamed;;14;M;Dar Chioukh;brucellose;22/03/2021
+60;Bachiri Hocine;;23;M;Zafraan;brucellose;24/03/2021
+61;Thamri Tayeb;;14;M;HBB;brucellose;28/03/2021
+62;Souiah Mohamed;;50;M;HBB;brucellose;28/03/2021
+63;Goubaa Yasmin;;5;F;Zafraan;brucellose;28/03/2021
+64;Krioual Massoud;;40;M;Dar Chioukh;brucellose;28/03/2021
+65;Azzouzi Kamel;;30;M;Ain Maabed;brucellose;29/03/2021
+66;Goubaa Mahfoud;;18;M;Zafraan;brucellose;29/03/2021
+67;Brahimi Zayed;;27;M;Mouileh;brucellose;29/03/2021
+68;Krioual Ombarka;;36;F;Sidi Baizid;brucellose;29/03/2021
+69;Krioual Khaira;;26;F;Sidi Baizid;brucellose;29/03/2021
+70;Khaldi Amar;;48;M;Mouileh;brucellose;29/03/2021
+71;Krioual Fatima Zahra;;9;F;Sidi Baizid;brucellose;29/03/2021
+72;Bastami Saadia;;45;F;Sidi Baizid;brucellose;29/03/2021
+73;Benchiekh Tahar;;7;M;Sidi Baizid;brucellose;29/03/2021
+74;Zrouka Noreddine;;17;M;Sidi Baizid;brucellose;29/03/2021
+75;Bastami Fatiha;;25;F;Sidi Baizid;brucellose;29/03/2021
+76;Refiss Djaloul;;34;M;Mouileh;brucellose;29/03/2021
+77;Sediki Benazzouz;;60;M;HBB;T.E.P;31/03/2021
+78;Boudab Abderrahman;;21;M;HBB;T.E.P;31/03/2021
+79;Hocini Oumelkhir;;30;F;Dar Chioukh;T.E.P;31/03/2021
+80;Fedoul Fatima;;24;F;HBB;T.P;31/03/2021
+81;Benomrani Mohamed;;67;M;Dar Chioukh;T.E.P;31/03/2021
+1;Boukari Ahmed;;18;M;HBB;brucellose;01/04/2021
+2;Ben Mohamed Said;;24;M;HBB;brucellose;01/04/2021
+3;Thuameria Ammra;;43;M;Mliliha;brucellose;01/04/2021
+4;Thuameria Fraiha;;20;M;Mliliha;brucellose;01/04/2021
+5;Thuameria Noura;;12;M;Mliliha;brucellose;01/04/2021
+6;Thuameria Djoudia;;30;M;Mliliha;brucellose;01/04/2021
+7;Thuameria Wahiba;;15;M;Mliliha;brucellose;01/04/2021
+8;Bahchich Meustapha;;31;M;HBB;brucellose;01/04/2021
+9;Wahchi Madani;;17;F;Zafraan;brucellose;01/04/2021
+10;Faitas Abdelsalam;;50;F;HBB;brucellose;04/04/2021
+11;Fraikach Abderrahman;;25;F;Zafraan;brucellose;04/04/2021
+12;Laboukh Dahman;;41;F;HBB;brucellose;04/04/2021
+13;Salhi Mohamed;;17;F;HBB;brucellose;04/04/2021
+14;Taibi Mohamed;;45;M;Zafraan;brucellose;06/04/2021
+15;Abdellaoui Wassila;;6;F;Dar Chioukh;brucellose;06/04/2021
+16;Djaroun Mohamed;;64;F;HBB;brucellose;06/04/2021
+17;Boukari Bachir;;24;M;HBB;brucellose;06/04/2021
+18;BenCheikh Ahmed;;21;F;Sidi Baizid;brucellose;06/04/2021
+19;Chenbir Amar;;36;M;Sidi Baizid;brucellose;06/04/2021
+20;Khoubizi Djamila;;35;M;Dar Chioukh;brucellose;06/04/2021
+21;Refis Boulerbah;;53;M;Mouileh;brucellose;06/04/2021
+22;Choucha Abdelhak;;21;M;Dar Chioukh;brucellose;06/04/2021
+23;Yazir Hakim;;29;M;Dar Chioukh;brucellose;06/04/2021
+24;Rabouh Dif;;26;M;Sidi Baizid;brucellose;06/04/2021
+25;Selmani Sengrah;;41;M;Dar Chioukh;brucellose;06/04/2021
+26;Haouassi Mohamed;;27;M;Dar Chioukh;brucellose;06/04/2021
+27;Abdellaoui Lahbib ;;42;M;Dar Chioukh;brucellose;06/04/2021
+28;Naoura Messaouda;;30;F;Dar Chioukh;brucellose;06/04/2021
+29;BenSalem Sliman;;9;M;Dar Chioukh;brucellose;06/04/2021
+30;Saidi Amar;;46;M;Mliliha;brucellose;06/04/2021
+31;Cherchari Mahdjouba;;45;M;Dar Chioukh;brucellose;06/04/2021
+32;Dib Mohamed;;68;M;Dar Chioukh;brucellose;06/04/2021
+33;Zeroug Lharthe;;10;M;Dar Chioukh;brucellose;06/04/2021
+34;Goumich Fraiha;;37;F;Dar Chioukh;brucellose;06/04/2021
+1;Choukhbat Saad;;50;M;Hassi Eleuch;brucellose;07/04/2021
+2;Chouitar Nacer;;23;M;HBB;brucellose;08/04/2021
+3;Meddani Abdellah;;28;M;Zafraan;brucellose;08/04/2021
+4;Boukari Said;;30;M;HBB;brucellose;12/04/2021
+5;Sebar Ben Ali;;34;M;HBB;brucellose;12/04/2021
+6;Chehnine Walid;;15;M;HBB;L.C;12/04/2021
+7;Bahchich Dahmen;;39;M;HBB;brucellose;13/04/2021
+8;Kraioual Kassoum;;44;M;Sidi Baizid;brucellose;13/04/2021
+9;Goubaa Houria;;24;F;Zafraan;brucellose;13/04/2021
+10;Kraioual Chahinaz;;12;F;Dar Chioukh;brucellose;13/04/2021
+11;Djenba Souad;;39;F;Dar Chioukh;brucellose;13/04/2021
+12;Ben Ariffa Aicha;;63;F;Dar Chioukh;brucellose;13/04/2021
+13;Selmani Aicha;;14;F;Dar Chioukh;brucellose;13/04/2021
+14;Selmani Miloud;;41;M;Dar Chioukh;brucellose;13/04/2021
+15;Guessmi Fatna;;63;F;Dar Chioukh;brucellose;13/04/2021
+16;Abdellaoui Wassila;;6;F;Dar Chioukh;brucellose;13/04/2021
+17;Yazzir Makhlouf;;20;M;Dar Chioukh;brucellose;13/04/2021
+18;Guessm Khadra;;21;F;Mliliha;brucellose;13/04/2021
+19;Dib Aymen;;8;M;Mliliha;brucellose;13/04/2021
+20;Dib Aissa;;13;M;Mliliha;brucellose;13/04/2021
+21;Zergua Ameur;;24;M;Sidi Baizid;brucellose;13/04/2021
+22;Herram Said;;29;M;Sidi Baizid;brucellose;13/04/2021
+23;Selmani Haouari;;72;M;Dar Chioukh;brucellose;13/04/2021
+24;Senghra Attia;;36;M;Dar Chioukh;brucellose;13/04/2021
+25;Tissa Monir;;5;M;Mliliha;brucellose;13/04/2021
+26;Selmani Bouchra;;6;F;Dar Chioukh;brucellose;13/04/2021
+1;Ben Labgaa Saadia;;40;F;Zafraan;brucellose;14/04/2021
+2;Louaraki Mohamed;;56;M;HBB;brucellose;14/04/2021
+3;Reziag Yahia;;11;M;Hassi Eleuch;brucellose;14/04/2021
+4;Senni Laid;;50;M;Mliliha;brucellose;15/04/2021
+5;Zeroug Abdelbasst;;13;M;Mliliha;brucellose;15/04/2021
+6;Guettaf Ahmed;;48;M;Dar Chioukh;brucellose;18/04/2021
+7;Ben Aissa Bouchra;;13;F;Sidi Baizid;brucellose;18/04/2021
+8;Ladjelat Aymen;;11;M;Dar Chioukh;brucellose;18/04/2021
+9;Chettouh Hocine;;57;M;HBB;brucellose;20/04/2021
+10;Labgaa Mohamed;;31;M;Zafraan;brucellose;20/04/2021
+1;Nboukari Mohamed;;11;M;HBB;brucellose;21/04/2021
+2;Rahmani Ali;;23;M;Zafraan;brucellose;21/04/2021
+3;Naas Fatima;;53;F;HBB;brucellose;25/04/2021
+4;Debab Kadour;;23;M;Hassi Eleuch;brucellose;25/04/2021
+5;Ben Brahim Khaira;;52;F;HBB;brucellose;26/04/2021
+6;Lhadi Miloud;;24;M;Dar Chioukh;brucellose;27/04/2021
+7;Ben Omrani Saad;;80;M;Dar Chioukh;brucellose;27/04/2021
+8;Rfiss Hafnaoui;;25;M;Mouileh;brucellose;27/04/2021
+9;Naouara Abbasi;;38;M;Dar Chioukh;brucellose;27/04/2021
+10;Ben Salem Ombarka;;43;F;Dar Chioukh;brucellose;27/04/2021
+11;Bdairina Fatna;;32;F;Dar Chioukh;brucellose;27/04/2021
+12;Rabouh Abdelkader;;41;M;Sidi Baizid;brucellose;27/04/2021
+13;Boumahdi Mohamed;;45;M;Dar Chioukh;brucellose;27/04/2021
+14;Ben Arbi Ameur;;47;M;Sidi Baizid;brucellose;27/04/2021
+15;Selmani Amar;;48;M;Dar Chioukh;brucellose;27/04/2021
+16;Selmani Zohra;;23;F;Dar Chioukh;brucellose;27/04/2021
+17;Kadri Iman;;4;F;Sidi Baizid;brucellose;27/04/2021
+18;Kadri Ahmed;;30;M;Sidi Baizid;brucellose;27/04/2021
+19;Haouassi Ahmed;;60;M;Dar Chioukh;brucellose;27/04/2021
+20;Beraka Ahmed;;51;M;Dar Chioukh;brucellose;27/04/2021
+21;Seddiki Mohamed;;46;M;Dar Chioukh;brucellose;27/04/2021
+1;Boukari Ahmed;;18;M;HBB;brucellose;01/04/2021
+2;Ben Mohamed Said;;24;M;HBB;brucellose;01/04/2021
+3;Thuameria Ammra;;43;M;Mliliha;brucellose;01/04/2021
+4;Thuameria Fraiha;;20;M;Mliliha;brucellose;01/04/2021
+5;Thuameria Noura;;12;M;Mliliha;brucellose;01/04/2021
+6;Thuameria Djoudia;;30;M;Mliliha;brucellose;01/04/2021
+7;Thuameria Wahiba;;15;M;Mliliha;brucellose;01/04/2021
+8;Bahchich Meustapha;;31;M;HBB;brucellose;01/04/2021
+9;Wahchi Madani;;17;F;Zafraan;brucellose;01/04/2021
+10;Faitas Abdelsalam;;50;F;HBB;brucellose;04/04/2021
+11;Fraikach Abderrahman;;25;F;Zafraan;brucellose;04/04/2021
+12;Laboukh Dahman;;41;F;HBB;brucellose;04/04/2021
+13;Salhi Mohamed;;17;F;HBB;brucellose;04/04/2021
+14;Taibi Mohamed;;45;M;Zafraan;brucellose;06/04/2021
+15;Abdellaoui Wassila;;6;F;Dar Chioukh;brucellose;06/04/2021
+16;Djaroun Mohamed;;64;F;HBB;brucellose;06/04/2021
+17;Boukari Bachir;;24;M;HBB;brucellose;06/04/2021
+18;BenCheikh Ahmed;;21;F;Sidi Baizid;brucellose;06/04/2021
+19;Chenbir Amar;;36;M;Sidi Baizid;brucellose;06/04/2021
+20;Khoubizi Djamila;;35;M;Dar Chioukh;brucellose;06/04/2021
+21;Refis Boulerbah;;53;M;Mouileh;brucellose;06/04/2021
+22;Choucha Abdelhak;;21;M;Dar Chioukh;brucellose;06/04/2021
+23;Yazir Hakim;;29;M;Dar Chioukh;brucellose;06/04/2021
+24;Rabouh Dif;;26;M;Sidi Baizid;brucellose;06/04/2021
+25;Selmani Sengrah;;41;M;Dar Chioukh;brucellose;06/04/2021
+26;Haouassi Mohamed;;27;M;Dar Chioukh;brucellose;06/04/2021
+27;Abdellaoui Lahbib ;;42;M;Dar Chioukh;brucellose;06/04/2021
+28;Naoura Messaouda;;30;F;Dar Chioukh;brucellose;06/04/2021
+29;BenSalem Sliman;;9;M;Dar Chioukh;brucellose;06/04/2021
+30;Saidi Amar;;46;M;Mliliha;brucellose;06/04/2021
+31;Cherchari Mahdjouba;;45;M;Dar Chioukh;brucellose;06/04/2021
+32;Dib Mohamed;;68;M;Dar Chioukh;brucellose;06/04/2021
+33;Zeroug Lharthe;;10;M;Dar Chioukh;brucellose;06/04/2021
+34;Goumich Fraiha;;37;F;Dar Chioukh;brucellose;06/04/2021
+35;Choukhbat Saad;;50;M;Hassi Eleuch;brucellose;07/04/2021
+36;Chouitar Nacer;;23;M;HBB;brucellose;08/04/2021
+37;Meddani Abdellah;;28;M;Zafraan;brucellose;08/04/2021
+38;Boukari Said;;30;M;HBB;brucellose;12/04/2021
+39;Sebar Ben Ali;;34;M;HBB;brucellose;12/04/2021
+40;Chehnine Walid;;15;M;HBB;L.C;12/04/2021
+41;Bahchich Dahmen;;39;M;HBB;brucellose;13/04/2021
+42;Kraioual Kassoum;;44;M;Sidi Baizid;brucellose;13/04/2021
+43;Goubaa Houria;;24;F;Zafraan;brucellose;13/04/2021
+44;Kraioual Chahinaz;;12;F;Dar Chioukh;brucellose;13/04/2021
+45;Djenba Souad;;39;F;Dar Chioukh;brucellose;13/04/2021
+46;Ben Ariffa Aicha;;63;F;Dar Chioukh;brucellose;13/04/2021
+47;Selmani Aicha;;14;F;Dar Chioukh;brucellose;13/04/2021
+48;Selmani Miloud;;41;M;Dar Chioukh;brucellose;13/04/2021
+49;Guessmi Fatna;;63;F;Dar Chioukh;brucellose;13/04/2021
+50;Abdellaoui Wassila;;6;F;Dar Chioukh;brucellose;13/04/2021
+51;Yazzir Makhlouf;;20;M;Dar Chioukh;brucellose;13/04/2021
+52;Guessm Khadra;;21;F;Mliliha;brucellose;13/04/2021
+53;Dib Aymen;;8;M;Mliliha;brucellose;13/04/2021
+54;Dib Aissa;;13;M;Mliliha;brucellose;13/04/2021
+55;Zergua Ameur;;24;M;Sidi Baizid;brucellose;13/04/2021
+56;Herram Said;;29;M;Sidi Baizid;brucellose;13/04/2021
+57;Selmani Haouari;;72;M;Dar Chioukh;brucellose;13/04/2021
+58;Senghra Attia;;36;M;Dar Chioukh;brucellose;13/04/2021
+59;Tissa Monir;;5;M;Mliliha;brucellose;13/04/2021
+60;Selmani Bouchra;;6;F;Dar Chioukh;brucellose;13/04/2021
+61;Ben Labgaa Saadia;;40;F;Zafraan;brucellose;14/04/2021
+62;Louaraki Mohamed;;56;M;HBB;brucellose;14/04/2021
+63;Reziag Yahia;;11;M;Hassi Eleuch;brucellose;14/04/2021
+64;Senni Laid;;50;M;Mliliha;brucellose;15/04/2021
+65;Zeroug Abdelbasst;;13;M;Mliliha;brucellose;15/04/2021
+66;Guettaf Ahmed;;48;M;Dar Chioukh;brucellose;18/04/2021
+67;Ben Aissa Bouchra;;13;F;Sidi Baizid;brucellose;18/04/2021
+68;Ladjelat Aymen;;11;M;Dar Chioukh;brucellose;18/04/2021
+69;Chettouh Hocine;;57;M;HBB;brucellose;20/04/2021
+70;Labgaa Mohamed;;31;M;Zafraan;brucellose;20/04/2021
+71;Nboukari Mohamed;;11;M;HBB;brucellose;21/04/2021
+72;Rahmani Ali;;23;M;Zafraan;brucellose;21/04/2021
+73;Naas Fatima;;53;F;HBB;brucellose;25/04/2021
+74;Debab Kadour;;23;M;Hassi Eleuch;brucellose;25/04/2021
+75;Ben Brahim Khaira;;52;F;HBB;brucellose;26/04/2021
+76;Lhadi Miloud;;24;M;Dar Chioukh;brucellose;27/04/2021
+77;Ben Omrani Saad;;80;M;Dar Chioukh;brucellose;27/04/2021
+78;Rfiss Hafnaoui;;25;M;Mouileh;brucellose;27/04/2021
+79;Naouara Abbasi;;38;M;Dar Chioukh;brucellose;27/04/2021
+80;Ben Salem Ombarka;;43;F;Dar Chioukh;brucellose;27/04/2021
+81;Bdairina Fatna;;32;F;Dar Chioukh;brucellose;27/04/2021
+82;Rabouh Abdelkader;;41;M;Sidi Baizid;brucellose;27/04/2021
+83;Boumahdi Mohamed;;45;M;Dar Chioukh;brucellose;27/04/2021
+84;Ben Arbi Ameur;;47;M;Sidi Baizid;brucellose;27/04/2021
+85;Selmani Amar;;48;M;Dar Chioukh;brucellose;27/04/2021
+86;Selmani Zohra;;23;F;Dar Chioukh;brucellose;27/04/2021
+87;Kadri Iman;;4;F;Sidi Baizid;brucellose;27/04/2021
+88;Kadri Ahmed;;30;M;Sidi Baizid;brucellose;27/04/2021
+89;Haouassi Ahmed;;60;M;Dar Chioukh;brucellose;27/04/2021
+90;Beraka Ahmed;;51;M;Dar Chioukh;brucellose;27/04/2021
+91;Seddiki Mohamed;;46;M;Dar Chioukh;brucellose;27/04/2021
+1;Ben Salem Iman;;21;F;HBB;brucellose;27/04/2021
+2;Zenati Ameur;;23;M;HBB;brucellose;27/04/2021
+3;Assali Massaoud;;11;M;Ain Maabed;brucellose;27/04/2021
+4;Ben Aissa Massouda;;36;F;HBB;brucellose;28/04/2021
+5;Chermat Ben Saad;;39;M;HBB;brucellose;28/04/2021
+6;Kellal Thameur;;21;M;HBB;brucellose;28/04/2021
+7;Guassmi Messaoud;;26;M;HBB;brucellose;28/04/2021
+8;Chettouh Ismail;;31;M;HBB;brucellose;28/04/2021
+9;Chaibout Miloud;;33;M;HBB;brucellose;29/04/2021
+10;Benariffa Nouara;;28;F;Dar Chioukh;brucellose;02/05/2021
+11;Hammi Elheddi;;17;M;HBB;brucellose;03/05/2021
+12;Salhi Miloud;;60;M;HBB;brucellose;03/05/2021
+13;Chaib Zohra;;28;F;HBB;brucellose;03/05/2021
+14;Kourchi Youcef;;15;M;HBB;brucellose;03/05/2021
+15;Guessmi Mohamed;;35;M;HBB;brucellose;04/05/2021
+1;Teffah Benalia;;56;M;HBB;brucellose;05/05/2021
+2;Chabaan Ahmed;;59;M;HBB;brucellose;05/05/2021
+3;Ben Chioukh Brahim;;37;M;Sidi Baizid;brucellose;05/05/2021
+4;Zenatti Aymen;;19;M;HBB;brucellose;09/05/2021
+5;Laboukh Abdelkader;;8;M;HBB;brucellose;09/05/2021
+6;Khoubizi Mokhtar;;24;M;HBB;brucellose;10/05/2021
+7;Farha Baizid;;34;M;HBB;brucellose;10/05/2021
+1;Kourchi Abdelkader;;58;M;HBB;brucellose;11/05/2021
+2;Kassem Karima;;23;F;Sidi Baizid;brucellose;11/05/2021
+3;Rebouh Tahar;;9;M;Sidi Baizid;brucellose;11/05/2021
+4;Salmani Ismail;;15;M;Dar Chioukh;brucellose;11/05/2021
+5;Kraioual Bouchra;;5;F;Sidi Baizid;brucellose;11/05/2021
+6;Bouchiba Embarka;;35;F;Sidi Baizid;brucellose;11/05/2021
+7;Ben Aissa Rabeh;;22;M;Sidi Baizid;brucellose;11/05/2021
+8;Faidjal Khaled;;24;M;Dar Chioukh;brucellose;11/05/2021
+9;Lakid Amel;;24;F;Dar Chioukh;brucellose;11/05/2021
+10;Kassem Nadji;;32;M;Dar Chioukh;brucellose;11/05/2021
+11;Krouss Nacira;;42;F;Dar Chioukh;brucellose;11/05/2021
+12;Lamlouma Messaouda;;60;F;Dar Chioukh;brucellose;11/05/2021
+13;Zenatti Aicha;;48;F;Dar Chioukh;brucellose;11/05/2021
+14;Salmani Hossam;;7;M;Dar Chioukh;brucellose;11/05/2021
+15;Djioukh Faiza;;12;F;Sidi Baizid;brucellose;11/05/2021
+16;Arrak Ahmed;;29;M;Dar Chioukh;brucellose;11/05/2021
+17;Chaouli Mourad;;12;M;Mouileh;brucellose;11/05/2021
+18;Bouelam Djamila;;40;F;Dar Chioukh;brucellose;11/05/2021
+19;Gougue Hamza;;31;M;HBB;brucellose;11/05/2021
+20;Benaissa Ahmed;;29;M;Sidi Baizid;brucellose;11/05/2021
+21;Okazi Attia;;48;M;Hassi Eleuch;brucellose;11/05/2021
+22;Djarou Djoudi;;51;M;HBB;brucellose;11/05/2021
+23;Agoune Aissa;;60;M;HBB;L,C;17/05/2021
+1;Haouari Miloud;;63;M;Dar Chioukh;brucellose;18/05/2021
+2;Lhani Abdelbaki;;58;M;Sidi Baizid;brucellose;18/05/2021
+3;Selmani Bessma;;11;F;Dar Chioukh;brucellose;18/05/2021
+4;Boulatbaague Sliman;;5;M;Sidi Baizid;brucellose;18/05/2021
+5;Zerouk Attia;;39;M;Dar Chioukh;brucellose;18/05/2021
+6;Kraioua Lhadj;;11;M;Sidi Baizid;brucellose;18/05/2021
+7;Kraioua Saida;;11;F;Sidi Baizid;brucellose;18/05/2021
+8;Refiss Omelkhir;;21;F;Mliliha;brucellose;18/05/2021
+9;Toumatia Aicha;;48;F;Sidi Baizid;brucellose;18/05/2021
+10;Bouamara Fatma;;26;F;HBB;brucellose;18/05/2021
+11;Slet Bachir;;60;M;Ain Maabed;brucellose;18/05/2021
+12;Slet Lhadj;;23;M;Ain Maabed;brucellose;18/05/2021
+13;Raguea Oumbarka;;55;F;HBB;brucellose;18/05/2021
+14;Zahout Taib;;39;M;Hassi Eleuch;brucellose;19/05/2021
+15;Thlaidji Yahia;;45;M;Hassi Eleuch;brucellose;19/05/2021
+16;Difallah Mohamed;;51;M;HBB;brucellose;19/05/2021
+17;Zahout Ahmed;;30;M;Hassi Eleuch;brucellose;19/05/2021
+18;BenAssloun Azeddine;;28;M;HBB;brucellose;19/05/2021
+19;Aissaoui Khadir;;37;M;HBB;brucellose;19/05/2021
+20;Guassmi Iman;;12;M;Zafraan;brucellose;19/05/2021
+21;Allaoua Nacira;;29;F;Sidi Baizid;brucellose;23/05/2021
+22;Benchaoui Aissa;;24;M;HBB;brucellose;23/05/2021
+23;Amari Assma;;28;F;HBB;brucellose;23/05/2021
+24;Djha Omaar;;9;M;hbb;brucellose;23/05/2021
+25;Aissaoui Mohamed;;40;M;Hassi Eleuch;brucellose;23/05/2021
+26;Allaoua Fraiha;;31;F;Dar Chioukh;brucellose;24/05/2021
+27;Guacem Abdellah;;48;M;Sidi Baizid;brucellose;24/05/2021
+28;Bouellam Amar Mokhtar;;13;M;Dar Chioukh;brucellose;24/05/2021
+29;Maiza Djouma;;74;M;Dar Chioukh;brucellose;24/05/2021
+30;Rabouh Abdelbaset;;13;M;Sidi Baizid;brucellose;24/05/2021
+31;Daifi Noura;;16;F;Dar Chioukh;brucellose;24/05/2021
+32;Benomrani Meftah;;27;M;Dar Chioukh;brucellose;24/05/2021
+33;Kadri Meftah;;48;M;Sidi Baizid;brucellose;24/05/2021
+34;Bouellam Khaoula;;14;F;Dar Chioukh;brucellose;24/05/2021
+1;Maghrbi Ameur;;41;M;HBB;brucellose;24/05/2021
+2;Salhi Ahmed;;56;M;Zafraan;brucellose;24/05/2021
+3;Ben Chioukh Abderahman;;24;M;Sidi Baizid;brucellose;24/05/2021
+4;Abdellaoui Attia;;43;M;Zafraan;brucellose;24/05/2021
+5;Kraioui Mohamed;;30;M;Hassi Eleuch;brucellose;24/05/2021
+6;Traihioua BenAlia;;33;M;Sidi Baizid;brucellose;24/05/2021
+7;Ben Chaoui Abdelkader;;30;M;HBB;brucellose;25/05/2021
+8;Taleb Lkass;;17;M;HBB;brucellose;25/05/2021
+9;Noureddine Zineb;;38;F;Sidi Baizid;brucellose;25/05/2021
+10;Abderrahim Ben Ali;;31;M;HBB;brucellose;26/05/2021
+11;Allaoua Lhadj;;22;M;Sidi Baizid;brucellose;26/05/2021
+12;Miloudi Taib;;31;M;Dar Chioukh;brucellose;26/05/2021
+13;Lkhad Mohamed;;90;M;Dar Chioukh;brucellose;26/05/2021
+14;Chaikhaoui Khaira;;19;F;HBB;brucellose;27/05/2021
+15;Chettouh Mohamed;;30;M;HBB;brucellose;27/05/2021
+16;Reziegue Ammar;;15;M;HBB;brucellose;30/05/2021
+17;Bouabdeli Saadia;;60;F;Hassi Eleuch;brucellose;30/05/2021
+18;Bensedda Amri;;26;M;Mliliha;brucellose;31/05/2021
+19;Zahout Boubaker;;27;M;Hassi Eleuch;brucellose;31/05/2021
+20;Boukhari Mostafa;;36;M;Sidi Baizid;brucellose;31/05/2021
+21;Khelifa Djaloul;;35;M;HBB;brucellose;31/05/2021
+22;Ismail Rahma;;55;F;Mouileh;brucellose;31/05/2021
+23;Nouerddine Fatna;;50;F;Dar Chioukh;brucellose;31/05/2021
+24;Bouellam Omelkhir;;49;F;Dar Chioukh;brucellose;31/05/2021
+25;Alla Nadir;;77;M;Dar Chioukh;brucellose;31/05/2021
+26;Rfiss Boulerbah;;4;M;Mouileh;brucellose;31/05/2021
+27;Rfiss Yamina;;17;F;Mouileh;brucellose;31/05/2021
+28;Kraioua Wafa;;12;F;Sidi Baizid;brucellose;31/05/2021
+29;Mzara Fatna;;39;F;Sidi Baizid;brucellose;31/05/2021
+30;Yazzir Mohamed;;28;M;Dar Chioukh;brucellose;31/05/2021
+31;Rfiss Aissa;;26;M;Mouileh;brucellose;31/05/2021
+31;Zerguine Bouchra;;6;F;HBB;Hépatite A;31/05/2021
+1;Ben Salem Iman;;21;F;HBB;brucellose;27/04/2021
+2;Zenati Ameur;;23;M;HBB;brucellose;27/04/2021
+3;Assali Massaoud;;11;M;Ain Maabed;brucellose;27/04/2021
+4;Ben Aissa Massouda;;36;F;HBB;brucellose;28/04/2021
+5;Chermat Ben Saad;;39;M;HBB;brucellose;28/04/2021
+6;Kellal Thameur;;21;M;HBB;brucellose;28/04/2021
+7;Guassmi Messaoud;;26;M;HBB;brucellose;28/04/2021
+8;Chettouh Ismail;;31;M;HBB;brucellose;28/04/2021
+9;Chaibout Miloud;;33;M;HBB;brucellose;29/04/2021
+10;Benariffa Nouara;;28;F;Dar Chioukh;brucellose;02/05/2021
+11;Hammi Elheddi;;17;M;HBB;brucellose;03/05/2021
+12;Salhi Miloud;;60;M;HBB;brucellose;03/05/2021
+13;Chaib Zohra;;28;F;HBB;brucellose;03/05/2021
+14;Kourchi Youcef;;15;M;HBB;brucellose;03/05/2021
+15;Guessmi Mohamed;;35;M;HBB;brucellose;04/05/2021
+16;Teffah Benalia;;56;M;HBB;brucellose;05/05/2021
+17;Chabaan Ahmed;;59;M;HBB;brucellose;05/05/2021
+18;Ben Chioukh Brahim;;37;M;Sidi Baizid;brucellose;05/05/2021
+19;Zenatti Aymen;;19;M;HBB;brucellose;09/05/2021
+20;Laboukh Abdelkader;;8;M;HBB;brucellose;09/05/2021
+21;Khoubizi Mokhtar;;24;M;HBB;brucellose;10/05/2021
+22;Farha Baizid;;34;M;HBB;brucellose;10/05/2021
+23;Kourchi Abdelkader;;58;M;HBB;brucellose;11/05/2021
+24;Kassem Karima;;23;F;Sidi Baizid;brucellose;11/05/2021
+25;Rebouh Tahar;;9;M;Sidi Baizid;brucellose;11/05/2021
+26;Salmani Ismail;;15;M;Dar Chioukh;brucellose;11/05/2021
+27;Kraioual Bouchra;;5;F;Sidi Baizid;brucellose;11/05/2021
+28;Bouchiba Embarka;;35;F;Sidi Baizid;brucellose;11/05/2021
+29;Ben Aissa Rabeh;;22;M;Sidi Baizid;brucellose;11/05/2021
+30;Faidjal Khaled;;24;M;Dar Chioukh;brucellose;11/05/2021
+31;Lakid Amel;;24;F;Dar Chioukh;brucellose;11/05/2021
+32;Kassem Nadji;;32;M;Dar Chioukh;brucellose;11/05/2021
+33;Krouss Nacira;;42;F;Dar Chioukh;brucellose;11/05/2021
+34;Lamlouma Messaouda;;60;F;Dar Chioukh;brucellose;11/05/2021
+35;Zenatti Aicha;;48;F;Dar Chioukh;brucellose;11/05/2021
+36;Salmani Hossam;;7;M;Dar Chioukh;brucellose;11/05/2021
+37;Djioukh Faiza;;12;F;Sidi Baizid;brucellose;11/05/2021
+38;Arrak Ahmed;;29;M;Dar Chioukh;brucellose;11/05/2021
+39;Chaouli Mourad;;12;M;Mouileh;brucellose;11/05/2021
+40;Bouelam Djamila;;40;F;Dar Chioukh;brucellose;11/05/2021
+41;Gougue Hamza;;31;M;HBB;brucellose;11/05/2021
+42;Benaissa Ahmed;;29;M;Sidi Baizid;brucellose;11/05/2021
+43;Okazi Attia;;48;M;Hassi Eleuch;brucellose;11/05/2021
+44;Djarou Djoudi;;51;M;HBB;brucellose;11/05/2021
+45;Agoune Aissa;;60;M;HBB;L,C;17/05/2021
+46;Haouari Miloud;;63;M;Dar Chioukh;brucellose;18/05/2021
+47;Lhani Abdelbaki;;58;M;Sidi Baizid;brucellose;18/05/2021
+48;Selmani Bessma;;11;F;Dar Chioukh;brucellose;18/05/2021
+49;Boulatbaague Sliman;;5;M;Sidi Baizid;brucellose;18/05/2021
+50;Zerouk Attia;;39;M;Dar Chioukh;brucellose;18/05/2021
+51;Kraioua Lhadj;;11;M;Sidi Baizid;brucellose;18/05/2021
+52;Kraioua Saida;;11;F;Sidi Baizid;brucellose;18/05/2021
+53;Refiss Omelkhir;;21;F;Mliliha;brucellose;18/05/2021
+54;Toumatia Aicha;;48;F;Sidi Baizid;brucellose;18/05/2021
+55;Bouamara Fatma;;26;F;HBB;brucellose;18/05/2021
+56;Slet Bachir;;60;M;Ain Maabed;brucellose;18/05/2021
+57;Slet Lhadj;;23;M;Ain Maabed;brucellose;18/05/2021
+58;Raguea Oumbarka;;55;F;HBB;brucellose;18/05/2021
+59;Zahout Taib;;39;M;Hassi Eleuch;brucellose;19/05/2021
+60;Thlaidji Yahia;;45;M;Hassi Eleuch;brucellose;19/05/2021
+61;Difallah Mohamed;;51;M;HBB;brucellose;19/05/2021
+62;Zahout Ahmed;;30;M;Hassi Eleuch;brucellose;19/05/2021
+63;BenAssloun Azeddine;;28;M;HBB;brucellose;19/05/2021
+64;Aissaoui Khadir;;37;M;HBB;brucellose;19/05/2021
+65;Guassmi Iman;;12;F;Zafraan;brucellose;19/05/2021
+66;Allaoua Nacira;;29;F;Sidi Baizid;brucellose;23/05/2021
+67;Benchaoui Aissa;;24;M;HBB;brucellose;23/05/2021
+68;Amari Assma;;28;F;HBB;brucellose;23/05/2021
+69;Djha Omaar;;9;M;hbb;brucellose;23/05/2021
+70;Aissaoui Mohamed;;40;M;Hassi Eleuch;brucellose;23/05/2021
+71;Allaoua Fraiha;;31;F;Dar Chioukh;brucellose;24/05/2021
+72;Guacem Abdellah;;48;M;Sidi Baizid;brucellose;24/05/2021
+73;Bouellam Amar Mokhtar;;13;M;Dar Chioukh;brucellose;24/05/2021
+74;Maiza Djouma;;74;M;Dar Chioukh;brucellose;24/05/2021
+75;Rabouh Abdelbaset;;13;M;Sidi Baizid;brucellose;24/05/2021
+76;Daifi Noura;;16;F;Dar Chioukh;brucellose;24/05/2021
+77;Benomrani Meftah;;27;M;Dar Chioukh;brucellose;24/05/2021
+78;Kadri Meftah;;48;M;Sidi Baizid;brucellose;24/05/2021
+79;Bouellam Khaoula;;14;F;Dar Chioukh;brucellose;24/05/2021
+80;Maghrbi Ameur;;41;M;HBB;brucellose;24/05/2021
+81;Salhi Ahmed;;56;M;Zafraan;brucellose;24/05/2021
+82;Ben Chioukh Abderahman;;24;M;Sidi Baizid;brucellose;24/05/2021
+83;Abdellaoui Attia;;43;M;Zafraan;brucellose;24/05/2021
+84;Kraioui Mohamed;;30;M;Hassi Eleuch;brucellose;24/05/2021
+85;Traihioua BenAlia;;33;M;Sidi Baizid;brucellose;24/05/2021
+86;Ben Chaoui Abdelkader;;30;M;HBB;brucellose;25/05/2021
+87;Taleb Lkass;;17;M;HBB;brucellose;25/05/2021
+88;Noureddine Zineb;;38;F;Sidi Baizid;brucellose;25/05/2021
+89;Abderrahim Ben Ali;;31;M;HBB;brucellose;26/05/2021
+90;Allaoua Lhadj;;22;M;Sidi Baizid;brucellose;26/05/2021
+91;Miloudi Taib;;31;M;Dar Chioukh;brucellose;26/05/2021
+92;Lkhad Mohamed;;90;M;Dar Chioukh;brucellose;26/05/2021
+93;Chaikhaoui Khaira;;19;F;HBB;brucellose;27/05/2021
+94;Chettouh Mohamed;;30;M;HBB;brucellose;27/05/2021
+95;Reziegue Ammar;;15;M;HBB;brucellose;30/05/2021
+96;Bouabdeli Saadia;;60;F;Hassi Eleuch;brucellose;30/05/2021
+97;Bensedda Amri;;26;M;Mliliha;brucellose;31/05/2021
+98;Zahout Boubaker;;27;M;Hassi Eleuch;brucellose;31/05/2021
+99;Boukhari Mostafa;;36;M;Sidi Baizid;brucellose;31/05/2021
+100;Khelifa Djaloul;;35;M;HBB;brucellose;31/05/2021
+101;Ismail Rahma;;55;F;Mouileh;brucellose;31/05/2021
+102;Nouerddine Fatna;;50;F;Dar Chioukh;brucellose;31/05/2021
+103;Bouellam Omelkhir;;49;F;Dar Chioukh;brucellose;31/05/2021
+104;Alla Nadir;;77;M;Dar Chioukh;brucellose;31/05/2021
+105;Rfiss Boulerbah;;4;M;Mouileh;brucellose;31/05/2021
+106;Rfiss Yamina;;17;F;Mouileh;brucellose;31/05/2021
+107;Kraioua Wafa;;12;F;Sidi Baizid;brucellose;31/05/2021
+108;Mzara Fatna;;39;F;Sidi Baizid;brucellose;31/05/2021
+109;Yazzir Mohamed;;28;M;Dar Chioukh;brucellose;31/05/2021
+110;Rfiss Aissa;;26;M;Mouileh;brucellose;31/05/2021
+111;Zerguine Bouchra;;6;F;HBB;Hépatite A;31/05/2021
+112;Akkar Said;;28;M;HBB;T.E.P;31/05/2021
+113;Sailaa Fatiha;;19;F;Dar Chioukh;T.E.P;31/05/2021
+114;Boukhatem Oumsaad;;89;F;Dar Chioukh;T.E.P;31/05/2021
+115;Lobzi Mohamed;;66;M;Dar Chioukh;T.E.P;31/05/2021
+116;Maameri Aouda;;40;F;Dar Chioukh;T.E.P;31/05/2021
+117;Mouafki Salma;;16;F;Sidi Baizid;T.P;31/05/2021
+1;Lagouni Mohamed;;43;M;Zafraan;brucellose;01/06/2021
+2;Guismi Ishak;;25;M;HBB;brucellose;02/06/2021
+3;Selman Mohamed;;16;M;HBB;brucellose;02/06/2021
+4;Hmama Lakhder;;44;M;Dar Chioukh;brucellose;02/06/2021
+5;Ben Seada Doukman;;40;M;Mliliha;brucellose;02/06/2021
+6;Amour Khalil Ahmed;;19;M;Mliliha;brucellose;02/06/2021
+7;Atllaoui Zohra;;67;F;Dar Chioukh;brucellose;02/06/2021
+8;Madani Ahmed;;19;M;Dar Chioukh;brucellose;02/06/2021
+9;Amirat Massouda;;50;F;Mliliha;brucellose;02/06/2021
+10;Thouamria Mohamed;;50;M;Dar Chioukh;brucellose;02/06/2021
+11;Kerch Khelifa;;62;M;Mliliha;brucellose;02/06/2021
+12;Amirat Chaouki;;17;M;Mliliha;brucellose;02/06/2021
+13;Youcefi Tahar;;12;M;Dar Chioukh;brucellose;02/06/2021
+14;Khouiel Mohamed;;27;M;Dar Chioukh;brucellose;02/06/2021
+15;Rebih Hanan;;25;F;Hassi Eleuch;brucellose;06/06/2021
+16;Ben Elbar Souad;;18;F;Sidi Baizid;brucellose;06/06/2021
+17;Djarou Massoud;;24;M;HBB;brucellose;06/06/2021
+18;Benazzouz Saad;;37;M;Hassi Eleuch;brucellose;06/06/2021
+19;Kraioua Abdelkader;;29;M;HBB;brucellose;06/06/2021
+20;Zahout Cherif;;17;M;Hassi Eleuch;brucellose;06/06/2021
+21;Djarou Aicha;;54;F;HBB;brucellose;07/06/2021
+22;Ben Aia Yasin;;23;M;HBB;brucellose;07/06/2021
+23;Seligh BenHamza;;68;M;Mliliha;brucellose;07/06/2021
+24;Ben Aissa Ameur;;30;M;Sidi Baizid;brucellose;07/06/2021
+25;Ben Elbar Amar;;31;M;Sidi Baizid;brucellose;07/06/2021
+26;Ben Chaoui Ahmed;;58;M;HBB;brucellose;07/06/2021
+27;Bem Mostafa Kouider;;50;M;Sidi Baizid;brucellose;07/06/2021
+28;Zahout Ali;;23;M;Hassi Eleuch;brucellose;08/06/2021
+29;Haouari Mokhtar;;15;M;Dar Chioukh;brucellose;08/06/2021
+1;Maghrbi Khaled;;19;M;Dar Chioukh;brucellose;09/06/2021
+2;Bouelam Djamila;;9;F;Dar Chioukh;brucellose;09/06/2021
+3;Sailet Rabeh;;35;M;HBB;brucellose;09/06/2021
+4;Fatima Elaid;;25;M;HBB;brucellose;10/06/2021
+5;Mezzara Mostafa;;28;M;Hassi Eleuch;brucellose;10/06/2021
+6;Kraioua Ahmed;;5;M;Sidi Baizid;brucellose;10/06/2021
+7;Younsi Messaouda;;60;F;Mliliha;brucellose;10/06/2021
+8;Zerouk Adel;;13;M;Mliliha;brucellose;10/06/2021
+9;Guacem Haiziya;;13;F;HBB;brucellose;13/06/2021
+10;Guacem Mohamed;;6;M;HBB;brucellose;13/06/2021
+11;Sadki Tahar;;29;M;Sidi Baizid;brucellose;13/06/2021
+12;Selikh Hadjer;;4;F;Mliliha;brucellose;13/06/2021
+13;Merizka Hadda;;48;F;HBB;brucellose;13/06/2021
+14;Bouzerkouta Karima;;20;F;Ain Maabed;brucellose;14/06/2021
+15;Meddouh Fatna;;24;F;Mliliha;brucellose;14/06/2021
+16;Aissaoui Mahfoud;;6;M;HBB;brucellose;14/06/2021
+17;Ladjelat Belkhir;;66;M;Ain Maabed;brucellose;14/06/2021
+18;Faar Rabiaa;;36;F;Mouileh;brucellose;14/06/2021
+19;Tammar Youcef;;22;M;HBB;brucellose;15/06/2021
+20;Akkar Tahar;;59;M;HBB;brucellose;15/06/2021
+21;Boufateh Abdelkader;;18;M;HBB;brucellose;15/06/2021
+1;Chaibout Cheikh;;58;M;HBB;brucellose;16/06/2021
+2;Djoumai Abdelkarim;;47;M;HBB;brucellose;16/06/2021
+3;Ben Amar Rafik;;3;M;Ain Maabed;brucellose;17/06/2021
+4;Salet Mohamed;;25;M;Ain Maabed;brucellose;17/06/2021
+5;ben aissa  assia ;;20;F;hbb;brucellose;20/06/2021
+6;dabab  kholod ;;13;F;hassi eleuch;brucellose;20/06/2021
+7;gayach  maamer ;;14;M;dar chiokh;brucellose;20/06/2021
+8;oukazi  saadi ;;32;M;zaafrane;brucellose;20/06/2021
+9;charifi  aissa ;;23;M;Dar Chioukh;brucellose;21/06/2021
+10;gassmi dahmene ;;19;M;Dar Chioukh;brucellose;21/06/2021
+11;bahnas aissa ;;35;M;hbb;brucellose;21/06/2021
+12;ben motefa  abdelbasset ;;24;F;Dar Chioukh;brucellose;21/06/2021
+13;thaoumria mokhtar;;4;M;Dar Chioukh;brucellose;21/06/2021
+14;gassmi elhdi  ;;43;M;Dar Chioukh;brucellose;22/06/2021
+15;rezigue ikram ;;8;F;hassi eleuch;brucellose;22/06/2021
+16;chaoui bachir ;;54;M;hbb;brucellose;22/06/2021
+1;Belghith Abdelkader;;72;M;Zafraan;brucellose;23/06/2021
+2;Arraba Amar;;42;M;Ain Maabed;brucellose;23/06/2021
+3;Saddeki Tourkya;;27;F;Sidi Baizid;brucellose;24/06/2021
+4;Nouguab Ahmed;;13;M;Dar Chioukh;brucellose;24/06/2021
+5;Seligh Amra;;24;F;Mliliha;brucellose;24/06/2021
+6;Gassem Haiziya;;13;F;HBB;brucellose;27/06/2021
+7;Meguabe Ibrahim;;26;M;Dar Chioukh;brucellose;27/06/2021
+8;Saffi Rahmoune;;46;M;HBB;brucellose;27/06/2021
+9;Ben Chioukh Hourriya;;22;F;Sidi Baizid;brucellose;28/06/2021
+10;Salehi Abdelkader;;51;M;HBB;brucellose;28/06/2021
+11;Ledjal Yamina;;77;F;Dar Chioukh;brucellose;29/06/2021
+12;Bouker Adel;;36;M;HBB;brucellose;29/06/2021
+13;Djmouai Iman;;13;F;HBB;brucellose;29/06/2021
+14;Dandani Nessrine;;7;F;Ain Maabed;brucellose;29/06/2021
+15;Benmostafa Djamel;;7;M;Dar Chioukh;brucellose;29/06/2021
+16;Kired  abderazak ;;20;M;zaafrane;brucellose;29/06/2021
+17;Tefah ahmed ;;40;M;HBB;brucellose;29/06/2021
+1;Lagouni Mohamed;;43;M;Zafraan;brucellose;01/06/2021
+2;Guismi Ishak;;25;M;HBB;brucellose;02/06/2021
+3;Selman Mohamed;;16;M;HBB;brucellose;02/06/2021
+4;Hmama Lakhder;;44;M;Dar Chioukh;brucellose;02/06/2021
+5;Ben Seada Doukman;;40;M;Mliliha;brucellose;02/06/2021
+6;Amour Khalil Ahmed;;19;M;Mliliha;brucellose;02/06/2021
+7;Atllaoui Zohra;;67;F;Dar Chioukh;brucellose;02/06/2021
+8;Madani Ahmed;;19;M;Dar Chioukh;brucellose;02/06/2021
+9;Amirat Massouda;;50;F;Mliliha;brucellose;02/06/2021
+10;Thouamria Mohamed;;50;M;Dar Chioukh;brucellose;02/06/2021
+11;Kerch Khelifa;;62;M;Mliliha;brucellose;02/06/2021
+12;Amirat Chaouki;;17;M;Mliliha;brucellose;02/06/2021
+13;Youcefi Tahar;;12;M;Dar Chioukh;brucellose;02/06/2021
+14;Khouiel Mohamed;;27;M;Dar Chioukh;brucellose;02/06/2021
+15;Rebih Hanan;;25;F;Hassi Eleuch;brucellose;06/06/2021
+16;Ben Elbar Souad;;18;F;Sidi Baizid;brucellose;06/06/2021
+17;Djarou Massoud;;24;M;HBB;brucellose;06/06/2021
+18;Benazzouz Saad;;37;M;Hassi Eleuch;brucellose;06/06/2021
+19;Kraioua Abdelkader;;29;M;HBB;brucellose;06/06/2021
+20;Zahout Cherif;;17;M;Hassi Eleuch;brucellose;06/06/2021
+21;Djarou Aicha;;54;F;HBB;brucellose;07/06/2021
+22;Ben Aia Yasin;;23;M;HBB;brucellose;07/06/2021
+23;Seligh BenHamza;;68;M;Mliliha;brucellose;07/06/2021
+24;Ben Aissa Ameur;;30;M;Sidi Baizid;brucellose;07/06/2021
+25;Ben Elbar Amar;;31;M;Sidi Baizid;brucellose;07/06/2021
+26;Ben Chaoui Ahmed;;58;M;HBB;brucellose;07/06/2021
+27;Bem Mostafa Kouider;;50;M;Sidi Baizid;brucellose;07/06/2021
+28;Zahout Ali;;23;M;Hassi Eleuch;brucellose;08/06/2021
+29;Haouari Mokhtar;;15;M;Dar Chioukh;brucellose;08/06/2021
+30;Maghrbi Khaled;;19;M;Dar Chioukh;brucellose;09/06/2021
+31;Bouelam Djamila;;9;F;Dar Chioukh;brucellose;09/06/2021
+32;Sailet Rabeh;;35;M;HBB;brucellose;09/06/2021
+33;Fatima Elaid;;25;M;HBB;brucellose;10/06/2021
+34;Mezzara Mostafa;;28;M;Hassi Eleuch;brucellose;10/06/2021
+35;Kraioua Ahmed;;5;M;Sidi Baizid;brucellose;10/06/2021
+36;Younsi Messaouda;;60;F;Mliliha;brucellose;10/06/2021
+37;Zerouk Adel;;13;M;Mliliha;brucellose;10/06/2021
+38;Guacem Haiziya;;13;F;HBB;brucellose;13/06/2021
+39;Guacem Mohamed;;6;M;HBB;brucellose;13/06/2021
+40;Sadki Tahar;;29;M;Sidi Baizid;brucellose;13/06/2021
+41;Selikh Hadjer;;4;F;Mliliha;brucellose;13/06/2021
+42;Merizka Hadda;;48;F;HBB;brucellose;13/06/2021
+43;Bouzerkouta Karima;;20;F;Ain Maabed;brucellose;14/06/2021
+44;Meddouh Fatna;;24;F;Mliliha;brucellose;14/06/2021
+45;Aissaoui Mahfoud;;6;M;HBB;brucellose;14/06/2021
+46;Ladjelat Belkhir;;66;M;Ain Maabed;brucellose;14/06/2021
+47;Faar Rabiaa;;36;F;Mouileh;brucellose;14/06/2021
+48;Tammar Youcef;;22;M;HBB;brucellose;15/06/2021
+49;Akkar Tahar;;59;M;HBB;brucellose;15/06/2021
+50;Boufateh Abdelkader;;18;M;HBB;brucellose;15/06/2021
+51;Chaibout Cheikh;;58;M;HBB;brucellose;16/06/2021
+52;Djoumai Abdelkarim;;47;M;HBB;brucellose;16/06/2021
+53;Ben Amar Rafik;;3;M;Ain Maabed;brucellose;17/06/2021
+54;Salet Mohamed;;25;M;Ain Maabed;brucellose;17/06/2021
+55;ben aissa  assia ;;20;F;HBB;brucellose;20/06/2021
+56;dabab  kholod ;;13;F;hassi eleuch;brucellose;20/06/2021
+57;gayach  maamer ;;14;M;dar chiokh;brucellose;20/06/2021
+58;oukazi  saadi ;;32;M;zaafrane;brucellose;20/06/2021
+59;charifi  aissa ;;23;M;Dar Chioukh;brucellose;21/06/2021
+60;gassmi dahmene ;;19;M;Dar Chioukh;brucellose;21/06/2021
+61;bahnas aissa ;;35;M;HBB;brucellose;21/06/2021
+62;ben motefa  abdelbasset ;;24;F;Dar Chioukh;brucellose;21/06/2021
+63;thaoumria mokhtar;;4;M;Dar Chioukh;brucellose;21/06/2021
+64;gassmi elhdi  ;;43;M;Dar Chioukh;brucellose;22/06/2021
+65;rezigue ikram ;;8;F;hassi eleuch;brucellose;22/06/2021
+66;chaoui bachir ;;54;M;HBB;brucellose;22/06/2021
+67;Belghith Abdelkader;;72;M;Zafraan;brucellose;23/06/2021
+68;Arraba Amar;;42;M;Ain Maabed;brucellose;23/06/2021
+69;Saddeki Tourkya;;27;F;Sidi Baizid;brucellose;24/06/2021
+70;Nouguab Ahmed;;13;M;Dar Chioukh;brucellose;24/06/2021
+71;Seligh Amra;;24;F;Mliliha;brucellose;24/06/2021
+72;Gassem Haiziya;;13;F;HBB;brucellose;27/06/2021
+73;Meguabe Ibrahim;;26;M;Dar Chioukh;brucellose;27/06/2021
+74;Saffi Rahmoune;;46;M;HBB;brucellose;27/06/2021
+75;Ben Chioukh Hourriya;;22;F;Sidi Baizid;brucellose;28/06/2021
+76;Salehi Abdelkader;;51;M;HBB;brucellose;28/06/2021
+77;Ledjal Yamina;;77;F;Dar Chioukh;brucellose;29/06/2021
+78;Bouker Adel;;36;M;HBB;brucellose;29/06/2021
+79;Djmouai Iman;;13;F;HBB;brucellose;29/06/2021
+80;Dandani Nessrine;;7;F;Ain Maabed;brucellose;29/06/2021
+81;Benmostafa Djamel;;7;M;Dar Chioukh;brucellose;29/06/2021
+82;Kired  abderazak ;;20;M;zaafrane;brucellose;29/06/2021
+83;Tefah ahmed ;;40;M;HBB;brucellose;29/06/2021
+1;Ben Alia Rekaya;;62;F;HBB;brucellose;30/06/2021
+2;Ben Hamza Abdelkader;;66;M;Ain Maabed;brucellose;30/06/2021
+3;Bouelaam Ahmed;;31;M;Dar Chioukh;brucellose;30/06/2021
+4;Saihi Bahriya;;13;F;Dar Chioukh;brucellose;30/06/2021
+5;Saihi Said;;7;M;Dar Chioukh;brucellose;30/06/2021
+6;Brahimi Iman;;5;F;Dar Chioukh;brucellose;30/06/2021
+7;Messitfa Attia;;46;M;Dar Chioukh;brucellose;30/06/2021
+8;Rabouh Zohra;;88;F;Dar Chioukh;brucellose;30/06/2021
+9;Benkadour Abdelhak;;37;M;Sid Baizid;brucellose;01/07/2021
+10;Rabiei Messouda;;29;F;Sid Baizid;brucellose;01/07/2021
+11;Saihi Arwa;;9;F;Dar Chioukh;brucellose;01/07/2021
+12;Loussakh Naas;;27;M;Hassi Eleuch;brucellose;01/07/2021
+13;Teffah Ben Alia;;53;M;HBB;brucellose;01/07/2021
+14;Bader Fatna;;38;F;Zafraan;brucellose;01/07/2021
+15;Dardour Mohamed;;23;M;HBB;brucellose;01/07/2021
+16;Thouameria Belkacem;;7;M;Dar Chioukh;brucellose;06/07/2021
+17;Ben Elbar Meustafa;;25;M;Sidi Baizid;brucellose;06/07/2021
+18;Hemiani Ahmed;;24;M;HBB;brucellose;06/07/2021
+19;Yazir  said;;21;M;HBB;brucellose;06/07/2021
+1;Ziane Mohamed Lamine;;55;M;Ain Maabed;brucellose;06/07/2021
+2;Ben Salem Mokhtar;;23;M;HBB;brucellose;06/07/2021
+3;Karouch Chaima;;14;F;Dar Chioukh;brucellose;07/07/2021
+4;Hafifa Ahmed;;48;M;Dar Chioukh;brucellose;07/07/2021
+5;Nadjia Guatouach;;42;M;Dar Chioukh;brucellose;07/07/2021
+6;Raguaa Tahar;;25;M;HBB;brucellose;07/07/2021
+7;Guassmi Ali;;26;M;Dar Chioukh;brucellose;07/07/2021
+8;Nemir Lakhdar;;29;M;Ain Maabed;brucellose;07/07/2021
+9;Rabouh Saleh;;36;M;Sid Baizid;brucellose;07/07/2021
+10;Zahia Khaira;;32;F;Dar Chioukh;brucellose;08/07/2021
+11;Bousebaa Lakhdar;;70;M;Zafraan;brucellose;11/07/2021
+12;Benmostafa Oussama Larbi;;5;M;Dar Chioukh;brucellose;11/07/2021
+13;Ziane Saad;;55;M;Ain Maabed;brucellose;11/07/2021
+14;Daoudach Messouda;;39;F;HBB;brucellose;11/07/2021
+15;Rezigue Mohamed;;26;M;HBB;L,C;12/07/2021
+16;Saoud Mohamed;;57;M;Ain Maabed;brucellose;12/07/2021
+17;Farha Mokhtar;;39;M;HBB;brucellose;12/07/2021
+18;Naoui Mohamed;;13;M;HBB;brucellose;12/07/2021
+19;Nemir Meriem;;19;F;Ain Maabed;brucellose;12/07/2021
+20;Chaoui Wahiba;;20;F;HBB;brucellose;12/07/2021
+21;Farha Nacira;;42;M;HBB;brucellose;13/07/2021
+22;Saadi Walid;;9;M;Dar Chioukh;brucellose;13/07/2021
+23;Dibe Messouda;;16;F;Dar Chioukh;brucellose;13/07/2021
+24;Laguraa Tahar;;10;M;Dar Chioukh;brucellose;13/07/2021
+1;Toumatia Noureddine;;15;M;Hassi Eleuch;brucellose;14/07/2021
+2;Ben Slime Araar;;34;M;Dar Chioukh;brucellose;14/07/2021
+3;Khadir Mostapha;;17;M;Dar Chioukh;brucellose;14/07/2021
+4;Ben Mostapha Mokhtar;;21;M;Dar Chioukh;brucellose;14/07/2021
+5;Djenidi Amar;;24;M;Dar Chioukh;brucellose;15/07/2021
+6;Messitfa Aouda;;18;F;Dar Chioukh;brucellose;15/07/2021
+7;Belbaar Ahmed;;55;M;Sidi Baizid;brucellose;15/07/2021
+8;Khadir Souad;;16;F;Mliliha;brucellose;15/07/2021
+9;Saoud Rebiha;;40;F;Zafraan;brucellose;15/07/2021
+10;Yazir Bensnoussi;;8;M;Dar Chioukh;brucellose;15/07/2021
+11;Kaiache Roukaya;;40;F;Dar Chioukh;brucellose;18/07/2021
+12;Saadi Adel;;22;M;Dar Chioukh;brucellose;18/07/2021
+13;Sbaa Ali;;60;M;Dar Chioukh;brucellose;18/07/2021
+14;Sailet Said;;60;M;Ain Maabed;brucellose;18/07/2021
+1;Sabah Benalia;;46;M;Dar Chioukh;brucellose;22/07/2021
+2;Chouiha Ameur;;30;M;HBB;brucellose;25/07/2021
+3;Laboukh Boulanouar;;60;M;HBB;brucellose;25/07/2021
+4;Kriouel Roueya Ahlam;;5;F;Dar Chioukh;brucellose;26/07/2021
+5;Khadir Ameur;;36;M;HBB;brucellose;26/07/2021
+6;Guemman Belkacem;;50;M;Dar Chioukh;brucellose;26/07/2021
+7;Bouchenafa Ali;;65;M;HBB;brucellose;26/07/2021
+8;Sahara Fatna;;66;F;HBB;brucellose;27/07/2021
+9;Ben Assloune Aicha;;50;F;Ain Maabed;brucellose;27/07/2021
+10;Ben Aissa Ahmed;;48;M;HBB;brucellose;27/07/2021
+11;Charchari Boukhari;;14;M;Sidi Baizid;brucellose;27/07/2021
+12;Hani Aissa;;41;M;Sidi Baizid;brucellose;27/07/2021
+13;Outhmani Djedala;;40;F;Dar Chioukh;brucellose;27/07/2021
+1;Ben Alia Rekaya;;62;F;HBB;brucellose;30/06/2021
+2;Ben Hamza Abdelkader;;66;M;Ain Maabed;brucellose;30/06/2021
+3;Bouelaam Ahmed;;31;M;Dar Chioukh;brucellose;30/06/2021
+4;Saihi Bahriya;;13;F;Dar Chioukh;brucellose;30/06/2021
+5;Saihi Said;;7;M;Dar Chioukh;brucellose;30/06/2021
+6;Brahimi Iman;;5;F;Dar Chioukh;brucellose;30/06/2021
+7;Messitfa Attia;;46;M;Dar Chioukh;brucellose;30/06/2021
+8;Rabouh Zohra;;88;F;Dar Chioukh;brucellose;30/06/2021
+9;Benkadour Abdelhak;;37;M;Sid Baizid;brucellose;01/07/2021
+10;Rabiei Messouda;;29;F;Sid Baizid;brucellose;01/07/2021
+11;Saihi Arwa;;9;F;Dar Chioukh;brucellose;01/07/2021
+12;Loussakh Naas;;27;M;Hassi Eleuch;brucellose;01/07/2021
+13;Teffah Ben Alia;;53;M;HBB;brucellose;01/07/2021
+14;Bader Fatna;;38;F;Zafraan;brucellose;01/07/2021
+15;Dardour Mohamed;;23;M;HBB;brucellose;01/07/2021
+16;Thouameria Belkacem;;7;M;Dar Chioukh;brucellose;06/07/2021
+17;Ben Elbar Meustafa;;25;M;Sidi Baizid;brucellose;06/07/2021
+18;Hemiani Ahmed;;24;M;HBB;brucellose;06/07/2021
+19;Yazir  said;;21;M;HBB;brucellose;06/07/2021
+20;Ziane Mohamed Lamine;;55;M;Ain Maabed;brucellose;06/07/2021
+21;Ben Salem Mokhtar;;23;M;HBB;brucellose;06/07/2021
+22;Karouch Chaima;;14;F;Dar Chioukh;brucellose;07/07/2021
+23;Hafifa Ahmed;;48;M;Dar Chioukh;brucellose;07/07/2021
+24;Nadjia Guatouach;;42;M;Dar Chioukh;brucellose;07/07/2021
+25;Raguaa Tahar;;25;M;HBB;brucellose;07/07/2021
+26;Guassmi Ali;;26;M;Dar Chioukh;brucellose;07/07/2021
+27;Nemir Lakhdar;;29;M;Ain Maabed;brucellose;07/07/2021
+28;Rabouh Saleh;;36;M;Sid Baizid;brucellose;07/07/2021
+29;Zahia Khaira;;32;F;Dar Chioukh;brucellose;08/07/2021
+30;Bousebaa Lakhdar;;70;M;Zafraan;brucellose;11/07/2021
+31;Benmostafa Oussama Larbi;;5;M;Dar Chioukh;brucellose;11/07/2021
+32;Ziane Saad;;55;M;Ain Maabed;brucellose;11/07/2021
+33;Daoudach Messouda;;39;F;HBB;brucellose;11/07/2021
+34;Rezigue Mohamed;;26;M;HBB;L,C;12/07/2021
+35;Saoud Mohamed;;57;M;Ain Maabed;brucellose;12/07/2021
+36;Farha Mokhtar;;39;M;HBB;brucellose;12/07/2021
+37;Naoui Mohamed;;13;M;HBB;brucellose;12/07/2021
+38;Nemir Meriem;;19;F;Ain Maabed;brucellose;12/07/2021
+39;Chaoui Wahiba;;20;F;HBB;brucellose;12/07/2021
+40;Farha Nacira;;42;M;HBB;brucellose;13/07/2021
+41;Saadi Walid;;9;M;Dar Chioukh;brucellose;13/07/2021
+42;Dibe Messouda;;16;F;Dar Chioukh;brucellose;13/07/2021
+43;Laguraa Tahar;;10;M;Dar Chioukh;brucellose;13/07/2021
+44;Toumatia Noureddine;;15;M;Hassi Eleuch;brucellose;14/07/2021
+45;Ben Slime Araar;;34;M;Dar Chioukh;brucellose;14/07/2021
+46;Khadir Mostapha;;17;M;Dar Chioukh;brucellose;14/07/2021
+47;Ben Mostapha Mokhtar;;21;M;Dar Chioukh;brucellose;14/07/2021
+48;Djenidi Amar;;24;M;Dar Chioukh;brucellose;15/07/2021
+49;Messitfa Aouda;;18;F;Dar Chioukh;brucellose;15/07/2021
+50;Belbaar Ahmed;;55;M;Sidi Baizid;brucellose;15/07/2021
+51;Khadir Souad;;16;F;Mliliha;brucellose;15/07/2021
+52;Saoud Rebiha;;40;F;Zafraan;brucellose;15/07/2021
+53;Yazir Bensnoussi;;8;M;Dar Chioukh;brucellose;15/07/2021
+54;Kaiache Roukaya;;40;F;Dar Chioukh;brucellose;18/07/2021
+55;Saadi Adel;;22;M;Dar Chioukh;brucellose;18/07/2021
+56;Sbaa Ali;;60;M;Dar Chioukh;brucellose;18/07/2021
+57;Sailet Said;;60;M;Ain Maabed;brucellose;18/07/2021
+58;Sabah Benalia;;46;M;Dar Chioukh;brucellose;22/07/2021
+59;Chouiha Ameur;;30;M;HBB;brucellose;25/07/2021
+60;Laboukh Boulanouar;;60;M;HBB;brucellose;25/07/2021
+61;Kriouel Roueya Ahlam;;5;F;Dar Chioukh;brucellose;26/07/2021
+62;Khadir Ameur;;35;M;HBB;brucellose;26/07/2021
+63;Guemman Belkacem;;50;M;Dar Chioukh;brucellose;26/07/2021
+64;Bouchenafa Ali;;65;M;HBB;brucellose;26/07/2021
+65;Sahara Fatna;;66;F;HBB;brucellose;27/07/2021
+66;Ben Assloune Aicha;;50;F;Ain Maabed;brucellose;27/07/2021
+67;Ben Aissa Ahmed;;48;M;HBB;brucellose;27/07/2021
+68;Charchari Boukhari;;14;M;Sidi Baizid;brucellose;27/07/2021
+69;Hani Aissa;;41;M;Sidi Baizid;brucellose;27/07/2021
+70;Outhmani Djedala;;40;F;Dar Chioukh;brucellose;27/07/2021
+1;Larbi Nedjma;;50;M;HBB;brucellose;28/07/2021
+2;Kourchi Amar;;73;M;HBB;brucellose;28/07/2021
+3;Hassani Meriem;;27;F;Dar Chioukh;brucellose;29/07/2021
+4;Nouara Lakhder;;31;M;Hassi Eleuch;brucellose;29/07/2021
+5;Ben Mostafa Haceni;;5;M;Dar Chioukh;brucellose;29/07/2021
+6;Mreizgue Hadda;;44;F;HBB;brucellose;01/08/2021
+7;Neguaab Lhadj;;62;M;Dar Chioukh;brucellose;01/08/2021
+8;Neguaab Belkacem;;22;M;Dar Chioukh;brucellose;01/08/2021
+9;Ben Mostafa Nariman;;12;F;Dar Chioukh;brucellose;01/08/2021
+10;Sayehi Ameur;;18;M;Sid Baizid;brucellose;01/08/2021
+11;Dardour Khadidja;;56;F;HBB;brucellose;02/08/2021
+12;Ben Ammar Rabeh;;55;M;HBB;brucellose;03/08/2021
+13;Hericha Mohamed;;28;M;Dar Chioukh;brucellose;03/08/2021
+14;Kraioua Abdelbaki;;52;M;Sidi baizid;brucellose;03/08/2021
+1;Bourass Khelifa;;11;M;HBB;brucellose;04/08/2021
+2;Magherbi Nouereddine;;38;M;HBB;brucellose;04/08/2021
+3;Noureddine Elalia;;17;F;Sid Baizid;brucellose;04/08/2021
+4;Salhi Haytham;;8;M;HBB;brucellose;05/08/2021
+5;Hemiani Lhaouass;;67;M;HBB;brucellose;08/08/2021
+6;Taibi Embarka;;56;F;Dar Chioukh;brucellose;08/08/2021
+1;Demani Said;;32;M;Dar Chioukh;brucellose;11/08/2021
+2;Chouiha Lakhder;;78;M;Ain Maabed;brucellose;11/08/2021
+3;Brahimi Abderrahman;;24;M;Dar Chioukh;brucellose;11/08/2021
+4;Zanzan Saadia;;30;F;Sidi Baizid;brucellose;11/08/2021
+5;Ziani Sabrin;;25;F;Hassi Eleuch;brucellose;12/08/2021
+6;Sayhi Chahra;;3;F;Dar Chioukh;brucellose;12/08/2021
+7;Benmostafa Bouzid;;23;M;Dar Chioukh;brucellose;12/08/2021
+8;Chouiha Fadila;;21;F;HBB;brucellose;12/08/2021
+9;Benza Mohamed;;26;M;HBB;brucellose;12/08/2021
+10;Seddiki Amar;;37;M;Dar Chioukh;brucellose;12/08/2021
+11;Amiratte Embarka;;24;F;Mliliha;brucellose;12/08/2021
+12;Zerouge Ahlam;;21;F;Mliliha;brucellose;12/08/2021
+13;Zerouge Zohra;;30;F;Mliliha;brucellose;12/08/2021
+14;Youcefi Mkhalat;;40;M;Mliliha;brucellose;12/08/2021
+15;Youcefi Bouchra;;8;F;Mliliha;brucellose;12/08/2021
+16;Chaibout Aicha;;24;F;HBB;brucellose;12/08/2021
+17;Guendouze Baizid;;49;M;HBB;brucellose;15/08/2021
+18;Hani Raaya;;8;F;Dar Chioukh;brucellose;17/08/2021
+19;Benaissa Mariya;;16;F;HBB;brucellose;17/08/2021
+20;Rezigua Amaier;;57;M;Dar Chioukh;brucellose;17/08/2021
+1;Abdellaoui Habib;;42;M;Dar Chioukh;brucellose;18/08/2021
+2;Kihoul Messoud;;29;M;Dar Chioukh;brucellose;18/08/2021
+3;Bayou Belkhir;;57;M;HBB;brucellose;18/08/2021
+4;Tehir Rahma;;52;F;Sidi Baizid;brucellose;18/08/2021
+5;Benabderrahman Said;;53;M;Sidi Baizid;brucellose;18/08/2021
+6;Allawa Bouaza;;24;F;Dar Chioukh;brucellose;22/08/2021
+7;Kourichi Omar;;75;M;HBB;brucellose;22/08/2021
+8;Chouiha Ahmed;;47;M;HBB;brucellose;22/08/2021
+9;Taibaoui Lakhder;;26;M;HBB;brucellose;22/08/2021
+10;Guendouze Oumsaoud;;52;F;HBB;brucellose;22/08/2021
+11;Haouassi Mohamed;;38;M;Dar Chioukh;brucellose;22/08/2021
+12;Allawa Abdelghani;;14;M;Dar Chioukh;brucellose;22/08/2021
+13;Telibi Kheira;;100;F;Dar Chioukh;brucellose;22/08/2021
+14;Bouchemel Dahman;;46;M;Sidi Baizid;brucellose;23/08/2021
+15;Negab Rahma;;29;F;Dar Chioukh;brucellose;23/08/2021
+16;Bouelam Khadra;;46;F;Dar Chioukh;brucellose;23/08/2021
+17;Negab Messaouda;;19;F;Dar Chioukh;brucellose;23/08/2021
+18;Taibaoui Fatima;;52;F;HBB;brucellose;23/08/2021
+19;Ben Alia Helyese;;17;M;HBB;brucellose;23/08/2021
+20;Salet Mohamed;;25;M;Ain Maabed;brucellose;24/08/2021
+1;Hamidi Ahmed;;42;M;HBB;brucellose;25/08/2021
+2;Hazerchi Iman;;28;F;HBB;brucellose;25/08/2021
+3;Bouzidi Mohamed;;29;M;HBB;brucellose;26/08/2021
+4;Oukazi Ahmed;;17;M;HBB;brucellose;29/08/2021
+5;Salhi Ismail;;6;M;HBB;brucellose;29/08/2021
+6;Meddouh Belkacem;;28;M;Mliliha;brucellose;29/08/2021
+7;Krioual Ali;;40;M;Dar Chioukh;brucellose;30/08/2021
+8;Bouzidi Zayed;;39;M;HBB;brucellose;31/08/2021
+9;Zanzan Ali;;69;M;Dar Chioukh;brucellose;31/08/2021
+10;Kelal Soultana;;73;F;Zafraan;brucellose;31/08/2021
+11;Ben Mostafa Kouider;;50;M;Dar Chioukh;brucellose;31/08/2021
+12;Djoumai Bilal;;4;M;HBB;brucellose;31/08/2021
+1;Larbi Nedjma;;50;M;HBB;brucellose;28/07/2021
+2;Kourchi Amar;;73;M;HBB;brucellose;28/07/2021
+3;Hassani Meriem;;27;F;Dar Chioukh;brucellose;29/07/2021
+4;Nouara Lakhder;;31;M;Hassi Eleuch;brucellose;29/07/2021
+5;Ben Mostafa Haceni;;5;M;Dar Chioukh;brucellose;29/07/2021
+6;Mreizgue Hadda;;44;F;HBB;brucellose;01/08/2021
+7;Neguaab Lhadj;;62;M;Dar Chioukh;brucellose;01/08/2021
+8;Neguaab Belkacem;;22;M;Dar Chioukh;brucellose;01/08/2021
+9;Ben Mostafa Nariman;;12;F;Dar Chioukh;brucellose;01/08/2021
+10;Sayehi Ameur;;18;M;Sid Baizid;brucellose;01/08/2021
+11;Dardour Khadidja;;56;F;HBB;brucellose;02/08/2021
+12;Ben Ammar Rabeh;;55;M;HBB;brucellose;03/08/2021
+13;Hericha Mohamed;;28;M;Dar Chioukh;brucellose;03/08/2021
+14;Kraioua Abdelbaki;;52;M;Sidi baizid;brucellose;03/08/2021
+15;Bourass Khelifa;;11;M;HBB;brucellose;04/08/2021
+16;Magherbi Nouereddine;;38;M;HBB;brucellose;04/08/2021
+17;Noureddine Elalia;;17;F;Sid Baizid;brucellose;04/08/2021
+18;Salhi Haytham;;8;M;HBB;brucellose;05/08/2021
+19;Hemiani Lhaouass;;67;M;HBB;brucellose;08/08/2021
+20;Taibi Embarka;;56;F;Dar Chioukh;brucellose;08/08/2021
+21;Demani Said;;32;M;Dar Chioukh;brucellose;11/08/2021
+22;Chouiha Lakhder;;78;M;Ain Maabed;brucellose;11/08/2021
+23;Brahimi Abderrahman;;24;M;Dar Chioukh;brucellose;11/08/2021
+24;Zanzan Saadia;;30;F;Sidi Baizid;brucellose;11/08/2021
+25;Ziani Sabrin;;25;F;Hassi Eleuch;brucellose;12/08/2021
+26;Sayhi Chahra;;3;F;Dar Chioukh;brucellose;12/08/2021
+27;Benmostafa Bouzid;;23;M;Dar Chioukh;brucellose;12/08/2021
+28;Chouiha Fadila;;21;F;HBB;brucellose;12/08/2021
+29;Benza Mohamed;;26;M;HBB;brucellose;12/08/2021
+30;Seddiki Amar;;37;M;Dar Chioukh;brucellose;12/08/2021
+31;Amiratte Embarka;;24;F;Mliliha;brucellose;12/08/2021
+32;Zerouge Ahlam;;21;F;Mliliha;brucellose;12/08/2021
+33;Zerouge Zohra;;30;F;Mliliha;brucellose;12/08/2021
+34;Youcefi Mkhalat;;40;M;Mliliha;brucellose;12/08/2021
+35;Youcefi Bouchra;;8;F;Mliliha;brucellose;12/08/2021
+36;Chaibout Aicha;;24;F;HBB;brucellose;12/08/2021
+37;Guendouze Baizid;;49;M;HBB;brucellose;15/08/2021
+38;Hani Raaya;;8;F;Dar Chioukh;brucellose;17/08/2021
+39;Benaissa Mariya;;16;F;HBB;brucellose;17/08/2021
+40;Rezigua Amaier;;57;M;Dar Chioukh;brucellose;17/08/2021
+41;Abdellaoui Habib;;42;M;Dar Chioukh;brucellose;18/08/2021
+42;Kihoul Messoud;;29;M;Dar Chioukh;brucellose;18/08/2021
+43;Bayou Belkhir;;57;M;HBB;brucellose;18/08/2021
+44;Tehir Rahma;;52;F;Sidi Baizid;brucellose;18/08/2021
+45;Benabderrahman Said;;53;M;Sidi Baizid;brucellose;18/08/2021
+46;Allawa Bouaza;;24;F;Dar Chioukh;brucellose;22/08/2021
+47;Kourichi Omar;;75;M;HBB;brucellose;22/08/2021
+48;Chouiha Ahmed;;47;M;HBB;brucellose;22/08/2021
+49;Taibaoui Lakhder;;26;M;HBB;brucellose;22/08/2021
+50;Guendouze Oumsaoud;;52;F;HBB;brucellose;22/08/2021
+51;Haouassi Mohamed;;38;M;Dar Chioukh;brucellose;22/08/2021
+52;Allawa Abdelghani;;14;M;Dar Chioukh;brucellose;22/08/2021
+53;Telibi Kheira;;100;F;Dar Chioukh;brucellose;22/08/2021
+54;Bouchemel Dahman;;46;M;Sidi Baizid;brucellose;23/08/2021
+55;Negab Rahma;;29;F;Dar Chioukh;brucellose;23/08/2021
+56;Bouelam Khadra;;46;F;Dar Chioukh;brucellose;23/08/2021
+57;Negab Messaouda;;19;F;Dar Chioukh;brucellose;23/08/2021
+58;Taibaoui Fatima;;52;F;HBB;brucellose;23/08/2021
+59;Ben Alia Helyese;;17;M;HBB;brucellose;23/08/2021
+60;Salet Mohamed;;25;M;Ain Maabed;brucellose;24/08/2021
+61;Hamidi Ahmed;;42;M;HBB;brucellose;25/08/2021
+62;Hazerchi Iman;;28;F;HBB;brucellose;25/08/2021
+63;Bouzidi Mohamed;;29;M;HBB;brucellose;26/08/2021
+64;Oukazi Ahmed;;17;M;HBB;brucellose;29/08/2021
+65;Salhi Ismail;;6;M;HBB;brucellose;29/08/2021
+66;Meddouh Belkacem;;28;M;Mliliha;brucellose;29/08/2021
+67;Krioual Ali;;40;M;Dar Chioukh;brucellose;30/08/2021
+68;Bouzidi Zayed;;39;M;HBB;brucellose;31/08/2021
+69;Zanzan Ali;;69;M;Dar Chioukh;brucellose;31/08/2021
+70;Kelal Soultana;;73;F;Zafraan;brucellose;31/08/2021
+71;Ben Mostafa Kouider;;50;M;Dar Chioukh;brucellose;31/08/2021
+72;Djoumai Bilal;;4;M;HBB/;brucellose;31/08/2021
+1;Mabdoua Rabeh;;23;M;Dar Chioukh;brucellose;01/09/2021
+2;Kourchi Ikram;;12;F;HBB;brucellose;02/09/2021
+3;Ben Mohamed Hadaa;;44;F;HBB;brucellose;05/09/2021
+4;Rabouh Sadek;;20;M;Sidi Baizid;brucellose;05/09/2021
+5;Khoumikham Bakhta;;60;F;Dar Chioukh;brucellose;07/09/2021
+6;Taibi Naima;;28;F;Dar Chioukh;brucellose;07/09/2021
+1;Karouss Mohamed;;76;M;Dar Chioukh;brucellose;08/09/2021
+2;Boumehdi Khaoula;;12;F;Dar Chioukh;brucellose;08/09/2021
+3;Khemaikham Mabkhout;;30;M;Sidi Baizid;brucellose;09/09/2021
+4;Slimani Rahma;;57;F;Hassi Eleuch;brucellose;12/09/2021
+5;Boufateh Akila;;48;F;HBB;brucellose;12/09/2021
+6;Moutar Khadra;;59;F;Dar Chioukh;brucellose;12/09/2021
+7;Boussetta Ali Brahim;;20;M;HBB;L,C;12/09/2021
+1;Arrague Slimane;;22;M;HBB;brucellose;19/09/2021
+2;Guendouze Mohamed;;29;M;Dar Chioukh;brucellose;20/09/2021
+3;Raach mohamed;;65;M;Dar Chioukh;brucellose;21/09/2021
+1;Boufateh Adem;;20;M;HBB;brucellose;22/09/2021
+2;Ouahchi Said;;63;M;HBB;brucellose;22/09/2021
+3;Hemiani Yahia;;66;M;HBB;brucellose;26/09/2021
+4;Boulanouar Khadidja;;60;F;HBB;brucellose;26/09/2021
+5;Ammari Mokhtar;;27;M;HBB;L,C;26/09/2021
+6;Korchi Aissa;;27;M;HBB;L,C;27/09/2021
+7;Zenati Abdelkader;;54;M;Hassi Eleuch;brucellose;27/09/2021
+8;Loubzi Baizyd;;32;M;Dar Chioukh;brucellose;28/09/2021
+9;Karouss Aicha;;67;F;Dar Chioukh;brucellose;28/09/2021
+1;Mabdoua Rabeh;;23;M;Dar Chioukh;brucellose;01/09/2021
+2;Kourchi Ikram;;12;F;HBB;brucellose;02/09/2021
+3;Ben Mohamed Hadaa;;44;F;HBB;brucellose;05/09/2021
+4;Rabouh Sadek;;20;M;Sidi Baizid;brucellose;05/09/2021
+5;Khoumikham Bakhta;;60;F;Dar Chioukh;brucellose;07/09/2021
+6;Taibi Naima;;28;F;Dar Chioukh;brucellose;07/09/2021
+7;Karouss Mohamed;;76;M;Dar Chioukh;brucellose;08/09/2021
+8;Boumehdi Khaoula;;12;F;Dar Chioukh;brucellose;08/09/2021
+9;Khemaikham Mabkhout;;30;M;Sidi Baizid;brucellose;09/09/2021
+10;Slimani Rahma;;57;F;Hassi Eleuch;brucellose;12/09/2021
+11;Boufateh Akila;;48;F;HBB;brucellose;12/09/2021
+12;Moutar Khadra;;59;F;Dar Chioukh;brucellose;12/09/2021
+13;Boussetta Ali Brahim;;20;M;HBB;L,C;12/09/2021
+14;Arrague Slimane;;22;M;HBB;brucellose;19/09/2021
+15;Guendouze Mohamed;;29;M;Dar Chioukh;brucellose;20/09/2021
+16;Raach mohamed;;65;M;Dar Chioukh;brucellose;21/09/2021
+17;Boufateh Adem;;20;M;HBB;brucellose;22/09/2021
+18;Ouahchi Said;;63;M;HBB;brucellose;22/09/2021
+19;Hemiani Yahia;;66;M;HBB;brucellose;26/09/2021
+20;Boulanouar Khadidja;;60;F;HBB;brucellose;26/09/2021
+21;Ammari Mokhtar;;27;M;HBB;L,C;26/09/2021
+22;Korchi Aissa;;27;M;HBB;L,C;27/09/2021
+23;Zenati Abdelkader;;54;M;Hassi Eleuch;brucellose;27/09/2021
+24;Loubzi Baizyd;;32;M;Dar Chioukh;brucellose;28/09/2021
+25;Karouss Aicha;;67;F;Dar Chioukh;brucellose;28/09/2021
+1;Chakhbaat Kouider;;39;M;Zafraan;brucellose;29/09/2021
+2;Djaroune Meriem;;40;M;HBB;brucellose;29/09/2021
+3;Gourida Ali;;33;M;Zafraan;brucellose;30/09/2021
+4;Battach Hocine;;21;M;Hassi Eleuch;brucellose;03/10/2021
+5;Souiyah Nacereddine;;21;M;HBB;brucellose;03/10/2021
+6;Faitas Ben Attia;;49;M;HBB;brucellose;04/10/2021
+1;Salman Hessan;;32;M;HBB;brucellose;11/10/2021
+2;Khoubizi Fatima;;48;F;Dar Chioukh;brucellose;11/10/2021
+3;Bouchaiba Amar;;41;M;Dar Chioukh;brucellose;11/10/2021
+4;Lougabe Ameur;;53;M;HBB;brucellose;11/10/2021
+5;Debbab Khaira;;49;F;HBB;brucellose;11/10/2021
+6;Salhi Noureddine;;16;M;HBB;brucellose;11/10/2021
+1;Menzah Kouider;;70;M;HBB;brucellose;13/10/2021
+2;Rabouh Abdelghani;;41;M;Sidi Baizid;brucellose;14/10/2021
+3;Cheruigui Messaoud;;57;M;Sidi Baizid;brucellose;17/10/2021
+1;Hemiani Aissa;;63;M;HBB;brucellose;20/10/2021
+2;Hmama Noura;;28;F;Sidi Baizid;brucellose;21/10/2021
+3;Driche Abbas;;23;M;HBB;L,C;21/10/2021
+4;Mahi Abdelmalek;;21;M;HBB;L,C;21/10/2021
+5;Toualbia Achraf;;19;M;HBB;L,C;21/10/2021
+6;Amara Mahdjoub;;21;M;HBB;L,C;25/10/2021
+7;Mahdaoui Oussama;;19;M;HBB;L,C;25/10/2021
+8;Baidelkoul Fatima Zohra;;63;F;HBB;brucellose;26/10/2021
+1;Chakhbaat Kouider;;39;M;Zafraan;brucellose;29/09/2021
+2;Djaroune Meriem;;40;M;HBB;brucellose;29/09/2021
+3;Gourida Ali;;33;M;Zafraan;brucellose;30/09/2021
+4;Battach Hocine;;21;M;Hassi Eleuch;brucellose;03/10/2021
+5;Souiyah Nacereddine;;21;M;HBB;brucellose;03/10/2021
+6;Faitas Ben Attia;;49;M;HBB;brucellose;04/10/2021
+7;Salman Hessan;;32;M;HBB;brucellose;11/10/2021
+8;Khoubizi Fatima;;48;F;Dar Chioukh;brucellose;11/10/2021
+9;Bouchaiba Amar;;41;M;Dar Chioukh;brucellose;11/10/2021
+10;Lougabe Ameur;;53;M;HBB;brucellose;11/10/2021
+11;Debbab Khaira;;49;F;HBB;brucellose;11/10/2021
+12;Salhi Noureddine;;16;M;HBB;brucellose;11/10/2021
+13;Menzah Kouider;;70;M;HBB;brucellose;13/10/2021
+14;Rabouh Abdelghani;;41;M;Sidi Baizid;brucellose;14/10/2021
+15;Cheruigui Messaoud;;57;M;Sidi Baizid;brucellose;17/10/2021
+16;Hemiani Aissa;;63;M;HBB;brucellose;20/10/2021
+17;Hmama Noura;;28;F;Sidi Baizid;brucellose;21/10/2021
+18;Driche Abbas;;23;M;HBB;L,C;21/10/2021
+19;Mahi Abdelmalek;;21;M;HBB;L,C;21/10/2021
+20;Toualbia Achraf;;19;M;HBB;L,C;21/10/2021
+21;Amara Mahdjoub;;21;M;HBB;L,C;25/10/2021
+22;Mahdaoui Oussama;;19;M;HBB;L,C;25/10/2021
+23;Baidelkoul Fatima Zohra;;63;F;HBB;brucellose;26/10/2021
+1;Merafet Mohamed;;19;M;HBB;L,C;27/10/2021
+2;Boumedian Mohamed;;46;M;Dar Chioukh;brucellose;31/10/2021
+1;Hemiani Mohamed;;48;M;HBB;brucellose;04/11/2021
+2;Lahrach Brahim;;11;M;Mliliha;brucellose;04/11/2021
+3;Madani Mohamed;;30;M;Zafraan;brucellose;04/11/2021
+4;Mouatar Khadra;;59;F;Ain Maabed;brucellose;07/11/2021
+5;Aissaoui Amar;;33;M;Zafraan;brucellose;07/11/2021
+6;Araar Imad;;28;M;HBB;L,C;07/11/2021
+7;Souleh Mokhtar;;19;M;HBB;L,C;07/11/2021
+8;Ben Mostafa Mohamed;;42;M;Dar Chioukh;brucellose;08/11/2021
+1;Rabouh Ahmed;;16;M;Dar Chioukh;brucellose;11/11/2021
+2;Ammar Alyaa;;55;F;HBB;brucellose;14/11/2021
+3;Haoua Salem;;42;M;Zafraan;brucellose;15/11/2021
+4;Aouissi Mohamed;;17;M;HBB;brucellose;15/11/2021
+1;Fdoul Adem;;24;M;HBB;L,C;30/11/2021
+2;Ben Nail Ibrahim;;29;M;HBB;brucellose;02/12/2021
+3;ben Chouiha Ahmed;;35;M;Zafraan;brucellose;05/12/2021
+4;Seddiki Saida;;29;F;Sidi Baizid;brucellose;06/12/2021
+5;Touil Ahmed;;31;M;Dar Chioukh;brucellose;06/12/2021
+6;Mouafki Mokhtar;;20;M;Sidi Baizid;brucellose;06/12/2021
+7;Thouamria Belkacem;;8;M;Dar Chioukh;brucellose;08/12/2021
+8;Hani Aicha;;9;F;Dar Chioukh;brucellose;09/12/2021
+9;Djoumi Iman;;13;F;HBB;brucellose;19/12/2021
+10;Bouzidi Fraiha;;16;F;Ain Maabed;brucellose;19/12/2021
+11;Bahnas Hanan;;29;F;HBB;brucellose;19/12/2021
+12;Mazzouzi Meriem;;40;F;HBB;brucellose;23/12/2021
+13;Sbaa Ali;;65;M;Dar Chioukh;brucellose;23/12/2021
+14;Djaroune Kouider;;40;M;HBB;brucellose;23/12/2021
+15;Youcefi Madjid;;31;M;Zafraan;brucellose;27/12/2021

@@ -5,7 +5,7 @@ p_load(tidyverse,readxl,lubridate,ggthemes,sf,mapsf,foreign,stringr,knitr,kableE
 date1 <- "2024-01-01";
 date2 <- "2025-12-31"
 ## load 2024 ----
-df_oph_2024 <- read_excel("data-raw/ehs_oph_bloc_2024.xlsx" )
+df_oph_2024 <- read_excel("data-raw/bloc/ehs_oph_bloc_2024.xlsx" )
 
 df_oph_2024 <- df_oph_2024  %>%
               dplyr::filter(DATE_INTERVENTION >= date1 & DATE_INTERVENTION  <= date2) %>%

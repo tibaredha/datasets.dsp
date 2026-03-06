@@ -1,0 +1,1784 @@
+N;NOM PRENOM;COMMUNE;AGE;SEXE;PATHOLOGIE;DATE
+1;rida ali;selmana;28;m;brucellose;27/12/2018
+2;dahmen amer;selmana;52;m;brucellose;26/12/2018
+3;saadi fatima ;sedrahal;16;f;brucellose;10/01/2019
+4;saadi aicha;sedrahal;32;f;brucellose;10/01/2019
+5;benbrahim ahmed;selmana;30;m;brucellose;13/01/2019
+6;djaballah saadia;feb;30;F;brucellose;02/12/2018
+7;rahmoune nadji;feb;18;m;brucellose;19/12/2018
+8;kennay  mansour;sedrahal;47;m;brucellose;15/01/2019
+9;akrout aamer;deldoul;31;m;brucellose;20/01/2019
+10;saoudi  hadda;sedrahal;32;f;brucellose;23/01/2019
+11;djaide ben yatou;sedrahal;38;m;brucellose;23/01/2019
+12;lahoual aamar;feb;26;m;brucellose;22/01/2019
+13;belghaouthi messaoud /ouad;salmana;42;m;brucellose;10/02/2019
+14;alaoua meftah dahmane;oumlaadam;18;m;brucellose;10/02/2019
+15;malati lakhdar ahmed;salmana;24;m;brucellose;10/02/2019
+16;haouari omar abk;salmana;15;m;brucellose;10/02/2019
+17;djaid mostapha;sedrehal;33;m;brucellose;29/01/2019
+18;djaid farah;sedrehal;9;f;brucellose;03/02/2019
+19;kerracha ahlem;salmana;9;f;brucellose;04/02/2019
+20;djaid bouta;sedrehal;52;f;brucellose;03/02/2019
+21;touati  lakhder;salmana;19;m;brucellose;18/02/2019
+22;saoudi kouider;sedrahal;52;m;brucellose;06/06/2019
+23;rezazga amra;guettara;60;f;brucellose;03/06/2019
+24;benacer elalmi;guettara;36;m;brucellose;03/06/2019
+25;souaid  said;feb;30;m;brucellose;11/02/2019
+26;benzayane djamila;feb;19;f;brucellose;11/02/2019
+27;benyoucef ahmed rayene;feb;5;m;brucellose;02/05/2019
+28;benyoucef brahim;feb;30;m;brucellose;06/05/2019
+29;benyoucef hassane;feb;15;m;brucellose;06/05/2019
+30;benyoucef aya sendosse;feb;17;f;brucellose;02/05/2019
+31;rabhi ali;feb;16;m;brucellose;06/05/2019
+32;rahmoune mustapha;feb;56;m;brucellose;02/05/2019
+33;rekiaa thameur;amourah;35;m;brucellose;28/04/2019
+34;hanafi ramlia;feb;29;f;brucellose;07/05/2019
+35;madjaba ali;feb;17;m;brucellose;02/05/2019
+36;naouari med;deldoul;59;m;brucellose;06/06/2019
+37;djedoual youcef;sedrahal;15;m;brucellose;10/03/2019
+38;hamidi el hachemi;sedrahal;22;m;brucellose;12/03/2019
+39;messaoudi ahmed;selmana;71;m;brucellose;03/04/2019
+40;regueia abdelkader;amourah;18;f;brucellose;02/04/2019
+41;naoum saad;feb;45;m;brucellose;01/04/2019
+42;mouafek ahmed;feb;20;m;brucellose;27/03/2019
+43;okacha djmaleddine;feb;17;m;brucellose;27/03/2019
+44;ben houria djamal;selmana;22;m;brucellose;01/04/2019
+45;mehamdi messaouda;selmana;36;f;brucellose;18/03/2019
+46;dahmane touati;selmana;41;m;brucellose;16/03/2019
+47;fatma dacher;selmana;7;f;brucellose;21/03/2019
+48;djilani nedjma;selmana;5;f;brucellose;21/03/2019
+49;kerache amani;selmana;5;f;brucellose;18/04/2019
+50;chettouh med;guettara;80;m;brucellose;02/06/2019
+51;souilah aida;feb;37;f;brucellose;22/04/2019
+52;lakehal fatna;selmana;40;f;brucellose;08/05/2019
+53;houari oumelkhir;selmana;82;f;brucellose;25/02/2019
+54;benzerguine abderahmana;selmana;26;m;brucellose;26/02/2019
+55;othmane saida;deldoul;8;f;brucellose;18/03/2019
+56;rouina mechria;feb;28;f;brucellose;28/04/2019
+57;rouina abdelaziz;feb;21;m;brucellose;22/04/2019
+58;benchiba mebarka;feb;86;f;brucellose;28/04/2019
+59;rekiet morad;selmana;15;m;brucellose;22/04/2019
+60;gourida selimane;selmana;5;m;brucellose;04/05/2019
+61;rebih oumhani;selmana;28;f;brucellose;01/04/2019
+62;agoune lembarek;oumlaadam;18;m;brucellose;04/05/2019
+63;krioua saleh;selmana;44;m;brucellose;29/04/2019
+64;benbrahim djebria;feb;42;f;brucellose;30/04/2019
+65;helis saaida;selmana;34;m;brucellose;05/04/2019
+66;tahiri ileyes;selmana;15;m;brucellose;28/03/2019
+67;tamri sadek;selmana;7;m;brucellose;28/03/2019
+68;djeloul rekia ;sedrahal;46;f;brucellose;22/03/2019
+69;dahmen amer ;selmana;43;m;brucellose;27/03/2019
+70;alaoua mostapha;selmana;5;m;brucellose;25/03/2019
+71;alaoua mohamed;selmana;7;m;brucellose;25/03/2019
+72;belkheiri khadra;guettara;18;f;brucellose;24/03/2019
+73;hannafi othmane;feb;4;m;brucellose;13/03/2019
+74;benbrahim abdellah;feb;53;m;brucellose;07/03/2019
+75;mouafak saad;feb;37;m;brucellose;26/02/2019
+76;derouich mariya;selmana;26;f;brucellose;05/05/2019
+77;naami kheira;oumlaadam;30;f;brucellose;06/05/2019
+78;tahiri med;selmana;16;m;brucellose;07/05/2019
+79;boukofala ali;deldoul;18;m;brucellose;06/05/2019
+80;rida aissa;selmana;59;m;brucellose;08/05/2019
+81;gouisem oumelkhir;guettara;55;f;brucellose;21/05/2019
+82;bourchi khadidja;guettara;30;f;brucellose;22/05/2019
+83;hassani lakhdar;sedrahel;46;m;brucellose;07/05/2019
+84;zerig med;sedrahel;18;m;brucellose;07/05/2019
+85;soltani elhadj;sedrahel;21;m;brucellose;21/05/2019
+86;djeaid ali;sedrahel;27;m;brucellose;15/05/2019
+87;abdelouaheb fatima;guettara;30;f;brucellose;15/05/2019
+88;douaba halima;guettara;65;f;brucellose;01/05/2019
+89;benyoucef anouar;feb;25;m;brucellose;23/04/2019
+90;benkoamez khadra;feb;46;f;brucellose;16/04/2019
+91;gueroud med;guettara;30;M;brucellose;16/04/2019
+92;keribaa med;guettara;5;m;brucellose;21/04/2019
+93;keribaa belkhir;guettara;3;m;brucellose;21/04/2019
+94;redouane ahmed;guettara;70;m;brucellose;11/04/2019
+95;bouchendouha taher;guettara;21;m;brucellose;10/04/2019
+96;kahoul khadra;guettara;25;f;brucellose;07/04/2019
+97;kourida makhlouf;guettara;28;m;brucellose;07/04/2019
+98;naoum lakhdar;feb;30;m;brucellose;25/02/2019
+99;fatima aadjimi;selmana;23;f;brucellose;31/01/2019
+100;keriche messaoud;selmana;39;m;brucellose;18/02/2019
+101;lakehal hadda;selmana;45;f;brucellose;18/02/2019
+102;akrout miiloud;selmana;40;m;brucellose;19/02/2019
+103;dahmane ahmed;selmana;57;m;brucellose;21/02/2019
+104;mostapha chaib;sedrahel;20;m;brucellose;27/02/2019
+105;benbrahim ahmed;selmana;35;m;brucellose;10/03/2019
+106;moifak farhat;feb;30;m;brucellose;27/02/2019
+107;rabhi benalia;feb;32;m;brucellose;28/02/2019
+108;benabdessalem zeineb;feb;16;f;brucellose;04/03/2019
+109;guessmia walid;selmana;22;m;brucellose;11/02/2019
+110;heliss djaloul;selmana;17;m;brucellose;25/02/2019
+111;djaid oumelkhir;selmana;32;f;brucellose;12/02/2019
+112;brahimi mustapha;selmana;21;m;brucellose;12/02/2019
+113;guene boubaker;selmana;52;m;brucellose;12/02/2019
+114;khedira aicha;sedrahel;50;f;brucellose;11/02/2019
+115;deliouah med;sedrahel;35;m;brucellose;10/02/2019
+116;djaid tarek;sedrahel;5;m;brucellose;31/01/2019
+117;djaid israa;guettara;7;f;brucellose;03/02/2019
+118;hamadi maatalaa;guettara;29;m;brucellose;07/02/2019
+119;kerrach sadane;feb;8;m;brucellose;09/02/2019
+120;kerrach saida;feb;25;f;brucellose;31/01/2019
+121;rahmoune lamine;guettara;22;m;brucellose;24/03/2019
+122;mouafek ali;guettara;25;m;brucellose;01/04/2019
+123;chalali meryem;guettara;52;f;brucellose;21/04/2019
+124;moifak farhat;feb;30;m;brucellose;27/02/2019
+125;rabhi benalia;feb;32;m;brucellose;28/02/2019
+126;benabdessalem zeineb;feb;16;f;brucellose;04/03/2019
+127;guessmia walid;selmana;22;m;brucellose;11/02/2019
+128;heliss djaloul;selmana;17;m;brucellose;25/02/2019
+129;djaid oumelkhir;selmana;32;f;brucellose;12/02/2019
+130;brahimi mustapha;selmana;21;m;brucellose;12/02/2019
+131;guene boubaker;selmana;52;m;brucellose;12/02/2019
+132;khedira aicha;sedrahel;50;f;brucellose;11/02/2019
+133;deliouah med;sedrahel;35;m;brucellose;10/02/2019
+134;djaid tarek;sedrahel;5;m;brucellose;31/01/2019
+135;djaid israa;guettara;7;f;brucellose;03/02/2019
+136;hamadi maatalaa;guettara;29;m;brucellose;07/02/2019
+137;kerrach sadane;feb;8;m;brucellose;09/02/2019
+138;kerrach saida;feb;25;f;brucellose;31/01/2019
+139;rahmoune lamine;guettara;22;m;brucellose;24/03/2019
+140;mouafek ali;guettara;25;m;brucellose;01/04/2019
+141;chalali meryem;guettara;52;f;brucellose;21/04/2019
+142;benbrahim moussa;selmana;29;m;brucellose;09/06/2019
+143;souiah mohamed;sedrahel;24;m;brucellose;19/06/2019
+144;ali dellass;guettara;58;m;brucellose;10/06/2019
+145;remaitha rabeh;deldoul;14;m;brucellose;19/05/2019
+146;benkhelif dalila;feb;41;f;brucellose;10/03/2019
+147;mouafak mebarka;feb;18;f;brucellose;31/03/2019
+148;kaihoul nourreddine;feb;34;m;brucellose;07/03/2019
+149;amara mohamed;feb;70;m;brucellose;11/02/2019
+150;hanafi faiza;feb;21;f;brucellose;31/03/2019
+151;benmaamar ahmed;feb;30;m;brucellose;10/03/2019
+152;mouafak mohamed;feb;12;m;brucellose;28/03/2019
+153;houari med;guettara;34;m;brucellose;25/06/2019
+154;attalah mohamed;feb;6;m;brucellose;12/03/2019
+155;benchriat khadija;feb;28;f;brucellose;16/06/2019
+156;fatima lakehal;selmana;6;f;brucellose;19/06/2019
+157;saadi fatima;sedrahel;28;f;brucellose;12/06/2019
+158;tahiri elzohra;guettara;24;f;brucellose;25/06/2019
+159;khelifa kheira;guettara;29;f;brucellose;19/06/2019
+160;bachiri saliha;guettara;29;f;brucellose;16/06/2019
+161;bengouamez aicha;feb;19;f;brucellose;21/07/2019
+162;derkouche remas;feb;7;f;brucellose;20/07/2019
+163;naoui yamina;feb;27;f;brucellose;18/07/2019
+164;malki ayoub;feb;15;m;brucellose;18/07/2019
+165;bengoumez nacer;feb;63;m;brucellose;17/07/2019
+166;bengumez oumlkheir;feb;20;f;brucellose;21/07/2019
+167;bengoumez khoula;feb;15;m;brucellose;21/07/2019
+168;bensalem abdelrahman;feb;52;m;brucellose;22/07/2019
+169;halfaya bachir;feb;46;m;brucellose;21/07/2019
+170;belkhir fatoum;deldoul;65;f;brucellose;23/06/2019
+171;djeklil mebrouk;deldoul;50;m;brucellose;29/06/2019
+172;naouari aicha;deldoul;7;f;brucellose;02/07/2019
+173;kouidri ali;feb;30;m;brucellose;23/07/2019
+174;korichi said;feb;27;m;brucellose;23/07/2019
+175;mehamdi brahim;guettara;25;m;brucellose;31/07/2019
+176;houari madani;guettara;31;m;brucellose;22/07/2019
+177;remadnia tahar;guettara;44;m;brucellose;04/07/2019
+178;reouane ziane;guettara;44;m;brucellose;10/07/2019
+179;reouane zohra;guettara;34;f;brucellose;10/07/2019
+180;benacer abderahim;guettara;4;m;brucellose;04/07/2019
+181;zergaouina zeineb;guettara;50;f;brucellose;03/07/2019
+182;bengouamez fatna;feb;30;f;brucellose;01/08/2019
+183;souaid aicha;feb;12;f;brucellose;03/08/2019
+184;belabbas messaouda;feb;33;f;brucellose;01/08/2019
+185;hanafi yamna;feb;30;f;brucellose;04/08/2019
+186;benahmed amer;feb;28;m;brucellose;23/07/2019
+187;halfaia med;feb;14;m;brucellose;03/08/2019
+188;gharbi  henichi;feb;57;m;brucellose;05/08/2019
+189;benkoamez basma;feb;11;f;brucellose;04/08/2019
+190;hanafi souria;feb;26;f;brucellose;18/08/2019
+191;lakrab mbarka;feb;14;f;brucellose;14/08/2019
+192;lakrab kadour;feb;38;m;brucellose;14/08/2019
+193;bouhali khadra;feb;15;f;brucellose;07/08/2019
+194;mazouzi mbarka;feb;80;f;brucellose;01/08/2019
+195;bessoud soumia;feb;28;f;brucellose;20/07/2019
+196;taybi tayeb;feb;26;m;brucellose;18/08/2019
+197;thameri mohamed;feb;30;m;brucellose;13/08/2019
+198;benabdelhafid mohamed;feb;38;m;brucellose;19/08/2019
+199;hamdi ali;feb;30;M;brucellose;20/08/2019
+200;redouane dehikel;guettara;41;m;brucellose;20/08/2019
+201;redouane messaouda;guettara;26;f;brucellose;20/08/2019
+202;houari safia;guettara;60;f;brucellose;08/08/2019
+203;halfaia fatima;guettara;11;f;brucellose;30/07/2019
+204;benchaiba elhaydja;feb;49;f;brucellose;28/07/2019
+205;bengouamez messaouda;feb;35;f;brucellose;28/07/2019
+206;rida fatima;selmana;53;f;brucellose;02/10/2019
+207;tahiri khaouela;selmana;20;f;brucellose;02/10/2019
+1;omrane omrane;deldoul;37;m;brucellose;01/04/2020
+2;boudisa isshak;feb;4;m;brucellose;01/04/2020
+3;boudissa naima;feb;38;f;brucellose;01/04/2020
+4;dahmane aicha;guettara;55;f;brucellose;01/04/2020
+5;toumi khadra;selmana;40;f;brucellose;01/04/2020
+6;ghorab belkheir;sedrahal;56;m;brucellose;01/04/2020
+7;saadi laaid;sedrahal;23;m;brucellose;01/04/2020
+8;bengoumez souhila;feb;46;f;brucellose;01/04/2020
+9;hamida abdelbaki;feb;31;m;brucellose;01/04/2020
+10;thamri mohamed;feb;30;m;brucellose;01/04/2020
+11;ben maamar ahmed;feb;86;m;brucellose;01/04/2020
+12;borchi khadidja;guettara;30;f;brucellose;01/04/2020
+13;derradji lakhdar;guettara;49;m;brucellose;01/04/2020
+14;thamri nacira;feb;27;f;brucellose;01/04/2020
+15;rouina mechri;feb;27;m;brucellose;01/04/2020
+16;manawia ziane;feb;26;m;brucellose;02/04/2020
+17;salhi belkacem;selmana;58;m;brucellose;02/04/2020
+18;tahiri halima;selmana;19;f;brucellose;02/04/2020
+19;dahmane taher;guettara;20;m;brucellose;02/04/2020
+20;hathat hadda;selmana;72;f;brucellose;02/04/2020
+21;djaiou nakhla;deldoul;38;f;brucellose;02/04/2020
+22;bennacer ahmed;guettara;29;m;brucellose;02/04/2020
+23;abidi rebiha;selmana;42;f;brucellose;02/04/2020
+24;daoudi boulerbah;guettara;30;m;brucellose;02/04/2020
+25;hamadi messaoud;sedrahal;65;m;brucellose;02/04/2020
+26;ghorab mohamed;sedrahal;18;m;brucellose;02/04/2020
+27;ghedira kheira;sedrahal;65;f;brucellose;02/04/2020
+28;ghorab belkheir;sedrahal;17;m;brucellose;02/04/2020
+29;ghorab salem;sedrahal;39;m;brucellose;03/04/2020
+30;beaissa abbas;sedrahal;22;m;brucellose;03/04/2020
+31;charef kamal;sedrahal;21;m;brucellose;03/04/2020
+32;ghorab hmaida;sedrahal;10;m;brucellose;03/04/2020
+33;ghorab aicha;sedrahal;30;f;brucellose;03/04/2020
+34;naoui ahmed;sedrahal;41;m;brucellose;03/04/2020
+35;ghorab saad;sedrahal;32;m;brucellose;03/04/2020
+36;mimoune bachir;guettara;8;m;brucellose;03/04/2020
+37;mimoune saih;guettara;52;m;brucellose;03/04/2020
+38;laiche belkacem;feb;54;m;brucellose;03/04/2020
+39;barchi mohamed;selmana;61;m;brucellose;03/04/2020
+40;barchi fatoum;selmana;22;f;brucellose;03/04/2020
+41;borchi fatna;selmana;45;f;brucellose;03/04/2020
+42;borchi khadidja;selmana;41;f;brucellose;03/04/2020
+43;mimoune messoud;guettara;51;m;brucellose;04/04/2020
+44;ghorab ahmad;sedrahal;4;m;brucellose;04/04/2020
+45;barchi abdelhamid;guettara;35;m;brucellose;04/04/2020
+46;baha mohamed;selmana;26;m;brucellose;04/04/2020
+47;remadnia dahmane;guettara;30;m;brucellose;04/04/2020
+48;mimoune abdellah;guettara;14;m;brucellose;04/04/2020
+49;sayah nwar;feb;19;m;brucellose;04/04/2020
+50;khaldi zineb;feb;46;f;brucellose;04/04/2020
+51;remadnia tayeb;selmana;20;m;brucellose;04/04/2020
+52;abdelhafidh med;feb;48;m;brucellose;04/04/2020
+53;laiche sadek;feb;28;m;brucellose;04/04/2020
+54;abikchi zineb;selmana;62;f;brucellose;05/04/2020
+55;chetouh med;selmana;11;m;brucellose;05/04/2020
+56;nail hadda;omlaadam;6;f;brucellose;05/04/2020
+57;ghedira sabkhaoui;sedrahal;27;m;brucellose;05/04/2020
+58;borchi youcef;guettara;30;m;brucellose;05/04/2020
+59;zourigue fatna;sedrahal;58;f;brucellose;05/04/2020
+60;elhani saad;feb;26;m;brucellose;05/04/2020
+61;hamidi meriem;sedrahal;40;f;brucellose;05/04/2020
+62;kenai med;sedrahal;19;m;brucellose;05/04/2020
+63;abbas badreddine;sedrahal;4;m;brucellose;05/04/2020
+64;derbak rebiaa;selmana;24;f;brucellose;05/04/2020
+65;remadhnia med;guettara;60;m;brucellose;05/04/2020
+66;rebih boubakar;selmana;11;m;brucellose;06/04/2020
+67;djaaidir hafsa;selmana;2;f;brucellose;06/04/2020
+68;kadraoui roubih;selmana;1;m;brucellose;06/04/2020
+69;kerache belkacem;selmana;2;m;brucellose;06/04/2020
+70;mimoune hessen;selmana;40;m;brucellose;06/04/2020
+71;regueig mokhtar;selmana;63;m;brucellose;06/04/2020
+72;balli aicha;selmana;25;f;brucellose;06/04/2020
+73;largat mabrouk;selmana;10;m;brucellose;06/04/2020
+74;bessaoud hadda;guettara;30;f;brucellose;06/04/2020
+75;nadjem khaled;selmana;12;m;brucellose;06/04/2020
+76;rida tayeb;guettara;25;m;brucellose;06/04/2020
+77;reguieg saad;selmana;51;m;brucellose;06/04/2020
+78;mellati kriouaa;selmana;64;m;brucellose;06/04/2020
+79;nouri derar;selmana;26;m;brucellose;06/04/2020
+80;touati omelkheir;selmana;52;f;brucellose;07/04/2020
+81;djaidir sofiane;selmana;33;m;brucellose;07/04/2020
+82;benghowt khawla;omlaadam;9;f;brucellose;07/04/2020
+83;mimoune zakhroufa;guettara;46;f;brucellose;07/04/2020
+84;benhouthi fadila;omlaadam;2;f;brucellose;07/04/2020
+85;merriss fatoum;selmana;22;f;brucellose;07/04/2020
+86;remadnia cherifa;guettara;22;f;brucellose;07/04/2020
+87;remadnia taher;guettara;65;m;brucellose;07/04/2020
+88;remadnia sadam;guettara;26;m;brucellose;07/04/2020
+89;remadnia walid;guettara;7;m;brucellose;07/04/2020
+90;remadnia wahiba;guettara;4;f;brucellose;07/04/2020
+91;chetouh remdane;guettara;23;m;brucellose;07/04/2020
+92;aribi fatna;selmana;27;f;brucellose;07/04/2020
+93;djaidir saadia;selmana;18;f;brucellose;07/04/2020
+94;ghraiab kheira;feb;29;f;brucellose;08/04/2020
+95;chikhaoui messaoud;deldoul;12;m;brucellose;08/04/2020
+96;melki noredine;selmana;22;m;brucellose;08/04/2020
+97;melki ibrahim;selmana;18;m;brucellose;08/04/2020
+98;tahiri ibrahim;selmana;58;m;brucellose;08/04/2020
+99;toual aek;selmana;20;m;brucellose;08/04/2020
+100;mebarki fatna;selmana;39;f;brucellose;08/04/2020
+101;benhamida kheira;feb;96;f;brucellose;08/04/2020
+102;berbak fatiha;selmana;13;f;brucellose;08/04/2020
+103;derbak aissa;selmana;29;m;brucellose;08/04/2020
+104;amara saad;feb;63;m;brucellose;08/04/2020
+105;naail ali;feb;14;m;brucellose;08/04/2020
+106;lagrab moloud;feb;21;m;brucellose;08/04/2020
+107;laiche zebda;feb;56;f;brucellose;08/04/2020
+108;hebchi yamina;feb;60;f;brucellose;09/04/2020
+109;hamaida fatiha;feb;54;f;brucellose;09/04/2020
+110;hamrouche youcef;sedrahal;36;m;brucellose;09/04/2020
+111;kenai ahmed;sedrahal;11;m;brucellose;09/04/2020
+112;kenai ismail;sedrahal;26;m;brucellose;09/04/2020
+113;madani ben ali;sedrahal;35;m;brucellose;09/04/2020
+114;abbas omelkheir;sedrahal;20;f;brucellose;09/04/2020
+115;gourzou ali;sedrahal;17;m;brucellose;09/04/2020
+116;saadi thamer;sedrahal;9;m;brucellose;09/04/2020
+117;saadi belkacem;sedrahal;19;m;brucellose;09/04/2020
+118;chaaib saaida;sedrahal;66;f;brucellose;09/04/2020
+119;hamrouche thamer;sedrahal;30;m;brucellose;09/04/2020
+120;guelila mohamed;sedrahal;24;m;brucellose;10/04/2020
+121;cheniba brahim;sedrahal;34;m;brucellose;10/04/2020
+122;cheniba aek;sedrahal;34;m;brucellose;10/04/2020
+123;ghorab bachir;sedrahal;46;m;brucellose;10/04/2020
+124;mimoune fatna;guettara;20;f;brucellose;10/04/2020
+125;touil zohra;selmana;40;f;brucellose;11/04/2020
+126;belghouthi khelifa;omlaadam;25;f;brucellose;11/04/2020
+127;baghdadi amer;selmana;23;m;brucellose;11/04/2020
+128;foudili amar;selmana;35;m;brucellose;11/04/2020
+129;zine messaouda;selmana;36;f;brucellose;11/04/2020
+130;chaib sayeh;sedrahal;65;m;brucellose;11/04/2020
+131;kedira messaouda;sedrahal;58;f;brucellose;12/04/2020
+132;kenai ibrahim;sedrahal;15;m;brucellose;12/04/2020
+133;chaib mohamed;sedrahal;32;m;brucellose;12/04/2020
+134;louaagab younes;omlaadam;14;m;brucellose;29/03/2020
+135;ben sedira mohamed;amourah;32;m;brucellose;19/04/2020
+136;laguereb salem;feb;29;m;brucellose;15/04/2020
+137;ben tounssi rahma;feb;30;F;brucellose;19/04/2020
+138;nouidjem messouda;feb;30;f;brucellose;14/04/2020
+139;nouidjem maria;feb;6;f;brucellose;17/04/2020
+140;zerougue mohamed;feb;54;m;brucellose;19/04/2020
+141;cheriat zahra;feb;5;f;brucellose;12/04/2020
+142;gherbi hocine;feb;16;m;brucellose;18/04/2020
+143;leguerad mohamed;feb;21;m;brucellose;13/04/2020
+144;legrab mebarek;feb;80;m;brucellose;23/04/2020
+145;benkounissa kheira;feb;44;f;brucellose;26/04/2020
+146;bakria aamer;selmana;28;m;brucellose;13/04/2020
+147;bensaaid saaid;selmana;66;m;brucellose;16/04/2020
+148;kerrach mohamed;selmana;18;m;brucellose;16/04/2020
+149;rabhi fatma;feb;22;f;brucellose;16/04/2020
+150;touati omelkheir;selmana;40;f;brucellose;19/04/2020
+151;meraisse khelifa;selmana;50;m;brucellose;19/04/2020
+152;legreb yamina;feb;27;f;brucellose;19/04/2020
+153;legreb ouail;feb;4;m;brucellose;20/04/2020
+154;mellati khadra;selmana;40;f;brucellose;20/04/2020
+155;regueig elhora;feb;47;f;brucellose;23/04/2020
+156;chetouhm mohamed;guettara;30;m;brucellose;30/04/2020
+157;ben hadda bolerbah;guettara;30;m;brucellose;30/04/2020
+158;chetouh ramdan;guettara;35;m;brucellose;30/04/2020
+159;brahimi mohamed;guettara;47;m;brucellose;30/04/2020
+160;chetouh wessal;guettara;11;f;brucellose;26/04/2020
+161;mimoun aymen;guettara;8;m;brucellose;03/05/2020
+162;bengouemez belkacem;amourah;32;m;brucellose;03/05/2020
+163;djedaoui aek;selmana;33;m;brucellose;03/05/2020
+164;bentayeb brahim;feb;24;m;brucellose;04/05/2020
+165;elbay hadda;feb;30;f;brucellose;04/05/2020
+166;cherif aek;feb;30;m;brucellose;04/05/2020
+167;laiche rebiha;feb;85;f;brucellose;04/05/2020
+168;hachani abdelrahmane;feb;19;m;brucellose;04/05/2020
+169;bengouemez abdelatif;amourah;27;m;brucellose;04/05/2020
+170;dahmen zineb;selmana;8;f;brucellose;05/05/2020
+171;benhadda boubakar;guettara;20;m;brucellose;05/05/2020
+172;meraiss aicha;selmana;25;f;brucellose;06/05/2020
+173;mazozi mebarka;selmana;37;f;brucellose;07/05/2020
+174;abikchi aissa;selmana;8;m;brucellose;18/05/2020
+175;abikchi aicha;selmana;32;f;brucellose;18/05/2020
+176;ben brahim fatima;selmana;36;f;brucellose;18/05/2020
+177;ben brahim achoura;selmana;32;f;brucellose;10/05/2020
+178;cheligham mohamed;deldoul;9;m;brucellose;15/05/2020
+179;amara chaima;selmana;22;f;brucellose;10/05/2020
+180;salhi mebarka;deldoul;15;f;brucellose;12/05/2020
+181;ben brahim abdelkader;selmana;72;m;brucellose;03/05/2020
+182;dahmane saida;guettara;28;f;brucellose;19/05/2020
+183;chenaiba fatna;sedrahal;3;f;brucellose;19/05/2020
+184;bela fatna;selmana;7;f;brucellose;19/05/2020
+185;benzerguine slimane;selmana;40;m;brucellose;20/05/2020
+186;kihal atia;selmana;40;m;brucellose;21/05/2020
+187;benabdelrahmane miloud;deldoul;6;m;brucellose;21/05/2020
+188;benmelki soumia;selmana;2;f;brucellose;22/05/2020
+189;abikchi mohamed;selmana;38;m;brucellose;27/05/2020
+190;salhi fatima;selmana;41;f;brucellose;27/05/2020
+191;djmouaai fatima;omlaadam;34;f;brucellose;31/05/2020
+192;ben arif kouider;omlaadam;38;m;brucellose;30/04/2020
+193;naimi zohra;omlaadam;33;f;brucellose;18/05/2020
+194;belkheir yacine;omlaadam;15;m;brucellose;30/04/2020
+195;alaoua fatima;omlaadam;47;f;brucellose;18/05/2020
+196;belkheir khelfallah;omlaadam;66;m;brucellose;11/05/2020
+197;ben arif othmane;omlaadam;36;m;brucellose;09/05/2020
+198;meriniza hadda;omlaadam;50;f;brucellose;05/05/2020
+199;chaoui saadia;feb;57;f;brucellose;02/06/2020
+200;attalah ahmed;feb;30;m;brucellose;07/06/2020
+201;chaoui toumi;feb;28;m;brucellose;08/06/2020
+202;saaid achourah;feb;27;f;brucellose;28/05/2020
+203;benattia lakhdar;feb;24;m;brucellose;31/05/2020
+204;berouman rahma;feb;19;f;brucellose;30/05/2020
+205;nail saad;feb;29;m;brucellose;03/06/2020
+206;bahri rahmoun;feb;27;m;brucellose;03/06/2020
+207;laiche oussama;feb;14;m;brucellose;01/06/2020
+208;merouche madani;selmana;29;M;brucellose;01/06/2020
+209;toual miloude;selmana;10;M;brucellose;11/06/2020
+210;harzallah sabah;selmana;5;F;brucellose;10/06/2020
+211;rebiah amer;selmana;36;M;brucellose;10/06/2020
+212;kholoud halfaia;feb;72;F;brucellose;14/06/2020
+213;seghir naaima;feb;35;F;brucellose;10/06/2020
+214;abdelssam rabeh;feb;11;M;brucellose;08/06/2020
+215;thamri yacine;feb;30;M;brucellose;10/06/2020
+216;bentounssi mohamed;feb;26;M;brucellose;06/06/2020
+217;fakroun kheira;feb;57;F;brucellose;14/06/2020
+218;djarou mebarka;feb;30;F;brucellose;11/06/2020
+219;alaba nadjat;feb;7;F;brucellose;11/06/2020
+220;halfaia amal;feb;14;F;brucellose;13/06/2020
+221;reguiegue benzian;feb;6;M;brucellose;04/06/2020
+222;halfaia iman;feb;6;F;brucellose;14/06/2020
+223;aarfoui med;omlaadam;6;M;brucellose;14/06/2020
+224;benghouti zakhroufa;omlaadam;36;F;brucellose;13/06/2020
+225;lougab nadji;omlaadam;62;M;brucellose;10/06/2020
+226;benghouti bachir;omlaadam;40;M;brucellose;08/06/2020
+227;benbrahim med;feb;2;m;brucellose;14/06/2020
+228;seaid salah;feb;25;m;brucellose;14/06/2020
+229;saoudi laamria;sedrahal;25;f;brucellose;09/06/2020
+230;kenay abdelhalim;sedrahal;2;m;brucellose;09/06/2020
+231;chaaib aassali;sedrahal;25;m;brucellose;01/06/2020
+232;djkeidel mabrouk;deldoul;51;m;brucellose;10/06/2020
+233;hamoudi naoui;sedrahal;17;m;brucellose;02/06/2020
+234;hamoudi aicha;sedrahal;14;f;brucellose;02/06/2020
+235;hamoudi hadda;sedrahal;24;f;brucellose;10/06/2020
+236;chouitar laaredj;sedrahal;36;m;brucellose;27/05/2020
+237;djaballah bachir;feb;8;m;brucellose;10/06/2020
+238;benrahmoun med;feb;2;m;brucellose;14/06/2020
+239;elhanni zohra;feb;32;f;brucellose;22/06/2020
+240;benabdelhafid aicha;feb;9;f;brucellose;18/06/2020
+241;mouafek belkheir;feb;33;m;brucellose;21/06/2020
+242;nouidjem said;feb;30;m;brucellose;22/06/2020
+243;nouidjam khelifa;feb;32;m;brucellose;21/06/2020
+244;nouidjam amal;feb;27;f;brucellose;22/06/2020
+245;rouina mebarka;feb;36;f;brucellose;15/06/2020
+246;laarbi omelkheir;feb;72;f;brucellose;15/06/2020
+247;bentounssi ali;feb;19;m;brucellose;16/06/2020
+248;nouidjem fatima;feb;33;f;brucellose;17/06/2020
+249;bentounssi messaoud;feb;25;m;brucellose;18/06/2020
+250;zerguin mokhtar;feb;27;m;brucellose;15/06/2020
+251;halaf kouider;feb;10;m;brucellose;16/06/2020
+252;chaoui djaloul;feb;28;M;brucellose;24/06/2020
+253;nadjem med;feb;25;M;brucellose;24/06/2020
+254;gharbi messoud;feb;80;F;brucellose;24/06/2020
+255;mehamdi saad;feb;28;M;brucellose;25/06/2020
+256;laiche khalil;feb;26;F;brucellose;28/06/2020
+257;chaoui mohamed;feb;18;F;brucellose;28/06/2020
+258;lahoual lhadj;feb;30;M;brucellose;28/06/2020
+259;rouina tayeb;feb;30;M;brucellose;29/06/2020
+260;ranbi mohamed;deldoul;5;M;brucellose;23/06/2020
+261;gueroud chaima;selmana;11;F;brucellose;23/06/2020
+262;benbrahim taher;selmana;42;F;brucellose;24/06/2020
+263;merisse asma;selmana;3;F;brucellose;15/06/2020
+264;benmabkhout thamer;deldoul;36;F;brucellose;16/06/2020
+265;bourchi hocine;selmana;22;M;brucellose;22/06/2020
+266;belatrech med;feb;10;M;brucellose;02/07/2020
+267;benaoui amer;feb;14;M;brucellose;30/06/2020
+268;laiche abdelmalek;feb;30;F;brucellose;01/07/2020
+269;hebchi mostafa;feb;32;M;brucellose;01/07/2020
+270;reouina wahiba;feb;30;F;brucellose;02/07/2020
+271;nouidjem mohamed;feb;45;F;brucellose;06/07/2020
+272;zohra thamri;feb;8;M;brucellose;01/07/2020
+273;belkheiri laiaa;deldoul;34;M;brucellose;02/07/2020
+274;mabkhota aek;deldoul;30;M;brucellose;05/07/2020
+275;mabkhota saaid;deldoul;15;F;brucellose;05/07/2020
+276;bendeghim mokhtar;selmana;17;F;brucellose;22/06/2020
+277;belkheiri guettaf;deldoul;14;F;brucellose;29/06/2020
+278;belkheiri halima;deldoul;15;F;brucellose;29/06/2020
+279;rebih saaida;selmana;54;F;brucellose;28/06/2020
+280;taibaoui kharfia;selmana;18;M;brucellose;29/06/2020
+281;benamara salem;guettara;50;M;brucellose;22/03/2020
+282;mimoun mohamed;guettara;35;M;brucellose;11/05/2020
+283;rouibah omar;guettara;30;M;brucellose;14/04/2020
+284;benkouider taher;guettara;25;M;brucellose;30/04/2020
+285;benchikh mohamed;guettara;32;M;brucellose;09/05/2020
+286;bakria mohamed;guettara;20;M;brucellose;10/05/2020
+287;laid amar;selmana;57;M;brucellose;10/01/2020
+288;touati abdelkader;selmana;40;M;brucellose;09/01/2020
+289;dahmane khadra;guettara;15;F;brucellose;06/01/2020
+290;abdelrahim nacira;guettara;30;F;brucellose;08/01/2020
+291;abdelouahab aissa;guettara;30;M;brucellose;08/01/2020
+292;mimoun aissa;guettara;30;M;brucellose;18/05/2020
+293;mimoun saad;guettara;48;M;brucellose;20/05/2020
+294;mimoun cherifa;guettara;43;F;brucellose;10/05/2020
+295;tibouza karsa;selmana;18;F;brucellose;29/06/2020
+296;belkheiri chaiaa;deldoul;34;F;brucellose;02/07/2020
+297;guerzou hamza;sedrahal;13;M;brucellose;21/05/2020
+298;mrikh aissa;sedrahal;27;M;brucellose;18/05/2020
+299;mehamdi mabrouk;sedrahal;43;M;brucellose;20/05/2020
+300;kennay ahlem;sedrahal;13;F;brucellose;01/06/2020
+301;chaib assali;sedrahal;25;M;brucellose;01/06/2020
+302;benbelkacem laamri;guettara;30;M;brucellose;16/03/2020
+303;remadnia yamina;guettara;30;F;brucellose;02/03/2020
+304;guettaf amal;guettara;18;F;brucellose;09/03/2020
+305;benbelkacem ahmed;feb;30;F;brucellose;13/07/2020
+306;legreb aadel;feb;12;F;brucellose;13/07/2020
+307;naoui mayssa;feb;10;M;brucellose;13/07/2020
+308;bentounssi ali;feb;30;M;brucellose;13/07/2020
+309;benkholifa kheira;feb;30;M;brucellose;13/07/2020
+310;hebal houaria;feb;21;F;brucellose;18/07/2020
+311;elhanni belkader;feb;27;M;brucellose;15/07/2020
+312;benabdelsalem amira;feb;30;M;brucellose;08/07/2020
+313;guani naoui;amourah;15;F;brucellose;12/07/2020
+314;mouafek belal;feb;6;F;brucellose;08/07/2020
+315;zohra thamri;feb;8;F;brucellose;07/07/2020
+316;nadji aicha;feb;22;F;brucellose;10/07/2020
+317;nadji djalil;feb;27;M;brucellose;10/07/2020
+318;zied ahmed;feb;30;M;brucellose;23/07/2020
+319;lehbale abdelkader;feb;20;M;brucellose;22/07/2020
+320;hassani elhadje;feb;30;M;brucellose;20/07/2020
+321;moati mohamed;feb;30;M;brucellose;26/07/2020
+322;feriha hamid;feb;24;M;brucellose;26/07/2020
+323;benhamida kheira;feb;60;F;brucellose;26/07/2020
+324;messoudi omelkheir;amourah;40;f;brucellose;06/07/2020
+325;zerigue fatima;sedrahal;13;f;brucellose;06/07/2020
+326;baghdad aicha;amourah;17;f;brucellose;06/07/2020
+327;laaide toumi;selmana;33;m;brucellose;09/07/2020
+328;toumi omelkheir;selmana;70;f;brucellose;07/07/2020
+329;hamrouche thamer;selmana;30;m;brucellose;07/07/2020
+330;khainache khadidja;sedrahal;14;f;brucellose;13/07/2020
+331;benbrahim mourad;selmana;25;m;brucellose;13/07/2020
+332;bengharbi merouan;selmana;37;m;brucellose;16/07/2020
+333;dhib messouda;selmana;28;f;brucellose;16/07/2020
+334;sayed youcef;selmana;8;m;brucellose;16/07/2020
+335;taibi fatima;selmana;35;f;brucellose;16/07/2020
+336;belkheir saad;selmana;12;m;brucellose;10/07/2020
+337;tahiri zohra;selmana;35;f;brucellose;17/07/2020
+338;borchi fatoum;selmana;28;f;brucellose;17/07/2020
+339;kerach hecham;selmana;8;m;brucellose;22/07/2020
+340;benbrahim med;selmana;25;M;brucellose;29/06/2020
+341;khainache khadidja;selmana;14;F;brucellose;07/07/2020
+342;said youcef;selmana;8;M;brucellose;30/06/2020
+343;taib fatima;selmana;35;F;brucellose;12/07/2020
+344;belkheiri said;selmana;12;M;brucellose;22/07/2020
+345;tahiri zohra;selmana;28;F;brucellose;22/07/2020
+346;aicha baghdadi;amourah;17;F;brucellose;09/07/2020
+347;fatima zerougui;selmana;13;F;brucellose;06/07/2020
+348;bela fatima;selmana;7;F;brucellose;17/05/2020
+349;bengharbi merouane;selmana;37;M;brucellose;16/07/2020
+350;borchi fatoum;selmana;28;F;brucellose;16/07/2020
+351;dhib messouda;selmana;30;F;brucellose;16/07/2020
+352;kerach hicham;selmana;8;m;brucellose;16/07/2020
+353;salhi fatima;selmana;47;f;brucellose;17/05/2020
+354;benzerguin slimane;selmana;40;m;brucellose;20/05/2020
+355;kihal atia;selmana;40;m;brucellose;21/05/2020
+356;messoud omelkheir;sedrahal;40;f;brucellose;06/07/2020
+357;hamrouche thamer;sedrahal;30;m;brucellose;07/07/2020
+358;toumi omelkheir;selmana;70;f;brucellose;07/07/2020
+359;toumi elaaid;selmana;33;m;brucellose;09/07/2020
+360;abikchi med;selmana;38;m;brucellose;27/05/2020
+361;manssour kheira;selmana;34;f;brucellose;30/07/2020
+362;massaoudi fatima;selmana;8;f;brucellose;03/07/2020
+363;massaoudi ben alia;selmana;17;m;brucellose;30/07/2020
+364;haoua aicha;selmana;38;f;brucellose;30/07/2020
+365;belghouti sendos;selmana;18;f;brucellose;27/07/2020
+366;bendjaballah meriem;selmana;30;f;brucellose;04/08/2020
+367;rebih omhani;selmana;35;f;brucellose;18/08/2020
+368;benbrahim hicham;selmana;28;m;brucellose;10/08/2020
+369;touati omelkheir;selmana;23;f;brucellose;17/08/2020
+370;benhamadi sayeh;selmana;32;m;brucellose;10/08/2020
+371;remadhnia nadji;guettara;33;m;brucellose;31/08/2020
+372;borchi lakhdar;guettara;61;m;brucellose;23/08/2020
+373;khelifa kheira;guettara;30;f;brucellose;21/08/2020
+374;remaitha belkacem;deldoul;49;m;brucellose;06/08/2020
+375;remaitha riane;deldoul;13;m;brucellose;20/08/2020
+376;benabderahman boulerbah;deldoul;48;m;brucellose;27/08/2020
+377;kherkhache houcine;deldoul;46;m;brucellose;21/08/2020
+378;remaitha cherifa;deldoul;53;f;brucellose;18/08/2020
+379;boughefala lazhari;deldoul;9;m;brucellose;23/08/2020
+380;kherkhache mohamed;deldoul;38;m;brucellose;21/08/2020
+381;bensalem abdelaadhim;deldoul;15;m;brucellose;06/09/2020
+382;melati lakhdar;selmana;42;m;brucellose;06/09/2020
+383;hemmadi mohamed;sedrahal;31;m;brucellose;11/08/2020
+384;zerigue fatna;sedrahal;52;f;brucellose;16/08/2020
+385;noui saad;sedrahal;16;m;brucellose;11/08/2020
+386;ghorab boubaker;sedrahal;13;m;brucellose;10/08/2020
+387;merikh aissa;sedrahal;26;m;brucellose;26/07/2020
+388;saaoudi selimane;sedrahal;23;m;brucellose;09/07/2020
+389;hemmadi kheira;sedrahal;54;f;brucellose;12/07/2020
+390;zerigue kouider;sedrahal;21;m;brucellose;12/07/2020
+391;chaaibe fatna;sedrahal;53;f;brucellose;02/09/2020
+392;zerigue mebarka;sedrahal;34;f;brucellose;13/08/2020
+393;draoui laadjala;sedrahal;65;f;brucellose;14/07/2020
+394;aatallah khaled;sedrahal;23;m;brucellose;06/08/2020
+395;houari zahra;sedrahal;55;f;brucellose;14/07/2020
+396;chaaibe sayeh;sedrahal;66;m;brucellose;02/08/2020
+397;saaoudi ahmed;sedrahal;30;m;brucellose;19/07/2020
+398;mekdad mohamed;feb;35;m;brucellose;16/08/2020
+399;zohra naaimi;omlaadam;21;f;brucellose;04/10/2020
+400;ahmidi messaoud;sedrahal;21;m;brucellose;28/09/2020
+401;rouina mebarka;feb;36;f;brucellose;15/09/2020
+402;chetouh remdhan;selmana;23;m;brucellose;13/09/2020
+403;reguiegue boualem;feb;13;m;brucellose;08/09/2020
+404;belakhdar chaima;guettara;8;f;brucellose;07/09/2020
+405;zouai iyad;feb;4;m;brucellose;25/08/2020
+406;melati lakhdar;selmana;42;m;brucellose;06/09/2020
+407;bensalem abdelaadhim;deldoul;15;m;brucellose;06/09/2020
+408;lahrache abdelmadjid;guettara;10;M;brucellose;30/06/2020
+409;bennacer benaayache;guettara;36;M;brucellose;20/06/2020
+410;tahiri bilel;guettara;14;M;brucellose;26/08/2020
+411;borchi aamer;guettara;30;M;brucellose;08/06/2020
+412;loagab mokhtar;omlaadam;23;M;brucellose;07/07/2020
+413;selmi fatna;guettara;20;F;brucellose;08/07/2020
+414;bekouche aicha;omlaadam;37;F;brucellose;08/07/2020
+415;belakhdar hocine;guettara;35;M;brucellose;09/07/2020
+416;benhadda ali;guettara;55;M;brucellose;09/07/2020
+417;serar aicha;omlaadam;37;F;brucellose;14/07/2020
+418;belkheiri khadidja;omlaadam;25;F;brucellose;13/07/2020
+419;alaoua fatima;omlaadam;6;F;brucellose;13/07/2020
+420;daoudi mokhtar;guettara;30;M;brucellose;13/07/2020
+421;benmazouz rebiha;guettara;30;F;brucellose;13/07/2020
+422;baghdadi rahma;guettara;19;F;brucellose;27/07/2020
+423;rezazgua houcine;guettara;25;M;brucellose;14/07/2020
+424;laidi fatna;guettara;30;F;brucellose;19/07/2020
+425;mouafak fathi;guettara;18;M;brucellose;11/08/2020
+426;reguiague omelkheir;guettara;30;F;brucellose;10/08/2020
+427;mouafek hanan;guettara;25;F;brucellose;11/08/2020
+428;nouidjam rachida;omlaadam;34;F;brucellose;12/08/2020
+429;laide abdellah;guettara;45;M;brucellose;12/08/2020
+430;saoudi khadidja;omlaadam;22;F;brucellose;10/08/2020
+431;ghorab messaouda;guettara;13;F;brucellose;10/08/2020
+432;naoui abdelrazak;guettara;16;M;brucellose;11/08/2020
+433;daoudi chikha;guettara;30;f;brucellose;15/07/2020
+434;naoui saaid;guettara;7;m;brucellose;07/07/2020
+435;kemari mezia;selmana;30;f;brucellose;04/10/2020
+436;adjimi mostapha;guettara;18;m;brucellose;19/07/2020
+437;benabdellah nakhla;omlaadam;35;f;brucellose;11/06/2020
+438;belkahal aissa;feb;23;m;brucellose;23/06/2020
+439;kennay fatna;sedrahal;26;f;brucellose;01/06/2020
+440;med abdelsalem;sedrahal;8;m;brucellose;01/06/2020
+441;cheniba fatna;sedrahal;61;f;brucellose;20/04/2020
+442;saoudi kheira;sedrahal;24;f;brucellose;01/06/2020
+443;bentouati abdelhamid;sedrahal;24;m;brucellose;03/05/2020
+444;ghorab said;sedrahal;21;m;brucellose;13/04/2020
+445;attalah benaissa;feb;11;m;brucellose;17/08/2020
+446;naoui zohra;omlaadam;38;f;brucellose;14/10/2020
+447;brahimi ahmed;selmana;11;m;brucellose;17/10/2020
+448;bendjedou rabie;selmana;67;m;brucellose;14/10/2020
+449;nail ahmed;selmana;19;m;brucellose;07/10/2020
+450;adjimi mostapha;selmana;20;m;brucellose;07/10/2020
+451;zorigue ishak;sedrahal;9;m;brucellose;11/05/2020
+452;naoui attalah;sedrahal;24;m;brucellose;11/05/2020
+453;guezou lahcen;sedrahal;31;m;brucellose;06/05/2020
+454;dhib rokaia;sedrahal;66;f;brucellose;21/04/2020
+455;saoudi naas;sedrahal;61;m;brucellose;12/05/2020
+456;mahmoudi mohamed;feb;18;m;brucellose;18/08/2020
+457;messaouda tahiri;selmana;41;f;brucellose;06/10/2020
+458;djamila ben brahim;selmana;52;f;brucellose;06/10/2020
+459;chouitar aicha;sedrahal;15;f;brucellose;08/11/2020
+460;saoudi zohra;sedrahal;43;f;brucellose;08/11/2020
+461;logab abdelrahman;omlaadam;23;m;brucellose;21/07/2020
+1;nara mostapha;omlaadam;11;m;brucellose;10/11/2020
+2;tahiri djouda;selmana;5;f;brucellose;18/10/2020
+3;guiraa abderahmane;guettara;15;m;brucellose;07/09/2020
+4;aouicha tabouna;omlaadam;4;f;brucellose;18/11/2020
+5;sersoub mohamed;feb;15;m;brucellose;13/08/2020
+6;mouafak omelkheir;feb;25;f;brucellose;13/08/2020
+7;eloued mostapha;selmana;20;m;brucellose;16/11/2020
+8;mansour aicha;selmana;48;f;brucellose;16/11/2020
+9;tahiri mohamed;selmana;42;m;brucellose;09/11/2020
+10;borchi aicha;selmana;54;f;brucellose;19/10/2020
+11;abdelmalek naoui;sedrahal;5;m;brucellose;06/01/2021
+12;dhouaba brahim;omlaadam;48;m;brucellose;14/01/2021
+13;bouzidi kheira;omlaadam;13;f;brucellose;14/01/2021
+14;djaroub assema;deldoul;24;f;brucellose;11/01/2021
+15;ahmed benrebih;deldoul;11;m;brucellose;11/01/2021
+16;messaouda chlaikam;deldoul;37;f;brucellose;11/01/2021
+17;kheira ben nacer;selmana;19;f;brucellose;10/01/2021
+18;ben nadji zohra;selmana;36;f;brucellose;03/01/2021
+19;abdkader rammache;sedrahal;29;M;brucellose;07/01/2021
+20;noura bouzide;selmana;36;F;brucellose;07/01/2021
+21;aicha bennacer;omlaadam;3;F;brucellose;07/01/2021
+22;hamadi said;selmana;62;M;brucellose;05/01/2021
+23;benchanna abdallalh;omlaadam;83;M;brucellose;23/12/2020
+24;ben salem ahmed;selmana;85;M;brucellose;02/01/2021
+25;taibi mohamed;selmana;75;M;brucellose;02/01/2021
+26;bouzidi mohamed;selmana;44;M;brucellose;29/12/2020
+27;khelifa ahmed;selmana;68;M;brucellose;03/01/2021
+28;benkhelif yamna;omlaadam;58;f;brucellose;31/01/2021
+29;fatna saadaoui;deldoul;64;f;brucellose;25/01/2021
+30;mohamed reguige;omlaadam;68;m;brucellose;20/01/2021
+31;ghlissi khadija;deldoul;19;f;brucellose;25/01/2021
+32;radouan tayeb;guettara;9;m;brucellose;19/01/2021
+33;bendekim yamina;deldoul;40;f;brucellose;19/01/2021
+34;guiraa fatima;guettara;16;f;brucellose;04/01/2021
+35;benamara mohamed;amoura;8;m;brucellose;23/01/2021
+36;homaida khadra;amoura;24;f;brucellose;25/01/2021
+37;abdelaziz hawa;selmana;21;m;brucellose;17/01/2021
+38;morad lagraa;feb;12;m;brucellose;16/01/2021
+39;mohamed lagraa;feb;25;m;brucellose;25/01/2021
+40;amer lagraa;feb;45;m;brucellose;16/01/2021
+41;dahman naoui ;sedrahal;14;m;brucellose;10/01/2021
+42;ghorab souad;sedrahal;5;f;brucellose;07/02/2021
+43;baha fatna;guettara;42;f;brucellose;14/02/2021
+44;hmida khadra;selmana;24;f;brucellose;31/01/2021
+45;salamat mohamed;deldoul;31;m;brucellose;23/01/2021
+46;merinizaabdelhamid ;deldoul;42;m;brucellose;05/02/2021
+47;tahiri saleh;guettara;30;m;brucellose;14/02/2021
+48;hamada saleh;amourah;21;m;brucellose;06/02/2021
+49;khaled derkouche;selmana;82;m;brucellose;18/02/2021
+50;zekhroufa boussaoud;selmana;41;f;brucellose;18/02/2021
+51;benrebiha hadil;selmana;8;f;brucellose;06/02/2021
+52;omelkheir lagraa;selmana;26;f;brucellose;06/02/2021
+53;omhani ben houra;selmana;20;f;brucellose;21/01/2021
+54;naama abdelaaziz;selmana;62;m;brucellose;27/01/2021
+55;regueigue ali;selmana;57;m;brucellose;27/01/2021
+56;ahmidi elhachemi;sedrahal;23;m;brucellose;11/02/2021
+57;souieh fatna;sedrahal;30;f;brucellose;07/02/2021
+58;maameri aamer;sedrahal;9;m;brucellose;21/01/2021
+59;naamani messaouda;sedrahal;30;f;brucellose;14/02/2021
+60;laabidi rekaiet;selmana;30;m;brucellose;14/02/2021
+61;tahiri taher;guettara;66;m;brucellose;17/02/2021
+62;ghoraieb omelkheir;feb;35;f;brucellose;13/02/2021
+63;benghaouthi nadji;feb;20;f;brucellose;25/01/2021
+64;bakria mebarka;guettara;75;f;brucellose;20/01/2021
+65;hocine cherfia;amourah;23;m;brucellose;13/01/2021
+66;ziane zeineb;guettara;30;f;brucellose;10/01/2021
+67;taha ahmed;guettara;52;m;brucellose;04/02/2021
+68;regueigue ali;guettara;20;m;brucellose;09/02/2021
+69;bensaid boubaker;guettara;17;m;brucellose;22/02/2021
+70;bensaid fatiha;guettara;40;f;brucellose;23/02/2021
+71;benbrahim aissa;guettara;27;m;brucellose;02/03/2021
+72;benbrahim elhadje;guettara;34;m;brucellose;02/03/2021
+73;benbrahim laarbi;guettara;75;m;brucellose;02/03/2021
+74;tahiri dahmane;guettara;28;m;brucellose;11/02/2021
+75;belakhder mohamed;guettara;39;m;brucellose;17/02/2021
+76;djerbaoui kheira;selmana;60;f;brucellose;24/02/2021
+77;allel berkani;feb;22;m;brucellose;07/03/2021
+78;lagraa zohra;selmana;71;f;brucellose;07/03/2021
+79;taibi fatna;selmana;21;f;brucellose;14/02/2021
+80;naami belkacem;selmana;33;m;brucellose;21/02/2021
+81;karache freiha;selmana;65;f;brucellose;21/02/2021
+82;touati meriem;selmana;55;f;brucellose;07/03/2021
+83;djaaroun kheira;feb;44;f;brucellose;07/03/2021
+84;meriniza dahmane;omlaadam;36;m;brucellose;18/03/2021
+85;laagab hadda;omlaadam;18;f;brucellose;14/03/2021
+86;lakehal sadek;guettara;54;m;brucellose;27/03/2021
+87;bouchandouka mohamed;guettara;44;M;brucellose;31/03/2021
+88;bekhiti rahma;guettara;30;F;brucellose;01/04/2021
+89;bennacer abdelrahim;guettara;30;M;brucellose;30/03/2021
+90;ferhat mebarka;guettara;30;F;brucellose;14/03/2021
+91;redouane ziane;guettara;15;M;brucellose;31/03/2021
+92;souieh mohamed;sedrahal;48;M;brucellose;18/04/2021
+93;rouina noureddine;amourah;38;M;brucellose;16/04/2021
+94;lakehal sadek;guettara;54;M;brucellose;27/03/2021
+95;dellas omhanni;guettara;52;F;brucellose;04/04/2021
+96;dahmane khadidja;guettara;18;F;brucellose;04/04/2021
+97;hamdi ismail;amourah;30;M;brucellose;04/04/2021
+98;moati ziane;amourah;40;M;brucellose;04/04/2021
+99;laarbi mostafa;amourah;30;M;brucellose;04/04/2021
+100;benmouafek saad;feb;17;M;brucellose;01/04/2021
+101;chenaiba khadra;sedrahal;21;F;brucellose;28/03/2021
+102;banalia madani;sedrahal;36;M;brucellose;25/03/2021
+103;hadj tayeb;feb;30;M;brucellose;01/04/2021
+104;bennaoui soumaia;feb;18;F;brucellose;16/02/2021
+105;lagreb salem;feb;30;M;brucellose;17/02/2021
+106;rabhi abdeldjabar;feb;30;M;brucellose;30/03/2021
+107;gozim bachir;feb;26;M;brucellose;30/03/2021
+108;alal mohamed;feb;5;M;brucellose;22/03/2021
+109;gharbi saad;feb;42;M;brucellose;16/03/2021
+110;gharbi fatima;feb;30;F;brucellose;27/02/2021
+111;benbrahim lakhdar;feb;30;M;brucellose;28/03/2021
+112;benalia hadda;sedrahal;45;F;brucellose;28/02/2021
+113;benalia rebiha;sedrahal;25;F;brucellose;11/04/2021
+114;ziane ahmed;guettara;45;M;brucellose;07/04/2021
+115;merikh massaouda;sedrahal;55;M;brucellose;14/03/2021
+116;dahmen meriem;sedrahal;65;M;brucellose;09/03/2021
+117;charef khadra;sedrahal;41;F;brucellose;22/02/2021
+118;chedad mohamed;sedrahal;32;F;brucellose;08/02/2021
+119;hamadi boubaker;sedrahal;55;M;brucellose;09/02/2021
+120;sitouha ali;selmana;50;M;brucellose;05/04/2021
+121;remitha fatiha;deldoul;26;M;brucellose;04/04/2021
+122;boumidouna mohamed;selmana;26;M;brucellose;21/03/2021
+123;remitha laatra;deldoul;33;F;brucellose;01/04/2021
+124;fatima remitha;deldoul;14;M;brucellose;04/04/2021
+125;chelikam halima;deldoul;14;M;brucellose;01/04/2021
+126;djeklil aicha;deldoul;8;F;brucellose;05/04/2021
+127;chelikam ahmed;deldoul;17;M;brucellose;25/03/2021
+128;nadji nacer;guettara;26;M;brucellose;21/04/2021
+129;zayan attia;guettara;79;M;brucellose;20/04/2021
+130;benmelki fatna;guettara;56;F;brucellose;25/04/2021
+131;elbachir remaitha;deldoul;56;M;brucellose;15/04/2021
+132;benbelkacem hafnaoui;deldoul;54;M;brucellose;22/04/2021
+133;rekza beloul;deldoul;37;M;brucellose;15/04/2021
+134;lakhdar heddi;guettara;39;M;brucellose;19/04/2021
+135;allel mebarek;feb;18;M;brucellose;28/03/2021
+136;hanafi yemina;feb;30;F;brucellose;01/04/2021
+137;bennaoui kaniya;feb;35;F;brucellose;08/04/2021
+138;kaihoul brahim;feb;10;M;brucellose;06/04/2021
+139;zoubir bendaoud;deldoul;31;M;brucellose;08/04/2021
+140;dahmane noura;selmana;9;F;brucellose;07/04/2021
+141;kerrara mohamed;selmana;70;M;brucellose;11/04/2021
+142;houari moatar;selmana;36;M;brucellose;04/04/2021
+143;dahmane kamel;selmana;26;M;brucellose;11/04/2021
+144;belmelki aicha;selmana;45;f;brucellose;31/03/2021
+145;bousri omran;selmana;44;M;brucellose;14/04/2021
+146;benhadda messouda;guettara;40;f;brucellose;10/03/2021
+147;adjimi dahmane;guettara;56;m;brucellose;10/05/2021
+148;latreche tayeb;guettara;11;m;brucellose;07/04/2021
+149;kerache nadji;deldoul;37;m;brucellose;29/04/2021
+150;salamat brahim;omlaadam;37;m;brucellose;10/05/2021
+151;remitha khadija;deldoul;17;f;brucellose;27/04/2021
+152;chelikam mebarka;deldoul;40;f;brucellose;26/04/2021
+153;rahmoun amer;feb;30;m;brucellose;05/04/2021
+154;bensaad aamara;feb;67;m;brucellose;29/04/2021
+155;halfaia brahim;feb;61;m;brucellose;29/04/2021
+156;halfaia amar;feb;29;m;brucellose;28/04/2021
+157;laiche ahmed;feb;63;m;brucellose;05/04/2021
+158;kouidri sahra;feb;54;f;brucellose;12/04/2021
+159;zeroug ahmed;feb;66;m;brucellose;20/04/2021
+160;segheir fatiha;feb;26;f;brucellose;04/04/2021
+161;djaballah khaled;feb;61;m;brucellose;03/05/2021
+162;chaoui lakhder;feb;45;m;brucellose;03/05/2021
+163;bouchandouka amer;guettara;16;m;brucellose;19/05/2021
+164;khaouni mohamed;guettara;62;m;brucellose;19/05/2021
+165;naimi mohamed;omlaadam;75;m;brucellose;18/05/2021
+166;selami saadi;omlaadam;53;m;brucellose;18/05/2021
+167;allaoua brahim;omlaadam;9;m;brucellose;18/05/2021
+168;meriniza rokaia;omlaadam;80;f;brucellose;05/04/2021
+169;laadjal lakhdar;selmana;76;m;brucellose;12/05/2021
+170;djeroub belkheir;selmana;25;m;brucellose;12/05/2021
+171;benchikh ali;selmana;35;m;brucellose;27/04/2021
+172;dacher mohamed;selmana;50;m;brucellose;11/05/2021
+173;laadjal aaida;selmana;7;f;brucellose;22/05/2021
+174;dacher lakhdar;selmana;15;m;brucellose;12/05/2021
+175;dacher aicha;selmana;85;f;brucellose;12/05/2021
+176;guen mohamed;selmana;36;m;brucellose;20/05/2021
+177;dacher kholoud;selmana;17;f;brucellose;12/05/2021
+178;selikh abdellah;sedrahal;46;m;brucellose;26/04/2021
+179;assali awali;sedrahal;36;f;brucellose;03/05/2021
+180;benharzellah ahmed;selmana;76;m;brucellose;03/05/2021
+181;saoudi zolikha;selmana;84;f;brucellose;18/05/2021
+182;bensalem elaarbi;selmana;37;m;brucellose;07/05/2021
+183;touati merbouha;selmana;40;f;brucellose;11/05/2021
+184;guen fatima;selmana;37;f;brucellose;16/05/2021
+185;gueroud meriem;selmana;33;f;brucellose;24/05/2021
+186;djaroub ossama;deldoul;24;m;brucellose;17/05/2021
+187;djaroub abdellah;deldoul;68;m;brucellose;17/05/2021
+188;beloul rekza;deldoul;36;f;brucellose;20/05/2021
+189;kazrane nouri;sedrahal;59;m;brucellose;29/05/2021
+190;kerzou mourad;sedrahal;26;m;brucellose;27/05/2021
+191;kennay azouza;sedrahal;13;f;brucellose;26/05/2021
+192;melak messouda;sedrahal;25;f;brucellose;21/05/2021
+193;derafa belkacem;sedrahal;70;m;brucellose;25/05/2021
+194;benalia ahmed;sedrahal;24;m;brucellose;27/05/2021
+195;alkouni toumi;sedrahal;38;m;brucellose;20/05/2021
+196;benalia nail ;sedrahal;14;m;brucellose;06/05/2021
+197;kenay chaibia;sedrahal;64;f;brucellose;05/05/2021
+198;touati abdelkader;sedrahal;54;m;brucellose;20/05/2021
+199;dellass saadia;selmana;75;f;brucellose;07/05/2021
+200;ali merais;selmana;75;m;brucellose;26/04/2021
+201;oubah lakhdar;selmana;73;m;brucellose;12/05/2021
+202;saida ben nacer;selmana;22;f;brucellose;14/05/2021
+203;thameri nail;feb;77;m;brucellose;24/05/2021
+204;bendjabellah khadra;feb;55;f;brucellose;16/05/2021
+205;benseliman abdelkader;feb;20;m;brucellose;23/05/2021
+206;dellas melouka;guettara;23;f;brucellose;07/06/2021
+207;bendjaballah hakim;feb;21;m;brucellose;11/05/2021
+208;benalia laarbi;feb;61;m;brucellose;23/05/2021
+209;lakhdar chawi;feb;45;m;brucellose;16/05/2021
+210;halfaia nadji;feb;27;m;brucellose;02/05/2021
+211;bendjabballah adam;feb;53;m;brucellose;17/05/2021
+212;mehamdi mohamed;sedrahal;44;m;brucellose;31/05/2021
+213;cheniba huda;sedrahal;43;f;brucellose;02/06/2021
+214;fodhili ali;sedrahal;70;m;brucellose;08/06/2021
+215;benattallah baya;guattara;21;f;brucellose;15/06/2021
+216;remadnia ahmed;guattara;40;m;brucellose;10/06/2021
+217;gozim khelifa;selmana;17;m;brucellose;07/06/2021
+218;laib brahim;selmana;23;m;brucellose;10/06/2021
+219;lagrab ali;selmana;60;m;brucellose;10/06/2021
+220;tahiri ibrahim;selmana;45;m;brucellose;09/06/2021
+221;melati ahmed;selmana;13;m;brucellose;09/06/2021
+222;melati bouragaa;selmana;60;m;brucellose;12/06/2021
+223;belkheir khelfallah;selmana;52;m;brucellose;27/06/2021
+224;gherbi mohamed;feb;34;m;brucellose;27/06/2021
+225;belkheiri belkheir;feb;20;m;brucellose;11/06/2021
+226;mokhlouf mohamed;feb;35;m;brucellose;27/06/2021
+227;dokman anwar;feb;3;m;brucellose;20/06/2021
+228;belkheiri khaled;feb;25;m;brucellose;12/05/2021
+229;kazran fatima;feb;43;f;brucellose;12/05/2021
+230;rabhi amar;feb;5;m;brucellose;14/06/2021
+231;zidan manad;feb;8;m;brucellose;06/06/2021
+232;laiche abdellah;feb;27;m;brucellose;31/05/2021
+233;djaiou lakhdar;selmana;36;m;brucellose;10/06/2021
+234;ghouini fatima;selmana;45;f;brucellose;07/06/2021
+235;besoud aya;selmana;4;f;brucellose;08/06/2021
+236;elaib ali;selmana;23;m;brucellose;07/06/2021
+237;mimoun meriem;selmana;41;f;brucellose;31/05/2021
+238;merzoug khadidja;selmana;36;f;brucellose;06/06/2021
+239;kraiker mazouz;selmana;60;m;brucellose;06/06/2021
+240;benslilih aicha;selmana;21;f;brucellose;24/05/2021
+241;obah mostapha;selmana;60;m;brucellose;20/05/2021
+242;kraibaa ahmed;selmana;47;m;brucellose;21/06/2021
+243;gharbi abdelkader;selmana;34;m;brucellose;17/06/2021
+244;redjam ali;selmana;8;m;brucellose;17/06/2021
+245;redjam ibrahim;sedrahal;10;m;brucellose;17/06/2021
+246;baghdadou zineb;amourah;56;f;brucellose;24/06/2021
+247;lahrache said;guettara;30;M;brucellose;17/06/2021
+248;borchi khadidja;guettara;30;F;brucellose;17/06/2021
+249;mimoune elaalami;guettara;18;M;brucellose;14/06/2021
+250;chetouh maamar;guettara;27;M;brucellose;14/06/2021
+251;lakehal saaid;selmana;48;m;brucellose;23/06/2021
+252;bessoud ahmed;selmana;30;m;brucellose;13/06/2021
+253;benselilih azzeddine;selmana;21;m;brucellose;10/06/2021
+254;merouch saad;selmana;65;m;brucellose;15/06/2021
+255;tetta habiba;selmana;42;f;brucellose;01/06/2021
+256;bessoud mebarek;selmana;35;m;brucellose;14/06/2021
+257;dhiab aicha;selmana;22;f;brucellose;13/06/2021
+258;moati saad;deldoul;14;m;brucellose;13/06/2021
+259;melati mebarka;deldoul;57;f;brucellose;13/06/2021
+260;daoudi nakhla;guettara;60;f;brucellose;02/07/2021
+261;djaidire khadidja;guettara;23;f;brucellose;01/07/2021
+262;remadhnia dahmane;guettara;18;m;brucellose;30/06/2021
+263;khenaiche chaima;deldoul;11;f;brucellose;13/06/2021
+264;manale beloul;deldoul;19;f;brucellose;10/06/2021
+265;aabassi kheira;deldoul;16;f;brucellose;22/06/2021
+266;ayate mohamed;deldoul;54;m;brucellose;27/06/2021
+267;taibi kheira ;deldoul;62;f;brucellose;27/06/2021
+268;mehamdi mebrouk;sedrahal;44;m;brucellose;01/06/2021
+269;guettaf mostapha;sedrahal;30;m;brucellose;03/06/2021
+270;foudili ali;sedrahal;70;m;brucellose;08/06/2021
+271;chouitar ahlem;sedrahal;13;f;brucellose;02/06/2021
+272;othmen mohamed;deldoul;23;m;brucellose;07/06/2021
+273;chetouh khadidja;selmana;35;f;brucellose;27/06/2021
+274;bendekim mohamed;selmana;30;m;brucellose;08/06/2021
+275;dahmen belkheir ;selmana;57;m;brucellose;22/06/2021
+276;lakehal saad;selmana;30;m;brucellose;10/07/2021
+277;mimoun ziane;guettara;20;m;brucellose;12/07/2021
+278;kheinach saaid;deldoul;31;m;brucellose;31/05/2021
+279;belkheir hafnaoui;deldoul;30;m;brucellose;01/06/2021
+280;madani obah;deldoul;39;m;brucellose;09/06/2021
+281;lakehal amara;deldoul;21;m;brucellose;15/05/2021
+282;fatma beloul;deldoul;39;f;brucellose;25/05/2021
+283;merouch omar;selmana;24;m;brucellose;07/08/2021
+284;merouch walid;selmana;22;m;brucellose;05/06/2021
+285;benhadje mohamed;feb;9;m;brucellose;02/07/2021
+286;aloka abdelhak;feb;35;m;brucellose;12/07/2021
+287;makhlouf farah;feb;9;f;brucellose;14/07/2021
+288;gharbi hocine;feb;29;m;brucellose;04/08/2021
+289;elaich fatma;fed;30;f;brucellose;20/07/2021
+290;elaich manar;fed;28;f;brucellose;04/08/2021
+291;lagreb amer;fed;37;m;brucellose;16/06/2021
+292;medouh bachir;fed;19;m;brucellose;02/06/2021
+293;merikh mohamed;sedrahal;29;m;brucellose;06/08/2021
+294;khennich youcef;deldoul;30;m;brucellose;07/09/2021
+295;hamrouche ismail;sedrahal;58;m;brucellose;24/08/2021
+296;choaaib hadda;sedrahal;17;f;brucellose;02/09/2021
+297;saadi amel;sedrahal;17;f;brucellose;04/09/2021
+298;saadi ftoum;sedrahal;35;f;brucellose;04/09/2021
+299;ridha mohamed;guettara;36;m;brucellose;06/10/2021
+300;daoudi yamina;guettara;24;f;brucellose;01/09/2021
+301;laadjel salem;amourah;49;m;brucellose;09/09/2021
+302;merikh imen;selmana;19;f;brucellose;11/09/2021
+303;laageb hadda;omlaadam;18;f;brucellose;20/09/2021
+304;laagab zohra;omlaadam;38;f;brucellose;20/09/2021
+305;baghdado bouderbala;selmana;60;m;brucellose;29/09/2021
+306;bouakaz mohamed;selmana;47;m;brucellose;30/09/2021
+307;obah lakhdar;selmana;67;m;brucellose;12/09/2021
+308;kerrida mebarka;guettara;45;f;brucellose;18/09/2021
+309;daoudi kadouria;guettara;45;f;brucellose;10/11/2021
+310;rida mohamed;guettara;36;m;brucellose;04/10/2021
+311;chaoui tayeb;feb;16;m;brucellose;08/11/2021
+312;gharbi fatima;feb;25;f;brucellose;13/11/2021
+313;rouina saadi;amourah;39;m;brucellose;28/11/2021
+314;ghezal kheireddine;selmana;14;M;brucellose;18/10/2021
+315;hebib fadhila;selmana;30;F;brucellose;14/11/2021
+316;hathat amira;selmana;18;F;brucellose;20/11/2021
+317;djeloul mohamed;selmana;35;M;brucellose;12/12/2021
+318;touati mohamed;amourah;63;M;brucellose;12/12/2021
+319;laadjal omelkheir;amourah;60;F;brucellose;05/12/2021
+320;benselilih yacin;selmana;23;M;brucellose;28/10/2021
+321;serour radhouan;selmana;26;M;brucellose;18/10/2021
+322;regueieg mebkhout;selmana;60;M;brucellose;05/12/2021
+323;ferah mohamed;selmana;73;M;brucellose;29/10/2021
+324;zian bachir;selmana;68;M;brucellose;18/10/2021
+325;medjabah mazouz;selmana;44;M;brucellose;27/10/2021
+326;bessoud habiba;selmana;30;F;brucellose;05/09/2021
+327;berkouch mohamed;omlaadam;30;M;brucellose;06/12/2021
+328;mehfoudi aicha;deldoul;75;F;brucellose;27/10/2021
+329;djeklil aicha;deldoul;8;F;brucellose;18/12/2022
+330;renani thamer;deldoul;30;M;brucellose;28/10/2022
+331;taibi boumedien;selmana;42;M;brucellose;15/12/2022
+332;baidi elkaiwani;deldoul;83;M;brucellose;22/09/2022
+333;baghdadi lakhdar;deldoul;20;M;brucellose;19/12/2022
+334;hammade messoud;deldoul;28;M;brucellose;07/12/2022
+335;medjabah mazouz;feb;34;M;brucellose;27/10/2022
+336;laadjal omelkheir;amourah;60;F;brucellose;05/12/2022
+337;ziane bachir;selmana;68;M;brucellose;18/10/2022
+1;djidoul mohamed;selmana;35;m;brucellose;12/12/2021
+2;berkoucha mohamed;oum laadam;30;m;brucellose;06/12/2021
+3;laadjal oumelkhir;amourah;60;f;brucellose;05/12/2021
+4;reguieg mabkhout;selmana;60;m;brucellose;05/12/2021
+5;far mohamed ;selmana;73;m;brucellose;20/10/2021
+6;serrar radouane;selmana;26;m;brucellose;20/10/2021
+7;benslilih yacine;selmana;23;m;brucellose;28/11/2021
+8;modjabah meriem;fed;30;f;brucellose;27/10/2021
+9;ziane bachir ;selmana;68;m;brucellose;18/10/2021
+10;boubaker khelifa;feb;11;m;brucellose;16/01/2022
+11;bessaoud mohamed;selmana;30;m;brucellose;02/01/2022
+12;naibi aicha;selmana;30;F;brucellose;01/01/2022
+13;baghdadou ahmed;selmana;43;m;brucellose;05/01/2022
+14;ziane ahmed;guettara;52;m;brucellose;27/01/2022
+15;bacha fatna;selmana;45;f;brucellose;22/01/2022
+16;haoua abdelhamid;selmana;40;m;brucellose;26/01/2022
+17;Allal Mohamed;Selmana;14;m;brucellose;01/02/2022
+18;Gouzim Youcef;Selmana;33;m;brucellose;03/02/2022
+19;guimouza hania ;Selmana;20;f;brucellose;01/02/2022
+20;Benmalki Ziane;deldoul;10;m;brucellose;28/02/2022
+21;tayeb lakhdar;guettara;20;M;brucellose;27/02/2022
+22;tayeb amina;guettara;9;F;brucellose;27/02/2022
+23;benselilih aissa;selmana;30;M;brucellose;10/03/2022
+24;dhouaba brahim;oumlaadam;17;m;brucellose;02/03/2022
+25;brahimi mokhtar;guettara;30;m;brucellose;03/01/2022
+26;bassoud khadidja;selmana;30;f;brucellose;18/04/2022
+27;ghoul fatna;selmana;70;f;brucellose;04/03/2022
+28;redoune messoud;guettara;8;m;brucellose;26/04/2022
+29;mimoune aicha;guettara;40;f;brucellose;08/05/2022
+30;belmadani bachir;guettara;49;m;brucellose;21/04/2022
+31;lahreche said ;guettara;10;m;brucellose;18/04/2022
+32;thelb oumelkhir;guettara;9;f;brucellose;25/04/2022
+33;lahrech ali;guettara;51;m;brucellose;23/05/2022
+34;mellati rahma;guettara;32;f;brucellose;22/05/2022
+35;ziane smail;guettara;20;m;brucellose;20/05/2022
+36;moati ahmed;amourah;82;m;brucellose;29/03/2022
+37;fodili fatna;amourah;30;f;brucellose;10/05/2022
+38;moati boufateh;amourah;52;m;brucellose;24/04/2022
+39;regaiaa rokaia;amourah;9;f;brucellose;27/02/2022
+40;benaissa khadidja;feb;60;f;brucellose;26/05/2022
+41;bennaoui belhadje;feb;23;m;brucellose;11/05/2022
+42;khelifa lakhdar;guettara;33;m;brucellose;16/06/2022
+43;lahneche ibrahim;guettara;63;m;brucellose;14/06/2022
+44;remadnia nadji;guettara;39;m;brucellose;28/06/2022
+45;alal mohamed;feb;7;m;brucellose;12/06/2022
+46;belahouel belkheir;guettara;42;m;brucellose;20/06/2022
+47;brahim lahcen;guettara;63;m;brucellose;14/06/2022
+48;boukhalet khalifa;feb;15;m;brucellose;18/07/2022
+49;abdelhafidh sofiane;feb;32;m;brucellose;20/07/2022
+50;laiche fatna;feb;72;f;brucellose;15/07/2022
+51;meriniza bachir;oumlaadam;33;m;brucellose;14/07/2022
+52;benaom ahmed;guettara;46;m;brucellose;08/08/2022
+53;megueni ibrahim;guettara;35;m;brucellose;17/08/2022
+54;daoudi bachir;guettara;42;m;brucellose;18/08/2022
+55;ben mazouz oumhani;guettara;40;f;brucellose;09/08/2022
+56;abdelwahab khadija;guettara;46;f;brucellose;05/09/2022
+57;bedirina houria;sedrahal;27;f;brucellose;22/08/2022
+58;khamkham noura;amourah;29;f;brucellose;14/08/2022
+59;saadi mebarka;sedrahal;38;f;brucellose;01/09/2022
+60;hassani elaassali;sedrahal;16;m;brucellose;06/09/2022
+61;charboul naoum;deldoul;48;m;brucellose;23/09/2022
+62;laharache ahlem;guettara;4;f;brucellose;07/09/2022
+63;far hiba;feb;15;f;brucellose;12/10/2022
+64;far mohamed;feb;50;m;brucellose;15/10/2022
+65;benabdelssalam belkheir;feb;40;m;brucellose;21/10/2022
+66;boukhalat aamar;feb;21;m;brucellose;16/10/2022
+67;bennaoui souad;feb;12;f;brucellose;14/08/2022
+68;laiche sabrine;feb;21;f;brucellose;12/07/2022
+69;maalmi zohra;feb;64;f;brucellose;15/08/2022
+70;thamri rabah;feb;19;m;brucellose;04/08/2022
+71;laiche fatna;feb;72;f;brucellose;05/07/2022
+72;halfaia saadia;feb;48;m;brucellose;31/07/2022
+73;ben hadj saddek;feb;29;m;brucellose;07/08/2022
+74;halfaia fatna;feb;51;f;brucellose;31/07/2022
+75;chraitte fatna;feb;36;f;brucellose;02/08/2022
+76;laiche mohamed;feb;30;m;brucellose;24/08/2022
+77;sghair ahmed;feb;49;m;brucellose;01/08/2022
+78;belkhiri hadjer;feb;23;f;brucellose;08/09/2022
+79;boukhalat khelifa;feb;15;m;brucellose;28/09/2022
+80;halfaia omelkheir;feb;40;f;brucellose;30/09/2022
+81;benabdelhafidh soufian;feb;32;m;brucellose;01/10/2022
+82;sid ahmed ;feb;61;m;brucellose;16/09/2022
+1;nouidjem elhadje;feb;48;m;brucellose;12/02/2023
+2;rahmoune saadi;feb;29;m;brucellose;12/02/2023
+3;rahmoune belkhattab;feb;28;m;brucellose;25/02/2023
+4;moufak fathi;feb;21;m;brucellose;05/02/2023
+5;benkonissa nadji;feb;30;m;brucellose;02/02/2023
+6;naama moussa;sedrahal;13;m;brucellose;02/03/2023
+7;kennay abdelrahim;sedrahal;30;m;brucellose;14/03/2023
+8;dhib mohamed;sedrahal;46;m;brucellose;16/03/2023
+9;atalah mohamed;sedrahal;26;m;brucellose;16/03/2023
+10;dhib nacira;sedrahal;13;f;brucellose;02/03/2023
+11;kennay ben aissa;sedrahal;22;m;brucellose;28/03/2023
+12;hatab jouri;sedrahal;6;F;brucellose;20/03/2023
+13;chedad aicha;sedrahal;46;F;brucellose;08/03/2023
+14;chaaibe laarbi;sedrahal;24;M;brucellose;05/03/2023
+15;naama mohcen;sedrahal;24;M;brucellose;21/03/2023
+16;ben alia aicha;sed;10;f;brucellose;13/04/2023
+17;hassani ahmed;sed;13;m;brucellose;16/04/2023
+18;assali assali;sed;41;m;brucellose;03/04/2023
+19;gorti azeddin;sed;31;m;brucellose;24/04/2023
+20;souiah fatna;sed;42;f;brucellose;25/04/2023
+21;assali mohamed;sedrahal;20;m;brucellose;16/04/2023
+22;ben alia belkacem;sedrahal;23;m;brucellose;11/04/2023
+23;ben naooui ben alia;feb;56;m;brucellose;09/03/2023
+24;lakhal dahman;guattara;40;m;brucellose;20/04/2023
+25;lakhal rafika;guattara;11;f;brucellose;26/04/2023
+26;tahiri ahmed;guattara;25;m;brucellose;26/04/2023
+27;lakhal ahmed;guattara;10;m;brucellose;26/04/2023
+28;toumi khadija;guattara;30;f;brucellose;28/04/2023
+29;chatouh khadija;guattara;41;f;brucellose;29/03/2023
+30;barakat abdlkader;selmana;43;m;brucellose;09/04/2023
+31;rahmoun zakhroufa;selmana;26;f;brucellose;09/04/2023
+32;barakat abdlhadi;guattara;26;m;brucellose;09/04/2023
+33;haouari ikram;selmana;9;f;brucellose;06/03/2023
+34;bedoui abdellah;selmana;63;m;brucellose;07/03/2023
+35;heffaf laid;selmana;81;m;brucellose;19/03/2023
+36;salah lahouel;feb;6;m;brucellose;18/04/2023
+37;belaid djouber;feb;10;m;brucellose;05/04/2023
+38;halfaia abdelkader;feb;28;m;brucellose;30/04/2023
+39;djoubar abdellah;feb;12;m;brucellose;29/04/2023
+40;djoubar meriem;feb;3;f;brucellose;30/04/2023
+41;salah naoumi;feb;16;m;brucellose;06/05/2023
+42;bedoui abdelhadi;feb;12;m;brucellose;19/04/2023
+43;boukhalkhal abdelkader;feb;36;m;brucellose;19/04/2023
+44;makhlouf amira;feb;23;f;brucellose;05/05/2023
+45;halfaia laid;feb;71;m;brucellose;09/05/2023
+46;touil mohamed;sedrahal;40;m;brucellose;21/05/2023
+47;saadi hadda;sedrahal;27;f;brucellose;04/06/2023
+48;serayah abdelmoumen;sedrahal;17;m;brucellose;01/06/2023
+49;chedad imane;sedrahal;10;f;brucellose;04/06/2023
+50;hemrouche fatiha;sedrahal;11;f;brucellose;27/05/2023
+51;bergoug faiza;sedrahal;30;f;brucellose;04/06/2023
+52;lahwal salah;fed;6;m;brucellose;18/04/2023
+53;jawbar fatima;fed;10;f;brucellose;22/04/2023
+54;ben naoui benalia;fed;55;m;brucellose;25/04/2023
+55;gomez bilal;fed;15;m;brucellose;13/05/2023
+56;benlhaj naji;fed;38;m;brucellose;04/05/2023
+57;jawbar belgis;fed;17;f;brucellose;15/04/2023
+58;halfaiya abdlkader;fed;29;m;brucellose;30/04/2023
+59;jawbar meriem;fed;3;f;brucellose;30/04/2023
+60;jawbar abdalah;fed;12;m;brucellose;29/04/2023
+61;salah nawal;feb;16;f;brucellose;05/04/2023
+62;berabeh abdellah;feb;12;m;brucellose;17/04/2023
+63;boukhalaf ombareka;feb;36;f;brucellose;19/04/2023
+64;makhlouf laamria;feb;29;f;brucellose;10/04/2023
+65;laidi khalfalah;fed;7;m;brucellose;09/05/2023
+66;halfaia abdellah;fed;24;m;brucellose;15/05/2023
+67;mokhtari meftah;fed;34;m;brucellose;14/05/2023
+68;djoubar lakehal;fed;38;m;brucellose;12/05/2023
+69;attalah meriem;fed;44;f;brucellose;11/05/2023
+70;sayar charfia;fed;25;f;brucellose;18/05/2023
+71;chetouh messoud;selmana;14;m;brucellose;11/06/2023
+72;benhadda ahmed;guettara;56;m;brucellose;11/06/2023
+73;belelmi abdelkader;guettara;52;m;brucellose;20/06/2023
+74;delles fatma;guettara;33;f;brucellose;21/06/2023
+75;laoud rahma;guettara;40;f;brucellose;27/06/2023
+76;ziane ahmed;guettara;18;m;brucellose;19/06/2023
+77;hebal mohamed;guettara;55;m;brucellose;27/06/2023
+78;djaidir aziz;guettara;34;m;brucellose;06/07/2023
+79;rebouh abdelrahmane;guettara;16;m;brucellose;22/06/2023
+80;belaouam mebarka;guettara;25;f;brucellose;22/06/2023
+81;beloul aicha;guettara;14;f;brucellose;06/07/2023
+82;chihoub fatima;deldoul;17;f;brucellose;15/06/2023
+83;sitouh haizia;deldoul;30;f;brucellose;01/07/2023
+84;oubah ombarka;deldoul;50;f;brucellose;26/06/2023
+85;djeklil tayeb;deldoul;63;m;brucellose;22/06/2023
+86;oubah aicha;deldoul;25;f;brucellose;13/06/2023
+87;dahas fatoum;deldoul;52;f;brucellose;03/06/2023
+88;beloul aicha;deldoul;14;f;brucellose;01/06/2023
+89;guet meriem;sedrahal;38;f;brucellose;06/07/2023
+90;koraibaa mohamed;sedrahal;87;m;brucellose;17/07/2023
+91;bakouche abdellah;sedrahal;39;m;brucellose;17/06/2023
+92;oubah fatna;deldoul;40;f;brucellose;03/07/2023
+93;mdouha aicha;deldoul;30;f;brucellose;26/07/2023
+94;tahah tourkia;selmana;41;f;brucellose;15/07/2023
+95;laabidi halima;selmana;25;f;brucellose;04/07/2023
+96;bakria fatna;selmana;30;f;brucellose;21/07/2023
+97;chetouh saida;selmana;16;f;brucellose;19/07/2023
+98;nacer cherifa;guettara;55;f;brucellose;20/07/2023
+99;taleb yamina;guettara;30;f;brucellose;06/08/2023
+100;zayane yassen;deldoul;8;m;brucellose;15/07/2023
+101;zayane beloul;deldoul;15;m;brucellose;26/07/2023
+102;naimi halima;guettara;16;f;brucellose;27/07/2023
+103;salhi messoud;guettara;71;m;brucellose;27/07/2023
+104;regaia safia;amourah;26;f;brucellose;21/07/2023
+105;nefti saida;amourah;40;f;brucellose;30/06/2023
+106;regaiag hadda;omlaadam;32;f;brucellose;22/06/2023
+107;ben kouider aid;guettara;25;m;brucellose;23/06/2023
+108;garache samira;guettara;12;f;brucellose;20/06/2023
+109;taleb omelkheir;guettara;10;f;brucellose;10/08/2023
+110;taleb alia;guettara;18;f;brucellose;12/07/2023
+111;rabhi nessrine;feb;5;f;brucellose;12/07/2023
+112;adjaimi ahmed;selmana;10;m;brucellose;07/07/2023
+113;khallefallah omar;selmana;13;m;brucellose;04/07/2023
+114;laadjel zeinab;amourah;40;f;brucellose;03/07/2023
+115;dahmane mokhtar;selmana;65;m;brucellose;02/07/2023
+116;laadjimi bayan;selmana;4;f;brucellose;29/06/2023
+117;laadjimi yahia;selmana;8;m;brucellose;29/06/2023
+118;maati ahmed;amourah;71;m;brucellose;06/07/2023
+119;marwache laila;selmana;4;f;brucellose;06/07/2023
+120;ghoul bahria;deldoul;29;f;brucellose;10/07/2023
+121;gataf hanane;deldoul;23;f;brucellose;14/07/2023
+122;touati khawla;selmana;10;f;brucellose;23/07/2023
+123;benrebiha lagin;deldoul;5;f;brucellose;20/07/2023
+124;basoud boubaker;guettara;30;m;brucellose;15/07/2023
+125;aidi ahmida;selmana;44;m;brucellose;16/07/2023
+126;bakria lamine;selmana;7;m;brucellose;07/08/2023
+127;ben brahim belkheir;selmana;30;m;brucellose;07/08/2023
+128;maache abdelrezak;selmana;17;m;brucellose;23/07/2023
+129;deradji thamer;selmana;18;m;brucellose;07/08/2023
+130;laadjal alia;amourah;52;f;brucellose;20/07/2023
+131;bakria saaida;selmana;48;f;brucellose;23/07/2023
+132;derbal aachoura;sedrahal;12;f;brucellose;04/08/2023
+133;ghriab abdelrahmane;selmana;7;m;brucellose;30/07/2023
+134;benbrahim somia;selmana;22;f;brucellose;03/08/2023
+135;zayane atia;guettara;24;m;brucellose;10/08/2023
+136;benhadda imane;guettara;19;f;brucellose;13/08/2023
+137;samdi chaibi;sedrahal;37;m;brucellose;07/08/2023
+138;guellile mostapha;sedrahal;25;m;brucellose;31/08/2023
+139;amraoui abdelkader;sedrahal;56;m;brucellose;10/08/2023
+140;lamlouma talia;sedrahal;18;f;brucellose;03/08/2023
+141;naoumi fatima;sedrahal;40;f;brucellose;13/08/2023
+142;saaoudi mira;sedrahal;50;f;brucellose;10/09/2023
+143;brahimi laadjale;sedrahal;67;m;brucellose;29/08/2023
+144;ghorab zohra;sedrahal;33;f;brucellose;25/08/2023
+145;mehamedi safi;sedrahal;48;m;brucellose;10/08/2023
+146;ghorab tayeb;sedrahal;55;m;brucellose;20/07/2023
+147;mribah hocine;sedrahal;28;m;brucellose;24/07/2023
+148;assali sara;sedrahal;13;f;brucellose;10/07/2023
+149;benamara fatima;sedrahal;77;f;brucellose;24/08/2023
+150;saadi bakria;sedrahal;23;m;brucellose;07/08/2023
+151;selikhe charafedine;sedrahal;40;m;brucellose;10/07/2023
+152;merikh saadia;sedrahal;15;f;brucellose;27/07/2023
+153;naama mohamed;sedrahal;20;m;brucellose;27/07/2023
+154;ghoul tayeb;sedrahal;26;m;brucellose;10/07/2023
+155;ganouza messoud;sedrahal;51;m;brucellose;12/08/2023
+156;chenaiba hadda;sedrahal;57;f;brucellose;10/08/2023
+157;chedad aya;sedrahal;8;f;brucellose;24/07/2023
+158;chouitar aicha;sedrahal;18;f;brucellose;26/07/2023
+159;laoud belkacem;guettara;45;m;brucellose;16/09/2023
+160;mimoun kouider;guettara;33;m;brucellose;17/09/2023
+161;benhadda imane;guettara;19;f;brucellose;17/09/2023
+162;ziane atia;guettara;24;m;brucellose;23/09/2023
+163;sariah ahmed;sedrahal;82;m;brucellose;24/10/2023
+164;ghorab elhaje;sedrahal;29;m;brucellose;20/09/2023
+165;benalia hedad;sedrahal;56;m;brucellose;27/09/2023
+166;mehamdi madani;sedrahal;56;m;brucellose;27/09/2023
+167;benalia hoda;sedrahal;49;f;brucellose;27/09/2023
+168;karboub sadia;deldoul;70;f;brucellose;27/08/2023
+169;slailih fatiha;omlaadam;23;f;brucellose;29/08/2023
+170;reguiag ahmed;omlaadam;21;m;brucellose;31/08/2023
+171;benrbaiha ahmed;deldoul;54;m;brucellose;03/09/2023
+172;haoua mohemad;selmana;26;m;brucellose;03/09/2023
+173;reguiag abdelnour;omlaadam;7;m;brucellose;04/09/2023
+174;zorig atra;sedrahal;26;f;brucellose;07/09/2023
+175;touati abdelkader;selmana;75;m;brucellose;16/10/2023
+176;touati lakhdar;selmana;32;m;brucellose;16/10/2023
+177;semache mohamed;selmana;55;m;brucellose;16/10/2023
+178;benghouthi meftah;selmana;19;m;brucellose;16/10/2023
+179;brahimi lakhdar;selmana;25;m;brucellose;16/10/2023
+180;rezazfa herkati;selmana;19;m;brucellose;16/10/2023
+181;henache nour elhouda;selmana;20;f;brucellose;16/10/2023
+182;ziane attia;selmana;82;m;brucellose;16/10/2023
+183;armar fatna;sedrahal;83;f;brucellose;18/09/2023
+184;mraouich halima;selmana;25;f;brucellose;14/09/2023
+185;boumkhalat mobarka;fed;30;f;brucellose;14/09/2023
+186;radouan ramliya;selmana;21;f;brucellose;14/09/2023
+187;boumkhalat hada;fed;70;f;brucellose;14/09/2023
+188;elgan khoussa;selmana;56;f;brucellose;19/09/2023
+189;kouidri janah;selmana;70;f;brucellose;19/09/2023
+190;chlaigim massouda;daldoul;40;f;brucellose;19/09/2023
+191;chaouli meriem;daldoul;35;f;brucellose;24/09/2023
+192;ghorab mohamed;sedrahal;7;m;brucellose;26/11/2023
+193;saadi tayeb;sedrahal;47;m;brucellose;13/11/2023
+1;benmoussa laatra;guettara;21;f;lc;17/01/2019
+2;abdelwahab nessrine;guettara;5;f;lc;22/01/2019
+3; bakhdache kholoud;guettara;6;f;lc;22/01/2019
+4;djaidir ziane;guettara;18;m;lc;21/01/2019
+5;benmoussa touati;guettara;27;m;lc;22/01/2019
+6;gueroud omelkheir;selmana;50;f;lc;27/12/2018
+7;gueroud brahim;selmana;58;m;lc;27/12/2018
+8;regueigue baya;selmana;31;f;lc;14/01/2019
+9;mansour rachid;selmana;32;m;lc;14/01/2019
+10;mansour zakaria;selmana;1;m;lc;15/01/2019
+11;kraiwaa brahim;selmana;9;m;lc;29/12/2018
+12;kraiwaa mohamed;selmana;6;m;lc;30/12/2019
+13;tahiri abdelaziz;selmana;72;m;lc;27/01/2019
+14;seghir malika;feb;1;f;lc;30/12/2019
+15;ouad mohamed;selmana;15;m;lc;04/02/2019
+16;dahmane halima;selmana;47;f;lc;04/02/2019
+17;benfatacha naouia;selmana;5;f;lc;04/02/2019
+18;messaouda kraibaa;sedrahal;30;f;lc;10/03/2019
+19;khadra kraibaa;sedrahal;5;f;lc;10/03/2019
+20;regueigue omar;omlaadam;12;m;lc;24/02/2019
+21;naimi amar;omlaadam;11;m;lc;24/02/2019
+22;benselilih  hmida;omlaadam;8;m;lc;24/02/2019
+23;dahmen khelifa;omlaadam;9;m;lc;24/02/2019
+24;naimi hlima;omlaadam;13;f;lc;24/02/2019
+25;naimi nadji;omlaadam;9;m;lc;24/02/2019
+26;meriniza mostapfa;omlaadam;7;m;lc;24/02/2019
+27;taybi ahmed;omlaadam;65;m;lc;16/02/2019
+28;laadjal messaouda;amourah;3;f;lc;18/02/2019
+29;laadjal aamar;amourah;6;m;lc;18/02/2019
+30;laadjal djahida;amourah;1;f;lc;16/02/2019
+31;saliha gueiraa;amourah;15;f;lc;08/01/2019
+32;zeinab nafti;amourah;3;f;lc;08/01/2019
+33;mohamed halfaia;feb;63;m;lc;11/02/2019
+34;kheira halfaia;feb;33;f;lc;11/02/2019
+35;meriem halfaia;feb;60;f;lc;11/02/2019
+36;kamal halfaia;feb;35;m;lc;11/02/2019
+37;elaarbi halfaia;feb;3;m;lc;11/02/2019
+38;meriem halfaia;feb;6;f;lc;11/02/2019
+39;hadjira halfaia;feb;17;f;lc;11/02/2019
+40;imane halfaia;feb;5;f;lc;11/02/2019
+41;khadidja dahmane;feb;12;f;lc;17/02/2019
+42;giraa fatna;guettara;2;f;lc;18/04/2019
+43;zahira khalil;selmana;15;f;lc;28/02/2019
+44;regueia djebria;amourah;34;f;lc;04/02/2019
+45;kerache fouzi;selmana;10;m;lc;09/02/2019
+46;mansour halima;selmana;42;f;lc;03/03/2019
+47;naoui fatna;selmana;60;f;lc;20/05/2019
+48;dahmane mebarka;selmana;89;f;lc;06/06/2019
+49;guiraa fatma;guettara;20;f;lc;14/04/2019
+50;ben mouafak chaima bent kadour;amourah;13;f;lc;17/11/2019
+51;ben mouafak saida bent ali;amourah;65;f;lc;06/06/2019
+52;ben moufak kadour;amourah;36;m;lc;06/06/2019
+53;remeitha taher;deldoul;51;m;lc;19/11/2019
+54;ben rebeiha mohamed;deldoul;2;m;lc;16/11/2019
+55;ben mouafak fatna;amourah;65;f;lc;24/11/2019
+56;nafti charaf elddine;guettara;27;m;lc;03/12/2019
+1;moaati abdeldjabar;feb;3;m;lc;02/01/2020
+2;moaati mekadem;feb;5;m;lc;02/01/2020
+3;moaati ibrahim;feb;36;m;lc;02/01/2020
+4;ben amra zoukh;feb;8;m;lc;02/01/2020
+5;henach aissa;deldoul;36;m;lc;07/01/2020
+6;obah omelkheir;deldoul;3;f;lc;07/01/2020
+7;benmelki ahmed;amourah;30;m;lc;02/01/2020
+8;zerket souhaila;deldoul;5;f;lc;09/01/2020
+9; tahiri nadhir;selmana;1;m;lc;09/01/2020
+10;ben amara kheira;amourah;1;f;lc;13/01/2020
+11;dekim ismail;selmana;1;m;lc;16/01/2020
+12;tahiri nadhir;selmana;2;m;lc;09/01/2020
+13;baghdad daoud;omlaadam;25;m;lc;09/01/2020
+14;aewahab med;selmana;68;m;lc;08/01/2020
+15;othmani aerahman;deldoul;11;m;lc;13/01/2020
+16;othmani moaadh;deldoul;1;m;lc;13/01/2020
+17;mellati maammar;selmana;4;m;lc;03/02/2020
+18;benbrahim nadia;selmana;28;f;lc;28/01/2020
+19;haouari ahmed;selmana;57;m;lc;11/01/2020
+20;benkaamez belkacem;amoura;16;m;lc;26/01/2020
+21;dhib ahmed;sedrahal;5;m;lc;05/02/2020
+22;benarif meryem;oumlaadam;7;f;lc;05/02/2020
+23;salhi soumia;oumlaadam;3;f;lc;05/02/2020
+24;mriniza zohra;oumlaadam;5;f;lc;05/02/2020
+25;boukhalat noureddine;oumlaadam;3;m;lc;05/02/2020
+26;boukhalat zahira;oumlaadam;11;f;lc;05/02/2020
+27;bulie youness;oumlaadam;30;m;lc;05/02/2020
+28;salhi soulef;oumlaadam;6;f;lc;05/02/2020
+29;ben khaled ahmed;oumlaadam;4;m;lc;05/02/2020
+30;louagab achouak;oumlaadam;3;f;lc;05/02/2020
+31;laaggab ammara;oumlaadam;4;m;lc;05/02/2020
+32;laggoune hanane;oumlaadam;10;f;lc;05/02/2020
+33;salhi zahira;oumlaadam;10;f;lc;05/02/2020
+34;kasbaili mubah;oumlaadam;30;m;lc;05/02/2020
+35;khaouni hiba;oumlaadam;7;f;lc;05/02/2020
+36;kohil ammar;oumlaadam;1;m;lc;05/02/2020
+37;naami moukhtar;oumlaadam;17;m;lc;06/02/2020
+38;laggoune rehab;oumlaadam;5;f;lc;06/02/2020
+39;korayeb khadidja;oumlaadam;3;f;lc;09/02/2020
+40;baghdadi hadda;oumlaadam;6;f;lc;09/02/2020
+41;kheniche saida;oumlaadam;8;f;lc;09/02/2020
+42;ben chena mustapha;oumlaadam;16;m;lc;09/02/2020
+43;djenidi malek;oumlaadam;4;f;lc;10/02/2020
+44;naami kheira;oumlaadam;9;f;lc;10/02/2020
+45;naami fatma;oumlaadam;16;f;lc;10/02/2020
+46;belkheir moloud;oumlaadam;30;m;lc;10/02/2020
+47;tamkit mohammed;oumlaadam;30;m;lc;05/02/2020
+48;tahri khaled;deldoul;23;m;lc;13/02/2020
+49;tahri ali;deldoul;62;m;lc;13/02/2020
+50;haoua laila;selmana;1;f;lc;30/01/2020
+51;houa messaouda;selmana;37;f;lc;30/01/2020
+52;benacer dehikel;deldoul;12;m;lc;30/01/2020
+53;saoudi cherif;sedrahal;3;m;lc;19/01/2020
+54;heliss adem;sedrahal;4;m;lc;19/01/2020
+55;zidane nadjem;feb;24;m;lc;09/01/2020
+56;jaidoul mohamed;sedrahal;11;m;lc;15/01/2020
+57;benrabia zohra;amourah;24;f;lc;19/03/2020
+58;moata anis;amourah;27;m;lc;03/02/2020
+59;remadnia messouda;guettara;55;f;lc;27/01/2020
+60;daoudi hadda;guettara;34;f;lc;11/02/2020
+61;benacer abdelkader;guettara;12;m;lc;19/02/2020
+62;benacer med;guettara;5;m;lc;19/02/2020
+63;kribaa zahra;sedrahal;15;f;lc;04/02/2020
+64;dahmen kheira;selmana;39;f;lc;01/03/2020
+65;dahmen hadjer;selmana;1;f;lc;22/01/2020
+66;benhadda benallia;guettara;5;m;lc;25/12/2019
+67;mansour safa;selmana;5;f;lc;22/12/2019
+68;saoudi rokia;sedrahal;6;f;lc;08/12/2019
+69;zefzaf fatiha;selmana;40;F;lc;16/10/2019
+70;dehmane mebarka;selmana;30;F;lc;08/12/2019
+71;dhib omkeltoum;sedrahal;7;F;lc;07/01/2020
+72;regueigue kheira;selmana;10;F;lc;22/12/2019
+73;touati madani;selmana;25;M;lc;10/12/2019
+74;manssour belkacem;selmana;7;M;lc;01/01/2020
+75;mansour maroua;selmana;5;F;lc;22/11/2019
+76;tahiri imane;guettara;6;F;lc;16/12/2019
+77;moati khadidja;amourah;8;F;lc;15/11/2019
+78;moati ibrahim;amourah;36;M;lc;28/12/2019
+79;benaamara zakaria;amourah;8;M;lc;23/12/2019
+80;benrahal miloud;amourah;36;M;lc;15/01/2020
+81;moati mekadem;amourah;5;M;lc;28/12/2019
+82;moati abdeldjabar;amourah;3;M;lc;28/12/2019
+83;mimoune chatia;selmana;42;F;lc;09/12/2019
+84;mimoune rihab;selmana;10;F;lc;09/12/2019
+85;benaamara kheira;amourah;10;F;lc;15/01/2020
+86;moati oualid;amourah;2;M;lc;15/12/2019
+87;ben aamara meftah;amourah;14;M;lc;15/01/2020
+88;ghorissi aamar;amourah;38;M;lc;15/01/2020
+89;benaamara naouia;amourah;28;F;lc;15/11/2019
+90;zerguet rachid;deldoul;11;m;lc;18/08/2020
+91;thamri aamer;amourah;41;m;lc;05/10/2020
+92;abdelouahab kheira;guettara;6;f;lc;27/02/2020
+93;maamri saaida;guettara;37;f;lc;03/03/2020
+94;cheniba saadia;sedrahal;13;f;lc;11/11/2020
+95;cheniba brahim;sedrahal;38;m;lc;24/11/2020
+96;kouskous fatma;guettara;29;f;lc;19/11/2020
+97;tahiri youcef;guettara;4;m;lc;19/11/2020
+98;tahiri salim;guettara;6;m;lc;19/11/2020
+99;benbrahim merikha;feb;30;f;lc;24/11/2020
+100;mansour fatna;selmana;73;m;lc;28/10/2020
+101;benhadda daoudi;selmana;16;m;lc;27/10/2020
+102;moati abdelkader;feb;1;M;lc;10/02/2020
+103;benahmed assia;amourah;13;F;lc;26/02/2020
+104;amara nassira;amourah;30;F;lc;15/03/2020
+105;manssour mannar;selmana;4;F;lc;15/03/2020
+106;moati abdelkader;amourah;1;M;lc;14/03/2020
+107;nail amar;amourah;30;M;lc;21/09/2020
+108;thameri amer;amourah;30;M;lc;05/10/2020
+109;gadala hocine;amourah;33;M;lc;19/10/2020
+110;reguiaa soumia;amourah;18;F;lc;19/10/2020
+111;nail younes;amourah;2;M;lc;02/11/2020
+112;benghiaba hamza;amourah;3;M;lc;02/11/2020
+113;benghiaba kadour;amourah;47;M;lc;02/11/2020
+114;maalem issam elddine;amourah;25;M;lc;09/11/2020
+115;soltani ibrahim;amourah;21;M;lc;09/11/2020
+116;benabdeslam oussama;amourah;18;M;lc;09/11/2020
+117;nail abdelkader;amourah;13;M;lc;16/11/2020
+118;benghiaba fares;feb;14;M;lc;16/11/2020
+119;bakel mohamed;amourah;10;M;lc;16/11/2020
+120;bendjaballah naouia;amourah;31;F;lc;23/11/2020
+121;ayach ridha;amourah;29;M;lc;30/11/2020
+122;zitout sadam;selmana;29;M;lc;30/11/2020
+123;belassal abdelkader;feb;22;M;lc;30/11/2020
+124;haouia moncef;selmana;14;M;lc;07/12/2020
+125;bahri aymen;amourah;25;M;lc;07/12/2020
+126;bouhali djouria;feb;5;F;lc;14/12/2020
+127;guessiria amine;amourah;28;M;lc;14/12/2020
+128;abikchi nadhir;selmana;11;M;lc;21/12/2020
+129;kommari wissal;selmana;3;F;lc;21/12/2020
+130;benghiaba melki;amourah;40;M;lc;21/12/2020
+131;dahmani barkahom;amourah;45;F;lc;21/12/2020
+132;bouhali mibarka;amourah;45;F;lc;21/12/2020
+133;mouafak abderahmane;feb;12;M;lc;21/12/2020
+134;djenidi mohamed;amourah;9;M;lc;21/12/2020
+1;benbrahim mohamed;selmana;9;M;lc;04/01/2021
+2;monir dhiab;selmana;23;M;lc;11/01/2021
+3;abikchi nadine;selmana;11;F;lc;22/12/2020
+4;benmoufak malika;amourah;10;f;lc;21/01/2021
+5;hamidi dalila;deldoul;60;f;lc;21/01/2021
+6;rebiah rania;deldoul;6;f;lc;21/01/2021
+7;rebiah mira;deldoul;10;f;lc;21/01/2021
+8;benghouthi naima;omlaadam;18;f;lc;11/01/2021
+9;bendjeghlil meriem;deldoul;13;f;lc;13/01/2021
+10;benboukhalet said;feb;30;M;lc;08/02/2021
+11;reguiaa fatna;amourah;13;f;lc;24/02/2021
+12;reguiaa djabri;amourah;45;m;lc;24/02/2021
+13;kouidri mohamed;amourah;22;m;lc;24/02/2021
+14;benboukhalet saadia;feb;58;f;lc;24/02/2021
+15;thamri rahaf;amourah;14;f;lc;24/02/2021
+16;zidane nakhla;amourah;19;f;lc;24/02/2021
+17;thamri abdelmalek;amourah;36;m;lc;24/02/2021
+18;bengouaamez aaida;amourah;25;f;lc;24/02/2021
+19;kouidri islam;amourah;42;m;lc;24/02/2021
+20;manssour ahmed;selmana;36;m;lc;24/02/2021
+21;manssour aissa;selmana;12;m;lc;24/02/2021
+22;remadnia zohir;guettara;11;m;lc;31/03/2021
+23;daoudi bachir;guettara;15;m;lc;06/01/2021
+24;mimoun saad;guettara;35;m;lc;06/01/2021
+25;chenaiba brahim;sedrahal;4;m;lc;08/03/2021
+26;nebchi belkacem;selmana;41;m;lc;30/05/2021
+27;maache abdelmadjid;selmana;17;m;lc;17/05/2021
+28;rebih fatoum;selmana;1;f;lc;29/03/2021
+29;abdi mohamed;deldoul;42;m;lc;02/06/2021
+30;manssour assia;selmana;31;F;lc;22/10/2021
+31;manssour ahmed;selmana;30;M;lc;22/10/2021
+32;laarbi lakhdar;feb;19;m;lc;07/11/2021
+33;gouaamez brahim;feb;18;m;lc;07/11/2021
+34;aalal safia;feb;3;f;lc;03/11/2021
+35;nail ismail;feb;34;m;lc;08/11/2021
+36;attalah saad;feb;48;m;lc;11/11/2021
+37;attalah benalia;feb;13;m;lc;11/11/2021
+38;manssour lakhdar;selmana;74;m;lc;28/10/2021
+39;gharbi lahcen;feb;29;m;lc;28/10/2021
+40;benaamara benaabdelah;amourah;7;m;lc;28/10/2021
+41;benaamara monira;amourah;18;f;lc;14/10/2021
+42;rabhi zineb;feb;35;f;lc;18/11/2021
+43;aabikchi aya;selmana;42;f;lc;18/11/2021
+44;khaldi gharbi;feb;25;m;lc;18/11/2021
+45;regueiague aamer;selmana;18;m;lc;28/10/2021
+46;belaarbi nadhir;feb;3;m;lc;28/10/2021
+47;elhani naoum;feb;25;m;lc;04/11/2021
+48;aalal safia;selmana;3;f;lc;04/11/2021
+49;haouas mohamed;feb;32;m;lc;11/11/2021
+50;bekouche kamel;amourah;50;m;lc;21/10/2021
+51;chekali abdelkader;amourah;12;m;lc;21/10/2021
+52;medouar abdelghani;feb;27;m;lc;21/10/2021
+53;dahmane hanane;selmana;14;f;lc;27/11/2021
+54;dahmane soaad;selmana;7;f;lc;27/11/2021
+55;gouaamez ziane;feb;9;m;lc;27/11/2021
+56;tahiri messoud;selmana;48;m;lc;01/11/2021
+57;benchaoui ahmed;guettara;7;m;lc;14/12/2021
+1;benaabdslam med;feb;54;M;lc;02/01/2022
+2;benaamara messoda;amourah;24;F;lc;02/01/2022
+3;rouina oumhani;amourah;64;F;lc;02/01/2022
+4;benmoufak ahmed;amourah;52;m;lc;27/01/2022
+5;thamer khadidja;amourah;2;f;lc;03/02/2022
+6;benchouikha maria;amourah;14;f;lc;03/02/2022
+7;thamer abdelmalek;amourah;12;m;lc;03/02/2022
+8;benbrahim rouida;selmana;11;f;lc;03/02/2022
+9;taybi boumedien ben med ;deldoul;42;m;lc;09/02/2022
+10;thamri khadidja mustapha;feid el botma;2;f;lc;14/03/2022
+11;tahiri hafida;selmana;9;f;lc;19/03/2022
+12;belkheirat meriem;feb;41;f;lc;11/11/2022
+13;bazoul yacine;feb;21;m;lc;20/10/2022
+14;benguessmia akila;feb;4;f;lc;25/10/2022
+15;malati hadjira;feb;38;f;lc;09/11/2022
+16;djeraibie massouda;feb;34;f;lc;30/10/2022
+17;nail nourelhouda;feb;4;f;lc;01/11/2022
+18;amerei mohemed;feb;23;m;lc;28/10/2022
+19;djraibie mohemed;feb;12;m;lc;28/10/2022
+20;thamer ahmed;feb;6;m;lc;28/10/2022
+21;laiche fatma;feb;52;f;lc;29/09/2022
+1;salhi belkhir;fed;5;m;lc;06/01/2023
+2;benmassoud amer;fed;56;m;lc;09/02/2023
+3;daoudi  saliha;guettara;18;f;lc;27/04/2023
+4;benchaoui abdelatif;guettara;14;m;lc;27/04/2023
+5;bechaoui ahlem;guettara;5;f;lc;27/04/2023
+6;rahmoune lakhder;fed;19;m;lc;16/10/2023
+7;benibrahim laid;fed;8;m;lc;16/10/2023
+8;loaka ibrahim;fed;25;m;lc;23/10/2023
+9;melouli badr;amourah;27;m;lc;23/10/2023
+10;belkhirat moncef;fed;18;m;lc;06/11/2023
+11;laarbi rachid;amourah;29;m;lc;06/11/2023
+12;tamim mohemed;fed;19;m;lc;06/11/2023
+13;seid youcef;fed;22;m;lc;13/11/2023
+14;malki kamel;fed;18;m;lc;13/11/2023
+15;bentaher  saleh;selmana;36;m;lc;13/11/2023
+16;souici fatna;fed;12;f;lc;11/09/2023
+17;souici jihan;fed;5;f;lc;11/09/2023
+18;rahmoune rachid;fed;24;m;lc;11/09/2023
+19;ben nadji youcef;fed;18;m;lc;11/12/2023
+20;rouina hania;fed;15;f;lc;11/12/2023
+21;rouina omhani;fed;36;f;lc;24/12/2023
+22;attalah nouidjem;fed;26;m;lc;24/12/2023
+23;reda zohra;selmana;3;f;lc;24/12/2023
+1;salhi abdelhamid ben khaled;oumlaadam;0;m;COQUELUCHE;11/02/2019
+1;ben malki arara;omlaadam;12;f;dephterie;22/12/2023
+2;ben malki abdelkader;omlaadam;11;m;dephterie;22/12/2023
+3;ben malki ahmed ben nacer;omlaadam;4;m;dephterie;30/12/2023
+1;bensouaf saif elislam;sedrahal;4;m;HAV;06/01/2019
+2;ghoul boubaker ben taher;guettara;6;m;HAV;11/02/2019
+1;lagreb soaad;selmana;18;f;HBV;31/12/2020
+1;benbrahim belkheir;guettara;35;m;HBV;19/05/2020
+1;assali kheira;sedrahal;58;f;KHF;02/02/2020
+1;bengaamaz hadda;feid botma;35;f;KHF;03/07/2022
+1;rouina zinab;fed;8;f;KHF;16/01/2023
+2;guettaf nakhla;guettara;41;f;KHF;18/06/2023
+1;hanafi nidal ben kouider;fed;0;m;MCS;17/03/2020
+2;taher chedad;selmana;0;m;MCS;26/07/2020
+1;tahiri farid ben mohamed;guettara;4;m;MCS;03/02/2019
+2;adjimi khadidja bent aissa;oumlaadam;8;f;MCS;03/02/2019
+3;said yacine ben salem;fed;1;m;MCS;23/06/2019
+4;benkhelifa iyad;fed;0;m;MCS;26/05/2019
+1;remadnia ben atia meriem;Guettara;63;f;HIV;13/07/2021
+2;meriniza fatima;fed;30;f;HIV;22/06/2021
+1;x	y;fed;57;m;HIV;23/03/2023
+1;mansour nasreddine;salmana;30;m;TP;30/04/2019
+1;belouaz khadra;fed;46;f;TP;10/11/2020
+1;sersoub rekaia zakaria;fed;12;f;PFA;23/12/2023
+1;tahiri mohamed ben belkacem;guettara;3;m;rougeole;07/01/2019
+2;ziane fadila bent amer;guettara;0;f;rougeole;07/01/2019
+3;bengoamez mouna bent ali;feb;1;f;rougeole;06/01/2019
+4;remadhnia hiba bent atia;guettara;1;f;rougeole;06/01/2019
+5;adjimi mohamed lamin ben maamer;guettara;3;m;rougeole;06/01/2019
+6;adjimi bent nadji bent dahmane;guettara;6;f;rougeole;06/01/2019
+7;kouidri kadoour ben abdelkader;feb;0;f;rougeole;06/01/2019
+8;okacha khalil ben sayeh;amourah;5;m;rougeole;13/01/2019
+9;okacha younes ben hocine;amourah;1;m;rougeole;13/01/2019
+10;chatouh laarbi;selmana;30;m;rougeole;13/01/2019
+11;guerzou sejoud bent hocine;sedrahal;1;f;rougeole;13/01/2019
+12;rouina mohamed lamine ben ammer;feb;1;m;rougeole;14/01/2019
+13;rouina safa kharfia bent ammer;feb;1;f;rougeole;14/01/2019
+14;ben nacer khadra;selmana;32;f;rougeole;14/01/2019
+15;tahiri adem ben mohamed;feb;4;m;rougeole;14/01/2019
+16;tahiri mohamed ben taher;feb;0;m;rougeole;15/01/2019
+17;amraoui maya bent khaled;omlaadam;2;f;rougeole;20/01/2019
+18;hanafi nesrine bent rabeh;feb;3;f;rougeole;20/01/2019
+19;okacha saida bent sayeh;amourah;0;f;rougeole;20/01/2019
+20;oukacha aicha;amourah;2;f;rougeole;21/01/2019
+21;kouidri cherifa;feb;4;f;rougeole;21/01/2019
+22;okacha ritadj;amourah;1;f;rougeole;27/01/2019
+23;naaoum fatna bent mohamed;feb;5;f;rougeole;27/01/2019
+24;belkheiri mobarka bent kadour;feb;30;f;rougeole;27/01/2019
+25;belmiki oumhani bent bennacer;oumlaadam;4;f;rougeole;27/01/2019
+26;adjimi imane bent khalifa;guettara;9;f;rougeole;27/01/2019
+27;agoun zineb bent naouri;oumlaadam;5;f;rougeole;27/01/2019
+28;ben abdelhafid souhila;feb;17;m;rougeole;27/01/2019
+29;agoun aicha bent naouri;oumlaadam;2;f;rougeole;27/01/2019
+30;kouidri israa;feb;0;f;rougeole;27/01/2019
+31;okacha naima bent brahim;amourah;1;f;rougeole;03/02/2019
+32;naaoum nacereldinne ben med;feb;4;m;rougeole;03/02/2019
+33;okacha med adem ben amar;feb;4;m;rougeole;03/02/2019
+34;adjimi rekaia bent khalifa;guettara;9;f;rougeole;03/02/2019
+35;kouadria sabah;feb;1;f;rougeole;04/02/2019
+36;naaoum mohamed ben saad;feb;5;m;rougeole;04/02/2019
+37;dahmen zohra bent taher;guettara;31;f;rougeole;10/02/2019
+38;ben malki zian ben mohamed;guettara;5;m;rougeole;10/02/2019
+39;ben malki mobarka bent mohamed;guettara;2;f;rougeole;10/02/2019
+40;damen maamar ben malki;guettara;3;m;rougeole;10/02/2019
+41;ben nacer med ben mokhtar;guettara;5;m;rougeole;10/02/2019
+42;dahmen wahiba bent brahim;guettara;4;f;rougeole;11/02/2019
+43;naaoum zohra bent boubakar;amourah;8;f;rougeole;10/02/2019
+44;dahmane mohamed kadour;guettara;5;m;rougeole;24/02/2019
+45;dellas dahmane lalmi;guettara;4;m;rougeole;24/02/2019
+46;dahmane tahar amar;guettara;10;m;rougeole;24/02/2019
+47;chaoui zineb miloud ;feb;10;f;rougeole;21/02/2019
+48;bouhana naoual bent abdelaziz;selmana;35;f;rougeole;04/03/2019
+49;omar med ben boulerbah;sed rahal;0;m;rougeole;04/03/2019
+50;omar mokhtar ben belkheir;sed rahal;3;m;rougeole;04/03/2019
+51;redouane messaoud ben ziane;guettara;1;m;rougeole;03/03/2019
+52;redoune taher ben ziane;guettara;5;m;rougeole;03/03/2019
+53;thamerie meriem bent med;feb;1;f;rougeole;03/03/2019
+54;assali messouda bent med;sed rahal;2;f;rougeole;03/03/2019
+55;mimoun alhachmi ben mohamed;guettara;2;m;rougeole;18/03/2019
+56;mimoun nadjat bent taher;guettara;4;f;rougeole;18/03/2019
+57;assali kaoula bent aissa;sed rahal;2;f;rougeole;04/03/2019
+58;adjimi khalifa ben ahmed;selmana;22;m;rougeole;25/03/2019
+59;zerigue abdelkader ben slimane;sed rahal;5;m;rougeole;25/03/2019
+60;belakehal noura bent messoud;guettara;11;f;rougeole;25/03/2019
+61;nacer hasna bent omer;guettara;8;f;rougeole;25/03/2019
+62;sersoub roufida bent brahim;feb;0;f;rougeole;25/03/2019
+63;belegraa sara bent abdelkader;selmana;8;f;rougeole;31/03/2019
+64;loud hamza ben kouidar;guettara;1;m;rougeole;31/03/2019
+65;hathat hicham ben kouidar;selmana;1;m;rougeole;23/03/2019
+66;thamri kholoud bent ahmed;amourah;2;f;rougeole;08/04/2019
+67;thamri wahiba bent lakhder;amourah;1;f;rougeole;08/04/2019
+68;rouina soulaf bent mustafa;amourah;3;f;rougeole;08/04/2019
+69;mouissi bachir ben belkacem;guettara;31;m;rougeole;09/04/2019
+70;tahiri douha bent amar;guettara;1;f;rougeole;07/04/2019
+71;tahiri miloud ben messaoud;guettara;5;m;rougeole;09/04/2019
+72;tahiri sara ben hamza;guettara;2;f;rougeole;08/04/2019
+73;salhi abdelhamid ben khaled;selmana;1;m;rougeole;07/04/2019
+74;rouina messauda bent mustapha;amoura;6;f;rougeole;07/04/2019
+75;benchekhi saida bent attia;guettara;1;f;rougeole;08/04/2019
+76;sara tahiri bent aamer;selmana;5;f;rougeole;21/04/2019
+77;mokhtar ben hadda;sed rahal;0;m;rougeole;21/04/2019
+78;chetouh hadda;sed rahal;0;f;rougeole;21/04/2019
+79;abdelrahim messaouda;guettara;9;f;rougeole;21/04/2019
+80;belakehal noura;guettara;12;f;rougeole;21/04/2019
+81;mehdi heffafa;feb;6;m;rougeole;21/04/2019
+82;miloud tahiri;guettara;0;m;rougeole;21/04/2019
+83;ben chikh aamer ben laakhdar;guettara;2;m;rougeole;21/04/2019
+84;tahiri mebarka bent youcef;selmana;27;f;rougeole;21/04/2019
+85;souid khaled ben madjid;feb;5;m;rougeole;21/04/2019
+86;ben chikh aaicha bent lakhdar;guettara;16;f;rougeole;21/04/2019
+87;tahiri inas bent messaoud;guettara;10;f;rougeole;21/04/2019
+88;aamir kheira bent laaid;sed rahal;1;f;rougeole;21/04/2019
+89;aamir bachir ben saaid;sed rahal;6;m;rougeole;21/04/2019
+90;aamar belkhir ben lakhdar;sed rahal;1;m;rougeole;21/04/2019
+91;tahiri ahmed ben messaoud;selmana;5;m;rougeole;21/04/2019
+92;tahiri sara bent aamar;guettara;5;f;rougeole;21/04/2019
+93;dailouha tahiri;guettara;0;f ;rougeole;21/04/2019
+94;guetcha merouane;feb;18;m;rougeole;29/05/2019
+95;gouamez brahim;feb;16;m;rougeole;29/05/2019
+96;hanafi chouia;feb;16;m;rougeole;29/05/2019
+97;bouchanague dahmen b ahmed;deldoul;2;m;rougeole;29/05/2019
+98;belkheiri aicha;deldoul;32;f ;rougeole;09/06/2019
+99;rahmoun khadidja;feb;1;f;rougeole;09/06/2019
+100;malki elkaima;feb;30;f;rougeole;15/04/2019
+101;amara abdelhamid;feb;17;M;rougeole;04/06/2019
+102;benderrah mostapha;feb;17;m;rougeole;04/06/2019
+103;hameida amer;feb;1;m;rougeole;04/06/2019
+104;guesmia achoura;feb;18;f;rougeole;04/06/2019
+105;guellissat mohamed;deldoul;0;m;rougeole;19/05/2019
+106;said akil;feb;14;m;rougeole;14/05/2019
+107;bouchanague houria;deldoul;3;f;rougeole;22/05/2019
+108;bengaamez naas;feb;28;m;rougeole;26/05/2019
+109;tahiri bachir ben ali;guettara;1;m;rougeole;23/05/2019
+110;tahiri med lamine;guettara;1;m;rougeole;22/05/2019
+111;halfaya ikram;feb;3;f;rougeole;26/05/2019
+112;halfaya ikram;feb;3;f ;rougeole;26/05/2019
+113;sofrani noura -lakhdar;sed rahal;18;f;rougeole;19/05/2019
+114;abdelrahim oumhani b/ramdan;guettara;15;f;rougeole;19/05/2019
+115;guamej ahmed ben abdelkader;feb;33;m;rougeole;29/05/2019
+116;mimoune rihab /b salem;guettara;1;f;rougeole;16/05/2019
+117;tahiri yamina b /khadir;guettara;3;f;rougeole;06/06/2019
+118;tahiri ahlem b/ messaouda;guettara;2;f;rougeole;03/06/2019
+119;tahiri bochra b/ messaouda;guettara;4;f;rougeole;06/06/2019
+120;mhammedi younes/ b aek;selmana;1;m;rougeole;03/06/2019
+121;ben gouaamez wissam b/ mechri;feb;1;f;rougeole;03/06/2019
+122;kouidri abdelrahmane b/ ali;feb;1;m;rougeole;01/06/2019
+123;ben gouaamez naas b/ ahmed;feb;30;m;rougeole;26/05/2019
+124;djaballah bachir b/  dahmen;feb;12;m;rougeole;29/05/2019
+125;lakehal aicha b/ abdelkader;selmana;5;f;rougeole;28/05/2019
+126;ben khelifa iyad;feb;1;m;rougeole;26/05/2019
+127;walid sayah;feb;20;m;rougeole;30/05/2019
+128;aifaoui soumia;feb;3;f ;rougeole;10/06/2019
+129;thameri ibrahim;feb;32;m;rougeole;10/06/2019
+130;khori ben brahim;feb;25;m;rougeole;12/06/2019
+131;tahiri maroua bent mohamed;guettara;2;f;rougeole;18/06/2019
+132;tahiri mohamed ben belkheir;selmana;1;m;rougeole;17/06/2019
+133;abdelrahim azedine ben meftah;guettara;8;m;rougeole;17/06/2019
+134;rahmani mohamed;guettara;26;m;rougeole;14/06/2019
+135;abderahim othmane ben med;guettara;22;m;rougeole;19/06/2019
+136;kouidri yacine ben sadek;feb;3;m;rougeole;20/06/2019
+137;mehamdi saida bent abdelkader;selmana;4;f;rougeole;13/06/2019
+138;belkheiri fatna bent almi;deldoul;47;f;rougeole;01/06/2019
+139;thameri abdelbasset ben nouredine;feb;2;m;rougeole;11/06/2019
+140;hamida kheira bent bachir;feb;12;f;rougeole;11/06/2019
+141;hamida talma bent bachir;feb;2;f;rougeole;11/06/2019
+142;hamida attra bent bachir;feb;9;f;rougeole;11/06/2019
+143;thameri maroua bent djmoui;feb;2;f;rougeole;10/06/2019
+144;abderahim omhani ben meftah;guettara;15;f;rougeole;25/05/2019
+145;rihoub ben salem;feb;10;m;rougeole;26/05/2019
+146;meryam mokhtar;guettara;23;f;rougeole;20/05/2019
+147;khadidja bent ramdan;guettara;60;f;rougeole;20/05/2019
+148;benhadda mahjob ben ramdan;guettara;9;m;rougeole;20/05/2019
+149;ben hadj abdelaziz ben amar;feb;6;m;rougeole;30/06/2019
+150;dahmane wahiba bent brahim;guettara;5;f;rougeole;30/06/2019
+151;makhfia ben abdelmalek;deldoul;37;m;rougeole;26/06/2019
+152;ghouini amer ben brahim;deldoul;46;m;rougeole;25/06/2019
+153;kadira abdelatif brahim;sedrahal;1;m;rougeole;26/06/2019
+154;ben rebiha yamina ben ahmed;guettara;8;m;rougeole;17/06/2019
+155;khouli el arbi;feb;39;m;rougeole;03/06/2019
+156;benkhelif iyad;feb;1;m;rougeole;03/06/2019
+157;benhadj abdelaziz b/amar;feb;6;m;rougeole;30/06/2019
+158;dahman wahiba b/brahim;guettara;5;f;rougeole;30/06/2019
+159;tahiri khadidja b/mohamed;guettara;5;f;rougeole;02/07/2019
+160;ben lakehal meriem b/amara;feb;5;f;rougeole;07/07/2019
+161;gouini bachir b/amer;deldoul;1;m;rougeole;07/07/2019
+162;rami messaouda b/ahmed;deldoul;32;f;rougeole;07/07/2019
+163;bouchenak saadia;deldoul;24;f;rougeole;09/07/2019
+164;diad marouan b/mekhtar;selmana;2;m;rougeole;08/07/2019
+165;louagab abdelrahmane;oumlaadam;17;m;rougeole;01/08/2019
+166;khelif aissa;oumlaadam;3;m;rougeole;01/08/2019
+167;louagab yacine;oumlaadam;11;m;rougeole;01/08/2019
+168;zidane nadjet;feid elboutma;3;f;rougeole;01/08/2019
+169;louagab yamina;oumlaadam;27;f;rougeole;02/08/2019
+170;cherif kheira bent ahmed;selmana;23;f;rougeole;03/09/2019
+171;mraisse oumhani bent mohamed;selmana;15;f;rougeole;02/09/2019
+172;lagraa rahma bent belkacem;selmana;16;f;rougeole;02/09/2019
+173;lagraa messaouda bent belkacem;selmana;17;f;rougeole;02/09/2019
+174;lagraa bachir ben mohamed;selmana;5;m;rougeole;02/09/2019
+175;lagraa karima bent mohamed;selmana;6;f;rougeole;02/09/2019
+176;lagraa salah ben belkacem;selmana;11;m;rougeole;11/09/2019
+177;lagraa khadidja bent brahim;selmana;8;f;rougeole;11/09/2019
+178;lagraa kheira bent brahim;selmana;17;f;rougeole;15/09/2019
+179;saoudi aridj ben lamine;sedrahal;1;m;rougeole;20/09/2019
+180;lagraa boulerbah ben aissa;selmana;35;m;rougeole;20/09/2019
+181;lagraa tayeb ben ali;selmana;38;m;rougeole;20/09/2019
+182;lagraa taher ben ali;selmana;36;m;rougeole;16/09/2019
+183;lagraa tayeb ben ali;selmana;30;m;rougeole;17/09/2019
+184;touati omar ben abdallah;sedrahal;7;m;rougeole;20/09/2019
+185;lagraa mohamed ben said;selmana;2;m;rougeole;13/10/2019
+186;lagraa bilal ben brahim;selmana;1;m;rougeole;13/10/2019
+187;lagraa amine ben said;selmana;4;m;rougeole;13/10/2019
+188;touati zahra bent lakhdar;selmana;1;f;rougeole;16/10/2019

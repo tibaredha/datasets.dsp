@@ -1,0 +1,520 @@
+N;NOM PRENOM;x;AGE;SEXE;COMMUNE;PATHOLOGIE;DATE
+1;Boudana Kouider;;42;M;HBB;L.C;01/01/2024
+2;Ouahchi Aissa;;73;M;Zaafrane;L.C;01/01/2024
+3;Benalia Elhadj;;6;M;Hassi Eleuch;L.C;01/01/2024
+4;Taleb Zohra;;70;F;HBB;L.C;01/01/2024
+5;Kourchi Fatiha;;51;F;HBB;L.C;01/01/2024
+6;Guedguade Ayoub;;10;M;HBB;L.C;01/01/2024
+7;Guedguade Manel;;15;F;HBB;L.C;01/01/2024
+8;Arour Ameur;;24;M;HBB;L.C;01/01/2024
+9;Bentchich Ali;;56;M;HBB;L.C;01/01/2024
+10;Aziri Ahmed;;52;M;HBB;Brucllose;02/01/2024
+11;Bentchich Djamila;;33;F;HBB;T.P;02/01/2024
+12;Djaaroune Kadour;;66;M;HBB;L.C;02/01/2024
+13;Bouaicha Kamel;;22;M;HBB;L.C;02/01/2024
+14;Begua Ali;;30;M;HBB;L.C;02/01/2024
+15;Boudana Aissa;;40;M;HBB;L.C;02/01/2024
+16;Ouahchi Madani;;74;M;Zaafrane;L.C;02/01/2024
+17;Daafri Meustafa Ayoub;;16;M;Dar Chioukh;L.C;02/01/2024
+18;Ghezali Rabah;;50;M;Zaafrane;L.C;02/01/2024
+19;Zekraoui Mokhtar;;57;M;Dar Chioukh;Brucllose;03/01/2024
+20;Benali Abdelouahed;;11;M;HBB;L.C;03/01/2024
+21;Beray Yacine ;;13;M;HBB;L.C;03/01/2024
+22;Bekai Fatna;;20;F;HBB;L.C;03/01/2024
+23;Bendjedou Ibrahim;;32;M;HBB;L.C;03/01/2024
+24;Elotri Belkheir;;11;M;HBB;L.C;03/01/2024
+25;Saddki Rahmani;;34;M;HBB;L.C;03/01/2024
+26;Guemmane Slimane;;60;M;Hassi Eleuch;L.C;03/01/2024
+27;Bouchemel Kheira;;38;F;Hassi Eleuch;L.C;03/01/2024
+28;Elotri Fatima;;16;F;HBB;L.C;03/01/2024
+29;Mammar Messaouda;;80;F;HBB;L.C;04/01/2024
+30;Gouge Youcef Islame;;8;M;HBB;L.C;04/01/2024
+31;Guermiti Hocine;;27;M;HBB;L.C;04/01/2024
+32;Saadoune Boulerbah;;73;M;Ain Maabed;Brucllose;07/01/2024
+33;Benhamza Mokhtar;;3;M;HBB;L.C;07/01/2024
+34;Abderrahim Rabah;;72;M;HBB;L.C;07/01/2024
+35;Bouzid Messaouda;;54;F;HBB;L.C;07/01/2024
+36;Boudana Kamel;;48;M;HBB;L.C;07/01/2024
+37;Tioua Bakhta;;29;F;HBB;L.C;07/01/2024
+38;Bouchemel Fatna;;33;F;HBB;L.C;07/01/2024
+39;Benyahom Meustapha;;46;M;HBB;L.C;07/01/2024
+40;Khobizi Djamel;;33;M;HBB;L.C;07/01/2024
+41;Karboua Khaled;;34;M;HBB;L.C;08/01/2024
+42;Chaibout Ali;;13;M;HBB;L.C;08/01/2024
+43;Bounaama Fatna;;37;F;HBB;L.C;08/01/2024
+44;M'hamedi Samia;;5;F;HBB;L.C;08/01/2024
+45;Bensidi Dokmane;;44;M;HBB;L.C;08/01/2024
+46;Thaouamria Tourkia;;34;F;Dar Chioukh;L.C;08/01/2024
+47;Thaouamria Fatiha;;12;F;Dar Chioukh;L.C;08/01/2024
+48;Thaouamria Mokhtar;;6;M;Dar Chioukh;L.C;08/01/2024
+49;Thaouamria Belgacem;;9;M;Dar Chioukh;L.C;08/01/2024
+50;Thaouamria Ahmed;;2;M;Dar Chioukh;L.C;08/01/2024
+51;Kadraoui;;23;M;Zaafrane;T.E.P;09/01/2024
+52;Salmi Abdelkader;;70;M;HBB;Brucllose;09/01/2024
+53;Salhi Aicha;;45;F;HBB;L.C;09/01/2024
+54;Benalia Ammar;;9;M;HBB;L.C;09/01/2024
+55;Laboukh Nakhla;;58;F;HBB;L.C;09/01/2024
+56;Sahara Saad;;63;M;HBB;L.C;10/01/2024
+57;Elagoune Hadda;;39;F;HBB;L.C;10/01/2024
+58;Guedguad Salem;;75;M;HBB;L.C;10/01/2024
+59;Slimani Ryma;;63;F;HBB;L.C;10/01/2024
+60;Chouiha Mohamed;;40;M;Ain Maabed;Brucllose;11/01/2024
+61;Mezati Oumhani;;47;F;HBB;Brucllose;11/01/2024
+62;Lahoual Abdelhamid;;28;M;HBB;L.C;11/01/2024
+63;Zerguine Khadidja;;69;F;HBB;L.C;11/01/2024
+64;Zerguine Abderrahmane;;21;M;HBB;L.C;11/01/2024
+65;Khelifa Salah;;27;M;HBB;L.C;14/01/2024
+66;Belkhiri Ali;;5;M;Zaafrane;L.C;14/01/2024
+67;Benammar Nacera;;34;F;HBB;L.C;14/01/2024
+68;Bagua Abdelkader;;68;M;HBB;L.C;14/01/2024
+69;Faitas Ahmed;;55;M;HBB;L.C;14/01/2024
+70;Karbouaa Khaled;;34;M;HBB;L.C;14/01/2024
+71;Goulame Abdelkader;;43;M;HBB;L.C;14/01/2024
+72;Bouzid Laugabe;;58;M;HBB;L.C;14/01/2024
+73;Zekraoui Zahiya;;3;F;Dar Chioukh;Brucllose;15/01/2024
+74;Selt Karima;;9;F;HBB;L.C;15/01/2024
+75;Selt Kouider;;84;M;HBB;L.C;15/01/2024
+76;Selt Mokhtar;;28;M;HBB;L.C;15/01/2024
+77;Messaoudi Abdelfatah;;9;M;HBB;L.C;15/01/2024
+78;Habouya Bendaoued;;17;M;HBB;L.C;15/01/2024
+79;Saoudi Zohra;;56;F;HBB;L.C;16/01/2024
+80;Regued Iness;;12;F;HBB;L.C;16/01/2024
+81;Bachar Fatima;;12;F;HBB;L.C;16/01/2024
+82;Ziouache Brahim;;4;M;HBB;L.C;16/01/2024
+83;Teffah Khadidja;;30;F;HBB;L.C;16/01/2024
+84;Khelifa Abdelkader;;62;M;HBB;L.C;17/01/2024
+85;Rague Rabiaa;;4;F;HBB;L.C;17/01/2024
+86;Ouahchi Ahmed;;26;M;Zaafrane;L.C;17/01/2024
+87;Khaldi Fares;;24;M;HBB;L.C;17/01/2024
+88;Teta Ahmed;;71;M;HBB;L.C;18/01/2024
+89;Mesitfa Lhadj;;40;M;Dar Chioukh;Brucllose;18/01/2024
+90;Saadoune Omrane;;30;M;Ain Maabed;Brucllose;21/01/2024
+91;Tahrour Yacine;;6;M;HBB;L.C;21/01/2024
+92;Hamidi Ahmed;;5;M;HBB;L.C;21/01/2024
+93;Slimani Mustapha;;41;M;HBB;L.C;21/01/2024
+94;Laboukh Fatiha;;29;F;HBB;L.C;21/01/2024
+95;Wassel Messaoud;;10;M;HBB;L.C;21/01/2024
+96;Wassel Hadjer;;7;F;HBB;L.C;21/01/2024
+97;Ranna Belkacem;;52;M;HBB;L.C;21/01/2024
+98;Drissi Ameur;;58;M;HBB;L.C;21/01/2024
+99;Assli Aouali;;50;F;HBB;L.C;21/01/2024
+100;Zaouali Meftah;;63;M;HBB;L.C;21/01/2024
+101;Sahara Brika Israe;;6;F;HBB;L.C;21/01/2024
+102;Chenafi Zhour;;60;F;HBB;L.C;21/01/2024
+103;Ouanouki Mohamed;;43;M;HBB;L.C;21/01/2024
+104;Selt Kouider;;90;M;Ain Maabed;L.C;22/01/2024
+105;Darfelou Moulhadba;;55;M;HBB;L.C;22/01/2024
+106;Benmazouz Saida;;35;F;HBB;L.C;22/01/2024
+107;Teta Khadidja;;6;F;HBB;L.C;22/01/2024
+108;Chaathan Rahma;;26;F;HBB;L.C;22/01/2024
+109;Boussena Abdelhafid;;57;M;HBB;L.C;22/01/2024
+110;Elaibe Oumelsaad;;44;F;HBB;Brucllose;22/01/2024
+111;Elotri Khadidja;;16;F;HBB;L.C;24/01/2024
+112;Reguige Said;;4;M;HBB;L.C;25/01/2024
+113;Mansri Haytham;;8;M;HBB;L.C;25/01/2024
+114;Salmi Ali;;48;M;HBB;L.C;25/01/2024
+115;Mansri Ibtissam;;8;F;HBB;L.C;25/01/2024
+116;Asslouni Hiba;;21;F;HBB;L.C;25/01/2024
+117;Farha Fatima;;67;F;HBB;Brucllose;25/01/2024
+118;Fetilina Meustafa;;86;M;HBB;L.C;28/01/2024
+119;Bouzidi Mahfoud;;11;M;HBB;L.C;28/01/2024
+120;Saoudi Zohra;;57;F;HBB;L.C;28/01/2024
+121;Zerroki Miloud;;68;M;HBB;L.C;28/01/2024
+122;Sahara Djamel;;15;M;HBB;L.C;28/01/2024
+123;Benalia Belakhal;;68;M;Zaafrane;L.C;28/01/2024
+124;Ouasskah Saad;;30;M;HBB;L.C;28/01/2024
+125;Ouaine Nacer;;68;M;HBB;L.C;28/01/2024
+126;Bagua Messaoud;;42;M;HBB;L.C;29/01/2024
+127;Bagua Siham;;10;F;HBB;L.C;29/01/2024
+128;Abdelouahab Kouider;;47;M;HBB;Brucllose;30/01/2024
+129;Guessem Mohamed;;45;M;HBB;Brucllose;30/01/2024
+130;Azziri Ahmed;;52;M;HBB;Brucllose;31/01/2024
+131;Krouiba Djomana;;2;F;HBB;L.C;31/01/2024
+132;Benhamza Mohamed;;6;M;HBB;L.C;31/01/2024
+1;Ben Nail Fatoum;;30;F;Hassi Eleuch;Brucllose;01/02/2024
+2;Debab Riyad;;3;M;HBB;L.C;01/02/2024
+3;Selt Karima;;8;F;Ain Maabed;L.C;01/02/2024
+4;Selt Mokhtar;;29;M;Ain Maabed;L.C;01/02/2024
+5;Sahara Abdelhamid;;1;M;HBB;L.C;04/02/2024
+6;Bagua Ali;;52;M;HBB;L.C;04/02/2024
+7;Chouitar Abbas Madani;;33;M;HBB;L.C;04/02/2024
+8;Feradj Hayate;;9;F;HBB;L.C;04/02/2024
+9;Nourine Boulerbah;;43;M;HBB;L.C;04/02/2024
+10;Amari abdellah;;12;M;Hassi Eleuch;L.C;04/02/2024
+11;Bouchmel Ameur;;4;M;HBB;L.C;05/02/2024
+12;Fedoul Bilal;;16;M;HBB;L.C;05/02/2024
+13;Zahout Mohamed Seghir;;28;M;HBB;L.C;05/02/2024
+14;Benchioukh Zohra;;35;F;HBB;Brucllose;06/02/2024
+15;Bouchmel Saad;;28;M;HBB;Brucllose;06/02/2024
+16;Mahdi Noura;;9;F;HBB;L.C;06/02/2024
+17;Laid Djaafour;;25;M;HBB;Brucllose;07/02/2024
+18;Sayeh Aissa;;40;M;HBB;L.C;07/02/2024
+19;Zaatar Ismail Hamza;;12;M;HBB;L.C;07/02/2024
+20;Belala Ramdana;;56;F;HBB;L.C;07/02/2024
+21;Damma Said;;52;M;HBB;L.C;07/02/2024
+22;Charmat Saliha;;33;F;HBB;L.C;07/02/2024
+23;Mokhtari Bouskikine;;42;M;HBB;L.C;08/02/2024
+24;Bahri  Noureddine;;34;M;HBB;L.C;08/02/2024
+25;Zerguine Hafa;;60;F;HBB;L.C;08/02/2024
+26;Lahoual Aicha;;77;F;HBB;L.C;11/02/2024
+27;Gassmi Zohra;;51;F;HBB;L.C;11/02/2024
+28;Ayada Roumaisa;;27;F;HBB;L.C;11/02/2024
+29;Sadek Ameur;;57;M;HBB;L.C;11/02/2024
+30;Nakbil Dahman;;27;M;HBB;Brucllose;11/02/2024
+31;Cherik Messaoud;;2;M;HBB;L.C;12/02/2024
+32;Khelifa Seadda;;65;F;HBB;L.C;12/02/2024
+33;Bakbil Belgaem;;16;M;HBB;Brucllose;12/02/2024
+34;Messaoudi Achouak;;10;M;HBB;L.C;13/02/2024
+35;Kharkhar Fatiha;;35;F;HBB;L.C;13/02/2024
+36;Slimani Wassim;;2;M;HBB;L.C;13/02/2024
+37;Gadgad Fatna;;31;M;HBB;L.C;14/02/2024
+38;Benammar Messaouda;;31;F;HBB;L.C;14/02/2024
+39;Rahmani Khelifa;;17;M;HBB;L.C;14/02/2024
+40;Taoussi Hadda;;33;F;HBB;L.C;14/02/2024
+41;Abdelslam Cheikh;;60;M;HBB;L.C;14/02/2024
+42;Thelidji Taleb;;43;M;HBB;L.C;14/02/2024
+43;Battach Omar;;46;M;Hassi Eleuch;Brucllose;14/02/2024
+44;Hemiani Abdelbaki;;47;M;HBB;Brucllose;14/02/2024
+45;Thouamria  Mokhtar ;;7;M;Dar Chioukh;L.C;15/02/2024
+46;Thouamria  Islam;;3;M;Dar Chioukh;L.C;15/02/2024
+47;Sba Zohra;;88;F;Ain Maabed;L.C;15/02/2024
+48;Chouiha Nail;;42;M;HBB;L.C;15/02/2024
+49;Zenzan Baghdad;;31;M;Dar Chioukh;L.C;15/02/2024
+50;Bagua Mohamed;;54;M;HBB;Brucllose;15/02/2024
+51;Nakbil Omar;;28;M;HBB;Brucllose;15/02/2024
+52;Mositfa Abdelnour;;18;M;Dar Chioukh;Brucllose;18/02/2024
+53;Kihoul Emadani;;16;M;Zaafrane;Brucllose;18/02/2024
+54;BAHLOUL ALI ;;64;M;Dar Chioukh;Brucllose;18/02/2024
+55;Djaafour Lakhder;;13;M;HBB;LC;18/02/2024
+56;Guendouze Guendouz;;81;M;HBB;LC;18/02/2024
+57;Daalous Omar;;58;M;HBB;LC;18/02/2024
+58;Djaaroune Souad;;29;F;HBB;LC;18/02/2024
+59;Naouari Hadjer;;1;F;HBB;LC;18/02/2024
+60;Naouari Aicha;;7;F;HBB;LC;18/02/2024
+61;Debab Fatna;;17;M;HBB;LC;18/02/2024
+62;Benemchih Zohra;;55;F;HBB;LC;18/02/2024
+63;Zerguine Rebiha;;34;F;HBB;LC;18/02/2024
+64;Chaibout Oumelkheir;;15;M;HBB;LC;18/02/2024
+65;Haouassi Bakhta;;51;M;Sidi Baizid;Brucllose;19/02/2024
+66;Ben yatou Said;;29;M;HBB;Brucllose;19/02/2024
+67;Djaaroun Hamza;;35;M;HBB;LC;19/02/2024
+68;Djaaroun Manel;;4;F;HBB;LC;19/02/2024
+69;Khelifa Aissa;;37;M;HBB;LC;19/02/2024
+70;Bachiri Ameur;;70;M;HBB;LC;19/02/2024
+71;Teffah Boubakeur;;25;M;HBB;LC;20/02/2024
+72;Haouassi Abdelkarim;;18;M;Dar Chioukh;Brucllose;20/02/2024
+73;Salhi Oumelkheir;;45;F;HBB;Brucllose;20/02/2024
+74;Salhi  Abdelbaset ;;9;M;HBB;LC;21/02/2024
+75;Bakai Aissa;;36;M;HBB;LC;21/02/2024
+76;Mehamed  Mohamed;;73;M;HBB;Brucllose;21/02/2024
+77;Raach  Mohamed ;;29;M;HBB;Brucllose;21/02/2024
+78;Bahri Rima;;42;F;HBB;LC;22/02/2024
+79;Taibi Ahmed;;65;M;HBB;LC;22/02/2024
+80;Khelifa Imane;;14;F;HBB;LC;22/02/2024
+81;Rebouh Ikram;;18;F;HBB;LC;22/02/2024
+82;Harrane Mohamed;;32;M;Zaafrane;LC;22/02/2024
+83;Noureddine Ali;;47;M;Sidi Baizid;Brucllose;22/02/2024
+84;Zarga Yahia;;62;M;Dar Chioukh;Brucllose;22/02/2024
+85;Chaoui Amira;;37;F;HBB;LC;25/02/2024
+86;Haouas Amar;;13;M;HBB;Brucllose;25/02/2024
+87;Madouh Elgali;;59;M;Dar Chioukh;Brucllose;25/02/2024
+88;Medouh Hadil;;16;F;Dar Chioukh;Brucllose;25/02/2024
+89;Bazi Mohamed;;38;M;Dar Chioukh;Brucllose;25/02/2024
+90;Bab Elhadj;;12;M;HBB;Brucllose;26/02/2024
+91;Labzi Arouwa Halima;;3;F;Dar Chioukh;Brucllose;26/02/2024
+92;Goumich Nadjate;;27;F;Zaafrane;Brucllose;26/02/2024
+93;Slet Marwa;;2;F;HBB;L.C;26/02/2024
+94;Slet Zineb;;9;F;HBB;L.C;26/02/2024
+95;Senni Elkayma;;75;F;HBB;L.C;26/02/2024
+96;Sadki Soumia;;24;F;Sidi Baizid;Brucllose;27/02/2024
+97;Benbrahim Sokria;;40;F;HBB;L.C;27/02/2024
+98;Telidji Zakroufa;;27;F;HBB;L.C;27/02/2024
+99;Thelidji Talbi;;43;M;HBB;L.C;27/02/2024
+100;Abdelsalam Naas;;53;M;HBB;L.C;27/02/2024
+101;Abdelsalam Abderrahman;;20;M;HBB;L.C;28/02/2024
+102;Baga Hadjer;;8;F;HBB;L.C;28/02/2024
+103;Baga Ziane;;14;M;HBB;L.C;28/02/2024
+104;Djeridi Benalia;;44;M;HBB;L.C;28/02/2024
+105;BenAmeur Auda;;32;M;HBB;L.C;28/02/2024
+106;Benaissa Walid;;26;M;HBB;L.C;28/02/2024
+107;Toutaoui  Oussama;;28;M;HBB;L.C;29/02/2024
+108;Bachiri Ishak;;9;M;Zaafrane;L.C;29/02/2024
+109;Benalia Baga;;15;M;HBB;L.C;29/02/2024
+110;Zerria Zouhir;;18;M;Dar Chioukh;Brucllose;29/02/2024
+111;Chamma Ouali;;68;F;Mouileh;T.P;29/02/2024
+1;Guenoune Messaouda;;32;F;Ain Maabed;L.C;03/03/2024
+2;Rahmani Hadda;;62;F;HBB;L.C;03/03/2024
+3;Miloudi Abdelkader;;13;M;Hassi Eleuch;L.C;03/03/2024
+4;Merini Ameur;;62;M;HBB;L.C;03/03/2024
+5;Ledjal Noureddine;;11;M;Dar Chioukh;Brucllose;04/03/2024
+6;Dahmani Assia;;23;F;Zaafrane;Brucllose;04/03/2024
+7;Benattia Zohra;;64;F;HBB;L.C;04/03/2024
+8;Merini Tourkya;;29;F;HBB;L.C;04/03/2024
+9;Attafi Abdelkader;;39;M;HBB;L.C;04/03/2024
+10;Hafifa Messaouda;;38;F;Dar Chioukh;Brucllose;05/03/2024
+11;Ben Amar Bilal;;27;M;HBB;L.C;05/03/2024
+12;Fetilina Slimane;;60;M;HBB;L.C;05/03/2024
+13;Asslouni Chahra;;31;F;Zaafrane;L.C;05/03/2024
+14;Sabah Abderrahman;;27;M;Sidi Baizid;Brucllose;06/03/2024
+15;Malki Messaoud;;33;M;Zaafrane;Brucllose;06/03/2024
+16;Taoussi Elhedi;;13;M;Dar Chioukh;Brucllose;06/03/2024
+17;Sabah Amar;;32;M;Sidi Baizid;Brucllose;06/03/2024
+18;Mezati Mkhalet;;23;M;HBB;L.C;06/03/2024
+19;Bahchich Mohamed;;53;M;HBB;L.C;06/03/2024
+20;Mesitfa Zaid;;65;M;Sidi Baizid;Brucllose;10/03/2024
+21;Chouiha Benziane;;39;M;Ain Maabed;Brucllose;10/03/2024
+22;Medouh Khelifa;;24;M;Mliliha;Brucllose;10/03/2024
+23;Medou Salem;;72;M;Mliliha;Brucllose;10/03/2024
+24;Zenati Naas;;63;M;Dar Chioukh;Brucllose;10/03/2024
+25;Basbassi Zohra;;19;F;Dar Chioukh;Brucllose;11/03/2024
+26;Basbassi Salem;;57;M;Dar Chioukh;Brucllose;12/03/2024
+27;Sabah Belkacem;;4;M;Dar Chioukh;Brucllose;13/03/2024
+28;Sabah Souhila;;15;F;Dar Chioukh;Brucllose;14/03/2024
+29;Touba Djabrri;;26;M;Ain Maabed/;Brucllose;15/03/2024
+30;Sabah Ali;;60;M;Dar Chioukh;Brucllose;16/03/2024
+31;Sabah Houria;;17;F;Dar Chioukh;Brucllose;17/03/2024
+32;Sabah Razika;;19;M;Dar Chioukh;Brucllose;18/03/2024
+33;Sabah Oumhani;;53;F;Dar Chioukh;Brucllose;19/03/2024
+34;Kriouel Achoura;;27;F;Dar Chioukh;Brucllose;20/03/2024
+35;Elhadra Messaouda;;35;F;HBB;L.C;10/03/2024
+36;Triss Kadour;;61;M;HBB;L.C;11/03/2024
+37;Damani Khadidja;;7;F;Zaafrane;L.C;12/03/2024
+38;Salhi Halima;;29;F;HBB;L.C;10/03/2024
+39;Djaroune Souad;;30;F;HBB;L.C;11/03/2024
+40;Faitas Ahmed;;6;M;HBB;L.C;11/03/2024
+41;Dahmani Khadidja;;7;F;HBB;L.C;11/03/2024
+42;Haouassi Sliman;;59;M;Sidi Baizid;Brucllose;11/03/2024
+43;Chaibout Ladmia;;57;F;HBB/;L.C;13/03/2024
+44;Mekkaoui Kouider;;57;M;Zaafrane;Brucllose;13/03/2024
+45;Mekkaoui Khaoula Douaa;;9;F;Zaafrane;Brucllose;13/03/2024
+46;Tahiri Kheira;;42;F;Zaafrane;Brucllose;13/03/2024
+47;Mekkaoui Ali;;23;M;Zaafrane;Brucllose;14/03/2024
+48;Besbasi Messaoud;;13;M;Dar Chioukh;Brucllose;14/03/2024
+49;Mekkaoui Meriem;;16;F;Zaafrane;Brucllose;14/03/2024
+50;Ben Aissa Daoud;;5;M;Dar Chioukh;Brucllose;14/03/2024
+51;Touati Bachir;;35;M;HBB;TIAC;14/03/2024
+52;Touati Abdelbaki;;65;M;HBB;TIAC;14/03/2024
+53;Touati Mohamed;;34;M;HBB;TIAC;14/03/2024
+54;Dokmane Rachida;;30;F;HBB;TIAC;14/03/2024
+55;Touati Hamza;;28;M;HBB;TIAC;14/03/2024
+56;Touati Younes;;2;M;HBB;TIAC;14/03/2024
+57;Touati Bakhta;;55;F;HBB;TIAC;14/03/2024
+58;Chettouh Fatima;;34;F;HBB;TIAC;14/03/2024
+59;Touati Rabeh;;21;M;HBB;TIAC;14/03/2024
+60;Riri Boubakeur;;64;M;HBB;L.C;17/03/2024
+61;Salmi Brahim;;36;M;HBB;Brucllose;17/03/2024
+62;Dif Allah Abderrahim;;55;M;HBB;Brucllose;17/03/2024
+63;Zioueche Said;;103;M;HBB;L.C;18/03/2024
+64;Thouamria Rebiha;;39;F;Mliliha;Brucllose;19/03/2024
+65;Mihoubi Mohamed;;69;M;HBB;L.C;19/03/2024
+66;Dab Fatiha;;42;F;Dar Chioukh;Brucllose;20/03/2024
+67;Nakbil Tarek;;11;M;HBB;Brucllose;20/03/2024
+68;Noureddine Embarek;;41;M;Dar Chioukh;Brucllose;20/03/2024
+69;Rabouh Nabil;;19;M;Sidi Baizid;Brucllose;20/03/2024
+70;Rageud Oumelkheir;;68;F;HBB;Brucllose;20/03/2024
+71;Mihoubu Othmane;;76;M;HBB;L.C;20/03/2024
+72;Djaaroune Khadra;;70;F;HBB;L.C;20/03/2024
+73;Ouahchi Boufateh;;26;M;HBB;LC;21/03/2024
+74;Boussena Abdelkhader;;35;M;HBB;LC;21/03/2024
+75;Chaoui khadra;;54;F;Zafrane;Brucllose;21/03/2024
+76;Fetlina Slimane;;61;M;HBB;LC;24/03/2024
+77;Lhadi Salem;;41;M;Dar Chioukh;Brucllose;24/03/2024
+78;Omar Abdelkader;;9;M;HBB;Brucllose;24/03/2024
+79;Zenati Hamza;;12;M;Hassi Eleuch;Brucllose;24/03/2024
+80;Bouragba Fatna;;12;F;HBB;LC;25/03/2024
+81;Nakbil Abdelhafid;;56;M;HBB;Brucllose;25/03/2024
+82;Kerche Khelifa;;63;M;Mliliha;Brucllose;25/03/2024
+83;Merizika Mostafa;;60;M;Mliliha;Brucllose;25/03/2024
+84;Chouiha Ahmed;;73;M;Ain Maabed;Brucllose;25/03/2024
+85;Ziouache Maamar;;19;M;HBB;Brucllose;25/03/2024
+86;Haouari Laid;;26;M;Dar Chioukh;Brucllose;25/03/2024
+87;Begua Tourkya;;72;F;HBB;LC;26/03/2024
+88;Begua Benalia;;16;M;HBB;LC;26/03/2024
+89;Djaaroune Said;;56;M;HBB;LC;26/03/2024
+90;Terhioua Ali;;70;M;Sidi Baizid;Brucllose;26/03/2024
+91;Omar Ahmed;;5;M;HBB;Brucllose;26/03/2024
+92;Zarga Yahia;;62;M;Dar Chioukh;Brucllose;26/03/2024
+93;Chouiha Souad;;36;F;Ain Maabed;Brucllose;26/03/2024
+94;Dif Allah Hannan;;26;F;HBB;Brucllose;26/03/2024
+95;Madoui Baya;;48;F;HBB;Brucllose;26/03/2024
+96;Khelifi Mohamed;;32;M;Zaafrane;LC;28/03/2024
+97;Mahdjoube Saadia;;93;F;Dar Chioukh;Brucllose;28/03/2024
+98;Dejelikhi Mostafa;;72;M;Hassi Eleuch;Brucllose;28/03/2024
+99;Haddi Miloud;;56;M;Dar Chioukh;Brucllose;28/03/2024
+100;Noureddine Baizid;;15;M;Sidi Baizid;Brucllose;28/03/2024
+101;Zenati Mekhalat;;60;M;Hassi Eleuch;Brucllose;31/03/2024
+102;Zenati Mohamed;;18;M;Hassi Eleuch;Brucllose;31/03/2024
+103;Zenati Ali;;16;M;Hassi Eleuch;Brucllose;31/03/2024
+104;Sbaa Zineb;;50;F;Dar Chioukh;Brucllose;31/03/2024
+105;Geuttaf Salma;;57;F;Dar Chioukh;Brucllose;31/03/2024
+106;Rakrak Abdelfatah;;24;M;Dar Chioukh;T.P;31/03/2024
+107;Messitfa Ahmed;;18;M;Sidi Baizid;T.E.P;31/03/2024
+108;Taleb Oumelkheir;;17;F;HBB;T.E.P;31/03/2024
+109;Bentaher Omar;;43;M;HBB;T.P;31/03/2024
+1;Dhab Djallal;;6;M;HBB;L.C;01/04/2024
+2;Ben Salem bensaad;;41;M;HBB;Brucllose;01/04/2024
+3;Toumatia Tahar;;32;M;Sidi Baizid;Brucllose;02/04/2024
+4;Guessmi Zouina;;53;F;Dar Chioukh;Brucllose;02/04/2024
+5;Toual Amira;;0;F;HBB;Méningite;02/04/2024
+6;Embarki Makhlouf;;26;M;Zaafrane;L.C;03/04/2024
+7;Salmi Saadia;;27;F;HBB;Brucllose;03/04/2024
+8;Sengra Mokhtar;;31;M;Dar Chioukh;Brucllose;03/04/2024
+9;Bourenan Mohamed;;4;M;Dar Chioukh;Brucllose;03/04/2024
+10;Sadek Attia;;27;M;HBB;L.C;04/04/2024
+11;Basbasi Khadidja;;19;F;Dar Chioukh;Brucllose;04/04/2024
+12;Mezoura Abdelazziz;;23;M;Hassi Eleuch;Brucllose;04/04/2024
+13;Dahmani Dahman;;14;M;Zaafrane;Brucllose;07/04/2024
+14;Salhi Yamina;;50;F;Zaafrane;Brucllose;07/04/2024
+15;Mazzouz Rabeh;;61;M;Mouileh;Brucllose;07/04/2024
+16;Bassbasi Kheira;;22;F;Dar Chioukh;Brucllose;08/04/2024
+17;Djelita Amar;;6;M;HBB;Brucllose;08/04/2024
+18;Benbrahim Abdelkader;;23;M;HBB;Brucllose;14/04/2024
+19;Ekhad Aissa;;52;M;Dar Chioukh;Brucllose;14/04/2024
+20;Dhab Wissal;;7;F;HBB;L.C;15/04/2024
+21;Rakh Assil;;10;F;HBB;L.C;15/04/2024
+22;Chaib Mohamed;;47;M;Zaafrane;Brucllose;15/04/2024
+23;Ckourchi Yamina;;31;F;Sidi Baizid;Brucllose;15/04/2024
+24;Ben Salem Aissa;;23;M;HBB;Brucllose;15/04/2024
+25;Benassloune Brahim;;69;M;HBB;L.C;16/04/2024
+26;Azlaoui Ahmed Lamine;;16;M;HBB;L.C;16/04/2024
+27;Teffah Slimane;;50;M;Ain Maabed;L.C;16/04/2024
+28;Chaib Houssam;;12;M;Zaafrane;Brucllose;16/04/2024
+29;Chaib Saadia;;24;F;Zaafrane;Brucllose;16/04/2024
+30;Gatouache Mustapha;;40;M;HBB;Brucllose;16/04/2024
+31;Guettaf Mohamed;;64;M;Dar Chioukh;Brucllose;17/04/2024
+32;Sengra Salah;;18;M;Dar Chioukh;Brucllose;17/04/2024
+33;Lhadi Abdelhamid;;71;M;Dar Chioukh;Brucllose;17/04/2024
+34;Elotri Abdelnabi;;40;M;HBB;Brucllose;18/04/2024
+35;Deradji Khaled;;61;M;Dar Chioukh;Brucllose;18/04/2024
+36;Thelidji Messaouda;;44;F;HBB;L.C;21/04/2024
+37;Ouedad Djoud;;1;M;HBB;L.C;21/04/2024
+38;Bouafia Warda Souad;;23;F;HBB;L.C;21/04/2024
+39;Benmohamed Larouia;;90;F;HBB;L.C;21/04/2024
+40;Nakbil Ritadj;;13;F;HBB;Brucllose;21/04/2024
+41;Mesitfa Tahar;;38;M;Dar Chioukh;Brucllose;21/04/2024
+42;Abdelouahab Fatna;;23;F;Hassi Eleuch;Brucllose;21/04/2024
+43;Bourennan Elayza;;52;F;Dar Chioukh;Brucllose;21/04/2024
+44;Abdelsalam Nada;;11;F;HBB;L.C;22/04/2024
+45;Araar Arbia;;56;F;Dar Chioukh;Brucllose;22/04/2024
+46;Noumir Rebiha;;30;F;Ain Maabed;Brucllose;22/04/2024
+47;Lagurea Lakhder;;29;M;HBB;Brucllose;22/04/2024
+48;Bendnaidina Benalia;;44;M;Ain Maabed;Brucllose;22/04/2024
+49;Bendnaidina Amar;;72;M;HBB;Brucllose;23/04/2024
+50;Hafifa Belabbas;;28;M;Dar Chioukh;Brucllose;23/04/2024
+51;Benhoura Messaouda;;55;F;Hassi Eleuch;Brucllose;23/04/2024
+52;Boudana Mbarka;;89;F;HBB;L.C;24/04/2024
+53;Abdelsalam Abdelkader;;45;M;HBB;Brucllose;24/04/2024
+54;Salhi Fatima;;11;F;HBB;Brucllose;24/04/2024
+55;Hathat Bachir;;17;M;Hassi Eleuch;Brucllose;24/04/2024
+56;Guerguit Mohamed;;34;M;Zaafrane;Brucllose;24/04/2024
+57;Haouari Elhedi;;30;M;Dar Chioukh;Brucllose;24/04/2024
+58;Benchaae Rabeh;;33;M;HBB;L.C;25/04/2024
+59;Ziani Mohamed;;47;M;HBB;L.C;28/04/2024
+60;Toumatia Khadir;;15;M;Sidi Baizid;Brucllose;28/04/2024
+61;Cherrak Rabeh;;72;M;Dar Chioukh;Brucllose;28/04/2024
+62;Karoui Mohamed;;33;M;Hassi Eleuch;Brucllose;28/04/2024
+63;Gouge Amra;;35;F;Ain Maabed;Brucllose;28/04/2024
+64;Bendnaidina Ziyad Radwan;;3;M;Ain Maabed;Brucllose;28/04/2024
+65;Khelifa Ali;;36;M;Dar Chioukh;Brucllose;28/04/2024
+66;Bachenouda Ibrahim;;18;M;Dar Chioukh;Brucllose;28/04/2024
+67;Bendnaidina Zineb;;30;F;HBB;Brucllose;28/04/2024
+68;Gouge Zohra;;70;F;HBB;Brucllose;28/04/2024
+69;Bouzidi Fraiha;;19;F;Ain Maabed;Brucllose;28/04/2024
+70;Zioueche Said;;6;M;HBB;L.C;29/04/2024
+71;Kouzou Brahim;;42;M;Hassi Eleuch;Brucllose;29/04/2024
+72;Elhamra Mohamed;;48;M;Dar Chioukh;Brucllose;29/04/2024
+73;Djaballah Rabeh;;72;M;Hassi Eleuch;Brucllose;29/04/2024
+74;Bachiri Slimane;;32;M;Zaafrane;L.C;30/04/2024
+75;Noueddine Merrouk;;31;M;Sidi Baizid;Brucllose;30/04/2024
+76;Abdellaoui Saida;;60;F;Zaafrane;Brucllose;30/04/2024
+77;Slimani Messaouda;;0;F;HBB;Méningite;30/04/2024
+78;Khaldi Oussama;;33;M;HBB;Brucllose;30/04/2024
+79;Hairech Kheira;;44;F;Dar Chioukh;T.E.P;30/04/2024
+80;Daifallah Abdelhalim;;29;M;HBB;T.E.P;30/04/2024
+81;Benalia Yamina;;33;F;HBB;T.E.P;30/04/2024
+1;Zerria Lhadj;;51;M;Dar Chioukh;Brucllose;02/05/2024
+2;Derradji Ines;;19;F;Dar Chioukh;Brucllose;02/05/2024
+3;Guerguitte Boulerbah;;56;M;Zaafrane;Brucllose;02/05/2024
+4;Khaldi Oussama;;33;M;HBB;Brucllose;02/05/2024
+5;Bounema Embarka;;60;F;HBB;Brucllose;02/05/2024
+6;Zenati Chaima;;16;F;Dar Chioukh;Hépatite A;02/05/2024
+7;Laaroussi Mustapha;;28;M;Sidi Baizid;L.C;05/05/2024
+8;Karrach Sofiane;;36;M;Ain Maabed;Brucllose;05/05/2024
+9;Kerche Abdellah;;71;M;Mliliha;Brucllose;05/05/2024
+10;Hammama Ahlame;;9;F;Sidi Baizid;Brucllose;05/05/2024
+11;Salhi Benalia;;56;M;HBB;Brucllose;05/05/2024
+12;Goumech Embarka;;53;F;Ain Maabed;Brucllose;06/05/2024
+13;Deroum Hamza;;26;M;Hassi Eleuch;Brucllose;06/05/2024
+14;Geuttaf Mahdjouba;;75;F;Dar Chioukh;Brucllose;06/05/2024
+15;Guettaf Khoumikham;;61;F;Dar Chioukh;Brucllose;07/05/2024
+16;Debab Dehlab;;7;M;HBB;Brucllose;07/05/2024
+17;Belkheiri Sadam;;31;M;Dar Chioukh;Brucllose;07/05/2024
+18;Chaibout Sodjoud;;0;F;HBB;Méningite;07/05/2024
+19;Bakhti Belkacem;;12;M;HBB;L.C;08/05/2024
+20;Salhi Belkheir;;32;M;Zaafrane;Brucllose;08/05/2024
+21;Hamadi Fatiha;;50;F;Hassi Eleuch;Brucllose;08/05/2024
+22;Haouari Sabah;;15;M;Dar Chioukh;Brucllose;09/05/2024
+23;Haouari Abdelazziz;;29;M;Dar Chioukh;Brucllose;09/05/2024
+24;Derradji Khadidja;;47;F;Dar Chioukh;Brucllose;09/05/2024
+25;Derradji Djoumana;;5;F;Dar Chioukh;Brucllose;09/05/2024
+26;Derradji Youcef;;18;M;Dar Chioukh;Brucllose;09/05/2024
+27;Chouiha Embarka ;;30;F;HBB;Brucllose;09/05/2024
+28;Hafifa Oumelkhier;;35;F;Dar Chioukh;Brucllose;12/05/2024
+29;Mlili Saad;;14;M;Sidi Baizid;Brucllose;12/05/2024
+30;Djenba Ahmed;;44;M;Dar Chioukh;Brucllose;12/05/2024
+31;Benchioukh Abderrahman;;63;M;Sidi Baizid;Brucllose;13/05/2024
+32;Mouafki Zoulikha;;59;F;Sidi Baizid;Brucllose;13/05/2024
+33;Noureddine Said;;8;M;Sidi Baizid;Brucllose;13/05/2024
+34;Mositfa Hadjer;;7;F;Dar Chioukh;Brucllose;13/05/2024
+35;Salhi Imane;;6;F;HBB;Brucllose;13/05/2024
+36;Zenati Sif Eddine;;12;M;Hassi Eleuch;Brucllose;13/05/2024
+37;Teffah Abdelazziz;;20;M;Ain Maabed;L.C;14/05/2024
+38;Benchioukh Oumelkheir;;59;F;Sidi Baizid;Brucllose;14/05/2024
+39;Guet Messaouda;;59;F;Sidi Baizid;Brucllose;14/05/2024
+40;Benchioukh Benchioukh;;14;M;Sidi Baizid;Brucllose;14/05/2024
+41;Sabah Ishak;;12;M;Sidi Baizid;Brucllose;14/05/2024
+42;Gourida Abderrahman;;30;M;Zaafrane;Brucllose;15/05/2024
+43;Benchioukh Aicha;;26;F;Sidi Baizid;Brucllose;15/05/2024
+44;Harram Bariza;;17;F;Sidi Baizid;Brucllose;15/05/2024
+45;Guerabsia Yacine;;42;M;Ain Maabed;Brucllose;16/05/2024
+46;Hafifa Messaouda;;38;F;Dar Chioukh;Brucllose;16/05/2024
+47;Mistfa Aicha;;4;F;Dar Chioukh;Brucllose;16/05/2024
+48;Khelifi Abderrahman;;23;M;Ain Maabed;Brucllose;19/05/2024
+49;Sabah Kadour;;35;M;Sidi Baizid;Brucllose;19/05/2024
+50;Sabah Ahmed;;36;M;Sidi Baizid;Brucllose;19/05/2024
+51;Hafifa Mohamed;;53;M;Sidi Baizid;Brucllose;19/05/2024
+52;Chargui Hamama;;37;M;Sidi Baizd;Brucllose;19/05/2024
+53;Mesitfa Tourkia;;32;F;Sidi Baizid;Brucllose;19/05/2024
+54;Hocini Oumelkheir;;27;F;Sidi Baizid;Brucllose;19/05/2024
+55;Haouassi Lakhder;;13;M;Dar Chioukh;Brucllose;19/05/2024
+56;Bakheti Rabah;;40;M;Sidi Baizid;Brucllose;19/05/2024
+57;Brahimi Aicha;;45;F;Mliliha;Brucllose;19/05/2024
+58;Raach Khadidja;;31;F;HBB;L.C;20/05/2024
+59;Lagraa Messaouda;;42;F;HBB;Brucllose;20/05/2024
+60;Allaoua Attia;;55;M;Dar Chioukh;Brucllose;20/05/2024
+61;Goumiche Afaf;;24;F;Sidi Baizid;Brucllose;20/05/2024
+62;Seddas Fatoum;;35;F;Hassi Eleuch;Brucllose;20/05/2024
+63;Kraiouaa Zine Elabidine;;14;M;Sidi Baizid;Brucllose;21/05/2024
+64;Benmostafa Belkacem;;6;M;Sidi Baizid;Brucllose;21/05/2024
+65;Boukhari Ahmed;;46;M;Ain Maabed;Brucllose;21/05/2024
+66;Boukerraf Slimane;;52;M;Dar Chioukh;Brucllose;22/05/2024
+67;Bagaar Slimane;;14;M;Zaafrane;Brucllose;23/05/2024
+68;Bensalem Zohra;;45;F;HBB;Brucllose;23/05/2024
+69;Chaine Djilani;;30;M;Zaafrane;Brucllose;23/05/2024
+70;Bourass Ahmed;;46;M;HBB;Brucllose;23/05/2024
+71;Boukerraf Ameur;;45;M;Hassi Eleuch;Brucllose;23/05/2024
+72;Touati Aissa;;65;M;HBB;Brucllose;23/05/2024
+73;Guendouze Guendouze;;81;M;HBB;Brucllose;26/05/2024
+74;Bendjerda Daloula;;28;F;Dar Chioukh;Brucllose;26/05/2024
+75;Eloutri Hamida;;80;M;HBB;Brucllose;26/05/2024
+76;Bagua Said;;49;M;HBB;Brucllose;26/05/2024
+77;Guessem Mokhtar;;26;M;Dar Chioukh;Brucllose;26/05/2024
+78;Guetouach Fathi;;12;M;HBB;L.C;27/05/2024
+79;Bouchmel Meriem;;16;F;HBB;Brucllose;27/05/2024
+80;Rezouge Mokhtar;;33;M;Mliliha;Brucllose;27/05/2024
+81;Nakbil Fatma;;72;F;HBB;Brucllose;27/05/2024
+82;Mebouaa Lmbarek;;30;M;Dar Chioukh;Brucllose;27/05/2024
+83;Bechnouda Hmaida;;17;M;HBB;Brucllose;27/05/2024
+84;Zergua Aicha;;27;F;Dar Chioukh;Brucllose;27/05/2024
+85;Benmebkhout Necrin;;14;F;Dar Chioukh;Brucllose;27/05/2024
+86;Chouitar Aicha;;33;F;HBB;Brucllose;27/05/2024

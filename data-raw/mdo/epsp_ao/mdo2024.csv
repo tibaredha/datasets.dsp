@@ -1,0 +1,570 @@
+"N","NOM PRENOM","AGE","SEXE","COMMUNE","PATHOLOGIE","DATE"
+"1","ANAG YAHIA","13","M","GURNINI","Leishmanise C",2024-01-02
+"2","SOMATI MOHAMMED AMINE","10","M","AIN OUSSERA","Leishmanise C",2024-01-02
+"3","MERINIZA OURDA","8","F","BIRINE","Leishmanise C",2024-01-02
+"4","BEN MAICHA MOURAD","7","M","BENHAR","Leishmanise C",2024-01-03
+"5","DAHANI YAHIA","74","M","HAD SAHARY","Leishmanise C",2024-01-03
+"6","REBHI HARZALLAH","64","M","AIN OUSSERA","Leishmanise C",2024-01-03
+"7","METROUCHE NAKHLA","43","F","BENHAR","Leishmanise C",2024-01-04
+"8","BOUZIDI REGHIA","14","F","AIN FEKKA","Leishmanise C",2024-01-04
+"9","BEN AOUF CHAIMA","8","F","AIN FEKKA","Leishmanise C",2024-01-07
+"10","BOUSSAEM SLAMI","50","M","HAD SAHARY","Leishmanise C",2024-01-08
+"11","BOUSSALEM RAHMA","43","F","HAD SAHARY","Leishmanise C",2024-01-08
+"12","LAKHDARI DJILALLI","32","M","HAD SAHARY","Leishmanise C",2024-01-08
+"13","DJEDILAT AICHA","38","F","BOUGHEZOUL","Leishmanise C",2024-01-08
+"14","SALHI HOUDA","8","F","AIN OUSSERA","Leishmanise C",2024-01-10
+"15","GARBAOUI HAMZA","33","M","GURNINI","Leishmanise C",2024-01-10
+"16","KADDOUR KHEIRA","58","F","NAAMA","Leishmanise C",2024-01-10
+"17","HAOUTI OMK","62","F","AIN FEKKA","Leishmanise C",2024-01-11
+"18","BOUKHARI AMINA","16","F","BIRINE","Brucellose",2024-01-11
+"19","RACHID ADILA","45","F","BIRINE","Leishmanise C",2024-01-11
+"20","KHELIF ADDAM","7","M","BOUSSADA","Leishmanise C",2024-01-15
+"21","KHATOUTI RABEH","21","M","AIN FEKKA","Brucellose",2024-01-17
+"22","MISSAOUI A/RAHAMNE","66","M","SIDI LAADJEL","Leishmanise C",2024-01-18
+"23","MELLATI AICHA","29","F","BENHAR","Leishmanise C",2024-01-18
+"24","MELLATI ILHAM","3","F","BENHAR","Leishmanise C",2024-01-18
+"25","MOHAMEDI MED","27","M","BENHAR","Leishmanise C",2024-01-18
+"26","KEIBECHE BAKHTA","59","F","AIN OUSSERA","Brucellose",2024-01-21
+"27","DJAAFOUR FATIMA","63","F","GURNINI","Brucellose",2024-01-22
+"28","BENCHIHA MARIAH","8","F","BENHAR","Leishmanise C",2024-01-23
+"29","DJEMOUNE HOUDA","9","F","AIN FEKKA","Leishmanise C",2024-01-23
+"30","DJEMOUNE SAFIA","14","F","AIN FEKKA","Leishmanise C",2024-01-23
+"31","RAMDANI AHMED","20","M","HAD SAHARY","Leishmanise C",2024-01-24
+"32","FELGOUMA REGHIA","37","F","AIN FEKKA","Leishmanise C",2024-01-24
+"33","DEHLIS RACHID","42","M","AIN OUSSERA","Leishmanise C",2024-01-24
+"34","HAMAD RADIA","28","F","HAD SAHARY","Leishmanise C",2024-01-24
+"35","REBAI OTHMANE","27","M","KHEMIS","Leishmanise C",2024-01-24
+"36","BOUZIDI ZOHRA","40","F","AIN FEKKA","Brucellose",2024-01-24
+"37","BOUDAOUED ASSIA","7","F","AIN OUSSERA","Leishmanise C",2024-01-28
+"38","DJELLOULI SAID","64","M","BIRINE","Leishmanise C",2024-01-28
+"39","MERBAH ISHAK","12","M","BENHAR","Leishmanise C",2024-01-31
+"40","GAOUIR HALIMA","37","F","AIN OUSSERA","TEP",2024-01-31
+"41","ZEROUK SMAIL","53","M","AIN OUSSERA","TP",2024-01-31
+"42","GUIDOM F/Z","20","F","BIRINE","TEP",2024-01-31
+"43","BOUTI MAROUA","18","F","AIN OUSSERA","TEP",2024-01-31
+"44","AICHOUN OUMAIMA","13","F","BIRINE","TEP",2024-01-31
+"45","MEDKDEM MOHAMMED","16","M","AIN OUSSERA","TEP",2024-01-31
+"46","GHOURAB KHADRA","65","F","AIN OUSSERA","TEP",2024-01-31
+"47","BOUZIDI MOHAMMED","44","M","AIN OUSSERA","TEP",2024-01-31
+"48","HASNAOUI YAKOUT","45","F","AIN OUSSERA","TEP",2024-01-31
+"49","BENAMAR MERIEM","39","F","BIRINE","TEP",2024-01-31
+"50","LAKEHAL SAAD","60","M","AIN OUSSERA","TEP",2024-01-31
+"51","BOUSSALEM RABEH","22","M","HAD SAHARY","TEP",2024-01-31
+"52","KHATOUTI BENSALEM","82","M","AIN FEKKA","TP",2024-01-31
+"53","BENZIANE ZINEB","42","F","AIN OUSSERA","TEP",2024-01-31
+"54","CHEDAOUI AICHA","14","F","BENHAR","TEP",2024-01-31
+"55","KARNOUT OUAEL","19","M","AIN FEKKA","TEP",2024-01-31
+"56","ATTAB BENALLIA","51","M","BIRINE","TEP",2024-01-31
+"57","ELOUED  AHMED","46","M","AIN BEL","RAGE",2024-01-31
+"58","MALKI A/RAHMANE","17","M","AIN OUSSERA","Leishamniose C",2024-02-04
+"59","MALKI MOHAMMED AMINE","14","M","AIN OUSSERA","Leishamniose C",2024-02-04
+"60","SAMIL TAMEUR","30","M","BOUGHEZOUL","Leishamniose C",2024-02-07
+"61","TOUIRI MOHAMMED","37","M","AIN OUSSERA","Brucellose",2024-02-11
+"62","MOHADI AMAR","43","M","AIN OUSSERA","Brucellose",2024-02-11
+"63","NAIB HAMZA","18","M","GUERNINI","Brucellose",2024-02-11
+"64","TOUNSI FATIMA","40","F","SIDI LAADJEL","Brucellose",2024-02-18
+"65","DJAAFOUR MOKHTAR","15","M","GUERNINI","Brucellose",2024-02-20
+"66","AYAD KHAOULA","9","F","KHEMIS","TEP",2024-02-29
+"67","KARNOUT KHEIRA","48","F","AIN FEKKA","TEP",2024-02-29
+"68","MOUHAD YAMINA","42","F","HAD SAHARY","TEP",2024-02-29
+"69","ZEBBAR YACINE","13","M","AIN OUSSERA","TEP",2024-02-29
+"70","BRIR MOHAMED","55","M","AIN OUSSERA","TEP",2024-02-29
+"71","TAIBI FATIMA","39","F","AIN OUSSERA","TEP",2024-02-29
+"72","DEHENDI ZAKIA","19","F","BIRINE","TEP",2024-02-29
+"73","BRIKI WAFA","18","F","AIN OUSSERA","TEP",2024-02-29
+"74","GHOUINI HASSAN","33","M","AIN OUSSERA","TP",2024-02-29
+"75","MOUAZ KHEIRA","26","F","AIN OUSSERA","TEP",2024-02-29
+"76","ZEROUKI MOHAMED","42","M","AIN OUSSERA","TEP",2024-02-29
+"77","KERRAS OTHMAN","49","M","AIN OUSSERA","TP",2024-02-29
+"78","DJAAFOUR BELKACEM","27","M","AIN OUSSERA","Brucellose",2024-03-03
+"79","BELALIA OUALID","6","M","AIN BOUCIF","Leishmaniose C",2024-03-03
+"80","FRERASA FATMA","60","F","AIN OUSSERA","Leishmaniose C",2024-03-06
+"81","MANSOURI ASMA","32","F","BIRINE","Leishmaniose C",2024-03-06
+"82","MANSOURI RAZIKA","40","F","BIRINE","Leishmaniose C",2024-03-06
+"83","MERINIZA KHADIDJA","40","F","BIRINE","Brucellose",2024-03-11
+"84","A/RAHIM RABEH","69","M","AIN OUSSERA","Brucellose",2024-03-12
+"85","OTHMANI MED","24","M","BOUAICHE","Brucellose",2024-03-13
+"86","DJAFOUR RAHOUADJA","38","F","GUERNINI","Brucellose",2024-03-17
+"87","CHEDDAD AYA","16","F","AIN OUSSERA","Brucellose",2024-03-17
+"88","LAAB LAKHDAR","43","M","HAD SAHARY","Brucellose",2024-03-19
+"89","GHARNOUT SAIDA","40","F","HAD SAHARY","Brucellose",2024-03-17
+"90","LAAB BELAID","14","M","HAD SAHARY","Brucellose",2024-03-17
+"91","BENLABGAA TAMEUR","25","M","AIN FEKKA","Brucellose",2024-03-20
+"92","GUERID BELABBES","43","M","AIN FEKKA","Brucellose",2024-03-20
+"93","LAAB BRAHIM","16","M","HAD SAHARY","Brucellose",2024-03-21
+"94","LAAB MESSOUD","12","M","HAD SAHARY","Brucellose",2024-03-21
+"95","LAAB YAHIA","11","M","HAD SAHARY","Brucellose",2024-03-26
+"96","AISSAOUI ZOHRA","44","F","HAD SAHARY","Brucellose",2024-03-26
+"97","LAAB HADIL","10","F","HAD SAHARY","Brucellose",2024-03-26
+"98","LAAB BATOUL","4","F","HAD SAHARY","Brucellose",2024-03-26
+"99","TAMEUR AICHA","16","F","HAD SAHARY","Brucellose",2024-03-26
+"100","MED RABEA","35","F","SIDI LAADJEL","Brucellose",2024-03-26
+"101","A/ALLAH RABEH","59","M","AIN OUSSERA","Brucellose",2024-03-26
+"102","BELABGAA AICHA","20","F","AIN FEKKA","Brucellose",2024-03-28
+"103","BENSLIMAN RAHMA","45","F","BIRINE","TEP",2024-03-31
+"104","GANI MAAMAR","36","M","AIN OUSSERA","TEP",2024-03-31
+"105","FERKI FATIMA","4","F","BENHAR","TEP",2024-03-31
+"106","MEDGUEDEM SAMIRA","37","F","BENHAR","TEP",2024-03-31
+"107","CHAGROUN FATNA","70","F","AIN OUSSERA","TEP",2024-03-31
+"108","OUAKAL BESMA","16","F","AIN OUSSERA","TEP",2024-03-31
+"109","MAATOUB MED","31","M","AIN OUSSERA","TEP",2024-03-31
+"110","LAID BOUZID","48","M","BIRINE","Leishmaniose C",2024-04-01
+"111","MESSOUDI IKRAME","19","F","AIN OUSSERA","Leishmaniose C",2024-04-04
+"112","LAKHAL BENAZOUZ","51","M","AIN OUSSERA","Brucellose",2024-04-07
+"113","SEBIHA BELKHEIR","21","M","HAD SAHARY","Brucellose",2024-04-07
+"114","BOUREZEG NADIR","30","M","AIN FEKKA","Leishmaniose C",2024-04-07
+"115","MESSOUDI IBRAHIM","76","M","AIN OUSSERA","Brucellose",2024-04-07
+"116","FERRADJE AMEUR","56","M","SIDI LAADJEL","Brucellose",2024-04-16
+"117","LAAB MEBARKA","58","F","HAD SAHARY","Brucellose",2024-04-16
+"118","SOUMATI AMINA","10","F","AIN OUSSERA","Leishmaniose C",2024-04-18
+"119","DJAFOUR AISSA","46","M","GUERNINI","Brucellose",2024-04-18
+"120","BOURABIA A/HAK","14","M","BIRINE","Leishmaniose C",2024-04-21
+"121","BENRAHAMANI MILOUD","38","M","AIN FEKKA","Brucellose",2024-04-21
+"122","SAADI TAYEB","22","M","SERGUINE","Brucellose",2024-04-22
+"123","BELABGAA BOULAZOUG","54","M","AIN FEKKA","Brucellose",2024-04-22
+"124","GARNOUT BOULANOIRE","26","M","AIN FEKKA","Brucellose",2024-04-22
+"125","GARAH OUHIBA","42","F","BENHAR","Leishmaniose C",2024-04-22
+"126","SADALLAH MED","36","M","HAD SAHARY","Brucellose",2024-04-23
+"127","BOUKHATER SAMI","14","M","AIN FEKKA","Brucellose",2024-04-26
+"128","BOUKHATER AEK","58","M","AIN FEKKA","Brucellose",2024-04-26
+"129","KHAMKHAME CHERGUI","58","M","AIN OUSSERA","Leishmaniose C",2024-04-28
+"130","SEDIRI SOUNDOUS","24","F","AIN OUSSERA","TEP",2024-04-30
+"131","MOUHAD MUSTAPHA","68","M","HAD SAHARY","TP",2024-04-30
+"132","OUADAH FATIHA","56","F","AIN OUSSERA","TEP",2024-04-30
+"133","HADJADJE LAAMRIA","65","F","AIN OUSSERA","TEP",2024-04-30
+"134","BRIR INES","15","F","AIN OUSSERA","TEP",2024-04-30
+"135","BENZINE SOUMIA","16","F","AIN OUSSERA","TEP",2024-04-30
+"136","MOSTEPHAI MERIEME","16","F","AIN OUSSERA","TEP",2024-04-30
+"137","MERZOUGUI AICHA","9","F","AIN OUSSERA","TEP",2024-04-30
+"138","LAAB AICHA","48","F","HAD SAHARY","TEP",2024-04-30
+"139","CHERGUI AICHA","40","F","HASSI FEDOUL","TEP",2024-04-30
+"140","CHEKKAI MEHAIA","35","F","AIN OUSSERA","TEP",2024-04-30
+"141","BRIR KHEIRA","34","M","AIN OUSSERA","TEP",2024-04-30
+"142","KABEL ISMAHANE","34","F","AIN OUSSERA","TEP",2024-04-30
+"143","GUERRAH MOHAMMED","66","M","AIN OUSSERA","TEP",2024-04-30
+"144","BENDJEFAL NAAMI","71","M","BIRINE","Brucellose",2024-05-05
+"145","YOUNES ZOHRA","60","F","BIRINE","Brucellose",2024-05-05
+"146","OTHMANI MED","24","M","AIN FEKKA","Brucellose",2024-05-05
+"147","KOLEA MUSTAPHA","45","M","AIN FEKKA","Brucellose",2024-05-05
+"148","SEDDI AMEUR","40","M","SIDI LAADJEL","Brucellose",2024-05-13
+"149","MUSTAPHA RABEH","29","M","GUERNINI","Leishmaniose C",2024-05-19
+"150","SEBAEUR ACHRAF YOUCEF","11","M","SIDI LAADJEL","Brucellose",2024-05-19
+"151","MOHADI AHLEM","16","F","AIN OUSSERA","Brucellose",2024-05-22
+"152","BOUZID BOUSSALEM","58","M","HAD SAHARY","Brucellose",2024-05-22
+"153","SENOUSSI MOHAMMED","87","M","BOUAICHE","Brucellose",2024-05-22
+"154","BOUZIDI ISSAM","15","M","HAD SAHARY","Brucellose",2024-05-23
+"155","GHERBI KHEIRA","50","F","HAD SAHARY","Brucellose",2024-05-23
+"156","SAADALLAH MOKHTARIA","86","F","HAD SAHARY","Brucellose",2024-05-23
+"157","GHODBANI NOUAR","30","M","AIN OUSSERA","Brucellose",2024-05-25
+"158","BOUDIAF FATIMA","68","F","BIRINE","Brucellose",2024-05-26
+"159","TAIBI ZIANE","56","M","BIRINE","Brucellose",2024-05-26
+"160","BESSOUD MESSOUDA","30","F","AIN OUSSERA","Brucellose",2024-05-27
+"161","TRAICH FATIMA","56","F","HAD SAHARY","Brucellose",2024-05-27
+"162","HAMZA TAIBI","23","F","BIRINE","Brucellose",2024-05-27
+"163","TAIBI KHALED","33","M","BIRINE","Brucellose",2024-05-27
+"164","TAIBI BILLAL","31","M","BIRINE","Brucellose",2024-05-27
+"165","BOUZIDI ASSIA","9","F","HAD SAHARY","Brucellose",2024-05-30
+"166","BOUZIDI WAEL","12","M","HAD SAHARY","Brucellose",2024-05-30
+"167","BOUZIDI NAFISSA","06","F","HAD SAHARY","Brucellose",2024-05-30
+"168","BOUSTELA HOUDA","16","F","AIN OUSSERA","TEP",2024-05-30
+"169","BENOTHMANE MESSOUDA","66","F","HAD SAHARY","TEP",2024-05-30
+"170","BOUNOUA FATIMA","55","F","AIN OUSSERA","TEP",2024-05-30
+"171","MAADER HANAE","30","F","AIN OUSSERA","TEP",2024-05-30
+"172","KHAITHER ZAHRA","31","F","AIN OUSSERA","TEP",2024-05-30
+"173","DJAMAL MOHAMMED","41","M","AIN OUSSERA","TP",2024-05-30
+"174","BASSINE FATNA","60","F","AIN OUSSERA","TEP",2024-05-30
+"175","BENAMAR MOHAMMED","39","M","BOUIRET LAHDAB","TEP",2024-05-30
+"176","HANCHI HALIMA","26","F","BIRINE","TEP",2024-05-30
+"177","BAHI MUSTAPHA","34","M","AIN OUSSERA","TP",2024-05-30
+"178","MOSTEFAI FATMA","44","F","AIN OUSSERA","TEP",2024-05-30
+"179","GHODBANI NOUAR","23","M","AIN OUSSERA","Brucellose",2024-06-02
+"180","BOUZIDI A/AKRIME","26","M","HAD SAHARY","Brucellose",2024-06-04
+"181","SANAA HAMID","21","M","HAD SAHARY","Brucellose",2024-06-04
+"182","ZOUAOUI TAHEUR","65","M","BIRINE","Brucellose",2024-06-06
+"183","GRIFID BELKACEM","67","M","HASSI FEDOUL","Brucellose",2024-06-11
+"184","KADDICH LAKHDAR","29","M","AIN FEKKA","Brucellose",2024-06-11
+"185","MOSTEFAI RABEH","29","M","GUERNINI","Leishmaniose C",2024-06-12
+"186","FERRADJ LOBNA","17","F","SIDI LAADJEL","Brucellose",2024-06-12
+"187","BEN HADDA KHADRA","29","F","GUERNINI","Brucellose",2024-06-12
+"188","KHATOUTI RABEH","21","M","AIN FEKKA","Brucellose",2024-06-12
+"189","SABI MOHAMMED","36","M","HAD SAHARY","Leishmaniose C",2024-06-12
+"190","CHAKOUR BRAHIM","21","M","GUERNINI","Brucellose",2024-06-23
+"191","BELABGAA MOHAMMED","28","M","IDRISSIA","Brucellose",2024-06-25
+"192","TAIBI YOUCEF","25","M","BIRINE","Brucellose",2024-06-25
+"193","DOUIB AISSA","36","M","BENHAR","Brucellose",2024-06-26
+"194","YOUNES ZOHRA","61","F","BIRINE","Brucellose",2024-06-28
+"195","DIAB MESSOUD","14","M","HAD SAHARY","Brucellose",2024-06-28
+"196","BESSISSA OUSSAMA","23","M","AIN OUSSERA","Leishmaniose C",2024-06-30
+"197","SALAH SALLAH EDDINE","30","M","BOUIRET LAHDAB","Brucellose",2024-06-30
+"198","MAAMRIA HALIMA","54","F","AIN OUSSERA","TP",2024-06-30
+"199","MABSOUT REGUIA","48","F","AIN OUSSERA","TEP",2024-06-30
+"200","SNOUCI WIAAM","24","F","AIN OUSSERA","TP",2024-06-30
+"201","MOHAD DERRADJI","46","M","HAD SAHARY","TEP",2024-06-30
+"202","BEKHOUCHE NACERA","31","F","BIRINE","TEP",2024-06-30
+"203","KEMICHE MOUNA","17","F","AIN OUSSERA","TEP",2024-06-30
+"204","DIB RABEH","37","M","AIN OUSSERA","TEP",2024-06-30
+"205","BENYAHIA ANISSA","47","F","BIRINE","TEP",2024-06-30
+"206","HAYOUR BELKACEM","67","M","AIN OUSSERA","TEP",2024-06-30
+"207","MEDJANAH BARIZA","53","F","BIRINE","TEP",2024-06-30
+"208","CHERIFA SID ALI","53","M","AIN OUSSERA","TEP",2024-06-30
+"209","BENZID HADJE","54","M","AIN OUSSERA","Leishmaniose C",2024-07-04
+"210","BACHIR AHMED","3","M","LAGHOUATE","Brucellose",2024-07-04
+"211","NASSAH FATIHA","41","F","AIN OUSSERA","Leishmaniose C",2024-07-08
+"212","SMAIL REBIHA","48","F","AIN OUSSERA","Leishmaniose C",2024-07-08
+"213","SOUILEH DJAMILA","24","F","BIRINE","Brucellose",2024-07-09
+"214","MEZHOUD MED","38","M","BIRINE","Brucellose",2024-07-10
+"215","DAHMANI ALI","70","M","BIRINE","Brucellose",2024-07-14
+"216","DAHMOUNE REBIHA","37","F","GUERNINI","Brucellose",2024-07-14
+"217","ZOUAGHUI FATMA","50","F","AIN OUSSERA","Brucellose",2024-07-15
+"218","BENRAFAA MARIA","12","M","AIN OUSSERA","Brucellose",2024-07-15
+"219","OUKAL MEBARKA","22","F","AIN FEKKA","Brucellose",2024-07-17
+"220","GANI HADJE","51","M","AIN OUSSERA","Brucellose",2024-07-17
+"221","BARIA BRAHIME","39","M","AIN OUSSERA","Brucellose",2024-07-17
+"222","ZAOUI MED","28","M","BIRINE","Brucellose",2024-07-17
+"223","ABIB AISSA","50","M","SIDI LAADJEL","Brucellose",2024-07-19
+"224","SOUILEH ALI","75","M","BIRINE","Brucellose",2024-07-22
+"225","ASSAS MALIKA","30","F","AIN OUSSERA","Brucellose",2024-07-22
+"226","BOUZID HADJE","53","M","AIN OUSSERA","Leishmaniose C",2024-07-25
+"227","TALEB FATIHA","40","F","AIN OUSSERA","Brucellose",2024-07-25
+"228","DERRADJI MERIEME","52","F","AIN OUSSERA","Brucellose",2024-07-27
+"229","DJEFFAL KOUIDER","50","M","AIN OUSSERA","Brucellose",2024-07-27
+"230","BENAICHA FARES","28","M","AIN OUSSERA","Leishmaniose C",2024-07-28
+"231","KHATOUTI MOKHTAR","19","M","AIN OUSSERA","Brucellose",2024-07-28
+"232","DOUIB MED","61","M","BIRINE","Brucellose",2024-07-29
+"233","LAATOUI YAHIA","58","M","SIDI LAADJEL","Brucellose",2024-07-29
+"234","KHELIF F/Z","31","F","AIN OUSSERA","TEP",2024-07-31
+"235","BENLASBAT TAOUS","71","F","BIRINE","TEP",2024-07-31
+"236","YOUNES ALI","64","M","AIN FEKKA","TP",2024-07-31
+"237","RAIAH SARAH","23","F","AIN OUSSERA","TEP",2024-07-31
+"238","HIRECHE RACHID","21","M","AIN OUSSERA","TEP",2024-07-31
+"239","DJENANE O/HABIB","64","F","SIDI LAADJEL","TEP",2024-07-31
+"240","AMMAR MUSTAPHA","57","M","HASSI FEDOUL","Brucellose",2024-08-11
+"241","BOUARARA SAAD","49","M","AIN OUSSERA","Brucellose",2024-08-11
+"242","SEHIL BELKACEM","7","M","SIDI LAADJEL","Brucellose",2024-08-11
+"243","SEBIHA A/RAHMANE","28","M","HAD SAHARY","Brucellose",2024-08-12
+"244","BAB GHANIA","19","F","AIN FEKKA","Brucellose",2024-08-20
+"245","ABID LAADJEL","31","M","SIDI LAADJEL","Brucellose",2024-08-21
+"246","BENCHIOUKH LAKHDAR","39","M","HAD SAHARY","Brucellose",2024-08-27
+"247","MABROUKI BRAHIM","30","M","AIN OUSSERA","Brucellose",2024-08-28
+"248","BOUCHOUL KHADIDJA","77","F","AIN OUSSERA","Brucellose",2024-08-29
+"249","BENMAMAAR AICHA","54","F","BENHAR","Brucellose",2024-08-29
+"250","BAB ALI","22","M","AIN FEKKA","Brucellose",2024-08-29
+"251","MED MOHAMED","48","M","SIDI LAADJEL","Brucellose",2024-08-29
+"252","SOUILAH KHEIRA","62","F","BIRINE","Brucellose",2024-08-29
+"253","SEBIHA BENALIA","31","M","HAD SAHARY","Brucellose",2024-08-29
+"254","CHETIOUI RAHAF","10","F","AIN OUSSERA","TEP",2024-09-01
+"255","REBIHAOUI DJAMILA","15","F","AIN OUSSERA","TEP",2024-09-01
+"256","SAIHI OUAFA","22","F","AIN OUSSERA","TEP",2024-09-01
+"257","AZIRI FATIHA","29","F","AIN OUSSERA","TEP",2024-09-01
+"258","CHAOUKI HADJEUR","14","F","AIN OUSSERA","TEP",2024-09-01
+"259","ZIANE MAROUA","16","F","BIRINE","TP",2024-09-01
+"260","KHAOUNI AHMED","34","M","AIN FEKKA","TEP",2024-09-01
+"261","BENREHAL SALAH EDDINE","34","M","AIN OUSSERA","TEP",2024-09-01
+"262","MEZI KHADRA","47","F","AIN OUSSERA","TEP",2024-09-01
+"263","REBIHAOUI DJAMILA","15","F","AIN OUSSERA","TEP",2024-09-01
+"264","SAADI TAHEUR","36","M","BIRINE","TP",2024-09-01
+"265","GHARBI TURKIA","73","F","AIN FEKKA","TEP",2024-09-01
+"266","MESOUDI BRAHIME","39","M","AIN OUSSERA","Brucellose",2024-09-02
+"267","DRIOUCHE AICHA","35","F","AIN OUSSERA","Leishmaniose C",2024-09-03
+"268","A/NEBI MOKHTAR","14","M","AIN OUSSERA","Brucellose",2024-09-04
+"269","AKKAR HAMAMA","44","F","HAD SAHARY","Brucellose",2024-09-04
+"270","SARRAR ACHRAF","12","M","SIDI LAADJEL","Brucellose",2024-09-05
+"271","ABIDAT MEBARK","56","F","HASSI FEDOUL","Brucellose",2024-09-08
+"272","BOUAZIZ MOHAMMED","22","M","AIN OUSSERA","Brucellose",2024-09-10
+"273","AKACHA MERIEME","28","F","BIRINE","Brucellose",2024-09-11
+"274","GHARNOUT SAADIA","39","F","HAD SAHARY","Brucellose",2024-09-15
+"275","BENNOUF AHMED","30","M","AIN FEKKA","Brucellose",2024-09-18
+"276","DJAAFOUR OULEMANE","8","M","AIN FEKKA","Leishmaniose C",2024-09-24
+"277","BOUREZG KARIMA","43","F","AIN FEKKA","Brucellose",2024-09-24
+"278","REBAI A/HAMID","45","M","BIRINE","Brucellose",2024-09-25
+"279","HAYOUR SOFIANE","30","M","AIN OUSSERA","Leishmaniose C",2024-09-29
+"280","LAGRAA SAIFA","80","F","SIDI LAADJEL","Brucellose",2024-09-30
+"281","HAISSOUNA LAID","15","M","SIDI LAADJEL","Brucellose",2024-09-30
+"282","DJERDJAR FAIZA","32","F","SIDI LAADJEL","TEP",2024-10-01
+"283","CHOUKHBAT MED","56","M","BIRINE","TEP",2024-10-01
+"284","AKKAR AMEL","28","F","HAD SAHARY","TEP",2024-10-01
+"285","MERRAH BASMA","18","F","BIRINE","TEP",2024-10-01
+"286","BENDJAMOUM CHAHRA","14","F","HAD SAHARY","TEP",2024-10-01
+"287","BEKHOUS BASMA","10","F","AIN OUSSERA","TEP",2024-10-01
+"288","BOUZIANE OUSSAMA","33","M","BIRINE","TEP",2024-10-01
+"289","LAHOUEL BELAHOUEL","17","M","BOUIRET LAHDAB","TP",2024-10-01
+"290","TELAICHE CHAIMA","18","F","HAD SAHARY","TEP",2024-10-01
+"291","YAHIAOUI AEK","38","M","AIN OUSSERA","TEP",2024-10-01
+"292","NEGGARA RAHMANI","13","M","AIN OUSSERA","TEP",2024-10-01
+"293","BOUDAOUED HOUCINE","36","M","BIRINE","TEP",2024-10-01
+"294","touissi rabeh","61","M","SIDI LAADJEL","Leishmaniose C",2024-10-06
+"295","saidi chaima","23","F","BIRINE","Leishmaniose C",2024-10-06
+"296","benchadad mbarek","46","M","BENHAR","Leishmaniose C",2024-10-06
+"297","MERNIZA AMAR","40","M","HAD SAHARY","Brucellose",2024-10-08
+"298","be maicha soudjoud","02","F","BENHAR","Leishmaniose C",2024-10-08
+"299","khadouche morad","35","M","SIDI LAADJEL","Leishmaniose C",2024-10-09
+"300","DHIFAOUI IMAD EDDIN","12","M","HAD SAHARY","Leishmaniose C",2024-10-10
+"301","CHADAD MASOUDA","38","F","BENHAR","Leishmaniose C",2024-10-10
+"302","BOUBAN FATIHA","38","F","DJELFA","Brucellose",2024-10-10
+"303","LADJEDAL SOUHAIB","47","M","AIN FEKKA","Leishmaniose C",2024-10-10
+"304","NADRMI BE DJEFEL","72","M","AIN FEKKA","Brucellose",2024-10-13
+"305","NAOUI YOUNS","31","M","AIN OUSSERA","Leishmaniose C",2024-10-13
+"306","CHAOUI ABDELAZIZ","45","M","HAS FDOUL","Leishmaniose C",2024-10-13
+"307","GARZOU ABDELKADER","19","M","AIN OUSSERA","Leishmaniose C",2024-10-13
+"308","LAKHAL FATHI","19","M","AIN OUSSERA","Leishmaniose C",2024-10-13
+"309","KLEA CHRIF","07","M","AIN OUSSERA","Brucellose",2024-10-13
+"310","GAHDOUN CHRIF","44","M","AIN OUSSERA","Leishmaniose C",2024-10-13
+"311","KOURI FATIMA","28","F","HAD SAHARY","Brucellose",2024-10-13
+"312","BENCHOUTA ABD RAHIM","14","M","AIN OUSSERA","Leishmaniose C",2024-10-13
+"313","TOLALA NAJLA","65","F","AIN OUSSERA","Brucellose",2024-10-13
+"314","BAHIRI HALIMA","35","F","HAD SAHARY","Brucellose",2024-10-16
+"315","GHAJAMB SI EDDINE","17","M","AIN OUSSERA","Leishmaniose C",2024-10-16
+"316","BENNAISSA ILYAS","28","M","AIN OUSSERA","Leishmaniose C",2024-10-17
+"317","REBIHAOUI BEN TAHER","30","M","AIN OUSSERA","Leishmaniose C",2024-10-17
+"318","GADOUSE YAHIA","14","F","AIN OUSSERA","Leishmaniose C",2024-10-20
+"319","DJAFOUR ASSMA","48","F","AIN OUSSERA","Leishmaniose C",2024-10-20
+"320","KADOUSE DJOHAINA","5","F","AIN OUSSERA","Leishmaniose C",2024-10-20
+"321","MESSAH MOUSTAPHA","36","M","AIN OUSSERA","Leishmaniose C",2024-10-20
+"322","SAOUD YOUCEF","24","M","AIN OUSSERA","Leishmaniose C",2024-10-20
+"323","LAAREB ISMAIL","36","M","AIN OUSSERA","Leishmaniose C",2024-10-21
+"324","BASSINE KARIMA","11","F","AIN OUSSERA","Leishmaniose C",2024-10-22
+"325","NASSAH MOUSTAPHA","10","M","AIN OUSSERA","Leishmaniose C",2024-10-21
+"326","DJEHAICHE TALIA","50","F","AIN OUSSERA","Brucellose",2024-10-23
+"327","BOUGAHMONE INAS","13","F","AIN OUSSERA","Leishmaniose C",2024-10-23
+"328","BENSELILIH AMAR","47","M","AIN OUSSERA","Brucellose",2024-10-23
+"329","ZEKRIFA ALI","42","M","AIN OUSSERA","Leishmaniose C",2024-10-28
+"330","MENIKHI KHADIDJA","6","F","AIN OUSSERA","Leishmaniose C",2024-10-28
+"331","ZEKRIF YOUCEF","6","M","AIN OUSSERA","Leishmaniose C",2024-10-30
+"332","doumi imed abd malek","21","m","AIN OUSSERA","Leishmaniose C",2024-10-30
+"333","MAKHLOUF KAMEL","40","M","AIN OUSSERA","TEP",2024-10-31
+"334","BENHAIMOURA TOUTIK","42","M","AIN OUSSERA","TEP",2024-10-31
+"335","BENAICHA MOHAMED","39","M","AIN OUSSERA","TEP",2024-10-31
+"336","BOUMEHAMED ZINEB","41","F","AIN OUSSERA","TEP",2024-10-31
+"337","BENCHIHA MEBARKA","36","F","AIN OUSSERA","TEP",2024-10-31
+"338","SEBKHA ARBIA","20","F","HAD SAHARY","TP",2024-10-31
+"339","GRINE FATIMA ZOHRA","15","F","AIN OUSSERA","TEP",2024-10-31
+"340","MOKHTARI MEBARKA","44","F","AIN OUSSERA","TEP",2024-10-31
+"341","HASNAOUI AYA","21","F","AIN OUSSERA","TEP",2024-10-31
+"342","KAIBECH RIHAB","17","F","AIN OUSSERA","TEP",2024-10-31
+"343","BENINA NOUR ELHOUDA","21","F","AIN OUSSERA","TEP",2024-10-31
+"344","BENDJEFAL SALIMA","34","F","BIRINE","TEP",2024-10-31
+"345","REBHI HADJER","28","F","AIN OUSSERA","TEP",2024-10-31
+"346","GHAYAT ABD FATAH","19","M","BENHAR","TEP",2024-10-31
+"347","AROUSI ASMA","18","F","HASSI FEDOUL","TEP",2024-10-31
+"348","KEMICHE AMIRA","17","F","AIN OUSSERA","TEP",2024-10-31
+"349","BENCHEDAD AICHA","51","F","AIN OUSSERA","Leishmaniose C",2024-11-03
+"350","ZEKRIFFA YOUCEF","06","M","AIN OUSSERA","Leishmaniose C",2024-11-03
+"351","GHALMANE DJABER","60","M","AIN FEKKA","Leishmaniose C",2024-11-03
+"352","DJAAFOUR AISSA","47","M","AIN OUSSERA","Leishmaniose C",2024-11-03
+"353","NADA DJOURI","4","F","AIN OUSSERA","Leishmaniose C",2024-11-05
+"354","SAMAR ASSIA","15","M","BENHAR","Leishmaniose C",2024-11-05
+"355","ZABBAR YOUCEF","14","M","BENHAR","Leishmaniose C",2024-11-05
+"356","DJEDILATE YOUNES","9","M","BENHAR","Leishmaniose C",2024-11-05
+"357","BOUCHOUL KHADIDJA","77","F","AIN OUSSERA","Brucellose",2024-11-05
+"358","LAKHAL FATHI","19","M","AIN OUSSERA","Leishmaniose C",2024-11-05
+"359","MESSOUDI TAYEB","55","M","AIN OUSSERA","Leishmaniose C",2024-11-06
+"360","BOUNAOUA MESSOUDA","48","F","AIN OUSSERA","Leishmaniose C",2024-11-06
+"361","BOUNOUNA MESSOUDA","48","F","AIN OUSSERA","Leishmaniose C",2024-11-06
+"362","DALLILA AISSA","20","F","AIN OUSSERA","Leishmaniose C",2024-11-07
+"363","SHIM MOHAMED","19","M","AIN OUSSERA","Leishmaniose C",2024-11-07
+"364","SENNI HENNIA","52","F","BERINE","Leishmaniose C",2024-11-07
+"365","MALEK ABD KADER","28","M","AIN OUSSERA","Leishmaniose C",2024-11-10
+"366","KADOUS FAID","20","M","AIN OUSSERA","Leishmaniose C",2024-11-10
+"367","BELKHAIRI AISSA","21","M","AIN OUSSERA","Leishmaniose C",2024-11-10
+"368","BAKRA AMAR","33","M","AIN OUSSERA","Leishmaniose C",2024-11-10
+"369","LAMMAK ABD FETAH","38","M","BERINE","Leishmaniose C",2024-11-10
+"370","TELLI  AHMED","30","M","AIN OUSSERA","Leishmaniose C",2024-11-10
+"371","AZOUZI FATMA","30","F","AIN OUSSERA","Brucellose",2024-11-10
+"372","HOCINE AZAR","18","M","AIN OUSSERA","Leishmaniose C",2024-11-10
+"373","GUEDJOL KHALIL","24","M","AIN OUSSERA","Leishmaniose C",2024-11-10
+"374","LEKHEL FATHI","30","M","AIN OUSSERA","Leishmaniose C",2024-11-10
+"375","MALEK AEK","28","M","AIN OUSSERA","Leishmaniose C",2024-11-10
+"376","LAHOUL AMIRA","56","F","HAD SHARY","Leishmaniose C",2024-11-11
+"377","KHOUTHI KHALED","32","M","HAD SHARY","Leishmaniose C",2024-11-11
+"378","ALOUT ABD RAHMEN","24","M","AIN OUSSERA","Leishmaniose C",2024-11-11
+"379","ATTALAHA SADIA","12","F","AIN OUSSERA","Leishmaniose C",2024-11-11
+"380","ATTALLAH HAMZA","10","M","AIN OUSSERA","Leishmaniose C",2024-11-11
+"381","AZZAZ SEIF EDDINE","15","M","AIN OUSSERA","Leishmaniose C",2024-11-11
+"382","ZIGINI WAALA","45","F","AIN OUSSERA","Leishmaniose C",2024-11-11
+"383","KOURI IDRIS","25","M","AIN OUSSERA","Leishmaniose C",2024-11-11
+"384","GHZIZAT ABD KADER","44","M","AIN OUSSERA","Leishmaniose C",2024-11-12
+"385","GHEZIZAT TECHICHE","59","M","AIN FEKKA","Leishmaniose C",2024-11-13
+"386","OM/RICHE YOUCEF","31","M","AIN OUSSERA","Leishmaniose C",2024-11-14
+"387","BOUZIDAOUI KHADRA","62","F","AIN OUSSERA","Leishmaniose C",2024-11-14
+"388","chezizat techich","59","m","AIN FEKKA","Leishmaniose C",2024-11-13
+"389","boudjadja karima","24","f","hassi fedoul","Leishmaniose C",2024-11-14
+"390","mebarki ahmed","54","m","AIN OUSSERA","Leishmaniose C",2024-11-14
+"391","bendine naima","14","f","AIN OUSSERA","Leishmaniose C",2024-11-17
+"392","kassama abd alaziz","32","m","AIN OUSSERA","Leishmaniose C",2024-11-17
+"393","chedad elgadi","54","m","AIN OUSSERA","Leishmaniose C",2024-11-17
+"394","chaoua mehamed amin","7","m","AIN OUSSERA","Leishmaniose C",2024-11-17
+"395","chaoua farah","12","f","AIN OUSSERA","Leishmaniose C",2024-11-17
+"396","khair eddine rahmania","32","m","AIN OUSSERA","Leishmaniose C",2024-11-17
+"397","ghanami meriem","14","f","AIN OUSSERA","Leishmaniose C",2024-11-17
+"398","ghanami nessrine","15","f","AIN OUSSERA","Leishmaniose C",2024-11-17
+"399","hamzaoui elhadj","49","m","AIN OUSSERA","Leishmaniose C",2024-11-17
+"400","zahar mohamed","36","m","AIN OUSSERA","Leishmaniose C",2024-11-17
+"401","mabtouch fatoum","40","f","AIN OUSSERA","Leishmaniose C",2024-11-18
+"402","badaoui aicha","81","f","AIN OUSSERA","Leishmaniose C",2024-11-20
+"403","dardouri fatima","53","f","AIN OUSSERA","Leishmaniose C",2024-11-20
+"404","tounsi lakhder","43","m","AIN OUSSERA","Leishmaniose C",2024-11-20
+"405","bousalem othmen","70","m","HAD SHARY","Brucellose",2024-10-20
+"406","lfita abd elkerim","21","m","HAD SHARY","Leishmaniose C",2024-11-20
+"407","bakhti saigaa","25","m","HAD SHARY","Leishmaniose C",2024-11-20
+"408","brahimi ahmed","12","m","BERINE","Leishmaniose C",2024-11-23
+"409","mohamed berdina","13","m","AIN OUSSERA","Leishmaniose C",2024-11-23
+"410","soudani mohamed","29","m","AIN OUSSERA","Leishmaniose C",2024-11-23
+"411","khaira boumana","50","f","AIN OUSSERA","Brucellose",2024-11-23
+"412","kliouat chaima","14","f","BENHAR","Leishmaniose C",2024-11-24
+"413","benchedad mebarek","47","m","BENHAR","Leishmaniose C",2024-11-24
+"414","berrbiha mohamed","14","m","AIN OUSSERA","Leishmaniose C",2024-11-24
+"415","mostfai mohamed","60","m","AIN OUSSERA","Leishmaniose C",2024-11-25
+"416","hamil atia","10","m","bouirert lahdab","Leishmaniose C",2024-11-26
+"417","ghemaz abd elmalek","7","m","sidi laadjal","Leishmaniose C",2024-11-26
+"418","amara abd kader","19","m","AIN OUSSERA","Leishmaniose C",2024-11-26
+"419","makhlouf messouda","60","f","khemiss","Leishmaniose C",2024-11-26
+"420","senni henia","52","f","benhar","Leishmaniose C",2024-11-27
+"421","maamri ismail","14","m","HAD SHARY","Leishmaniose C",2024-11-27
+"422","ibrur rabeh","27","m","AIN OUSSERA","Leishmaniose C",2024-11-27
+"423","khelif mokran","24","m","BERINE","Leishmaniose C",2024-11-27
+"424","habab adel","15","m","AIN OUSSERA","Leishmaniose C",2024-11-26
+"425","malah mohamed tarek amine","12","m","AIN OUSSERA","Leishmaniose C",2024-10-27
+"426","melah ahmed","25","m","AIN OUSSERA","Leishmaniose C",2024-10-27
+"427","gerzeau nour","10","f","AIN OUSSERA","Leishmaniose C",2024-10-27
+"428","mestfai mohamed amin","11","m","AIN OUSSERA","Leishmaniose C",2024-10-27
+"429","zobiri sohila","9","f","BERINE","Leishmaniose C",2024-11-28
+"430","amoura mohamed","31","m","AIN OUSSERA","Leishmaniose C",2024-11-28
+"431","rebai boubeker","23","m","AIN FEKKA","Leishmaniose C",2024-11-28
+"432","kahal ilham","13","f","AIN OUSSERA","TEP",2024-11-30
+"433","lekheir houria","20","f","AIN FEKKA","TEP",2024-11-30
+"434","naoui bentnbi","42","f","AIN OUSSERA","TEP",2024-11-30
+"435","oukal aicha","50","f","AIN OUSSERA","TEP",2024-11-30
+"436","kouf souhila","47","f","HAD SHARY","TEP",2024-11-30
+"437","amraoui kamar eddine","20","m","HAD SHARY","TEP",2024-11-30
+"438","allam aissa","10","m","AIN OUSSERA","TEP",2024-11-30
+"439","houinita hadjer","25","f","AIN OUSSERA","TEP",2024-11-30
+"440","boudina yamina","24","f","AIN OUSSERA","TEP",2024-11-30
+"441","khadidja bouki","70","F","ain oussara","Leishmaniose C",2024-12-01
+"442","gana attalah","29","M","ain fekka","Leishmaniose C",2024-12-01
+"443","chaoui koraichi","29","M","ain fekka","Leishmaniose C",2024-12-01
+"444","boucekar mehamed","25","m","ain oussara","Leishmaniose C",2024-12-01
+"445","louanas lina","6","f","ain oussara","Leishmaniose C",2024-12-02
+"446","kherifi souhaib","14","m","ain oussara","Leishmaniose C",2024-12-02
+"447","ghamam mehamed","2","m","ain oussara","Leishmaniose C",2024-12-02
+"448","chagran khaled","32","m","ain oussara","Leishmaniose C",2024-12-02
+"449","markantia oussama","1","m","benhar","Leishmaniose C",2024-12-03
+"450","mebarki zakhroufa","56","f","had shary","Leishmaniose C",2024-12-04
+"451","hairech rayan","11","m","ain oussara","Leishmaniose C",2024-12-04
+"452","hairech aya","12","f","ain oussara","Leishmaniose C",2024-12-04
+"453","megani chahinaz","16","f","ain oussara","Leishmaniose C",2024-12-04
+"454","chenief chahrazad","22","f","ain fekka","Brucellose",2024-12-05
+"455","ghadir meriem","3","f","ain oussara","Leishmaniose C",2024-12-08
+"456","lefha fathi","45","m","ain oussara","Leishmaniose C",2024-11-08
+"457","aniba laadjal","51","m","sidi laadjal","Leishmaniose C",2024-12-08
+"458","daoudi mohamed","3","m","lekhemiss","Leishmaniose C",2024-12-08
+"459","cheliklim abd kader","17","m","ain oussara","Leishmaniose C",2024-12-06
+"460","hassani mehamed","30","m","ain oussara","Leishmaniose C",2024-12-06
+"461","azani fatima","30","f","bouiret lahdab","Leishmaniose C",2024-12-08
+"462","seghir oussama","3","m","lekhemiss","Leishmaniose C",2024-12-08
+"463","seghir sihila","13","f","elkhemiss","Leishmaniose C",2024-12-08
+"464","seghir khaira","12","f","lekhemiss","Leishmaniose C",2024-12-08
+"465","segir yamina","13","f","lekhemiss","Leishmaniose C",2024-12-08
+"466","benbachir mehamed","51","m","ain oussara","Leishmaniose C",2024-12-08
+"467","khatouf rabeh","45","m","ain oussara","Leishmaniose C",2024-12-08
+"468","guechtouli yahia","65","m","ain oussara","Leishmaniose C",2024-12-08
+"469","sghir barkahom","70","f","lekhemiss","Leishmaniose C",2024-12-09
+"470","moulhi mokhtar","75","m","lekhemiss","Leishmaniose C",2024-12-09
+"471","dhiab khalil","9","m","lekhemiss","Leishmaniose C",2024-12-09
+"472","dhiaf mehamed","6","m","lekhemiss","Leishmaniose C",2024-12-09
+"473","bendjarmoun kamel","11","m","lekhemiss","Leishmaniose C",2024-12-09
+"474","chatouti adel","43","m","lekhemiss","Leishmaniose C",2024-12-09
+"475","kadousse ikram","20","f","ain oussara","Leishmaniose C",2024-12-09
+"476","chaddad naima","30","f","ain oussara","Leishmaniose C",2024-12-09
+"477","hocine amra","81","m","had shary","Leishmaniose C",2024-12-09
+"478","benbachir wafaa","9","m","ain oussara","Leishmaniose C",2024-12-09
+"479","lahrech fathi","30","m","hassi fedoul","Leishmaniose C",2024-12-09
+"480","mohadi riadh","2","m","ain oussara","Leishmaniose C",2024-12-10
+"481","mohadi linda","2","f","ain oussara","Leishmaniose C",2024-12-10
+"482","mohadi ahmed","34","m","ain oussara","Leishmaniose C",2024-12-10
+"483","mohadi omar","5","m","ain oussara","Leishmaniose C",2024-12-10
+"484","soudani manar","4","f","lekhemiss","Leishmaniose C",2024-12-11
+"485","saifi fatima zohra","25","f","lekhemiss","Leishmaniose C",2024-12-11
+"486","khlifa farha","14","m","sidi laadjal","Leishmaniose C",2024-12-11
+"487","guerzou moussa","4","m","ain oussara","Leishmaniose C",2024-12-11
+"488","brahimi messouda","41","f","oulad meaaref","Leishmaniose C",2024-12-12
+"489","chadad abd kader","71","m","ain oussara","Leishmaniose C",2024-12-15
+"490","djedilat salima","14","f","benhar","Leishmaniose C",2024-12-15
+"491","guesti rabeh","67","m","ain boussif","Leishmaniose C",2024-12-15
+"492","moustfai khalil","52","m","ain oussara","Leishmaniose C",2024-12-15
+"493","chaoui hamza","3","m","ain oussara","Leishmaniose C",2024-12-15
+"494","benalia lamouri","34","m","ain oussara","Leishmaniose C",2024-12-15
+"495","djimane mohamed","27","m","had shary","Leishmaniose C",2024-12-15
+"496","meriniza messoud","50","m","berine","Leishmaniose C",2024-12-15
+"497","mouilhi nour","4","f","lekhemiss","Leishmaniose C",2024-12-15
+"498","mostfai mohad sghir","71","m","lekhemiss","Leishmaniose C",2024-12-15
+"499","chadad abd kader","13","m","berine","Leishmaniose C",2024-12-15
+"500","laaref marouane","24","m","lekhemiss","Leishmaniose C",2024-12-15
+"501","bouragaa amani","16","f","lekhemiss","Leishmaniose C",2024-12-15
+"502","benlamri khaouther","2","f","lekhemiss","Leishmaniose C",2024-12-15
+"503","ghanam hiba mariem","13","f","lekhemiss","Leishmaniose C",2024-12-15
+"504","megeni chahinaz","16","f","ain oussara","Leishmaniose C",2024-12-16
+"505","ziani messoud","46","m","had shary","Leishmaniose C",2024-12-16
+"506","bensaigaa zakhroufa","42","f","had shary","Leishmaniose C",2024-12-16
+"507","sahmoun idris","9","m","ain oussara","Leishmaniose C",2024-12-16
+"508","bouagoun abd elkader","16","m","had shary","Leishmaniose C",2024-12-16
+"509","abd rahim zineb","5","f","lekhemiss","Leishmaniose C",2024-12-17
+"510","djaafour youcef","6","m","ain oussara","Leishmaniose C",2024-12-18
+"511","dir mazaga","78","f","had shary","Leishmaniose C",2024-12-18
+"512","dahmani ahmed","35","m","ain fekka","Leishmaniose C",2024-12-18
+"513","kouri fatima","5","f","had shary","Brucellose",2024-12-18
+"514","djaafri amina","2","f","berine","Leishmaniose C",2024-12-18
+"515","gouissem malak","14","f","benhar","Leishmaniose C",2024-12-22
+"516","zayane lamia","40","f","berine","Leishmaniose C",2024-12-22
+"517","Chaoui hamza","04","m","ain oussara","Leishmaniose C",2024-12-22
+"518","hmed ali","29","m","ain oussara","Leishmaniose C",2024-12-22
+"519","hasnaoui oussama","30","m","ain oussara","Leishmaniose C",2024-12-22
+"520","bouzidaoui nerdjes manar","15","f","ain oussara","Leishmaniose C",2024-12-22
+"521","ben aouacha ali","32","m","ain oussara","Leishmaniose C",2024-12-22
+"522","saadallah hamid","32","m","ain oussara","Leishmaniose C",2024-12-22
+"523","derbali wafaa","15","f","ain oussara","Leishmaniose C",2024-12-22
+"524","gouismi amar","43","m","ain fekka","Leishmaniose C",2024-12-22
+"525","bkhiti oumelkhir","35","f","ain oussara","Leishmaniose C",2024-12-22
+"526","ben salmi roga","3","f","had shary","Leishmaniose C",2024-12-22
+"527","mohamedi bachir","31","m","ain oussara","Leishmaniose C",2024-12-22
+"528","maamri khadidja","44","f","had shary","Leishmaniose C",2024-12-23
+"529","gandouz ahmed","6","m","taguin","Leishmaniose C",2024-12-23
+"530","ben maacha naima","18","f","benhar","Leishmaniose C",2024-12-23
+"531","battache ayoub","15","m","had shary","Leishmaniose C",2024-12-23
+"532","chaddad naima","56","f","ain oussara","Leishmaniose C",2024-12-23
+"533","sghir oussama","03","m","lekhemiss","Leishmaniose C",2024-12-23
+"534","sghir souhila","10","f","lekhemiss","Leishmaniose C",2024-12-23
+"535","ben bachir wafaa","09","f","ain oussara","Leishmaniose C",2024-12-23
+"536","yebrir rabeh","27","m","ain oussara","Leishmaniose C",2024-12-23
+"537","zayane malies","27",m,"berine","Leishmaniose C",2024-12-23
+"538","makoudi ouda","80","f","ain oussara","Leishmaniose C",2024-12-23
+"539","jaffal ismail","16","m","berine","Leishmaniose C",2024-12-23
+"540","ghdir kamel","47","m","benhar","Brucellose",2024-12-24
+"541","hourabi hamid","20","m","ain fekka","Leishmaniose C",2024-12-24
+"542","chelihi rafik","09","m","berine","Leishmaniose C",2024-12-24
+"543","markantia ishak","13","m","benhar","Leishmaniose C",2024-12-24
+"544","dahmani mohamed","14","m","berine","Leishmaniose C",2024-12-29
+"545","diab mohamed","04","m","benhar","Leishmaniose C",2024-12-29
+"546","meftah fatimazohra","10","f","sidi laadjal","Leishmaniose C",2024-12-29
+"547","malah barkahom","62","f","ain oussara","Leishmaniose C",2024-12-29
+"548","ghanam moulod","8","m","ain oussara","Leishmaniose C",2024-12-29
+"549","laalab nafla","30","f","ain oussara","Brucellose",2024-12-29
+"550","ghanan rayan","8","m","ain oussara","Leishmaniose C",2024-12-29
+"551","mahia houssem","12","m","taguin","Leishmaniose C",2024-12-29
+"552","FATOUH FATIMA","30","m","ain oussara","Leishmaniose C",2024-12-30
+"553","fadhadh miloud","42","m","bouiret lahdab","Leishmaniose C",2024-12-31
+"554","ghaithi saadia","29","f","ain fekka","TP",2024-12-31
+"555","mokhtari fatoum","62","f","ain oussara","TEP",2024-12-31
+"556","sengra khaira","32","f","had shary","TEP",2024-12-31
+"557","termouch messouda","31","f","ain oussara","TEP",2024-12-31
+"558","debchi nour","16","f","ain oussara","TEP",2024-12-31
+"559","messoudi abd rahmene","35","m","ain oussara","TEP",2024-12-31
+"560","yaakoubi noura","44","f","ain fekka","TEP",2024-12-31
+"561","hedjila ines","18","f","benhar","TEP",2024-12-31
+"562","ghaffari chaima","27","f","ain oussara","TEP",2024-12-31
+"563","karnout saada","29","f","ain fekka","TEP",2024-12-31
+"564","messoudi khaled","23","m","sidi laadjal","TP",2024-12-31
+"565","kilani aymen","27","m","ain oussara","TEP",2024-12-31
+"566","chagroun hadda","29","f","ain oussara","TEP",2024-12-31
+"567","limame wahiba","02","f","ain oussara","TP",2024-12-31
+"568","laamara abd elkader","53","m","ain oussara","TEP",2024-12-31
+"569","ferki fatima","05","f","benhar","TEP",2024-12-31

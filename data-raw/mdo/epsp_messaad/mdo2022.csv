@@ -1,0 +1,537 @@
+﻿N;NOM PRENOM;COMMUNE;AGE;SEXE;PATHOLOGIE;DATE
+01;Kacemi Zahia;Moudjbara;38;f;Brucellose;23/08/2021
+02;Elaid Marwa;Moudjbara;21;f;Brucellose;23/09/2021
+03;Bouzid Ahmed;Moudjbara;31;m;Brucellose;27/09/2021
+04;Ben hamama Kouider;Moudjbara;7;m;Brucellose;27/09/2021
+05;Djokma Dhahbia;Moudjbara;57;f;Brucellose;01/11/2021
+06;Hamidi Rebiha;Moudjbara;46;f;Brucellose;18/11/2021
+07;Lechehbi Messaouda;Moudjbara;8;f;Brucellose;20/11/2021
+08;Djdir Hanan;Moudjbara;18;f;Brucellose;21/11/2021
+09;Bouzid Ahlam;Moudjbara;33;f;Brucellose;07/12/2021
+10;Hamidi Ahmed;Moudjbara;30;m;Brucellose;14/12/2021
+11;Rebih hoda;Moudjbara;19;f;Brucellose;28/12/2021
+01;Djaket Selimane;Messaad;7;m;Leishmaniose C;20/01/2022
+02;Othman Maria;Messaad;26;f;Leishmaniose C;24/01/2022
+01;bessaoud maria;messaad;11;f;brucelose;23/11/2021
+02;brahimi mokhtar;moudjbara;30;m;brucelose;27/12/2021
+03;bessaoud nourddine;messaad;20;m;brucelose;14/12/2021
+04;amraoui hadjira;ain el ibel;38;f;brucelose;14/12/2021
+05;dehmen aicha;moudjbara;12;f;brucelose;14/12/2021
+06;gouicem feriha;messaad;70;f;brucelose;27/11/2021
+07;diab achour;messaad;2;m;brucelose;27/11/2021
+08;naouri samira;messaad;8;f;brucelose;08/01/2022
+09;saoudi naas;messaad;63;m;brucelose;03/01/2022
+10;halbaoui aittia;messaad;56;m;brucelose;10/01/2022
+11;zoruigue abdelkarim;messaad;2;m;Leishmaniose C;27/01/2022
+12;abikchi fatima;messaad;58;f;Leishmaniose C;31/01/2022
+01;brahimi mohamed;ain el ibel;18;m;Leishmaniose C;03/02/2022
+02;ben hadda madjid;messaad;5;m;Leishmaniose C;07/02/2022
+03;touati riham;messaad;11;f;hepatite A;03/02/2022
+04;meguenech hadda;messaad;32;f;TP;27/01/2022
+05;souisi mohamed;messaad;30;m;brucelose;03/02/2022
+06;karrache zahra;messaad;22;f;brucelose;03/02/2022
+07;serrar madani;messaad;30 ;m;brucelose;01/02/2022
+08;gueroud ines;messaad;30;f;brucelose;01/02/2022
+09;touati rabiaa;messaad;30;f;brucelose;01/02/2022
+10;cherboul said;ain el ibel;30;m;brucelose;28/12/2021
+11;baghdadou belkheir;ain el ibel;20;m;brucelose;02/01/2022
+12;baghdadou ahmed;ain el ibel;30;m;brucelose;03/01/2022
+13;benamer salim;ain el ibel;35;m;brucelose;03/01/2022
+14;bouneoua naima;messaad;33;f;brucelose;04/01/2022
+15;amraoui fatima;ain el ibel;24;f;brucelose;09/01/2022
+16;nekague belkacem;ain el ibel;45;m;brucelose;11/01/2022
+17;hamada zahra;ain el ibel;20;f;brucelose;17/02/2022
+01;Ben ali Laila;Messaad;13;f;Leishmaniose C;10/01/2022
+02;Selilih Nadji;Messaad;10;m;Leishmaniose C;17/02/2022
+03;Abilchi Abela;Messaad;5;f;Leishmaniose C;14/02/2022
+04;Bessaoud Ahlam;Messaad;30;f;Brucelose;09/02/2022
+05;Haouari med;Messaad;30;m;Brucelose;09/02/2022
+06;Narra fatoum;Messaad;12;f;Brucelose;27/01/2022
+07;Djakal Yacine;Ain El Ibel;18;m;Brucelose;09/02/2022
+08;Djamil Miloud;Ain El Ibel;23;m;Brucelose;13/02/2022
+09;Akrout Khaounia;Ain El Ibel;48;f;Brucelose;13/02/2022
+10;Chetouh Miloud;Zaccar;15;m;Brucelose;13/02/2022
+11;Dehasse ali;Ain El Ibel;33;m;Brucelose;13/02/2022
+12;Karara med;Ain El Ibel;31;m;Brucelose;13/02/2022
+13;Touer Benabdellah;Ain El Ibel;47;m;Brucelose;14/02/2022
+01;djaballah naoui;Messaad;80;m;Brucelose;03/02/2022
+02;bendjaria bouamra;Messaad;84;m;Brucelose;02/02/2022
+03;souisi med;Messaad;22;m;Brucelose;31/01/2022
+04;melati fatima;Messaad;33;f;Brucelose;01/02/2022
+05;benhadda taher;Messaad;40;m;Brucelose;30/01/2022
+06;dehman nadji;Messaad;80;m;Brucelose;30/01/2022
+07;rida ahmed;Messaad;42;m;Brucelose;22/01/2022
+08;melati hadda;Messaad;21;f;Brucelose;16/01/2022
+09;saitouha yehia;Messaad;14;m;Brucelose;17/02/2022
+10;ghaittou ayoub;Messaad;25;m;hepatite C;17/02/2022
+11;bengesmia salim;Messaad;28;m;hepatite C;27/01/2022
+12;dehas sara;Ain El Ibel;12;f;Brucelose;30/01/2022
+13;kraikar brahim;Ain El Ibel;42;m;Brucelose;30/01/2022
+14;taibi fatna;Ain El Ibel;57;f;Brucelose;30/01/2022
+15;amraoui hadjira;Ain El Ibel;20;f;Brucelose;30/01/2022
+16;baghdadou oem;Ain El Ibel;32;f;Brucelose;01/02/2022
+17;baghdadou nakhla;Ain El Ibel;33;f;Brucelose;02/02/2022
+18;gouicem kheira;Ain El Ibel;45;f;Brucelose;03/02/2022
+19;abbasi kheira;taadhmit;18;f;Brucelose;06/02/2022
+20;mouisi fatna;Ain El Ibel;19;f;Brucelose;06/02/2022
+21;meyah rokia;Ain El Ibel;19;f;Brucelose;06/02/2022
+22;meyah oem;Ain El Ibel;18;f;Brucelose;06/02/2022
+23;meyah med;Ain El Ibel;16;m;Brucelose;06/02/2022
+24;mihoubi omhani;Ain El Ibel;51;f;Brucelose;06/02/2022
+25;meyah feriha;Ain El Ibel;17;f;Brucelose;06/02/2022
+26;baghdadou abdellah;Ain El Ibel;23;m;Brucelose;06/02/2022
+27;baghdadou rokia;Ain El Ibel;35;f;Brucelose;06/02/2022
+28;raouan taher;Ain El Ibel;22;m;Brucelose;07/02/2022
+29;hamida messaouda;Ain El Ibel;35;f;Brucelose;08/02/2022
+30;djakal yacine;Ain El Ibel;18;m;Brucelose;09/02/2022
+31;djamil miloud;Ain El Ibel;23;m;Brucelose;13/02/2022
+32;akrout khaounia;Ain El Ibel;48;f;Brucelose;13/02/2022
+33;chetouh miloud;zaccar;15;m;Brucelose;13/02/2022
+34;dehasse ali;Ain El Ibel;33;m;Brucelose;13/02/2022
+35;touer benabdellah;Ain El Ibel;47;m;Brucelose;14/02/2022
+36;belkheiri aicha;Ain El Ibel;40;f;Brucelose;20/02/2022
+37;karache med;Ain El Ibel;54;m;Brucelose;20/02/2022
+38;akrout metlili;Ain El Ibel;32;m;Brucelose;13/02/2022
+39;meghlouth wasila;Ain El Ibel;7;f;Brucelose;14/02/2022
+40;kraikar anouar;Ain El Ibel;19;m;Brucelose;15/02/2022
+41;rahmoun khadra;Ain El Ibel;30;f;Brucelose;16/02/2022
+42;hamida bakhta;Ain El Ibel;43;f;Brucelose;17/02/2022
+01;haoua messaouda;Messaad;3;f;leishmaniose;28/02/2022
+02;belkheiri med;Ain El Ibel;40;m;Brucelose;20/02/2022
+03;benabdellah mereim;moudjbara;22;f;Brucelose;06/01/2022
+04;rebih messaouda;moudjbara;33;f;Brucelose;04/02/2022
+05;djdir belkacem;moudjbara;40;m;Brucelose;05/02/2022
+06;bennadji rebeh;moudjbara;80;m;Brucelose;06/02/2022
+07;raouan arbi;Ain El Ibel;42;m;Brucelose;27/01/2022
+08;benlabiad med;Ain El Ibel;21;m;Brucelose;27/01/2022
+09;brahimi mebarka;Ain El Ibel;14;f;Brucelose;27/01/2022
+10;agouni nourddine;Ain El Ibel;25;m;Brucelose;27/01/2022
+11;nendjraibia aymen;Ain El Ibel;28;m;Brucelose;27/01/2022
+12;melik messaouda;Ain El Ibel;12;f;Brucelose;27/01/2022
+13;krakar feriha;Ain El Ibel;42;f;Brucelose;27/01/2022
+14;chenguan oem;Ain El Ibel;57;f;Brucelose;27/01/2022
+15;guichba mebarka;Ain El Ibel;20;f;Brucelose;28/01/2022
+16;djakal saad;Ain El Ibel;32;m;Brucelose;28/01/2022
+17;mazouz oem;Ain El Ibel;33;f;Brucelose;28/01/2022
+18;laadjal aida;messaad;45;f;Brucelose;03/02/2022
+19;ghraib ahmed;messaad;18;m;Brucelose;07/02/2022
+20;amraoui med;messaad;19;m;Brucelose;08/02/2022
+21;naami oem;messaad;19;f;Brucelose;08/02/2022
+22;ghraib mebarka;messaad;18;f;Brucelose;10/02/2022
+23;benhadda messaouda;messaad;16;f;Brucelose;10/02/2022
+24;benabdellah naima;messaad;51;f;Brucelose;06/02/2022
+25;benabdellah aicha;messaad;17;f;Brucelose;13/02/2022
+26;chenafi riadh;messaad;23;m;Brucelose;13/02/2022
+27;ghrieb aymen;messaad;35;m;Brucelose;13/02/2022
+28;chettouh belkacem;messaad;22;m;Brucelose;14/02/2022
+01;djaoubar sadek;Messaad;69;m;leishmaniose;07/03/2022
+02;ghouini nakhla;moudjbara;24;f;leishmaniose;03/03/2022
+01;oubah med;Messaad;38;m;Brucellose;21/02/2022
+02;bessaoud mebarka;moudjbara;43;f;Brucellose;23/02/2022
+03;oubah med;Ain el ibel;75;m;Brucellose;26/02/2022
+04;hebiche said;Taadhmit;29;m;Brucellose;21/02/2022
+05;reguegue aicha;Taadhmit;23;f;Brucellose;28/02/2022
+06;latrach hanan;Messaad;19;f;Brucellose;01/03/2022
+07;djeklil F zohra;Messaad;2;f;Brucellose;20/02/2022
+08;bennadji abdelmalek;Messaad;34;m;Brucellose;20/02/2022
+09;mriasse chikha;Messaad;15;f;Brucellose;01/03/2022
+10;benhadda mebarka;Messaad;27;f;Brucellose;01/03/2022
+11;taibi belkheir;Messaad;53;m;Brucellose;01/03/2022
+12;taibi abderrahman;Messaad;14;m;Brucellose;01/03/2022
+13;kheniche hamida;Messaad;11;f;Brucellose;02/03/2022
+14;amraoui med;Messaad;11;m;Brucellose;01/03/2022
+15;karara mereim;Messaad;17;f;Brucellose;03/03/2022
+16;lagraa fatima;Messaad;17;f;leishmaniose;10/03/2022
+01;Rebih elamri;moudjbara;41;m;Brucellose;01/02/2022
+02;selimani fatima;moudjbara;47;f;Brucellose;01/03/2022
+03;djdir lakhdar;moudjbara;48;m;Brucellose;14/03/2022
+04;belatra meftah;moudjbara;41;m;Brucellose;14/03/2022
+05;rebih tayeb;moudjbara;39;m;Brucellose;17/03/2022
+06;kouidri mebarka;moudjbara;78;f;Brucellose;17/03/2022
+07;rebih bahria;moudjbara;26;f;Brucellose;17/03/2022
+08;rebih zineb;moudjbara;22;f;Brucellose;17/03/2022
+09;mallati monira;Messaad;12;f;Brucellose;09/03/2022
+10;guaafazi oem;Messaad;24;f;Brucellose;09/03/2022
+11;kacemi belkacem;Messaad;31;m;Brucellose;09/03/2022
+12;kacemi lakhdar;Messaad;82;m;Brucellose;09/03/2022
+13;rahmoun bachir;Messaad;32;m;Brucellose;08/03/2022
+14;reguayegue hayat;Messaad;6;f;Brucellose;08/03/2022
+15;benslilih aissa;Messaad;12;m;Brucellose;08/03/2022
+16;reguague abderrahman;Messaad;18;m;Brucellose;08/03/2022
+17;bensaleh abdelaziz;Messaad;16;m;Brucellose;08/03/2022
+18;kharif ibrahim;Messaad;62;m;Brucellose;08/03/2022
+19;haoua amine;Messaad;28;m;Brucellose;06/03/2022
+20;aidaoui lakhdar;Messaad;15;m;Brucellose;17/03/2022
+21;aleb saida;Messaad;18;f;Brucellose;15/03/2022
+22;othman med;Messaad;6;m;Brucellose;15/03/2022
+23;othman achoura;Messaad;21;f;Brucellose;15/03/2022
+24;kherifi miloud;Messaad;12;m;Brucellose;16/03/2022
+25;kechida fatna;Messaad;69;f;Brucellose;15/03/2022
+26;naouri oem;Messaad;35;f;Brucellose;13/03/2022
+27;bensaleh amira;Messaad;71;f;Brucellose;17/03/2022
+01;mallati rabeh;moudjbara;2;m;leishmaniose;24/03/2022
+01;ben hadda kheira;Messaad;21;f;Brucellose;21/03/2022
+02;raouan nadjet;Ain El Ibel;15;f;Brucellose;21/03/2022
+03;hassebi lemkhalat;Taadhmit;65;m;Brucellose;21/03/2022
+04;hilali ammar;Ain El Ibel;11;m;Brucellose;21/03/2022
+05;tenoum mebrouk;Ain El Ibel;17;m;Brucellose;21/03/2022
+06;amraoui benharzallah;Ain El Ibel;19;m;Brucellose;21/03/2022
+07;saksak rachid;Ain El Ibel;47;m;Brucellose;21/03/2022
+08;taleb mohamed;Messaad;90;m;Brucellose;18/03/2022
+09;taleb abdelkader;Messaad;10;m;Brucellose;18/03/2022
+10;baghdadou baghdad;Messaad;21;m;Brucellose;18/03/2022
+11;guecem abdelkarim;Messaad;37;m;Brucellose;24/03/2022
+12;bensaleh malika;Messaad;25;f;Brucellose;22/03/2022
+13;kharchi saad;Ain El Ibel;19;m;Brucellose;23/03/2022
+14;lakhal belkheir;Messaad;27;m;Brucellose;22/03/2022
+15;kraiouaa abdellah;Messaad;12;m;Brucellose;29/03/2022
+16;tenoum fatima;Ain El Ibel;30;f;Brucellose;29/03/2022
+17;taibi ali;Ain El Ibel;28;m;Brucellose;29/03/2022
+18;djakal saad;Ain El Ibel;40;m;Brucellose;29/03/2022
+19;taibi khadra;Ain El Ibel;27;f;Brucellose;29/03/2022
+20;kechida hadj;Ain El Ibel;54;m;Brucellose;02/03/2022
+21;bourasse messaouda;Ain El Ibel;30;f;Brucellose;02/03/2022
+01;taibi khadra;Taadhmit;16;f;Brucellose;27/03/2022
+02;amraoui ali;Taadhmit;65;m;Brucellose;29/03/2022
+03;khenich med;Taadhmit;30;m;Brucellose;31/03/2022
+04;rinouba med;Ain El Ibel;12;m;Brucellose;04/04/2022
+05;amraoui fathi ;Taadhmit;5;m;Brucellose;04/04/2022
+06;taibi saadia;Ain El Ibel;45;f;Brucellose;06/04/2022
+07;amraoui habiba;Ain El Ibel;25;f;Brucellose;06/04/2022
+08;amraoui amar;Ain El Ibel;18;m;Brucellose;07/04/2022
+09;djabri zarnane;Ain El Ibel;68;m;Brucellose;07/04/2022
+10;derrah naas;Taadhmit;41;m;Brucellose;07/04/2022
+11;derrah ahmed;Taadhmit;35;m;Brucellose;07/04/2022
+12;lachehbi messaouda;Ain El Ibel;23;f;Brucellose;07/04/2022
+13;malati halima;Messaad;8;f;Brucellose;30/03/2022
+14;bakay fatima;Ain El Ibel;20;f;Brucellose;30/03/2022
+15;daoudi messaouda;Ain El Ibel;50;f;Brucellose;30/03/2022
+16;lehzail taher;Messaad;48;m;Brucellose;30/03/2022
+17;daoudi cherifa ;Ain El Ibel;30;f;Brucellose;31/03/2022
+18;kraiouaa amel;Messaad;5;f;Brucellose;31/03/2022
+19;kraiouaa sohila;Messaad;9;f;Brucellose;31/03/2022
+20;kraiouaa louiza;Messaad;14;f;Brucellose;01/04/2022
+21;malati houria;Messaad;4;f;Brucellose;01/04/2022
+22;brighithe om ameur;Ain El Ibel;45;f;Brucellose;01/04/2022
+23;malati torkia;Messaad;11;f;Brucellose;02/04/2022
+24;maleki kadour;Messaad;30;m;Brucellose;02/04/2022
+25;taheri fatima;Messaad;60;f;Brucellose;02/04/2022
+26;amraoui AEK;Messaad;75;m;Brucellose;02/04/2022
+27;mahfoudhi Kharfia;Messaad;29;f;Brucellose;02/04/2022
+28;rinouba med;Ain El Ibel;17;m;Brucellose;03/04/2022
+29;Benhadda AEK;Messaad;53;m;Brucellose;04/04/2022
+30;baghdadou lakhdar;Ain El Ibel;20;m;Brucellose;06/04/2022
+31;selimani fatima;Moudjbara;47;f;Brucellose;06/04/2022
+32;dhbaa Med;Messaad;57;m;Brucellose;06/04/2022
+33;benhadda boulerbah;Messaad;54;m;Brucellose;06/04/2022
+34;melati hadda;Messaad;20;f;Brucellose;08/04/2022
+35;djaraoub med;Messaad;30;m;Brucellose;08/04/2022
+36;mehamedi achoura;Messaad;56;f;Brucellose;08/04/2022
+37;makdouri nacer;Messaad;30;m;Tiac;11/04/2022
+38;sahraoui ismail;Messaad;30;m;Tiac;11/04/2022
+01;baki zakaria;messaad;25;m;TP;21/04/2022
+02;benkouidar mahdjouba;messaad;19;f;TP;24/04/2022
+01;Rebih Ameur;messaad;7;m;Brucellose;09/04/2022
+02;ben hadda belkheir;messaad;32;m;Brucellose;09/04/2022
+03;regueyegue mebarka;messaad;4;f;Brucellose;09/04/2022
+04;taheri el aid;moudjbara;33;m;Brucellose;10/04/2022
+05;sufrani ahmed;messaad;36;m;Brucellose;12/04/2022
+06;taheri ayoub;messaad;28;m;Brucellose;17/04/2022
+07;haoua abdelaziz;messaad;36;m;Brucellose;17/04/2022
+08;dahman saad;messaad;6;m;Brucellose;17/04/2022
+09;chaouia belkacem;messaad;41;m;Brucellose;17/04/2022
+10;debaa abdeljalil;messaad;11;m;Brucellose;17/04/2022
+11;naoum yamina;moudjbara;22;f;Brucellose;17/04/2022
+01;abbasse messaouda;messaad;37;f;Brucellose;30/04/2022
+02;naimi med;messaad;29;m;Brucellose;28/04/2022
+03;taibi kadour;messaad;24;m;Brucellose;28/04/2022
+04;khenich amara;messaad;1;m;Brucellose;28/04/2022
+05;bensaleh khera;messaad;19;f;Brucellose;24/04/2022
+06;kaidjar rebaiha;taadhmit;28;f;Brucellose;30/04/2022
+07;kharchi med;ain el ibel;36;m;Brucellose;19/04/2022
+01;taibi aicha;messaad;18;f;Brucellose;14/05/2022
+02;lahrache bachir;messaad;30;m;Brucellose;11/05/2022
+03;harzallah amra;messaad;37;f;Brucellose;11/05/2022
+04;mouafek naoual;messaad;21;f;Brucellose;08/05/2022
+05;regueyegu razika;messaad;10;f;Brucellose;08/05/2022
+06;karrach hicham;messaad;23;m;Brucellose;06/05/2022
+07;rebih sabrine;moudjbara;8;f;Brucellose;06/05/2022
+08;naimi amar;messaad;14;m;Brucellose;04/05/2022
+09;bakara mokhtar;messaad;38;m;Brucellose;04/05/2022
+10;assali rahma;messaad;26;f;Brucellose;04/05/2022
+11;rekiat fatna;messaad;22;f;Brucellose;30/04/2022
+12;toumi rabeh;moudjbara;28;m;leishmaniose;16/04/2022
+01;bouhraoua yaakoub;messaad;35;m;leishmaniose;19/05/2022
+02;komari belkheir;messaad;10;m;Brucellose;20/05/2022
+03;bounaama zohra;messaad;35;f;Brucellose;19/05/2022
+04;kacemi soumia;messaad;5;f;Brucellose;19/05/2022
+05;kouskous mesaoud;messaad;52;m;Brucellose;17/05/2022
+06;bensaleh med;messaad;65;m;Brucellose;17/05/2022
+07;madni manne;messaad;69;m;Brucellose;17/05/2022
+08;taibi yahia;messaad;39;m;Brucellose;15/05/2022
+09;bendkim houcine;messaad;35;m;Brucellose;14/05/2022
+10;marta lakhdar;messaad;2;m;Brucellose;22/05/2022
+11;haouari belkheir;messaad;10;m;Brucellose;20/05/2022
+12;marta med;messaad;40;m;Brucellose;22/05/2022
+13;benbrahim belkheir;messaad;23;m;Brucellose;19/05/2022
+14;aidi ali;messaad;75;m;Brucellose;15/05/2022
+15;araba fatima;messaad;30;f;Brucellose;14/05/2022
+16;mallati taher;messaad;19;m;Brucellose;14/05/2022
+01;baghdadi mebarka;ain el ibel;76;f;leishmaniose;30/05/2022
+02;benazouz zohra;messaad;5;f;leishmaniose;26/05/2022
+03;gouicem amel;ain el ibel;21;f;Brucellose;04/05/2022
+04;amraoui med;ain el ibel;26;m;Brucellose;08/05/2022
+05;bouhamela messaouda;ain el ibel;11;f;Brucellose;09/05/2022
+06;far mohamed;taadhmit;74;m;Brucellose;09/05/2022
+07;bouhamela med;ain el ibel;15;m;Brucellose;09/05/2022
+08;lakhnech AEK;ain el ibel;30;m;Brucellose;09/05/2022
+09;bouaouina fatima;ain el ibel;60;f;Brucellose;09/05/2022
+10;ghaidjar mostafa;ain el ibel;45;m;Brucellose;09/05/2022
+11;bouaziz med;ain el ibel;26;m;Brucellose;09/05/2022
+12;belkheiri chaima;taadhmit;24;f;Brucellose;10/05/2022
+13;hamada rainouba;ain el ibel;18;f;Brucellose;15/05/2022
+14;sadeki omlkheir;ain el ibel;60;f;Brucellose;10/05/2022
+15;graini yahya;ain el ibel;59;m;Brucellose;11/05/2022
+16;baghdadou mostafa;ain el ibel;29;m;Brucellose;11/05/2022
+17;toaba chaia;taadhmit;24;f;Brucellose;12/05/2022
+18;hathat benyehya;ain el ibel;26;m;Brucellose;12/05/2022
+19;mehila fatna;ain el ibel;22;f;Brucellose;12/05/2022
+20;baghdadou aissa;ain el ibel;35;m;Brucellose;15/05/2022
+21;hamada ahmed;ain el ibel;26;m;Brucellose;27/05/2022
+22;djaoui naima;taadhmit;30;f;Brucellose;26/05/2022
+23;aayet zohra;taadhmit;23;f;Brucellose;24/05/2022
+24;rebih mikhtar;moudjbara;22;m;Brucellose;23/05/2022
+01;kharchi AEK;ain el ibel;34;m;Brucellose;20/04/2022
+02;naouri mebarka;ain el ibel;52;f;Brucellose;20/04/2022
+03;guecem amel;ain el ibel;21;f;Brucellose;24/04/2022
+04;amraoui med;ain el ibel;26;m;Brucellose;04/05/2022
+05;bouhamela messaouda;ain el ibel;11;f;Brucellose;08/05/2022
+06;far med;taadhmit;74;m;Brucellose;09/05/2022
+07;lakhnache AEK;ain el ibel;30;m;Brucellose;09/05/2022
+08;boudina fatima;ain el ibel;60;f;Brucellose;09/05/2022
+09;ghidjar mostafa;ain el ibel;45;m;Brucellose;09/05/2022
+10;bouziaze med;ain el ibel;26;m;Brucellose;09/05/2022
+11;belkheiri chaima;ain el ibel;24;f;Brucellose;10/05/2022
+12;hamada rinouba;ain el ibel;18;f;Brucellose;10/05/2022
+13;sadki omlkheir;ain el ibel;60;f;Brucellose;10/05/2022
+14;gourinai yahya;ain el ibel;76;m;Brucellose;11/05/2022
+15;baghdado mostafa;ain el ibel;5;m;Brucellose;11/05/2022
+16;touaba chaia;taadhmit;21;f;Brucellose;11/05/2022
+17;hathat benayache;ain el ibel;26;m;Brucellose;12/05/2022
+18;mehila fatna;ain el ibel;11;f;Brucellose;12/05/2022
+19;baghdadou aissa;ain el ibel;74;m;Brucellose;15/05/2022
+01;yahyaoui med;messaad;25;m;tiac;12/06/2022
+02;daradji amar;messaad;24;m;Brucellose;13/06/2022
+03;ghrayab yahya;messaad;21;m;Brucellose;09/06/2022
+04;kacem zinzb;messaad;62;f;Brucellose;06/06/2022
+05;hanafi messaoud;messaad;66;m;Brucellose;06/06/2022
+06;othman rabeh;messaad;12;m;Brucellose;02/06/2022
+07;malati amar;messaad;5;m;Brucellose;31/05/2022
+08;harchaoui khadidja;messaad;27;f;Brucellose;31/05/2022
+01;delaiouah amara;messaad;25;m;Brucellose;22/06/2022
+02;bessaoud ahmed;messaad;33;m;Brucellose;22/06/2022
+03;elguen aicha;messaad;45;f;Brucellose;22/06/2022
+04;benkouider aicha;messaad;5;f;Brucellose;22/06/2022
+05;karrache araara;messaad;15;f;Brucellose;21/06/2022
+06;gheriab  nourddine;messaad;35;m;Brucellose;21/06/2022
+07;gueroud abdelhalim;messaad;22;m;Brucellose;21/06/2022
+08;gueroud feraiha;messaad;30;f;Brucellose;21/06/2022
+09;touir said;messaad;29;m;Brucellose;19/06/2022
+10;kharchi ali;ain el ibel;33;m;Brucellose;22/06/2022
+01;taibi abdelaziz;messaad;25;m;leishmaniose;27/06/2022
+02;haloub nakhla;ain el ibel;60;f;Brucellose;01/06/2022
+03;rbedirina chouikha;ain el ibel;62;f;Brucellose;01/06/2022
+04;bouhamela aicha;ain el ibel;20;f;Brucellose;26/06/2022
+05;benyahya ahmed;messaad;52;m;Brucellose;22/06/2022
+06;haouari taher;messaad;77;m;Brucellose;22/06/2022
+07;benkouider ahmed;messaad;51;m;tiac;27/02/2022
+08;benkouider taher;messaad;14;m;tiac;27/06/2022
+01;Bassoud Bachir;Moudjbara;56;m; Brucellose;22/06/2022
+02;Bessaoud Elrihe ;Moudjbara;50;m; Brucellose;22/06/2022
+03;Rebih  Hayat;Ain el ibel;12;f; Brucellose;22/06/2022
+04;Lahrache Ahmed ;messaad;11;m; Brucellose;27/06/2022
+05;Maameri Oumhani;messaad;45;f; Brucellose;28/06/2022
+06;Ben cheikh Taib;messaad;77;m; Brucellose;21/06/2022
+07;Karrache Bakhta ;messaad;19;f; Brucellose;28/06/2022
+08;Bourchi Sadia ;messaad;60;f; Brucellose;28/06/2022
+09;Mamri Nadjib;messaad;13;m; Brucellose;28/06/2022
+10;Derouiche Dehmen;messaad;19;m; Brucellose;29/06/2022
+11;Tahah Abdelrazek;messaad;19;m; Brucellose;29/06/2022
+12;Ghol Fatna;messaad;21;m; Brucellose;29/06/2022
+13;Gacem Nadjib;messaad;6;m; Brucellose;29/06/2022
+14;Diab Islam;messaad;22;m; Brucellose;23/06/2022
+15;Mamri Brahim ;messaad;33;m; Brucellose;23/06/2022
+16;Touti Aissa ;messaad;74;m; Brucellose;23/06/2022
+17;Lehzeil Mohamed;messaad;30;m; Brucellose;23/06/2022
+18;Gueibach Abdeelbaki;messaad;22;m; Brucellose;23/06/2022
+19;Garoud Brahim ;messaad;42;m; Brucellose;23/06/2022
+20;chattouh kheira;messaad;64;f; Brucellose;23/06/2022
+21;Rassoul Bouzen ;messaad;54;m; Brucellose;23/06/2022
+22;Rebih Zakaria;messaad;11;m; Brucellose;23/06/2022
+01;lamlouma zineb;Messaad;45;f;Brucellose;03/07/2022
+02;lembarki messaouda;Messaad;42;f;Brucellose;03/07/2022
+03;Rebih  ouahiba;Messaad;24;f;Brucellose;03/07/2022
+04;Melki zohra;Messaad;16;f;Brucellose;04/07/2022
+05;Houa nadhif;Messaad;19;m;Brucellose;04/07/2022
+06;Belghaouthi meftah;Messaad;18;m;Brucellose;04/07/2022
+07;Mehamdi farhat;Messaad;24;m;Brucellose;04/07/2022
+08;Mebarki mokhtar;Messaad;73;m;Brucellose;06/07/2022
+09;Gacem zolikha;Messaad;26;f;Brucellose;06/07/2022
+10;touati djamel;Messaad;8;f;Brucellose;06/07/2022
+11;Noudjem mohamed;Messaad;20;m;Brucellose;06/07/2022
+12;gaafazi ahmed;Messaad;16;m;Brucellose;10/07/2022
+1;benaissa fatna;messaad;48;f;hepatite B;25/07/2022
+2;benaissa aissa;messaad;55;m;hepatite B;25/07/2022
+3;cheriet aicha;messaad;24;f;BRUCELLOSE;14/07/2022
+4;louali abdelhadi;messaad;46;m;BRUCELLOSE;15/07/2022
+5;neguague Nakhla;messaad;40;f;BRUCELLOSE;18/07/2022
+6;maamri med;messaad;16;m;BRUCELLOSE;17/07/2022
+7;bendekim djalal;messaad;16;m;BRUCELLOSE;18/07/2022
+8;Dahmane Dalal;messaad;20;f;BRUCELLOSE;17/07/2022
+9;aarafi brahim;messaad;27;m;BRUCELLOSE;17/07/2022
+10;bouebdelli maamar;messaad;28;m;BRUCELLOSE;11/07/2022
+11;Gueroud Abdelhay;messaad;22;m;BRUCELLOSE;12/07/2022
+12;mogti abderahim;ain elibel;32;m;BRUCELLOSE;07/07/2022
+13;bessoud bachir;ain elibel;69;m;BRUCELLOSE;07/07/2022
+14;Gueroud Abdelhay;messaad;22;m;BRUCELLOSE;24/07/2022
+15;dahmani Fatna;messaad;38;f;BRUCELLOSE;24/07/2022
+16;Gruenei  Ahmed;ain elibel;18;m;BRUCELLOSE;06/07/2022
+17;zoubir ben daoud;ain elibel;33;m;BRUCELLOSE;11/07/2022
+18;guicem belkheir;messaad;39;m;BRUCELLOSE;12/07/2022
+1;houcini said;messaad;12;m;brucellose;21/07/2022
+2;mellati ali;messaad;5;m;brucellose;21/07/2022
+3;benzerguine boulerbah;messaad;59;m;brucellose;21/07/2022
+4;malki brahim;messaad;39;m;brucellose;21/07/2022
+5;allaoua kheira;messaad;12;f;brucellose;21/07/2022
+6;kerrache belkacem;messaad;22;m;brucellose;24/07/2022
+7;krioua omk;messaad;26;f;brucellose;25/07/2022
+8;smati abdelkarim;messaad;18;m;brucellose;26/07/2022
+9;benali abdelhafidh;messaad;29;m;brucellose;26/07/2022
+10;mellati ali;messaad;36;m;brucellose;27/07/2022
+11;selmi zohra;messaad;61;f;brucellose;27/07/2022
+12;bendjekina saber ayoub;messaad;21;m;brucellose;28/07/2022
+13;guimouza saad;messaad;11;m;brucellose;31/07/2022
+14;benabdelhadi karima;messaad;27;f;brucellose;27/07/2022
+15;kerrache abdelkader;messaad;62;m;brucellose;27/07/2022
+16;kemari aicha;messaad;66;f;brucellose;31/07/2022
+01;bensaid meriem;moudjbara;43;f; Brucellose;01/08/2022
+02;ben aissa fatna;moudjbara;82;f; Brucellose;03/08/2022
+03;belghouthi elamri;moudjbara;40;m; Brucellose;04/08/2022
+04;haouari taher;moudjbara;38;m; Brucellose;04/08/2022
+05;mameri said;moudjbara;19;m; Brucellose;04/08/2022
+06;mhiriga sadia;moudjbara;5;f; Brucellose;05/08/2022
+07;haouari belkacem;moudjbara;15;m; Brucellose;07/08/2022
+08;ben aissa rabia;moudjbara;15;f; Brucellose;01/08/2022
+09;azouz omhani;moudjbara;46;f; Brucellose;25/07/2022
+10;dahmen malika;moudjbara;24;f; Brucellose;24/07/2022
+11;aida haizia;moudjbara;27;f; Brucellose;19/07/2022
+01;djoudi ibrahim;moudjbara;27;m;TP;19/07/2022
+02;hamidi fatiha;moudjbara;27;f;Leishmaniose;19/07/2022
+03;azouz mabkhout;moudjbara;47;m;Leishmaniose;14/07/2022
+04;chikhaoui med;moudjbara;14;m; Brucellose;15/06/2022
+05;makhlouf amer;moudjbara;18;m; Brucellose;06/07/2022
+06;hamdi meriem;moudjbara;29;f; Brucellose;27/06/2022
+07;zioueche saad;moudjbara;31;m; Brucellose;15/06/2022
+08;azouz belkacem;moudjbara;69;m; Brucellose;15/06/2022
+09;azouz ahmed;moudjbara;32;m; Brucellose;27/06/2022
+10;larbi a/razak;moudjbara;58;m; Brucellose;04/07/2022
+01;mokhtari dahmen;Messaad;19;m;leishmaniose c;07/09/2022
+02;taibi akram;Messaad;17;m; Brucellose;04/09/2022
+03;benhadda bachir;Messaad;34;m; Brucellose;05/09/2022
+01;gacem yamina;Messaad;12;f; Brucellose;29/08/2022
+02;guerzou omelkhir;Messaad;21;f; Brucellose;29/08/2022
+03;lehziel khira;Messaad;52;f; Brucellose;15/08/2022
+04;baghdado belkhir;ainelibel;21;m; Brucellose;01/09/2022
+05;bouzergouta messoud;ainelibel;55;m; Brucellose;30/08/2022
+01;haidache messoud;Messaad;29;f;tiac;13/09/2022
+02;naiba saad;Messaad;21;f;tiac;13/09/2022
+03;daioual dahmane;Messaad;33;m;tiac;13/09/2022
+04;abbas ammar;Messaad;35;f;tiac;13/09/2022
+05;oubah aboubaker;Messaad;38;m;tiac;13/09/2022
+06;zerguine abdelouahab;Messaad;29;f;tiac;13/09/2022
+07;djaidir aek;Messaad;31;f;tiac;13/09/2022
+08;taibi fatna;Messaad;40;f;tiac;13/09/2022
+09;taibi faiza;Messaad;17;f;tiac;13/09/2022
+10;bourezka saadia;Messaad;29;f;tiac;13/09/2022
+11;benderrah youcef;Messaad;7;m;tiac;13/09/2022
+12;benderrah abdenacer;Messaad;3;m;tiac;13/09/2022
+13;benderrah hicham;Messaad;35;m;tiac;13/09/2022
+14;benderrah aimen;Messaad;28;m;tiac;13/09/2022
+15;bouzid khaled;Messaad;17;m;tiac;13/09/2022
+16;kamesse saad;Messaad;33;m;tiac;13/09/2022
+17;kamesse nadjat;Messaad;22;f;tiac;13/09/2022
+18;dacher ahmed;Messaad;25;m;tiac;13/09/2022
+19;belouaz abdelhamid;Messaad;30;m;tiac;13/09/2022
+20;hadouche mebrouk;Messaad;19;m;tiac;13/09/2022
+21;benzerguine nadjat;Messaad;22;f;tiac;13/09/2022
+22;benfettacha med;Messaad;29;m;tiac;13/09/2022
+23;abdellaoui hafnaoui;Messaad;22;m;tiac;13/09/2022
+24;derkouche amina;Messaad;35;f;tiac;13/09/2022
+25;chetatha tarek;Messaad;18;m;tiac;13/09/2022
+26;benrahmoun saddam;Messaad;31;m;tiac;13/09/2022
+27;assali med;Messaad;13;m;tiac;13/09/2022
+28;lagbadj lakhdar;Messaad;19;m;tiac;13/09/2022
+29;nedjma abdelhamid;Messaad;15;m;tiac;13/09/2022
+30;dacher ahmed;Messaad;17;m;tiac;13/09/2022
+31;benderkouche ahmed yacine;Messaad;20;m;tiac;13/09/2022
+32;touati aek;Messaad;34;m;tiac;13/09/2022
+33;djeribie youcef;Messaad;19;m;tiac;13/09/2022
+34;djeribie adel;Messaad;30;m;tiac;13/09/2022
+35;boussiri aek;Messaad;37;m;tiac;13/09/2022
+01;touati nasreddine;Messaad;23;m; Brucellose;23/09/2022
+02;guimouza amar;Messaad;35;m; Brucellose;30/09/2022
+01;hamada ahmed;ain el ibel;15;m;Brucellose;27/09/2022
+02;haloub nakhla;ain el ibel;30;f;Brucellose;29/09/2022
+03;lachehbi mokhtar;ain el ibel;60;m;Brucellose;29/09/2022
+04;rebai med;ain el ibel;45;m;Brucellose;29/09/2022
+01;kourikar bachir;ain el ibel;26;m;Brucellose;02/09/2022
+02;cherboul manel;ain el ibel;24;f;Brucellose;05/09/2022
+01;goussere med;Ain El Ibel;56;m;Brucellose;10/10/2022
+02;rahmoune saida;Ain El Ibel;14;f;Brucellose;13/10/2022
+01;melak med;Ain El Ibel;61;m;Brucellose;06/11/2022
+02;dehasse ahmed;Ain El Ibel;8;m;Brucellose;06/11/2022
+03;amraoui ahmed;Ain El Ibel;33;m;Brucellose;06/11/2022
+01;rahmoune boulerbah;Ain El Ibel;25;m;Brucellose;13/11/2022
+02;amraoui belkacem;Ain El Ibel;25;m;Brucellose;13/11/2022
+03;amraoui mostafa;Ain El Ibel;14;m;Brucellose;13/11/2022
+04;benahmed yamina;Ain El Ibel;27;f;Brucellose;13/11/2022
+05;lekhnech aek;Ain El Ibel;28;m;Brucellose;14/11/2022
+06;lekhneche khadidja;Ain El Ibel;48;f;Brucellose;14/11/2022
+07;amraoui hadj;Ain El Ibel;14;m;Brucellose;14/11/2022
+01;baghdadi adila;Ain El Ibel;49;f;Brucellose;17/11/2022
+02;tenoum saad;Ain El Ibel;23;m;Brucellose;18/11/2022
+03;labgaa attia;Ain El Ibel;53;m;Brucellose;18/11/2022
+01;layadhi abdelmalek;Ain El Ibel;14;m;Brucellose;20/11/2022
+02;dehase khadidja;Ain El Ibel;15;f;Brucellose;20/11/2022
+03;amraoui rokia;Ain El Ibel;54;f;Brucellose;21/11/2022
+04;rahmoun benharzallah;Ain El Ibel;19;m;Brucellose;21/11/2022
+01;malati berrabeh;messaad;12;m;Brucellose;30/11/2022
+02;guaimouza sabah;messaad;24;f;Brucellose;26/11/2022
+03;younsi youcef;messaad;32;m;Brucellose;29/11/2022
+04;taibi ahmed;messaad;51;m;Brucellose;28/11/2022
+05;haouari med;messaad;25;m;Brucellose;28/11/2022
+06;haouari barkana;messaad;45;f;Brucellose;28/11/2022
+07;kacem tarek;messaad;30;m;Brucellose;26/11/2022
+08;reguayegue hadda;messaad;3;f;Brucellose;25/11/2022
+09;elouad lakhdar;messaad;32;m;Brucellose;25/11/2022
+10;helis fatna;messaad;43;f;Brucellose;25/11/2022
+11;delaiouah amar;messaad;25;m;Brucellose;24/11/2022
+12;benmouafak kadour;messaad;6;m;Brucellose;23/11/2022
+13;benmouafak messaouda;messaad;26;f;Brucellose;23/11/2022
+14;kacemi zineb;messaad;8;f;Brucellose;23/11/2022
+15;lahrach saleh;messaad;33;m;Brucellose;23/11/2022
+16;messaoudi messaoud;messaad;30;m;Brucellose;24/11/2022
+17;reguayague lakhdar;moudjbara;13;m;Brucellose;10/11/2022
+18;naoui belkheir;moudjbara;30;m;Brucellose;18/11/2022
+19;laoud belkheir;moudjbara;30;m;Brucellose;19/11/2022
+20;laoud mebarka;moudjbara;63;f;Brucellose;19/11/2022
+21;bendaoued messaoud;moudjbara;36;m;Brucellose;24/11/2022
+22;djdir belkheir;moudjbara;30;m;Brucellose;25/11/2022
+23;laoud naouia;moudjbara;30;f;Brucellose;11/11/2022
+24;tahah halima;moudjbara;30;f;Brucellose;15/11/2022
+25;azouz feraiha;moudjbara;23;m;Brucellose;15/11/2022
+26;laid mostafa;moudjbara;7;m;Brucellose;15/11/2022
+27;lagrab saad;moudjbara;62;f;Brucellose;15/11/2022
+28;laoud hadjira;moudjbara;23;f;Brucellose;15/11/2022
+29;abdelaoui abdelhakim;moudjbara;31;m;Brucellose;15/11/2022
+30;said omhani;moudjbara;22;f;Brucellose;22/11/2022

@@ -1,0 +1,741 @@
+N;NOM PRENOM;x;AGE;SEXE;COMMUNE;PATHOLOGIE;DATE
+1;Belkheiri Ali;;39;M;Hassi Eleuch;brucellose;02/01/2023
+2;Thouamria Ikram;;14;M;Dar Chioukh;brucellose;02/01/2023
+3;Ben Mostafa Mohamed;;42;M;Dar Chioukh;brucellose;02/01/2023
+4;Lahrach Bakhta;;29;F;HBB;brucellose;02/01/2023
+5;M'hamdi Soufiane;;22;M;Zafraan;brucellose;02/01/2023
+6;Chouiha Salah;;17;M;HBB;brucellose;02/01/2023
+7;Amri Saida;;29;F;Dar Chioukh;brucellose;02/01/2023
+8;Kourchi Salima;;22;F;HBB;brucellose;15/01/2023
+9;Karboua Ahmed;;50;M;Ain Maabed;TIAC;15/01/2023
+10;Karboua Meriem;;11;F;Ain Maabed;TIAC;15/01/2023
+11;Karboua Aicha;;6;F;Ain Maabed;TIAC;15/01/2023
+12;Karboua Attika;;3;F;Ain Maabed;TIAC;15/01/2023
+13;Zitouni Bachir;;47;M;Ain Maabed;TIAC;17/01/2023
+14;Salet Nafissa;;44;F;Ain Maabed;TIAC;17/01/2023
+15;Zitouni Oumelkhir Ritadj;;11;F;Ain Maabed;TIAC;17/01/2023
+16;Wassel Mohamed;;3;M;HBB;brucellose;17/01/2023
+17;Amirate Khaira;;29;F;Mliliha;brucellose;18/01/2023
+18;Djarou Said;;18;M;HBB;brucellose;18/01/2023
+19;Nail Barkahom;;20;F;Dar Chioukh;brucellose;23/01/2023
+20;Kouzo Khadidja;;64;F;Dar Chioukh;brucellose;23/01/2023
+21;Ben salem Lyakout;;56;F;Dar Chioukh;brucellose;23/01/2023
+22;Ben salem Messaoud;;19;M;Dar Chioukh;brucellose;23/01/2023
+23;Semmati Hichem;;34;M;HBB;L.C;23/01/2023
+24;Mebkhouta Boucalir;;44;M;HBB;L.C;25/01/2023
+25;Naceri Benalia;;53;M;Dar Chioukh;brucellose;31/01/2023
+26;Lehouel Mohamed;;23;M;Ain Maabed;T P;31/01/2023
+27;Safia Fatiha;;27;F;Dar Chioukh;T E P;31/01/2023
+1;Kraioua Mohamed;;18;M;HBB;brucellose;05/02/2023
+2;Djenna Reguia;;30;F;HBB;brucellose;05/02/2023
+3;Fedoul Aya;;18;F; HBB;L.C;12/02/2023
+4;Bensalem Halima;;72;F;HBB;brucellose;12/02/2023
+5;Bensalem Tayeb;;34;M;Sidi Baizid;brucellose;13/02/2023
+6;Hakika Belkacem;;51;M;HBB;brucellose;13/02/2023
+7;Bensalem Kacoum;;47;M;Sidi Baizid;brucellose;13/02/2023
+8;Nail Mohamed;;37;M;Dar Chioukh;brucellose;14/02/2023
+9;Hamou Noureddine;;29;M;Dar Chioukh;brucellose;14/02/2023
+10;Bendnaidina Fadila;;32;F;HBB;brucellose;15/02/2023
+11;Fetilina Mostafa;;82;M;HBB;brucellose;15/02/2023
+12;Fetilina Abdelrazag39ans;;39;M;HBB;brucellose;19/02/2023
+13;Asslouni Kharfia;;30;F;HBB;brucellose;19/02/2023
+14;Benkouider Benalia;;33;M;Dar Chioukh;brucellose;19/02/2023
+15;Braag Salaheddine;;31;M;HBB;brucellose;19/02/2023
+16;Haddi Kamel;;33;M;Dar Chioukh;brucellose;19/02/2023
+17;GoumicheAicha;;43;F;Ain Maabed;L.C;20/02/2023
+18;Bensalem Meriem;;36;F;Dar Chioukh;brucellose;21/02/2023
+19;Bensalem Ibrahim;;19;M;Dar Chioukh;brucellose;22/02/2023
+20;Kouzou Ibrahim;;41;M;Hassi Eleuch;brucellose;22/02/2023
+21;Bensalem Lhaddi;;52;M;Dar Chioukh;brucellose;23/02/2023
+22;Bensalem Cherif;;16;M;Dar Chioukh;brucellose;23/02/2023
+23;Bensalem Zohra;;40;F;Dar Chioukh;brucellose;26/02/2023
+24;Kourika Souhila;;34;F;Dar Chioukh;brucellose;26/02/2023
+25;Haddi Mohamed;;34;M;Dar Chioukh;brucellose;26/02/2023
+26;djaroun  aissa ;;35;M;HBB;syphilis ;15/02/2023
+27;idrissi  Abdelkader ;;44;M;Hassi Eleuch;kyste hydatique;26/02/2023
+28;Djaroune Zohra;;62;F;HBB;brucellose;27/02/2023
+29;Djenidi Oumelkhier;;44;F;Dar Chioukh;brucellose;27/02/2023
+30;Bensalem Mohamed;;17;M;Dar Chioukh;brucellose;27/02/2023
+31;Guessmi Embarka;;39;F;Dar Chioukh;brucellose;27/02/2023
+32;Bensalem Hmaida;;8;M;Dar Chioukh;brucellose;27/02/2023
+33;Bensalem Dallal;;3;F;Dar Chioukh;brucellose;27/02/2023
+34;Guerina  Nacira;;51;F;HBB;T.E.P;27/02/2023
+35;Kerara Nedjma;;47;F;Dar Chioukh;T.E.P;27/02/2023
+36;Nouadir Asma;;30;F;HBB;T.E.P;27/02/2023
+37;Ben Omrani Meriem;;30;F;Dar Chioukh;T.E.P;27/02/2023
+38;Daikache Saida;;29;F;Dar Chioukh;T.E.P;27/02/2023
+1;Khoubizi Mohamed;;13;M;Dar Chioukh;brucellose;28/02/2023
+2;Khoubizi Fatna;;9;F;Dar Chioukh;brucellose;28/02/2023
+3;Ben Salem Zineb;;37;F;Dar Chioukh;brucellose;01/03/2023
+4;Ben Salem Khadidja;;8;F;Dar Chioukh;brucellose;02/03/2023
+5;Ben Salem Fraiha;;6;F;Dar Chioukh;brucellose;02/03/2023
+6;Mokhtari Mohamed Safi;;21;M;Ain Maabed;brucellose;02/03/2023
+7;Haddi Islam;;4;M;Dar Chioukh;brucellose;02/03/2023
+8;Salman Mefttah;;19;M;Hassi Eleuch;brucellose;02/03/2023
+9;Ben Alia Cherifa;;49;F;HBB;brucellose;02/03/2023
+10;Ben Salem Abdelkader;;36;M;Dar Chioukh;brucellose;05/03/2023
+11;Zekraoui Ben Alia;;13;M;Dar Chioukh;brucellose;05/03/2023
+12;Haouari Aicha;;27;F;Dar Chioukh;brucellose;05/03/2023
+13;Halbaoui Ben Ladjedel;;72;M;Zafraan;brucellose;06/03/2023
+14;Lobezi Kamel;;41;M;Dar Chioukh;brucellose;07/03/2023
+15;Mesitfa Lamdjad;;29;M;Sidi Baizid;brucellose;07/03/2023
+16;Hammama Kamel;;26;M;Dar Chioukh;brucellose;08/03/2023
+17;Elattoui Aissa;;22;M;HBB;brucellose;12/03/2023
+18;Slami Saad;;78;M;Zafraan;brucellose;12/03/2023
+19;Mesitfa Fatiha;;32;F;Sidi Baizid;brucellose;12/03/2023
+20;Ben Kouider Alalia;;14;F;Sidi Baizid;brucellose;12/03/2023
+21;Chercharri Khadidja;;46;F;Dar Chioukh;brucellose;13/03/2023
+22;Kraiouel Mohamed;;47;M;Sidi Baizid;brucellose;14/03/2023
+23;M'hammdi Fatna;;54;F;Cite Bouafia HBB;brucellose;14/03/2023
+24;Djaroune Sofiane;;15;M;HBB;brucellose;15/03/2023
+25;Chouiha Nacereddine;;14;M;Ain Maabed;brucellose;15/03/2023
+26;Fetilina Tahar;;54;M;HBB;brucellose;15/03/2023
+27;Harran Dounia;;18;F;Zafraan;brucellose;15/03/2023
+28;Oukazzi Khaira;;49;F;Zafraan;brucellose;15/03/2023
+29;Harran Kadour;;46;M;Zafraan;brucellose;15/03/2023
+30;Ziani Achoura;;42;F;HBB;L,C;19/03/2023
+31;Hamidi Said;;30;M;Dar Chioukh;brucellose;19/03/2023
+32;Dif allah Abderezak;;8;M;HBB;brucellose;19/03/2023
+33;Ben Kouider mourad;;5;M;Sidi Baizid;brucellose;19/03/2023
+34;Zehadj Nadjat;;27;F;Sidi Baizid;brucellose;20/03/2023
+35;Benarria Hamza;;25;M;HBB;brucellose;20/03/2023
+36;Benmazzouz khaira;;56;F;Hassi Eleuch;brucellose;20/03/2023
+37;Djamil Miloud;;66;M;HBB;brucellose;21/03/2023
+38;Khoubizi Abderrahman;;30;M;Dar Chioukh;brucellose;22/03/2023
+39;Goubaa Souhila;;11;F;Zafraan;brucellose;22/03/2023
+40;Rabehi Belkacem;;19;M;Sidi Baizid;brucellose;22/03/2023
+41;Benmazzouz Baizid;;52;M;Hassi Eleuch;brucellose;23/03/2023
+42;Belkheri Fatima;;5;F;Sidi Baizid;brucellose;26/03/2023
+43;Mezara Sliman;;23;M;HBB;brucellose;27/03/2023
+44;Zebir Messaoud;;31;M;Hassi Eleuch;brucellose;27/03/2023
+45;Benkouider Ahmed;;39;M;Sidi Baizid;brucellose;28/03/2023
+46;Abderrahim Ahmed;;12;M;HBB;brucellose;28/03/2023
+47;Lagoune Hanan;;7;F;HBB;brucellose;28/03/2023
+48;Lagraa Amina;;27;F;HBB;T.P;30/03/2023
+49;Zeriaa Hannan;;29;F;Dar Chioukh;T E P;30/03/2023
+50;Seddiki Belkheir;;34;M;Hassi Eleuch;T E P;30/03/2023
+51;Allaoua Mourad;;25;M;Dar Chioukh;T E P;30/03/2023
+52;Belkhiri Hadda;;63;F;Dar Chioukh;T E P;30/03/2023
+1;Belkhieri Kouider;;36;M;HBB;brucellose;29/03/2023
+2;Bahchich Belkacem;;45;M;HBB;brucellose;30/03/2023
+3;Merini Aicha;;21;F;Hassi Eleuch;brucellose;02/04/2023
+4;Marouch Zouina;;15;F;HBB;brucellose;02/04/2023
+5;Benhoura Oumelkhier;;21;F;Dar Chioukh;brucellose;02/04/2023
+6;Cherrak Salima;;33;F;Dar Chioukh;brucellose;03/04/2023
+7;Taoussi Adel;;15;M;Dar Chioukh;brucellose;03/04/2023
+8;Hafifa Sliman;;28;M;Dar Chioukh;brucellose;03/04/2023
+9;Djaroune Tahar;;49;M;HBB;brucellose;03/04/2023
+10;Benmazouz Abdelsalam;;58;M;HBB;brucellose;04/04/2023
+11;Gassem Mokhtar;;44;M;Dar Chioukh;brucellose;05/04/2023
+12;Cherrak Rabeh;;71;M;Dar Chioukh;brucellose;05/04/2023
+13;Saadoun Ahmed;;18;M;Ain Maabed;brucellose;05/04/2023
+14;Rezigue Bakhti;;50;M;HBB;brucellose;05/04/2023
+15;Chouiha Mohamed;;42;M;Ain Maabed;brucellose;06/04/2023
+16;Radouzi Meftah;;33;M;Dar Chioukh;brucellose;06/04/2023
+17;Zekraoui Fatima;;25;F;Dar Chioukh;brucellose;06/04/2023
+18;Touil Belkacem;;29;M;Hassi Eleuch/;brucellose;06/04/2023
+19;Kourchi Djailani;;31;M;Dar Chioukh;brucellose;06/04/2023
+20;Salet Amine;;15;M;HBB;brucellose;06/04/2023
+21;Zekraoui Fraiha;;19;F;Dar Chioukh;brucellose;09/04/2023
+22;Zekraoui Zouina;;53;F;Dar Chioukh;brucellose;09/04/2023
+23;Benemchih Elzina;;30;F;HBB;brucellose;10/04/2023
+24;Teffah Belgacem;;47;M;HBB;brucellose;11/04/2023
+25;Cherrak Ibrahim;;37;M;Dar Chioukh;brucellose;11/04/2023
+26;Bessaoud Nakhla;;43;F;Zafraan;brucellose;12/04/2023
+27;Bouchmel Ahmed;;21;M;HBB;brucellose;12/04/2023
+28;Thelidji Takia;;62;F;Sidi Baizid;brucellose;13/04/2023
+29;Bouafia Benahmed;;53;M;HBB;brucellose;13/04/2023
+30;Tahrour Youcef;;13;M;HBB;brucellose;13/04/2023
+31;Baguaar Khadir;;35;M;Zafraan;brucellose;16/04/2023
+32;Maamar Abdelaziz;;43;M;HBB;brucellose;16/04/2023
+33;Hemdani Benalia;;73;M;Dar Chioukh;brucellose;17/04/2023
+34;Lahoual Lhadi;;19;M;Ain Maabed;brucellose;17/04/2023
+35;Omar Fatna;;76;F;HBB;brucellose;17/04/2023
+36;Rahmoune Mabkhouta;;68;M;HBB;brucellose;18/04/2023
+37;Ben Yatou Aya Nakhla;;8;F;Hassi Eleuch;brucellose;18/04/2023
+38;Ben Mazouz Aicha;;63;F;Hassi Eleuch;brucellose;18/04/2023
+39;Sahara Rabeh;;53;M;HBB;brucellose;18/04/2023
+40;Zekraoui Brahim;;38;M;Dar Chioukh;brucellose;18/04/2023
+41;Zekraoui Amar;;6;M;Dar Chioukh;brucellose;18/04/2023
+42;Zekraoui Djamila;;7;F;Dar Chioukh;brucellose;18/04/2023
+43;Chouiha Dahman;;43;M;HBB;brucellose;19/04/2023
+44;Ben Salem Messaouda;;37;F;Dar Chioukh;brucellose;19/04/2023
+45;Abou Belkhir;;19;M;HBB;brucellose;20/04/2023
+46;Haouassi Naoual;;37;F;Dar Chioukh;brucellose;23/04/2023
+47;Rabhi Ahmed;;32;M;Sidi Baizid;brucellose;23/04/2023
+48;Hadi Makhout;;57;M;Dar Chioukh;brucellose;24/04/2023
+49;Hamou Meustafa;;45;M;Dar Chioukh;brucellose;25/04/2023
+50;Zekraoui Abdelbaki;;7;M;Dar Chioukh;brucellose;25/04/2023
+51;Zekraoui Amra;;34;F;Dar Chioukh;brucellose;25/04/2023
+52;Rabhi Abrar;;1;F;Sidi Baizid;brucellose;25/04/2023
+53;Rezigue Hada;;11;F;Hassi Eleuch;brucellose;25/04/2023
+54;Hezil Salma;;86;F;Dar Chioukh;brucellose;25/04/2023
+55;Taoussi Ahmed;;30;M;Dar Chioukh;brucellose;26/04/2023
+56;Benchikh Nakhla;;46;F;Dar Chioukh;brucellose;26/04/2023
+57;Douara Taybe;;35;M;Hassi Eleuch;brucellose;26/04/2023
+58;Louail Naas;;66;M;Dar Chioukh;brucellose;26/04/2023
+59;Nail Youcef;;5;M;Dar Chioukh;brucellose;30/04/2023
+60;Dif Attia;;41;M;HBB;brucellose;30/04/2023
+61;Bakhti Messaouda;;40;F;HBB;brucellose;30/04/2023
+62;Sengra Seghir;;56;M;Dar Chioukh;brucellose;30/04/2023
+63;Birech Said;;33;M;Hassi Eleuch;brucellose;30/04/2023
+64;Ben Hana Belaria;;43;F;HBB;brucellose;30/04/2023
+65;Allaoua Ali;;41;M;Dar Chioukh;brucellose;30/04/2023
+66;Merizga Naas;;9;M;Dar Chioukh;brucellose;30/04/2023
+67;Logab Aicha;;44;F;Ain Maabed;T.E.P;30/04/2023
+68;Brahimi Nadjat;;27;F;HBB;T.P;30/04/2023
+69;Hachani Nada Abrar;;1;F;Ain Maabed;T.E.P;30/04/2023
+70;Merini Houcine;;25;M;HBB;T.E.P;30/04/2023
+71;Chaouli Zohra;;49;F;Mouileh;T.P;30/04/2023
+1;Bakhti Fatima;;53;F;Dar Chioukh;Brucllose ;02/05/2023
+2;Bensalem Daoudia;;36;F;Dar Chioukh;Brucllose ;02/05/2023
+3;Azzizi Ahmed;;56;M;HBB;Brucllose ;02/05/2023
+4;Guermiti Youcef;;7;M;Ain Maabed;Brucllose ;02/05/2023
+5;Bahnas Embarka;;47;F;HBB;Brucllose ;02/05/2023
+6;Merizigue Djoumaa;;37;M;Mliliha;Brucllose ;02/05/2023
+7;Bouchmel Nadji;;16;M;HBB;Brucllose ;02/05/2023
+8;Amour Bachir;;9;M;HBB;Brucllose ;02/05/2023
+9;Amour Amar;;11;M;HBB;Brucllose ;02/05/2023
+10;Bouaicha Aymen;;20;M;HBB;Brucllose ;02/05/2023
+11;Bouaicha Makhlouf;;38;M;Hassi Eleuch;Brucllose ;02/05/2023
+12;Rabhi Soultana;;36;F;HBB;Brucllose ;02/05/2023
+13;korchi  achraf ;;7;M;HBB;T,E,P;02/05/2023
+14;Bakhti Yahia;;54;M;HBB;Brucllose ;03/05/2023
+15;Gassmi Tahar;;29;M;HBB;Brucllose ;03/05/2023
+16;Khelifa Mostafa;;21;M;HBB;Brucllose ;03/05/2023
+17;Chouiha Ahmed;;47;M;HBB;Brucllose ;03/05/2023
+18;Bendnaidina Aicha;;13;F;HBB;Brucllose ;04/05/2023
+19;Goubaa Brik ;;32;M;Zaafrane;Brucllose ;04/05/2023
+20;Benhamza Kouider;;69;M;HBB;Brucllose ;04/05/2023
+21;Ouesskh Zohra;;16;F;HBB;L.C;04/05/2023
+22;Ben Dnaidina Zakaria;;17;M;HBB;Brucllose ;07/05/2023
+23;Ben Kouider Ali;;46;M;Sidi Baizid;Brucllose ;07/05/2023
+24;Ben Salem Nakhla;;34;F;Sidi Baizid;Brucllose ;07/05/2023
+25;Fradj Belkacem;;43;M;HBB;Brucllose ;07/05/2023
+26;Ben Mouafki Med;;52;M;HBB;Brucllose ;07/05/2023
+27;Merini Othmane;;13;M;HBB;Brucllose ;07/05/2023
+28;Naouari Fatna;;38;F;HBB;Brucllose ;08/05/2023
+29;Naouari Chaima;;10;F;HBB;Brucllose ;08/05/2023
+30;Naouari Ahmed;;45;M;HBB;Brucllose ;08/05/2023
+31;Hainoub Elarbi;;42;M;HBB;Brucllose ;08/05/2023
+32;Mazzouz Assil;;1;F;Dar Chioukh;Brucllose ;08/05/2023
+33;Mazzouz Adem;;4;M;Dar Chioukh;Brucllose ;08/05/2023
+34;Dandani Salma;;45;F;HBB;Brucllose ;08/05/2023
+35;Bakhti  Aya;;0;F;HBB;Méningite ;08/05/2023
+36;Sahra  Assil ;;0;F;HBB;Méningite ;08/05/2023
+37;Ouassekh Maamar;;72;M;HBB;Brucllose ;09/05/2023
+38;Hermas Belkacem;;35;M;Hassi Eleuch;Brucllose ;09/05/2023
+39;Djaroune Rouida;;6;F;HBB;Brucllose ;09/05/2023
+40;Benkhouchiba Abderrahman;;54;M;HBB;Brucllose ;09/05/2023
+41;Benmazouz Sliman;;19;M;HBB;Brucllose ;09/05/2023
+42;Lahrach Bakhta;;19;F;HBB;T.P;09/05/2023
+43;Sadeki Sadek;;20;M;Dar Chioukh;T.E.P;09/05/2023
+44;Chekrari Ben Chekrari;;60;M;Sidi Baizid;Brucllose ;10/05/2023
+45;Choukri Dahmen;;70;M;Mouileh;Brucllose ;10/05/2023
+46;Korchi Salima;;25;F;HBB;T.E.P;10/05/2023
+47;Rabhi Aicha;;6;F;Sidi Baizid;Brucllose ;10/05/2023
+48;Noureddine Oumelkheir;;33;F;Dar Chioukh;Brucllose ;10/05/2023
+49;Ben Mammar Aissa;;45;M;HBB;Brucllose ;10/05/2023
+50;Boukhelkhal Abderrahman;;42;M;HBB;Brucllose ;11/05/2023
+51;Ouanouki Rahef;;7;F;HBB;Brucllose ;11/05/2023
+52;Lammeri Faidjel;;39;M;Dar Chioukh;Brucllose ;11/05/2023
+53;Dif Ahmed;;16;M;HBB;Brucllose ;11/05/2023
+54;Djaroune Meriem;;44;F;HBB;Brucllose ;14/05/2023
+55;Abdelsalame Fraiha;;28;F;HBB;Brucllose ;14/05/2023
+56;Khouileh Safia;;19;F;Dar Chioukh;Brucllose ;14/05/2023
+57;Bastami Saadia;;47;F;Sidi Baizid;Brucllose ;14/05/2023
+58;Khouileh Khaira;;41;F;Dar Chioukh;Brucllose ;14/05/2023
+59;Boukhalkhal Mohamed;;14;M;HBB;Brucllose ;14/05/2023
+60;Taibi Imane;;30;F;Dar Chioukh;Brucllose ;14/05/2023
+61;Abderrahman Naas;;30;M;Dar Chioukh;Brucllose ;14/05/2023
+62;Guerrara Boulerbah;;34;M;Dar Chioukh;Brucllose ;14/05/2023
+63;Naoui Youcef;;11;M;Dar Chioukh;Brucllose ;14/05/2023
+64;Bouaicha Lamia;;12;F;HBB;Brucllose ;15/05/2023
+65;Yahia Talya;;46;F;Hassi Eleuch;Brucllose ;15/05/2023
+66;Ouseekh Mohamed;;30;M;HBB;Brucllose ;15/05/2023
+67;Rakda Amar;;40;M;Dar Chioukh;Brucllose ;15/05/2023
+68;Halbaoui Khaira;;48;F; Zaafran;Brucllose ;15/05/2023
+69;Lahoual Nadji;;31;M;HBB;Brucllose ;15/05/2023
+70;Naourin Zhaira;;41;F;HBB;Brucllose ;16/05/2023
+71;Belabas Fatna;;39;F;HBB;Brucllose ;16/05/2023
+72;Rida Meustafa;;7;M;HBB;Brucllose ;16/05/2023
+73;Abderrahim Hakim;;16;M;HBB;Brucllose ;16/05/2023
+74;Djaballah Mohamed;;45;M;HBB;Brucllose ;16/05/2023
+75;Gatouache Khadidja;;38;F;Hassi Eleuch;Brucllose ;17/05/2023
+76;Mekkaoui Said;;40;M; HBB;Brucllose ;17/05/2023
+77;Goubaa Boumehdi;;43;M;HBB;Brucllose ;17/05/2023
+78;Khaouiel Walid;;17;M;Dar Chioukh;Brucllose ;18/05/2023
+79;Bendnaidina Omar;;25;M;HBB;Brucllose ;18/05/2023
+80;Dif Mohamed Benaria ;;12;M;HBB;Brucllose ;18/05/2023
+81;Bessaoud Hamza;;39;M;Dar Chioukh;Brucllose ;21/05/2023
+82;Guerd Mokhtar;;38;M;Dar Chioukh;Brucllose ;21/05/2023
+83;Khoubizi Ladmia;;19;F;Dar Chioukh;Brucllose ;21/05/2023
+84;Benchioukh Bakhta;;51;F;Dar Chioukh;Brucllose ;21/05/2023
+85;Djaaroune Walid;;10;M;HBB;Brucllose ;21/05/2023
+86;Aissaoui Zohra;;42;F;Hassi Eleuch;Brucllose ;22/05/2023
+87;Nail Yacine;;12;M;Dar Chioukh;Brucllose ;22/05/2023
+88;Bounema Mohamed;;31;M; HBB;Brucllose ;22/05/2023
+89;Chaibout Salim;;28;M;Dar Chioukh;Brucllose ;22/05/2023
+90;Ben Nail Embark;;62;M;Hassi Eleuch;Brucellose ;23/05/2023
+91;Abdelslam Abdelbaki;;38;M;HBB;Brucellose ;23/05/2023
+92;Bouaicha Hannan;;5;M;HBB;Brucellose ;24/05/2023
+93;Faitas Achour;;70;M;HBB;Brucellose ;24/05/2023
+94;Guedguad Salima;;53;M;Hassi Eleuch;Brucellose ;24/05/2023
+95;Hadi  Aicha;;49;F;Dar Chioukh;T.E.P;25/05/2023
+96;Selmi Kada;;13;M;HBB;Brucellose ;25/05/2023
+97;Mammri Ali;;42;M;HBB;Brucellose ;25/05/2023
+98;Zaitar BenAlia;;49;M;HBB;Brucellose ;25/05/2023
+99;Bessaoud Ali;;69;M;HBB;Brucellose ;25/05/2023
+100;Nakbil Sabrina;;37;F;HBB;Brucellose ;25/05/2023
+101;Dif Amra Maram;;8;F;HBB;Brucellose ;25/05/2023
+102;Bouaicha Mesaaouda;;13;F;HBB;Brucellose ;25/05/2023
+103;Seni Belkheir;;80;M;Mliliha;Brucellose ;25/05/2023
+104;Kourida Manal;;3;F;Hassi Eleuch;Brucellose ;25/05/2023
+105;Balboul Zoubida;;52;F;Dar Chioukh;Brucellose ;28/05/2023
+106;Redouzi Faiza;;41;F;Dar Chioukh;Brucellose ;28/05/2023
+107;Safi Miloud;;30;M;HBB;Brucellose ;28/05/2023
+108;Mekkaoui Samia;;11;F;HBB;Brucellose ;28/05/2023
+109;Zahout Tayeb;;41;M;Hassi Eleuch;Brucellose ;28/05/2023
+110;Benchioukh Bakhta;;66;F;Dar Chioukh;Brucellose ;29/05/2023
+111;Harrane Mohamed;;23;M;Zaafrane;Brucellose ;29/05/2023
+112;Chatha Abderrahman;;85;M;Zaafrane;Brucellose ;29/05/2023
+113;Salhi Fatna;;43;F;Hassi BahBah;Brucellose ;29/05/2023
+114;Tahrour Mohamed;;41;M;HBB;Brucellose ;30/05/2023
+115;Khouiel Fatima;;42;F;Dar Chioukh;Brucellose ;31/05/2023
+116;Rabhi Siham;;24;F;Sidi Baizid;Brucellose ;31/05/2023
+117;Boukhalkhal Ahmed;;24;M;HBB;L.C;31/05/2023
+118;Rabouh Boufateh;;32;M;Zaafrane;Brucellose ;31/05/2023
+1;Khaouil Sayeh;;19;M;HBB;Brucllose ;04/06/2023
+2;Benalia Aissa;;35;M;Dar Chioukh;Brucllose ;04/06/2023
+3;Ben Omrane Fatma;;32;F;Dar Chioukh;Brucllose ;04/06/2023
+4;Khaouil Souad;;23;F;HBB;Brucllose ;04/06/2023
+5;Karoui Fatma;;54;F;Hassi Eleuch;Brucllose ;04/06/2023
+6;Elgat Mefftah;;30;M;HBB;Brucllose ;04/06/2023
+7;Mazzouz Hocine;;16;M;HBB;Brucllose ;04/06/2023
+8;Bensalem Soumaia;;2;F;Sidi Baizid;Brucllose ;04/06/2023
+9;Salhi Embarka;;45;F;HBB;Brucllose ;04/06/2023
+10;Zaiouech Said;;33;M;HBB;Brucllose ;04/06/2023
+11;Bensalem Khadidja;;10;F;Sidi Baizid;Brucllose ;04/06/2023
+12;Bensalem Mohamed;;18;M;Sidi Baizid;Brucllose ;04/06/2023
+13;Kadri Tourkia;;12;F;HBB;Brucllose ;05/06/2023
+14;Mahfoud Djalal;;20;M;HBB;Brucllose ;06/06/2023
+15;Sengra Yazid;;25;M;Dar Chioukh;Brucllose ;07/06/2023
+16;Be Mohamed Hafnaoui;;37;M;HBB;Brucllose ;07/06/2023
+17;Bouelaga Aoualli;;69;F;Ain Maabed;Brucllose ;07/06/2023
+18;Omrani Kadour;;73;M;Ain Maabed;Brucllose ;07/06/2023
+19;Omrani Messaouda;;45;F;Ain Maabed;Brucllose ;07/06/2023
+20;Zerguine Messaouda;;35;F;HBB;T.E.P;07/06/2023
+21;Chalbouba Elarem;;33;F;Dar Chioukh;T.E.P;07/06/2023
+22;Rabouh Boufateh;;32;M;Dar Chioukh;Brucllose ;08/06/2023
+23;Ben Chioukh Bakhta;;65;F;Dar Chioukh;Brucllose ;08/06/2023
+24;Ouanouki Abdelkader;;46;M;HBB;Brucllose ;08/06/2023
+25;Fedoul Abderrahman ;;39;M;HBB;Brucllose ;08/06/2023
+26;Rahmoun Mohamed;;10;M;HBB;TIAC;08/06/2023
+27;Rahmoun Khadidja;;8;F;HBB;TIAC;08/06/2023
+28;Rahmoun Issam;;6;M;HBB;TIAC;08/06/2023
+29;Ranane Salem;;52;M;HBB;T.E.P;11/06/2023
+30;Benkouider Meriem;;19;F;Dar Chioukh;Brucllose ;11/06/2023
+31;Seghir Ben Saad;;71;M;HBB;Brucllose ;11/06/2023
+32;Bouchenafa Laid;;40;M;HBB;Brucllose ;11/06/2023
+33;Rezigue Abdelbasset;;36;M;HBB;Brucllose ;11/06/2023
+34;Rabouh Bachir;;36;M;HBB;Brucllose ;11/06/2023
+35;Tahrouri Mohamed;;16;M;HBB;Brucellose ;12/06/2023
+36;Benkadour Mohamed;;23;M;Dar Chioukh;Brucellose ;12/06/2023
+37;Boukari Fatna;;50;F;HBB;Brucellose ;12/06/2023
+38;mokhtari assia;;43;F;HBB;TIAC;12/06/2023
+39;m'hamdi rebiha ;;23;F;HBB;TIAC;12/06/2023
+40;mokhtari massauda ;;62;F;HBB;TIAC;12/06/2023
+41;mokhtari ombarka ;;30;F;HBB;TIAC;12/06/2023
+42;Bentahar Djamel;;25;M;HBB;Brucellose ;13/06/2023
+43;Slimi Dahman;;77;M;HBB;Brucellose ;13/06/2023
+44;Ben Bouzid  Mohamed;;48;M;HBB;Brucellose ;13/06/2023
+45;Aouissi Lakhdar;;31;M;Sidi Baizid;Brucellose ;13/06/2023
+46;Terhioua Ali;;69;M;Sidi Baizid;Brucellose ;13/06/2023
+47;Yazir Sara;;14;F;Dar Chioukh;Brucellose ;13/06/2023
+48;Ben Salem Djamel;;24;M;Hassi Eleuch;Brucellose ;13/06/2023
+49;Sahouane Mohamed;;64;M;Dar Chioukh;Brucellose ;13/06/2023
+50;Bensada Abdelhalim;;41;M;HBB;Brucellose ;13/06/2023
+51;Belkheiri Soundous;;20;F;Dar Chioukh;Brucellose ;13/06/2023
+52;Lahrach Attia;;39;M;HBB;Brucellose ;13/06/2023
+53;Houari Addel;;33;M;Dar Chioukh;Brucellose ;13/06/2023
+54;Mokhtari Oumelkheir;;40;F;HBB;TIAC;12/06/2023
+55;Bagua Madani;;44;M;HBB;Brucellose ;14/06/2023
+56;Lebra Mohamed;;51;M;Dar Chioukh;Brucellose ;14/06/2023
+57;Faitas Khadidja;;25;F;HBB;Brucellose ;14/06/2023
+58;Bensalem Abdelkader ;;59;M;Hassi Eleuch;Brucellose ;15/06/2023
+59;Ben Attia Abdelkader;;75;M;HBB;Brucellose ;15/06/2023
+60;Zenati Moaad;;9;M;Hassi Eleuch;Brucellose ;15/06/2023
+61;Ben Salem Mohamed;;61;M;Dar Chioukh;Brucellose ;18/06/2023
+62;Nawal Bonaama ;;27;F;HBB;Brucellose ;18/06/2023
+63;Bakha Tarhoua ;;34;F;Sidi baizid;Brucellose ;18/06/2023
+64;Ben Saada Abderazak;;73;M;HBB;Brucellose ;18/06/2023
+65;Mendil Fatima ;;65;F;HBB;Brucellose ;18/06/2023
+66;Mammri Ahmed;;43;M;HBB;Brucellose ;19/06/2023
+67;Aribi Ibrahim;;32;M;Dar Chioukh;Brucellose ;19/06/2023
+68;Bouchenafa Ali;;41;M;HBB;Brucellose ;19/06/2023
+69;Bagua Saida;;44;F;HBB;T.E.P;20/06/2023
+70;Salmi Cherif;;27;M;HBB;Brucellose ;20/06/2023
+71;Othmani Mohamed;;14;M;Dar Chioukh;Brucellose ;20/06/2023
+72;Elkhad Messaouda;;14;F;Dar Chioukh;Brucellose ;20/06/2023
+73;Khouiel Karima;;15;F;Dar Chioukh;Brucellose ;20/06/2023
+74;Loubida Bachir;;7;M;Dar Chioukh;Brucellose ;20/06/2023
+75;Sahouan Fadila;;37;F;Dar Chioukh;Brucellose ;20/06/2023
+76;Lehmisi Nacira;;34;F;Dar Chioukh;Brucellose ;20/06/2023
+77;Abderrahim Bassma;;22;F;HBB;Brucellose ;20/06/2023
+78;Loubida Sliman;;18;M;Dar Chioukh;Brucellose ;21/06/2023
+79;Khouiel Bouelam;;25;M;Dar Chioukh;Brucellose ;21/06/2023
+80;Hocine Fatima;;46;F;Sidi Baizid;Brucellose ;22/06/2023
+81;Youcefi Yacine;;22;M;HBB;Brucellose ;22/06/2023
+82;Hamidi Messaouda;;60;F;HBB;TIAC;25/06/2023
+83;Hermas Djihad;;30;F;HBB;TIAC;25/06/2023
+84;Ben Lakhder Louay Iyad;;5;M;HBB;TIAC;25/06/2023
+85;Ben Lakhder Mohamed Kosai;;7;M;HBB;TIAC;25/06/2023
+86;Zenati Belkacem;;32;M;Dar Chioukh;Brucellose ;25/06/2023
+87;Bouelam Ayoub;;12;M;Sidi Baizid;Brucellose ;25/06/2023
+88;Sebiha Ismail;;30;M;HBB;Brucellose ;25/06/2023
+89;Zenzane Meriem;;31;F;Dar Chioukh;Brucellose ;25/06/2023
+90;Silmi Mouhad;;31;M;HBB;Brucellose ;25/06/2023
+91;Khoubizi Daoudia;;26;F;Dar Chioukh;Brucellose ;25/06/2023
+92;Bouchemel Aissa;;27;M;Sidi Baizid;Brucellose ;25/06/2023
+93;Souleh Haroune;;3;M;Mliliha;Brucellose ;25/06/2023
+94;Souleh Fatiha;;9;F;Mliliha;Brucellose ;25/06/2023
+95;Zeroug Elattra;;25;F;Mliliha;Brucellose ;25/06/2023
+96;Souleh Mustapha;;27;M;Mliliha;Brucellose ;25/06/2023
+97;Souleh Chaima;;19;F;Mliliha;Brucellose ;26/06/2023
+98;Souleh Yacine;;30;M;Mliliha;Brucellose ;26/06/2023
+99;Souleh Embarka;;46;F;Mliliha;Brucellose ;26/06/2023
+100;Tahrour Oumelkheir;;62;F;HBB;Brucellose ;26/06/2023
+101;Agoune Moussa;;52;M;HBB;Brucellose ;26/06/2023
+102;Zerouki Lakhder;;62;M;Hassi Eleuch;Brucellose ;26/06/2023
+103;Lehmissi Hadjer;;16;F;Dar Chioukh;Brucellose ;26/06/2023
+104;Bouzidi Ibrahim;;44;M;Ain Maabed;Brucellose ;26/06/2023
+105;Bouzid Embarka;;50;F;HBB;Brucellose ;27/06/2023
+106;Benammar Aissa;;45;M;HBB;Brucellose ;27/06/2023
+107;Guessmi Ahmed;;31;M;Hassi Eleuch;Brucellose ;27/06/2023
+1;Chouiha Maroua;;13;F;HBB;Brucllose ;02/07/2023
+2;Chouiha Idriss;;14;M;HBB;Brucllose ;02/07/2023
+3;Noureddine Alalia;;19;F;Sidi Baizid;Brucllose ;02/07/2023
+4;Toumatia Mohamed;;42;M;Sidi Baizid;Brucllose ;03/07/2023
+5;Salmi Abdelkader;;70;M;HBB;Brucllose ;03/07/2023
+6;M'hamdi Lbouhali;;65;M;HBB;Brucllose ;03/07/2023
+7;Bachiri Roumissa;;28;F;HBB;Brucllose ;04/07/2023
+8;Taoussi Aicha;;30;F;HBB;Brucllose ;04/07/2023
+9;Eoutri Ben Alia;;39;M;HBB;Brucllose ;04/07/2023
+10;Mella Bakhta;;60;F;Dar Chioukh;Brucllose ;04/07/2023
+11;Rezigue Yahia;;80;M;HBB;Brucllose ;04/07/2023
+12;Serrai Mokhtar;;64;M;Dar Chioukh;Brucllose ;04/07/2023
+13;Ben Yatou Cherif;;52;M;Hassi Eleuch;Brucllose ;04/07/2023
+14;Hainoub Ibrahim;;91;M;HBB;Brucllose ;06/07/2023
+15;Ben Kouider Yahia;;37;M;Sidi Baizid;Brucllose ;06/07/2023
+16;Bouzidi Nour Elhouda;;46;F;HBB;Brucllose ;06/07/2023
+17;Bouchenafa Messaoud;;49;M;HBB;Brucllose ;06/07/2023
+18;Ouanouki Ibrahim;;71;M;Sidi Baizid;Brucllose ;06/07/2023
+19;Chouiha Salah ;;17;M;HBB;Brucllose ;09/07/2023
+20;Keriouel Chames ;;15;F;Sidi baizid;Brucllose ;09/07/2023
+21;Benyahya Gacemi ;;34;M;HBB ;Brucllose ;09/07/2023
+22;Ben hamza Moulay ;;40;M;HBB ;Brucllose ;09/07/2023
+23;Bouaicha Amina ;;12;F;HBB;Brucllose ;09/07/2023
+24;Bouzidi Fatna ;;22;F;HBB;Brucllose ;09/07/2023
+25;Gharbi Ali ;;56;M;HBB;Brucllose ;09/07/2023
+26;kourifa Fatna ;;32;F;dar chioukh;Brucllose ;09/07/2023
+27;Allaoua berrabeh ;;25;M;dar chioukh;Brucllose ;09/07/2023
+28;Telidi yahia ;;72;M;HBB ;Brucllose ;09/07/2023
+29;Djaaroun Elhadj ;;25;M;HBB;Brucllose ;10/07/2023
+30;Benomrani Rokia ;;24;F;dar chioukh;Brucllose ;10/07/2023
+31;Soulah Mohamed ;;15;M;Mliliha;Brucllose ;10/07/2023
+32;Louibda khadra ;;49;M ;Dar chioukh;Brucllose ;10/07/2023
+33;Balboul Faouzia;;43;F;dar chioukh;Brucllose ;10/07/2023
+34;Bouchenafa Mohamed ;;27;M;Ain maabed;Brucllose ;10/07/2023
+35;Toufik Hadi ;;26;M;dar chioukh;Brucllose ;10/07/2023
+36;Hazerchi Aissa;;29;M;HBB;Brucllose ;10/07/2023
+37;Mammeria Katia ;;13;F;Dayte El bkhour;Brucllose ;11/07/2023
+38;Haoussi Adel ;;36;M;dar chioukh;Brucllose ;11/07/2023
+39;Benssada Miloud ;;43;M;HBB;Brucllose ;11/07/2023
+40;Djenidi Amer ;;26;M;dar chioukh;Brucllose ;11/07/2023
+41;Gutaya Nouara      ;;17;F;dar chioukh ;Brucllose ;11/07/2023
+42;Zekraoui bendaoud ;;44;M;dar chioukh ;Brucllose ;11/07/2023
+43;Lougdih Malak;;0;F;HBB;Méningite ;11/07/2023
+44;Sedki belakhder;;29;M;Zaefrane ;L,C;11/07/2023
+45;Fedoul Oumelkheir;;2;F;HBB;Brucllose ;12/07/2023
+46;bounema mustapha;;27;M;dar chioukh;T.P;12/07/2023
+47;Guenouna Youcef ;;29;M;Hassi El euch ;Brucllose ;13/07/2023
+48;Djaroune cherif ;;69;M;HBB;Brucllose ;13/07/2023
+49;Farha Nacera ;;44;F;HBB;Brucllose ;13/07/2023
+50;Allaoua Nadir ;;27;M;sidi Baizid;Brucllose ;13/07/2023
+51;Zekaroui Abdelkader ;;48;M;Dar chioukh;Brucllose ;13/07/2023
+52;Moussa Nail ;;20;M;Dar chioukh           ;Brucllose ;16/07/2023
+53;Aribi Fatna ;;53;F;Sidi baizid;Brucllose ;16/07/2023
+54;Belkheiri Messouda ;;48;F;Dar chioukh;Brucllose ;16/07/2023
+55;Sabah Amer;;47;M;sidi baizid;Brucllose;16/07/2023
+56;Belghith Fathi ;;40;M;HBB;T.E.P ;16/07/2023
+57;Boudjema Ahmed;;42;M;HBB;Brucllose ;17/07/2023
+58;Yamina Rakrak ;;84;F;HBB;Brucllose ;17/07/2023
+59;Yahia Zerouki ;;30;M;Hassi El euch;Brucllose ;17/07/2023
+60;Youcefi Lakhader;;20;M;Mlilliha;Brucllose;17/07/2023
+61;Khoubizi Atika ;;40;F;dar chioukh;Brucllose;17/07/2023
+62;Salim Daikache;;28;M;Dar chouikh ; Brucllose;17/07/2023
+63;Naoui Ekaouini;;31;M;HBB;Brucllose;18/07/2023
+64;Ben Djedou  Karima ;;17;F;HBB;Brucllose ;20/07/2023
+65;Merini Meftah ;;5;M;El euch;Brucllose ;20/07/2023
+66;Kerche Abdellah ;;70;M;Mlilliha;Brucllose ;20/07/2023
+67;Zhadj Rachida;;30;F;dar chioukh;Brucllose;20/07/2023
+68;Saadi chaoui;;50;M; Ain maabed;Brucllose ;23/07/2023
+69;Naoui randja;;66;F;cité Bouafia;Brucllose ;23/07/2023
+70;Benmazouz Baizid ;;52;M;Hassi el euch;Brucllose ;23/07/2023
+71;Louail Slimane ;;73;M;Hassi el euch;Brucllose ;23/07/2023
+72;Touamtia Saida ;;19;F;Sidi baizid;Brucllose ;23/07/2023
+73;Belgroune daoud ;;26;M;Militaire ;L.C ;23/07/2023
+74;Nail Moussa;;20;M;Dar Chioukh;Brucllose ;24/07/2023
+75;Chenbir Messaouda;;83;F;Sidi Baizid;Brucllose ;24/07/2023
+76;Rezigue Meriem;;61;F;HBB;Brucllose ;24/07/2023
+77;Zenati Khaled;;38;M;Hassi Eleuch;Brucllose ;24/07/2023
+78;Daifallah  Lazhari ;;0;F;HBB;Méningite ;24/07/2023
+79;Hadi Ismail;;31;M;Dar Chioukh;Brucllose ;25/07/2023
+80;Sbaa Ahmed;;47;M;Dar Chioukh;Brucllose ;25/07/2023
+81;Messika Said;;32;M;HBB;Brucllose ;25/07/2023
+82;Brahimi Abdelaziz;;35;M;Zaafran;Brucllose ;25/07/2023
+83;Abderrhim Lhadj;;43;M;HBB;Brucellose ;26/07/2023
+84;Daoued Ahmed;;61;M;HBB;Brucellose ;26/07/2023
+85;Rahmoune Adem;;88;M;Hassi Eleuch;Brucellose ;26/07/2023
+86;Lahoual Fatoume;;27;F;Ain Maabed;T.E.P;27/07/2023
+87;Zaiouach Djaloul;;18;M;HBB;Brucellose ;27/07/2023
+88;Rida Daouia;;38;F;HBB;Brucellose ;27/07/2023
+89;Guessmi Rebiha;;12;F;HBB;Brucellose ;27/07/2023
+90;Bouchemel Abdelkader;;30;M;Hassi Eleuch;Brucellose ;30/07/2023
+91;Lmarini Ahmed;;66;M;Dar Chioukh;TIAC;30/07/2023
+92;Amar Azziza;;58;F;Dar Chioukh;TIAC;30/07/2023
+93;Lmarini Fatma;;32;F;Dar Chioukh;TIAC;30/07/2023
+94;Lmarini Nacereddine;;24;M;Dar Chioukh;TIAC;30/07/2023
+95;Djoury Ismail;;5;M;Dar Chioukh;TIAC;30/07/2023
+96;Dib Ahmed;;9;M;Dar Chioukh;TIAC;30/07/2023
+97;Hainoub Mokhtar;;47;M;HBB;Brucellose ;30/07/2023
+98;Souleh Mohamed;;73;M;Mliliha;Brucellose ;31/07/2023
+99;Ouiss Ibrahim;;27;M;HBB;Brucellose ;31/07/2023
+100;Khalil Zohra;;57;F;HBB;Brucellose ;31/07/2023
+101;Laboukh Mokhtar;;36;M;HBB;Brucellose ;31/07/2023
+102;Guessmi Lakhder;;30;M;HBB;Brucellose ;31/07/2023
+1;Bouzid Talia;;55;F;HBB;Brucllose ;01/08/2023
+2;Benmagri Mohamed;;73;M;Dar Chioukh;Brucllose ;01/08/2023
+3;Chaounan Ali;;38;M;HBB;Brucllose ;01/08/2023
+4;Faitas Rebiha;;38;F;HBB;Brucllose ;01/08/2023
+5;Battach Mohamed;;46;M;Hassi Eleuch;Brucllose ;02/08/2023
+6;Daoud Aissa;;28;M;HBB;Brucllose ;02/08/2023
+7;Chahaba Fatma;;0;F;Hassi Eleuch;Méningite;02/08/2023
+8;Haouassi Amar;;19;M;Sidi Baizid;Brucllose ;03/08/2023
+9;Kochida Saleh;;47;M;HBB;Brucllose ;03/08/2023
+10;Hadi Khaira;;18;F;Dar Chioukh;Brucllose ;03/08/2023
+11;Basbasi oulelkheir;;50;F;Dar Chioukh;Brucllose ;03/08/2023
+12;Lakhdari Maki;;63;M;HBB;Brucllose ;03/08/2023
+13;Lagrab Oumelkheir;;83;F;HBB;Brucllose ;03/08/2023
+14;Korchi Oussama;;17;M;HBB;Brucllose ;03/08/2023
+15;Toumatia Mohamed Lamine;;14;M;Sidi Baizid;Brucllose ;03/08/2023
+16;Berini Mohamed;;21;M; HBB;K.H.F;03/08/2023
+17;Mebkhouta Amar;;10;M;Hassi Eleuch;T.E.P;06/08/2023
+18;Benkouider Houari;;32;M;Dar Chioukh;Brucllose ;06/08/2023
+19;Guessem Boukhari;;13;M;Dar Chioukh;Brucllose ;06/08/2023
+20;Kerch Aissa;;73;M;Mliliha;Brucllose ;06/08/2023
+21;Nouereddine Zineb;;53;F;Sidi Baizid;Brucllose ;06/08/2023
+22;Djaballah Marouane;;21;M;Hassi Eleuch;Brucllose ;06/08/2023
+23;Karboua Mohamed;;19;M;Sidi Baizid;Brucllose ;06/08/2023
+24;Abdelli Aicha;;68;F;HBB;Brucllose ;06/08/2023
+25;Elagoune Moussa;;52;M;Hassi Elmoura HBB;Brucllose ;07/08/2023
+26;Lammri Faidjel;;39;M;Dar Chioukh;Brucllose ;07/08/2023
+27;Naoui Randja;;66;F;HBB;Brucllose ;07/08/2023
+28;Bouzidi Ayoube;;15;M;Ain Maabed;Brucllose ;07/08/2023
+29;Labbaz Mostafa;;45;M;Zaafrane;Brucllose ;07/08/2023
+30;Benkouider Messaouda;;41;F;Sidi Baizid;Brucllose ;07/08/2023
+31;Rabouh Ali;;19;M;Sidi Baizid;Brucllose ;08/08/2023
+32;Benmazzouz Baizid;;52;M;Hassi Eleuch;Brucllose ;08/08/2023
+33;Rezigue Meriem;;61;F;HBB;Brucllose ;08/08/2023
+34;Merini Meftah;;5;M;Hassi Eleuch;Brucllose ;08/08/2023
+35;Terhioua Ghania;;35;F;Sidi Baizid;Brucllose ;09/08/2023
+36;Hachem Oumelkheir;;31;F; Dar Chioukh;Brucllose ;10/08/2023
+37;Hadi Radwane;;11;M;Dar Chioukh;Brucllose ;13/08/2023
+38;Zoubir Hafsa;;60;F;HBB;Brucllose ;13/08/2023
+39;Guedgad Salima;;43;F;Hassi Eleuch;Brucllose ;13/08/2023
+40;Benkouider Lhadj;;33;M;Dar Chioukh;TIAC;13/08/2023
+41;Benkouider Mohamed;;10;M;Dar Chioukh;TIAC;13/08/2023
+42;Bouchemel Djahida;;28;F;HBB;Brucllose ;14/08/2023
+43;Sailaa Zohra;;60;F;Dar Chioukh;Brucllose ;14/08/2023
+44;Othmani Elhadj;;59;M;Ain Maabed;Méningite;14/08/2023
+45;Bouzidi Talya;;56;F;HBB;Brucllose ;15/08/2023
+46;Khalil Zohra;;58;F;HBB;Brucllose ;15/08/2023
+47;Farha Fatna;;67;F;HBB;Brucllose ;15/08/2023
+48;Terhioua Turkia;;69;F;Sidi Baizid;Brucllose ;15/08/2023
+49;Mouafki Embark;;45;M;Sidi Baizid;Brucllose ;16/08/2023
+50;Harbi Abdelkarim;;44;M;HBB;Brucllose ;16/08/2023
+51;Djouaa Said;;11;M;Dar Chioukh;Brucllose ;17/08/2023
+52;Tiss Roukaya;;58;F;Dar Chioukh;Brucllose ;17/08/2023
+53;Helbaoui Attia;;42;M;Zaafrane;Brucllose ;20/08/2023
+54;Haouatti Djailani;;71;M;HBB;Brucllose ;20/08/2023
+55;Guessmi Oumelkheir;;27;F;HBB;Brucllose ;20/08/2023
+56;Messika Freiha;;68;F;HBB;Brucllose ;20/08/2023
+57;Lagraa Mokhtar;;41;M;Dar Chioukh;Brucllose ;21/08/2023
+58;Azzouz Embarek;;24;M;HBB;T.P;22/08/2023
+59;Salhi Fatima;;11;F;HBB;Brucllose ;22/08/2023
+60;Bessaoud Meriem;;38;F;Mliliha;Brucllose ;22/08/2023
+61;Bouaicha Sadam;;31;M;HBB;Brucllose ;22/08/2023
+62;Hadi Lakhder;;58;M;Dar Chioukh;Brucllose ;23/08/2023
+63;Mesitfa Lhaouass;;37;M;Dar Chioukh;Brucllose ;23/08/2023
+64;Boufraikach Fatna;;15;F;Zaafrane;Brucllose ;24/08/2023
+65;Allaoua Seaada;;56;F;Dar Chioukh;Brucllose ;27/08/2023
+66;Saddki Ali;;34;M;Hassi Eleuch;Brucllose ;27/08/2023
+67;Hermas Ahlam;;0;F;HBB;Meningite;27/08/2023
+68;Allaoua Mohamed;;75;M;Dar Chioukh;Brucllose ;28/08/2023
+69;Chenbir Djamila;;39;F;Sidi Baizid;Brucllose ;28/08/2023
+70;Hani Fatima;;19;F;Dar Chioukh;Brucllose ;29/08/2023
+71;Khemissi Imad;;23;M;HBB;L.C;31/08/2023
+72;Chenbir Messaouda;;83;F;Sidi Baizid;Brucllose ;31/08/2023
+73;Raach Oumelkheir;;38;F;HBB;T.E.P;31/08/2023
+1;Baidelkhoul Saliha;;52;F ;HBB;L.C;03/09/2023
+2;Othmani Khaled;;20;M;HBB;L.C;03/09/2023
+3;Terhioua Hadda;;31;F ;Dar Chioukh;Brucllose ;03/09/2023
+4;Djaballah Braiki;;86;M;Hassi Eleuch;Brucllose ;04/09/2023
+5;Choukri Dahman;;72;M;Mouileh;Brucllose ;04/09/2023
+6;Baidelkhoul Rabah;;41;M;HBB;Brucllose ;04/09/2023
+7;Belkhir Kamel Eddine;;18;M;HBB;L.C;05/09/2023
+8;Bouzid Zohra;;38;F;HBB;Brucllose ;05/09/2023
+9;Maamouri Ibrahim Imad;;5;M;Mouileh;Brucllose ;05/09/2023
+10;Araar Mohamed;;35;M;Dar Chioukh;Brucllose ;05/09/2023
+11;Redouzi Meftah;;35;M;Dar Chioukh;Brucllose ;05/09/2023
+12;Sabah Nardjiss;;0;F;Dar Chioukh;Méningite;06/09/2023
+13;Safi Abdelhadi;;74;M;Dar Chioukh;Brucllose ;07/09/2023
+14;Benmohamed Fatma;;38;F;HBB;Brucllose ;10/09/2023
+15;Tahrour Mohamed;;41;M;HBB;Brucllose ;10/09/2023
+16;Taybi Tayeb;;38;M;HBB;Brucllose ;11/09/2023
+17;Alloua Said;;28;M;Dar Chioukh;Brucllose ;11/09/2023
+18;Asslouni Hiyam;;12;F;HBB;TIAC;11/09/2023
+19;Asslouni Hocine;;5;M;HBB;TIAC;11/09/2023
+20;Halbaoui Beladel;;73;M;Zaafrane;Brucllose ;12/09/2023
+21;Youcefi Yacine;;27;M;HBB;Brucllose ;14/09/2023
+22;Bensada Belloul;;55;M;HBB;Brucllose ;17/09/2023
+23;Daikach Salim;;29;M;Dar Chioukh;Brucllose ;17/09/2023
+24;Bouebdeli Raid;;5;M;HBB;Hépatite A;17/09/2023
+25;Merini Aicha;;22;F;Hassi Eleuch;Brucllose ;19/09/2023
+26;Rakda Boukhari;;74;M;Sidi Baizid;Brucllose ;20/09/2023
+27;Rabouh Abdelkader;;43;M;Sidi Baizid;Brucllose ;21/09/2023
+28;Benhamza Mahyeddine;;64;M;HBB;Brucllose ;21/09/2023
+29;Guermiti Hanane;;17;F;HBB;T.EP;24/09/2023
+30;Haddi Mabkhout;;57;M;Dar Chioukh;Brucllose ;24/09/2023
+31;Ragda Fatna;;5;F;Dar Chioukh;Brucllose ;24/09/2023
+32;Noueddine Oumelkhier;;17;F;Sidi Baizid;Brucllose ;24/09/2023
+33;Benhamza Noura;;26;F;HBB;Brucllose ;25/09/2023
+34;Hamidi Amar;;56;M;Dar Chioukh;Brucllose ;25/09/2023
+35;Telaich Mahfoud;;43;M;Hassi Eleuch;Brucllose ;26/09/2023
+36;Abdellaoui Youcef;;14;M;HBB;L.C;26/09/2023
+37;Benabizan Rida;;24;M;HBB;L.C;27/09/2023
+1;Chaathan Elamria;;42;F ;Hassi Eleuch ;L.C;01/10/2023
+2;Sbaa Iman;;23;F ;HBB;Brucllose ;01/10/2023
+3;Kouadri Kouider;;72;M;Zaafrane;Brucllose ;01/10/2023
+4;Ben Mostafa Khadidja;;24;F ;Dar Chioukh;Brucllose ;01/10/2023
+5;Boulerbah Ben Omrane;;40;M;Dar Chioukh;Brucllose ;02/10/2023
+6;Chaouli Khadouma;;29;M;Dar Chioukh;Brucllose ;05/10/2023
+7;Khaouiel Fatima;;43;F;Dar Chioukh;Brucllose ;08/10/2023
+8;Ziani Ameur Slimane;;20;M;HBB/;L.C;08/10/2023
+9;Sadeki Achoura;;55;F;Sidi Baizid;Brucllose ;09/10/2023
+10;Bouaicha Ahmed;;52;M;HBB;Brucllose ;09/10/2023
+11;Benkouider Chaima;;22;F;Dar Chioukh;Brucllose ;10/10/2023
+12;Rabouh Meriem;;73;F;Dar Chioukh;Brucllose ;12/10/2023
+13;Reguige Soumaia;;32;F;HBB;T.P;15/10/2023
+14;Bouaicha Motassem Bellah;;15;M;HBB;Brucllose ;16/10/2023
+15;Seddiki Amera;;20;F;Dar Chioukh;Brucllose ;18/10/2023
+16;Bakheti Abdelnabi;;37;M;HBB;Brucllose ;18/10/2023
+17;Hamidi Walid;;24;M;HBB;L.C;22/10/2023
+18;Cherrak Embarka;;42;F;Hassi Eleuch;Brucllose ;23/10/2023
+19;Otri Oumbarka;;35;F;HBB;L.C;26/10/2023
+20;Basstami Mohamed;;17;M;Sidi Baizid;Brucllose ;29/10/2023
+1;Ouanouki Oumelkheir;;30;F;HBB;Brucllose;02/11/2023
+2;Zahout Fisal;;46;M;Hassi Eleuch;Brucllose;02/11/2023
+3;Zekraoui Fatima;;46;F;Dar Chioukh;Brucllose;02/11/2023
+4;Belkerdar Fatima;;42;F;HBB;L.C;05/11/2023
+5;Touati Abdelkader;;25;M;HBB;Brucllose;06/11/2023
+6;Bakhti Fisal;;4;M;HBB;Brucllose;08/11/2023
+7;Magherbi Souad;;33;F;Dar Chioukh;L.C;12/11/2023
+8;Saddek Mohamed;;37;M;HBB;T.P;13/11/2023
+9;Aissoub Fatiha;;37;F;Dar Chioukh;Brucllose;14/11/2023
+10;Aziri Fraiha;;41;F;HBB;Brucllose;15/11/2023
+11;Ben Attia Ahmed;;34;M;HBB;Brucllose;20/11/2023
+12;Zerouki Mohamed;;39;M;Hassi Eleuch;Brucllose;21/11/2023
+13;Zerouk Mokhtar;;30;M;Mliliha;Brucllose;21/11/2023
+14;Djekhnin Aicha;;43;F;HBB;Brucllose;22/11/2023
+15;Dif Omar;;8;M;HBB;L.C;23/11/2023
+16;Dif Ibrahim;;50;M;HBB;L.C;23/11/2023
+17;Krab Tahar;;23;M;HBB;L.C;26/11/2023
+18;Ouanouki Rabah;;23;M;HBB;L.C;26/11/2023
+19;Douara Noureddine;;45;M;HBB;L.C;26/11/2023
+20;Bouelam Aicha;;4;F;Dar Chioukh;TIAC;26/11/2023
+21;Bouelam Amina;;3;F;Dar Chioukh;TIAC;26/11/2023
+22;Bouelam Rebiha;;3;M;Dar Chioukh;TIAC;26/11/2023
+23;Goubaa Embark;;16;M;Zaafrane;Brucllose;26/11/2023
+24;Kezou Ibrahim;;41;M;Hassi Eleuch;Brucllose;27/11/2023
+25;Azllaoui Abdelkarem;;43;M;HBB;L.C;30/11/2023
+26;Azllaoui Ali;;1;M;HBB;L.C;30/11/2023
+27;Ben Nail Samira;;35;F;HBB;L.C;30/11/2023
+28;Bagua Meriem;;80;F;HBB;L.C;30/11/2023
+29;Bendnaidina Ismail;;25;M;HBB;L.C;30/11/2023
+1;Taleb Bendifallah;;60;M;HBB/;L.C;03/12/2023
+2;Bendjedou Abdelbaki;;46;M;Hassi Eleuch;Brucllose;03/12/2023
+3;Fedoul Chahra;;27;F;Zaafrane;Brucllose;03/12/2023
+4;Benchioukh Zohra;;57;F;HBB;Brucllose;03/12/2023
+5;Benhamza Ameur;;61;M;HBB;L.C;04/12/2023
+6;Sahara Meriem;;12;F;HBB;L.C;04/12/2023
+7;Bendjedou Bachir;;36;M;HBB;L.C;05/12/2023
+8;Khelifa Abderrahman;;45;M;HBB;L.C;05/12/2023
+9;Benmhidi Abderrahim;;37;M;HBB;L.C;05/12/2023
+10;Imrazen Nouar;;77;M;HBB;T.E.P;05/12/2023
+11;Zerouk Messaouda;;53;F;Mliliha;Brucllose;06/12/2023
+12;Ouahchi Moussa;;22;M;HBB;T.P;10/12/2023
+13;Guessem Benalia;;40;M;HBB;Brucllose;12/12/2023
+14;Benchioukh Madjid;;16;M;Sidi Baizid;Brucllose;12/12/2023
+15;Kozou Mokhtar;;41;M;HBB;L.C;12/12/2023
+16;Khouail Mourad;;25;M;Dar Chioukh;T.E.P;12/12/2023
+17;Dahmani Thameur;;14;M;Zaafrane;Brucllose;13/12/2023
+18;Sedik Sedik;;18;M;HBB;L.C;14/12/2023
+19;Neaami Djalal;;27;M;HBB;L.C;14/12/2023
+20;Aliliche Amel;;25;F;HBB;L.C;14/12/2023
+21;Chaalal Bassma;;5;F;HBB;L.C;17/12/2023
+22;Mebkhouti Mokhtar;;40;M;Dar Chioukh;Brucllose;18/12/2023
+23;Zerouki Lakhdar;;63;M;Hassi Eleuch;Brucllose;18/12/2023
+24;Faitas Kharfia;;68;F;HBB;L.C;18/12/2023
+25;Mokhtari Mazzouz;;45;M;HBB;L.C;18/12/2023
+26;Hemiani Karima;;26;F;HBB;L.C;18/12/2023
+27;Benhamza Kouider;;39;M;HBB;L.C;19/12/2023
+28;Bagar Thameur;;43;M;Zaafrane;Brucllose;20/12/2023
+29;Zaamouki Zineb;;55;F;Sidi Baizid;L.C;20/12/2023
+30;Dahmani Meriem;;41;F;Dar Chioukh;TIAC;20/12/2023
+31;Dahmani Chahra;;47;F;Dar Chioukh;TIAC;20/12/2023
+32;Taibaoui brahim;;4;M;Dar Chioukh;TIAC;20/12/2023
+33;Beladjdel Halbaoui;;73;M;Zaafrane;Brucllose;21/12/2023
+34;Halbaoui Attia;;38;M;Zaafrane;Brucllose;21/12/2023
+35;Thelidji Ahmed;;39;M;HBB;Brucllose;21/12/2023
+36;Elotri Elhayza;;90;F;HBB;L.C;21/12/2023
+37;Djaaroun Aissa;;5;M;HBB;L.C;24/12/2023
+38;Boudana Arara;;55;F;HBB;L.C;24/12/2023
+39;Djaaroun Ahmed;;40;M;HBB;L.C;24/12/2023
+40;Bouchmel Bourahla;;58;M;HBB;L.C;24/12/2023
+41;Boudana Benemchih;;38;M;HBB;L.C;24/12/2023
+42;Elhadra Rdwane;;13;M;HBB;L.C;24/12/2023
+43;Djaaroune Aissa;;42;M;HBB;L.C;24/12/2023
+44;Zekraoui Fatima;;20;F;Dar Chioukh;Brucllose;25/12/2023
+45;Elagagna Hamama;;36;F;HBB;L.C;25/12/2023
+46;Zerguine Aouali;;47;F;HBB;L.C;25/12/2023
+47;Malki Aissa;;7;M;HBB;L.C;25/12/2023
+48;Bengharbi Ferial;;13;F;HBB;L.C;25/12/2023
+49;Touart Aissa;;69;M;HBB;L.C;25/12/2023
+50;Assli Attia;;12;M;HBB;L.C;25/12/2023
+51;Djebara Fraiha;;56;F;HBB;Brucllose;26/12/2023
+52;Aziri Maroua;;15;F;HBB;Brucllose;26/12/2023
+53;Aziri Loubna;;13;F;HBB;Brucllose;26/12/2023
+54;Sengra Halima;;33;F;Sidi Baizid;Brucllose;26/12/2023
+55;Bouchmel Saad;;27;M;HBB;Brucllose;26/12/2023
+56;Djekhnine Mobarek;;48;M;HBB;L.C;26/12/2023
+57;Othmane Lamlouma;;64;F;HBB;L.C;26/12/2023
+58;Ouanouki Ali;;52;M;HBB;L.C;26/12/2023
+59;Gahouache Rokia;;53;F;HBB;L.C;26/12/2023
+60;Khaldi Ayoube Noureddine;;5;M;HBB;L.C;27/12/2023
+61;Zenati Amel Maroua;;21;F;HBB;L.C;27/12/2023
+62;Benkhochiba Elhadj;;43;M;HBB;L.C;27/12/2023
+63;Zenati kheira Malak;;19;F;HBB;L.C;27/12/2023
+64;Agoune Messaouda;;28;F;HBB;L.C;27/12/2023
+65;Chouiha Khadidja;;14;F;Ain Maabed;L.C;27/12/2023
+66;Benhana Elyakout;;34;F;HBB;L.C;27/12/2023

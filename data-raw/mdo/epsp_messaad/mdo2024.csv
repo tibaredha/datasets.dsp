@@ -1,0 +1,1023 @@
+"N","N1","NOM PRENOM","COMMUNE","AGE","SEXE","PATHOLOGIE","DATE"
+"1",7,"bouzid mohamed","Messaad","6","m","Hépatite A",2024-01-08
+"2",5,"Elechehbi Ahmed","Ain el ibel","49","m","Hépatite B",2024-11-05
+"3",1,"nail salah","moudjbara","31","m","intoxication A",2024-04-09
+"4",2,"nail souad","moudjbara","28","f","intoxication A",2024-04-09
+"5",3,"nail retadj","moudjbara","6","f","intoxication A",2024-04-09
+"6",4,"nail ahmed","moudjbara","2","m","intoxication A",2024-04-09
+"7",5,"djraibia brahim","Messaad","42","m","intoxication A",2024-04-20
+"8",6,"emhamedi idris","Messaad","23","m","intoxication A",2024-04-20
+"9",7,"maameri taher","Messaad","25","m","intoxication A",2024-04-20
+"10",8,"aidi med","messaad","22","m","tiac",2024-05-05
+"11",9,"bensouisi fatima","messaad","30","f","tiac",2024-05-05
+"12",10,"elarbi ben hadjar djailali","messaad","32","m","tiac",2024-05-05
+"13",11,"ben maneaa bilal","messaad","32","m","tiac",2024-05-05
+"14",12,"bab allah abdenour","messaad","25","m","tiac",2024-05-05
+"15",13,"said elamin","messaad","42","m","tiac",2024-05-05
+"16",14,"bensouisi khaled","messaad","16","m","tiac",2024-05-05
+"17",15,"bensouisi anouar","messaad","14","m","tiac",2024-05-05
+"18",16,"nedjema bachir","messaad","42","m","tiac",2024-05-05
+"19",17,"nedjema ahmed","messaad","34","m","tiac",2024-05-05
+"20",18,"kacem ahmed","messaad","32","m","tiac",2024-05-05
+"21",19,"messaoudi tayeb","messaad","31","m","tiac",2024-05-05
+"22",20,"bensouisi madani","messaad","31","m","tiac",2024-05-05
+"23",21,"sailaa belkacem","messaad","31","m","tiac",2024-05-05
+"24",22,"souisi ameur","messaad","28","m","tiac",2024-05-05
+"25",23,"moaati aadel","messaad","21","m","tiac",2024-05-05
+"26",24,"djedia ousama","messaad","24","m","tiac",2024-05-05
+"27",25,"khairani ahmed","messaad","43","m","tiac",2024-05-05
+"28",26,"kachoucha messaoud","Messaad","28","m","tiac",2024-05-20
+"29",27,"kachoucha khalaf allah","Messaad","28","m","tiac",2024-05-20
+"30",28,"kachoucha khaled","Messaad","18","m","tiac",2024-05-20
+"31",29,"ben selem yaser","Messaad","26","m","tiac",2024-05-21
+"32",30,"rekiat maroua","Messaad","20","f","tiac",2024-05-21
+"33",31,"rekiat med","Messaad","26","m","tiac",2024-05-21
+"34",32,"naouri ayoub","Messaad","14","m","tiac",2024-05-21
+"35",33,"benmazouz ridha","Messaad","12","m","tiac",2024-05-21
+"36",34,"benali aissa","Messaad","22","m","tiac",2024-05-22
+"37",35,"bouakaz cherif","Messaad","22","m","tiac",2024-05-22
+"38",36,"touati lamin","Messaad","30","m","tiac",2024-05-22
+"39",37,"souisi salah","Messaad","28","m","tiac",2024-05-22
+"40",38,"Dahman Youcef","Moudjbara","20","m","Tiac",2024-09-22
+"41",39,"Dahman Mostafha","Moudjbara","25","m","Tiac",2024-09-22
+"42",40,"Dahman Bachir","Moudjbara","13","m","Tiac",2024-09-22
+"43",41,"Dahman Benazouz","Moudjbara","15","m","Tiac",2024-09-22
+"44",42,"Dahman Med","Moudjbara","30","m","Tiac",2024-09-22
+"45",43,"Dahman Khadidja","Moudjbara","20","f","Tiac",2024-09-22
+"46",44,"Aloui Wahiba","messaad","20","f","tiac",2024-06-19
+"47",45,"Aloui nouhan","messaad","14","f","tiac",2024-06-19
+"48",46,"Aloui Roaya","messaad","5","f","tiac",2024-06-19
+"49",2,"ben slilih ahmed","Messaad","80","m","TP",2024-07-01
+"50",3,"Serrar Messaoud","Messaad","80","m","Tuberculose P",2024-10-29
+"51",4,"Kheniche Taher","Messaad","58","m","Tuberculose P",2024-12-09
+"52",1,"Saksak Fatna","taadhmit","35","f","TP",2024-05-12
+"53",1,"ben nouidjem abdessalam","Messaad","8","m","Leishmaniose C",2024-01-08
+"54",2,"douirem mohamed saber","Messaad","20","m","Leishmaniose C",2024-01-08
+"55",3,"oubah amar","Messaad","54","m","Leishmaniose C",2024-01-10
+"56",4,"hathat mohamed","Messaad","3","m","Leishmaniose C",2024-01-14
+"57",5,"gheriab nakhla","Taadhmit","75","f","Leishmaniose C",2024-01-15
+"58",6,"fairah mira","Ain el ibel","71","f","Leishmaniose C",2024-01-15
+"59",7,"touati abderrahman","Messaad","22","m","Leishmaniose C",2024-01-18
+"60",8,"gaadjal sohil","Messaad","12","m","Leishmaniose C",2024-01-22
+"61",9,"djarou abdelaali","Ain el ibel","23",m,"Leishmaniose C",2024-01-18
+"62",10,"bendkim fadila","Messaad","11","f","Leishmaniose C",2024-01-30
+"63",11,"chetouhi assil","Taadhmit","5",f,"Leishmaniose C",2024-01-29
+"64",6,"derkouce mohamed","Messaad","35","m","Leishmaniose C",2024-02-08
+"65",7,"aibikchi ahmed","Messaad","60","m","Leishmaniose C",2024-02-08
+"66",8,"dehmane naase","Messaad","57","m","Leishmaniose C",2024-02-08
+"67",12,"benattallah rami","Messaad","14","m","Leishmaniose C",2024-02-27
+"68",13,"benlabiadh abdeljalil","taadhmit","34","m","Leishmaniose C",2024-03-21
+"69",87,"mazouz ahmed","messaad","14","m","leishmaniose",2024-04-22
+"70",88,"remitha om lkheir","messaad","10","f","leishmaniose",2024-04-18
+"71",89,"remitha ahmed","messaad","13","m","leishmaniose",2024-04-18
+"72",90,"mimoun nourddine","messaad","9","m","leishmaniose",2024-04-29
+"73",19,"ben boudhina ahmed","ain el ibel","57","m","leishmaniose",2024-05-12
+"74",12,"bloul fatna","messaad","52","f","leishmaniose",2024-05-23
+"75",2,"Haidjoul Kaouthar","moudjbara","5","f","Leishmaniose",2024-06-10
+"76",1,"Eloued Dhoha Aicha","Ain el ibel","2","f","Leishmaniose Visceral",2024-08-27
+"77",9,"Maache Khaled","Messaad","24","m","Leishmaniose C",2024-09-24
+"78",10,"Sarsoub Safaa","Messaad","21","f","Leishmaniose C",2024-09-24
+"79",11,"Guezim Djamal","Messaad","20","m","Leishmaniose C",2024-09-23
+"80",12,"Aaraba Tayeb","Ain El Ibel","32","m","Leishmaniose C",2024-09-24
+"81",13,"Saoudi Malika","Moudjbara","41","f","Leishmaniose C",2024-09-01
+"82",1,"Ben narra Med Yacine","Messaad","12","m","Leishmaniose C",2024-10-08
+"83",2,"Bachiri Med","Ain el ibel","26","m","Leishmaniose C",2024-10-03
+"84",3,"Fartala Med","Ain el ibel","40","m","Leishmaniose C",2024-10-09
+"85",4,"Laagoun Med","Ain el ibel","24","m","Leishmaniose C",2024-10-14
+"86",5,"Aissoub Ameur","Ain el ibel","18","m","Leishmaniose C",2024-10-14
+"87",6,"Koraibaa Abdelbasete","Ain el ibel","17","m","Leishmaniose C",2024-09-05
+"88",7,"Haoua Ibrahim","Messaad","28","m","Leishmaniose C",2024-10-10
+"89",8,"Herizi Haroune","Messaad","24","m","Leishmaniose C",2024-09-05
+"90",9,"Fartala Fayed","Ain el ibel","26","m","Leishmaniose C",2024-10-17
+"91",10,"Farnana Saad","Ain el ibel","27","m","Leishmaniose C",2024-10-21
+"92",11,"Khelifa Mokhtar","Ain el ibel","25","m","Leishmaniose C",2024-10-24
+"93",12,"Beraissa Mohamed","Messaad","30","m","Leishmaniose C",2024-10-24
+"94",13,"Doudou Yamina","Ain el ibel","9","f","Leishmaniose C",2024-10-28
+"95",14,"Touir Zahra","Ain el ibel","29","f","Leishmaniose C",2024-10-28
+"96",15,"Eloued Amar","Ain el ibel","41","m","Leishmaniose C",2024-10-28
+"97",16,"Aleb Mokhtar","Messaad","25","m","Leishmaniose C",2024-10-30
+"98",1,"Decher Oualid","Messaad","20","m","Leishmaniose C",2024-10-31
+"99",2,"Tooba Fatna","Ain el ibel","52","f","Leishmaniose C",2024-11-05
+"100",3,"Fartala Mohamed","Ain el ibel","49","m","Leishmaniose C",2024-11-04
+"101",4,"Guecem Tahar","Messaad","30","m","Leishmaniose C",2024-11-11
+"102",5,"Semati Ali","Messaad","33","m","Leishmaniose C",2024-11-12
+"103",6,"Touir Ben abdellah","Ain el ibel","43","m","Leishmaniose C",2024-11-12
+"104",7,"Azouz Zine elaabidine","Moudjbara","30","m","Leishmaniose C",2024-11-14
+"105",8,"Toumi Djaouhar","Moudjbara","5","f","Leishmaniose C",2024-11-14
+"106",9,"Kahlaleche Djaloul","Messaad","24","m","Leishmaniose C",2024-11-18
+"107",10,"Benattia Fereiha","Messaad","45","f","Leishmaniose C",2024-11-18
+"108",11,"Seid Karima","Messaad","27","f","Leishmaniose C",2024-11-19
+"109",12,"Nara Kamel","Messaad","27","m","Leishmaniose C",2024-11-21
+"110",13,"Decher Khelifa","Messaad","19","m","Leishmaniose C",2024-11-24
+"111",14,"Ahmaidi Nacer","Messaad","9","m","Leishmaniose C",2024-11-24
+"112",15,"Abikchi Rachid","Messaad","21","m","Leishmaniose C",2024-11-24
+"113",16,"Saoulah Hameza","Taadhmit","2","m","Leishmaniose C",2024-11-24
+"114",17,"Saoulah Mabkhouta","Taadhmit","36","f","Leishmaniose C",2024-11-24
+"115",18,"Bouakaz Abdelmaoula","Messaad","30","m","Leishmaniose C",2024-11-27
+"116",19,"Guen Benayache","Messaad","61","m","Leishmaniose C",2024-11-26
+"117",20,"Derkouche Fatiha","Messaad","36","f","Leishmaniose C",2024-11-26
+"118",21,"Derkouche Ahmed","Messaad","14","m","Leishmaniose C",2024-11-26
+"119",22,"Derkouche Haithem","Messaad","9","m","Leishmaniose C",2024-11-26
+"120",1,"Merezgue Sohila","Ain El Ibel","3","f","Leishmaniose C",2024-12-02
+"121",2,"Ruibah Aicha","Ain El Ibel","23","f","Leishmaniose C",2024-12-02
+"122",3,"Merezgue Soudjoud","Ain El Ibel","8","f","Leishmaniose C",2024-12-02
+"123",4,"Bourzegue Messaouda","Ain El Ibel","62","f","Leishmaniose C",2024-12-02
+"124",5,"Benmalki Ibrahim","Messaad","1","m","Leishmaniose C",2024-12-02
+"125",6,"Benghouini Messaoud","Taadhmit","73","m","Leishmaniose C",2024-12-02
+"126",7,"Lakhal Aicha","Messaad","13","f","Leishmaniose C",2024-12-02
+"127",8,"reguiegue hayat","Taadhmit","17","f","Leishmaniose C",2024-12-04
+"128",9,"Guattaf Djamaa","Messaad","65","f","Leishmaniose C",2024-12-05
+"129",10,"Gherab Ramlia","Messaad","36","f","Leishmaniose C",2024-12-05
+"130",11,"Baghdadi Cherif","Ain El Ibel","60","m","Leishmaniose C",2024-12-09
+"131",12,"Dehman Ahmed","Messaad","16","m","Leishmaniose C",2024-12-09
+"132",13,"Benyahia Youcef","Messaad","15","m","Leishmaniose C",2024-12-09
+"133",14,"Nagga Abdesslam","Ain El Ibel","20","m","Leishmaniose C",2024-12-09
+"134",15,"Djaiou Belkheir","Ain El Ibel","47","m","Leishmaniose C",2024-12-10
+"135",16,"Chetouh Zian","Messaad","56","m","Leishmaniose C",2024-12-12
+"136",17,"Oubah Bilal","Messaad","14","m","Leishmaniose C",2024-12-12
+"137",18,"Sofrani Maroi","Messaad","3","f","Leishmaniose C",2024-12-12
+"138",19,"sofrani Rabia","Messaad","26","f","Leishmaniose C",2024-12-12
+"139",20,"Remadhnia Asmaa","Messaad","3","f","Leishmaniose C",2024-12-12
+"140",21,"Saoulah Fathi","Taadhmit","13","m","Leishmaniose C",2024-12-16
+"141",22,"Saoulah Kheira","Taadhmit","10","f","Leishmaniose C",2024-12-16
+"142",23,"Guermit Ali","Zaccar","9","m","Leishmaniose C",2024-12-16
+"143",24,"Bessaoud Mosaab","Messaad","13","m","Leishmaniose C",2024-12-16
+"144",25,"Tahiri Kays","Messaad","38","m","Leishmaniose C",2024-12-16
+"145",26,"Taibi Yakouta","Ain El Ibel","72","f","Leishmaniose C",2024-12-16
+"146",27,"akroute abdelrahmane","Ain El Ibel","31","m","Leishmaniose C",2024-12-18
+"147",28,"ben nouidjem ahmed","Messaad","18","m","Leishmaniose C",2024-12-18
+"148",29,"Araba Lakhdar","Ain El Ibel","18","m","Leishmaniose C",2024-12-19
+"149",30,"Bessaoud Hadda","Messaad","30","f","Leishmaniose C",2024-12-19
+"150",31,"Bakria Abdelhai","Messaad","0","m","Leishmaniose C",2024-12-19
+"151",32,"Touir Mebarka","Ain El Ibel","47","f","Leishmaniose C",2024-12-19
+"152",33,"Decher Marouene","Messaad","29","m","Leishmaniose C",2024-12-19
+"153",34,"Sedara Amina","Messaad","15","f","Leishmaniose C",2024-12-22
+"154",35,"Rahmani Bilal Abdelhak","Messaad","19","m","Leishmaniose C",2024-12-23
+"155",36,"Benchetouh Bendeoued","Taadhmit","50","m","Leishmaniose C",2024-12-23
+"156",37,"Djenidi Mayah","Ain El Ibel","4","m","Leishmaniose C",2024-12-23
+"157",38,"Kouriab Med","Taadhmit","29","m","Leishmaniose C",2024-12-24
+"158",39,"Hathat Khaled","Ain El Ibel","17","m","Leishmaniose C",2024-12-24
+"159",40,"bessoud massour","Ain El Ibel","17","m","Leishmaniose C",2024-12-25
+"160",41,"Naoui Mostapha","Moudjbara","32","m","Leishmaniose C",2024-12-24
+"161",42,"Kazrane Amar","Messaad","42","m","Leishmaniose C",2024-12-26
+"162",43,"Derkouche Rihab","Messaad","4","f","Leishmaniose C",2024-12-26
+"163",44,"Zoubir Abdelhadi","Ain El Ibel","10","m","Leishmaniose C",2024-12-26
+"164",45,"Zoubir Salima","Ain El Ibel","17","f","Leishmaniose C",2024-12-26
+"165",46,"Oubah Oussama","Messaad","13","m","Leishmaniose C",2024-12-30
+"166",47,"Benahmed Belkacem","Ain El Ibel","44","m","Leishmaniose C",2024-12-30
+"167",48,"Hani Ikram","Taadhmit","20","f","Leishmaniose C",2024-12-30
+"168",49,"Kraiouaa Naouri","Messaad","3","m","Leishmaniose C",2024-12-30
+"169",50,"Abbassi Mohamed","Taadhmit","10","m","Leishmaniose C",2024-12-30
+"170",51,"Lachehbi Ameur","Ain El Ibel","18","m","Leishmaniose C",2024-12-31
+"171",1,"derouiche aicha","Messaad","37","f","Brucellose",2024-01-10
+"172",2,"douaba mostafa","Messaad","35","m","Brucellose",2024-01-07
+"173",3,"ammar aittia","Messaad","68","m","Brucellose",2024-01-07
+"174",4,"benali brahim","Messaad","39","m","Brucellose",2024-01-04
+"175",5,"adjimi abdelhak","Messaad","17","m","Brucellose",2024-01-02
+"176",6,"maameri fatna","Messaad","49","f","Brucellose",2024-12-25
+"177",7,"belekhdar belkacem","Messaad","41","m","Brucellose",2024-01-14
+"178",8,"rekiat Ahmed","Messaad","56","m","Brucellose",2024-01-28
+"179",9,"kacemi zohra","Messaad","45","f","Brucellose",2024-01-28
+"180",10,"bouzid dehmane","Messaad","33","m","Brucellose",2024-01-24
+"181",11,"rebih aicha","Messaad","29","f","Brucellose",2024-01-22
+"182",12,"rebhi dehman","Messaad","29","m","Brucellose",2024-01-22
+"183",13,"toumi fatoum","Messaad","32","f","Brucellose",2024-01-22
+"184",14,"mallati ramelia","Messaad","37","f","Brucellose",2024-01-16
+"185",15,"kouhil ahmed","Messaad","23","m","Brucellose",2024-02-06
+"186",16,"djekma nourddine","Messaad","31","m","Brucellose",2024-02-05
+"187",17,"bargougue mehamed saleh","Messaad","42","m","Brucellose",2024-02-05
+"188",18,"chaib chafddine","Messaad","25","m","Brucellose",2024-02-04
+"189",19,"touati ziane","Messaad","15","m","Brucellose",2024-02-04
+"190",20,"benalia djaloul","moudjbara","19","m","Brucellose",2024-01-30
+"191",21,"benchreit kouider","moudjbara","56","m","Brucellose",2024-01-30
+"192",22,"menni naouri","moudjbara","44","m","Brucellose",2024-01-20
+"193",23,"baha belkacem","ain el ibel","47","m","Brucellose",2024-01-03
+"194",24,"lechehba aissa","ain el ibel","6","m","Brucellose",2024-01-03
+"195",25,"boucdana amar","ain el ibel","57","m","Brucellose",2024-01-04
+"196",26,"gouicem zohra","ain el ibel","77","f","Brucellose",2024-01-07
+"197",27,"toumi abderrahman","ain el ibel","26","m","Brucellose",2024-01-08
+"198",28,"baghdadou zohra","ain el ibel","18","f","Brucellose",2024-01-08
+"199",29,"zaimini djamila","ain el ibel","20","f","Brucellose",2024-01-08
+"200",30,"ghriab mohamed","ain el ibel","25","m","Brucellose",2024-01-10
+"201",31,"kraikar bachir","ain el ibel","65","m","Brucellose",2024-01-17
+"202",32,"far said","ain el ibel","24","m","Brucellose",2024-01-17
+"203",33,"benahmed zohra","ain el ibel","25","f","Brucellose",2024-01-17
+"204",34,"ayachi abderrahman","ain el ibel","81","m","Brucellose",2024-01-18
+"205",35,"far bendaoued","ain el ibel","15","m","Brucellose",2024-01-22
+"206",36,"baghdadou ahmed","ain el ibel","28","m","Brucellose",2024-01-23
+"207",37,"malek mohamed","ain el ibel","19","m","Brucellose",2024-01-25
+"208",38,"khaldoune yacine","ain el ibel","18","m","Brucellose",2024-01-28
+"209",39,"allaoua manel","Messaad","16","f","Brucellose",2024-02-11
+"210",40,"belkheiri halima","Messaad","46","f","Brucellose",2024-02-08
+"211",41,"laasal aicha","moudjbara","33","f","Brucellose",2024-02-08
+"212",42,"bensllilih mohamed","Messaad","54","m","Brucellose",2024-02-12
+"213",43,"hamada belkacem","ain el ibel","74","m","Brucellose",2024-02-10
+"214",44,"chetouh aicha","Messaad","8","f","Brucellose",2024-02-19
+"215",45,"remitha nethir","Messaad","32","m","Brucellose",2024-02-18
+"216",46,"mellati fetoum","Messaad","3","f","Brucellose",2024-02-15
+"217",47,"rebih aissa","moudjbara","42","m","Brucellose",2024-02-21
+"218",48,"benzorgot kheira","moudjbara","59","f","Brucellose",2024-02-19
+"219",49,"bakai halima","ain el ibel","55","f","Brucellose",2024-02-16
+"220",50,"kraiouaa ahmed","Messaad","62","m","Brucellose",2024-02-22
+"221",51,"bouchendouka omlkheir","Messaad","18","f","Brucellose",2024-02-22
+"222",52,"khalil chaimaa","Messaad","31","f","Brucellose",2024-02-26
+"223",53,"rebih amel","Messaad","35","f","Brucellose",2024-02-28
+"224",54,"djaraoub moussa","Messaad","44","m","Brucellose",2024-02-23
+"225",55,"belekhdar atra","Messaad","77","f","Brucellose",2024-02-26
+"226",56,"douirem mohamed","Messaad","32","m","Brucellose",2024-02-26
+"227",57,"hgriab abdelkader","Messaad","18","m","Brucellose",2024-02-25
+"228",58,"benchikh rbiha","Messaad","70","f","Brucellose",2024-02-22
+"229",59,"rebih belkacem","moudjbara","14","m","Brucellose",2024-02-25
+"230",60,"rebih fatiha","moudjbara","18","f","Brucellose",2024-02-25
+"231",61,"rebih maroi","Messaad","5","f","Brucellose",2024-03-05
+"232",62,"douirem soltana","Messaad","6","f","Brucellose",2024-03-04
+"233",63,"djnaidi aammar","Messaad","31","m","Brucellose",2024-03-03
+"234",64,"amara fatima","Messaad","33","f","Brucellose",2024-03-03
+"235",65,"bouzidi mohamd","Messaad","40","m","Brucellose",2024-02-29
+"236",66,"bennadji nakhla","Messaad","59","f","Brucellose",2024-02-29
+"237",67,"rebih naami","Messaad","32","m","Brucellose",2024-02-29
+"238",68,"menni fatima","moudjbara","52","f","Brucellose",2024-02-29
+"239",69,"haoua kadidja","moudjbara","31","f","Brucellose",2024-03-04
+"240",70,"laguraa abdelhafidh","moudjbara","18","m","Brucellose",2024-03-06
+"241",71,"rahmoun messaoud","moudjbara","15","m","Brucellose",2024-02-28
+"242",72,"nadji houcine","moudjbara","36","m","Brucellose",2024-02-26
+"243",73,"douirem kalthoum","Messaad","8","f","Brucellose",2024-03-11
+"244",74,"rebih rachid","Messaad","6","m","Brucellose",2024-03-11
+"245",75,"naibi khadija","Messaad","55","f","Brucellose",2024-03-10
+"246",76,"belekhdar fatna","Messaad","43","f","Brucellose",2024-03-10
+"247",77,"naibi aicha","Messaad","48","f","Brucellose",2024-03-10
+"248",78,"mallati nourddine","Messaad","9","m","Brucellose",2024-03-10
+"249",79,"rebih ahmed","Messaad","9","m","Brucellose",2024-03-10
+"250",80,"othmane ali","Messaad","22","m","Brucellose",2024-03-07
+"251",81,"benrahmoune mohamed","Messaad","68","m","Brucellose",2024-03-07
+"252",82,"benyehya benyoucef","Messaad","82","m","Brucellose",2024-03-13
+"253",83,"ghazal boukhdidja","Messaad","71","m","Brucellose",2024-03-13
+"254",84,"othmane fouzia","Messaad","45","f","Brucellose",2024-03-13
+"255",85,"bouchendouka malek","Messaad","8","m","Brucellose",2024-03-12
+"256",86,"douirem alayachi","Messaad","5","m","Brucellose",2024-03-12
+"257",87,"benkouider salma","Messaad","31","f","Brucellose",2024-03-13
+"258",88,"naibi hadda","Messaad","18","f","Brucellose",2024-03-11
+"259",89,"bouchendouka hadda","moudjbara","35","f","Brucellose",2024-03-07
+"260",90,"douirem ahmed","Messaad","2","m","Brucellose",2024-03-14
+"261",91,"laguraa djaloul","Messaad","55","m","Brucellose",2024-03-14
+"262",92,"benmouafek moussa","Messaad","37","m","Brucellose",2024-03-14
+"263",93,"dehmane salma","Messaad","68","f","Brucellose",2024-03-19
+"264",94,"douirem nesrine","Messaad","6","f","Brucellose",2024-03-19
+"265",95,"neya sara","Messaad","29","f","Brucellose",2024-03-19
+"266",96,"romma habiba","Messaad","19","f","Brucellose",2024-03-19
+"267",97,"belekhdar bassma","Messaad","10","f","Brucellose",2024-03-18
+"268",98,"reguyague aicha","Messaad","27","f","Brucellose",2024-03-17
+"269",99,"kacemi djamila","moudjbara","5","f","Brucellose",2024-03-19
+"270",100,"halfaya khalil","moudjbara","12","m","Brucellose",2024-03-14
+"271",101,"araar ali","moudjbara","25","m","Brucellose",2024-03-12
+"272",102,"kacemi lakhdar","moudjbara","33","m","Brucellose",2024-03-12
+"273",103,"messaoudi aameur","moudjbara","65","m","Brucellose",2024-03-10
+"274",104,"mouidid mostafa","ain el ibel","17","m","Brucellose",2024-03-15
+"275",105,"lemlouma saida","taadhmit","26","f","Brucellose",2024-03-20
+"276",106,"belekhdar amar","Messaad","8","m","Brucellose",2024-03-21
+"277",107,"bouchendouka aicha","Messaad","70","f","Brucellose",2024-03-21
+"278",108,"rebih naima","Messaad","21","f","Brucellose",2024-03-27
+"279",109,"debchegue mailoud","Messaad","32","m","Brucellose",2024-03-26
+"280",110,"rida yamina","Messaad","23","f","Brucellose",2024-03-26
+"281",111,"toumi yehya","Messaad","2","m","Brucellose",2024-03-25
+"282",112,"brahimi rabia","Messaad","43","f","Brucellose",2024-03-25
+"283",113,"benselem laila","Messaad","22","f","Brucellose",2024-03-25
+"284",114,"romma hodifa ismail","Messaad","13","m","Brucellose",2024-03-25
+"285",115,"messaoudi sayeh","Messaad","51","m","Brucellose",2024-03-24
+"286",116,"ben ahmed zohra","taadhmit","31","f","Brucellose",2024-03-26
+"287",117,"ziane bouta","zaccar","55","f","Brucellose",2024-03-24
+"288",118,"barboura taher","Messaad","34","m","Brucellose",2024-04-02
+"289",119,"naama mohamed","Messaad","37","f","Brucellose",2024-04-02
+"290",120,"taibi kadour","Messaad","27","m","Brucellose",2024-04-01
+"291",121,"guendouz taher","Messaad","33","f","Brucellose",2024-04-01
+"292",122,"harfouf benhameza","Messaad","63","m","Brucellose",2024-03-31
+"293",123,"zitout soltana","Messaad","62","f","Brucellose",2024-03-31
+"294",124,"kacemi mebarka","moudjbara","0","f","Brucellose",2024-04-01
+"295",125,"kacemi manar","moudjbara","7","f","Brucellose",2024-04-01
+"296",126,"kacemi fariha","moudjbara","3","f","Brucellose",2024-04-02
+"297",127,"mekhlouf mebarek","moudjbara","70","m","Brucellose",2024-04-01
+"298",128,"mekhlouf aicha","moudjbara","47","f","Brucellose",2024-04-01
+"299",129,"mekhlouf lakhdar","moudjbara","30","m","Brucellose",2024-03-31
+"300",130,"aalaoui fatna","ain el ibel","30","f","Brucellose",2024-03-02
+"301",131,"rahmoune fatna","ain el ibel","54","f","Brucellose",2024-03-02
+"302",132,"saada abdelkader","ain el ibel","26","m","Brucellose",2024-03-02
+"303",133,"far djadla","ain el ibel","82","f","Brucellose",2024-03-02
+"304",134,"baghdadou ahmed","ain el ibel","23","m","Brucellose",2024-03-02
+"305",135,"fartala om hani","ain el ibel","50","f","Brucellose",2024-03-02
+"306",136,"zoubir saad","ain el ibel","27","m","Brucellose",2024-03-02
+"307",137,"eddene kheira","ain el ibel","46","f","Brucellose",2024-03-03
+"308",138,"baghdadou benharzallah","ain el ibel","58","m","Brucellose",2024-03-03
+"309",139,"djamil ahmed","ain el ibel","36","m","Brucellose",2024-03-02
+"310",140,"melik ali","ain el ibel","35","m","Brucellose",2024-03-04
+"311",141,"sailet ouada","ain el ibel","26","f","Brucellose",2024-03-04
+"312",142,"benhadda ziane","ain el ibel","57","m","Brucellose",2024-03-04
+"313",143,"guagua lakhdar","ain el ibel","33","m","Brucellose",2024-03-04
+"314",144,"guoba belkacem","ain el ibel","13","m","Brucellose",2024-03-04
+"315",145,"djakal belhadj","ain el ibel","39","m","Brucellose",2024-03-04
+"316",146,"gurainai yahya","ain el ibel","61","m","Brucellose",2024-03-04
+"317",147,"boudjaarane fariha","ain el ibel","54","f","Brucellose",2024-03-04
+"318",148,"benalya talya","ain el ibel","36","f","Brucellose",2024-03-04
+"319",149,"bouzouada chibout","ain el ibel","80","m","Brucellose",2024-03-04
+"320",150,"meghlouth ouasila","ain el ibel","20","f","Brucellose",2024-03-05
+"321",151,"far meaamar","ain el ibel","48","m","Brucellose",2024-03-05
+"322",152,"tahira kheira","ain el ibel","29","f","Brucellose",2024-03-05
+"323",153,"toumi fariha","ain el ibel","44","f","Brucellose",2024-03-05
+"324",154,"mokhtari kouidar","ain el ibel","44","m","Brucellose",2024-03-05
+"325",155,"rahmoune om hani","ain el ibel","50","f","Brucellose",2024-03-05
+"326",156,"mehaiddine rania","ain el ibel","20","f","Brucellose",2024-03-05
+"327",157,"touer kherfia","ain el ibel","65","f","Brucellose",2024-03-18
+"328",158,"helasa boulerbah","ain el ibel","83","m","Brucellose",2024-03-18
+"329",159,"hamada aissa","ain el ibel","31","m","Brucellose",2024-03-19
+"330",160,"chelaikam dalal","ain el ibel","9","f","Brucellose",2024-03-24
+"331",161,"chelaikam ali","ain el ibel","5","m","Brucellose",2024-03-24
+"332",162,"chelaikam fadila","ain el ibel","15","f","Brucellose",2024-03-24
+"333",163,"selaimani samia","taadhmit","19","f","Brucellose",2024-03-17
+"334",164,"benhamama fatna","zaccar","36","f","Brucellose",2024-03-19
+"335",165,"ziane ali","zaccar","18","m","Brucellose",2024-03-25
+"336",166,"benhamama bachir","zaccar","44","m","Brucellose",2024-03-25
+"337",167,"toumi noura","Messaad","37","f","Brucellose",2024-04-07
+"338",168,"naami aalaa","Messaad","2","f","Brucellose",2024-04-04
+"339",169,"toumi baya","Messaad","27","m","Brucellose",2024-04-04
+"340",170,"toumi youcef","Messaad","4","f","Brucellose",2024-04-04
+"341",171,"benkouider mohamed","Messaad","37","f","Brucellose",2024-04-07
+"342",172,"benlakhdar mihoub","Messaad","5","f","Brucellose",2024-04-09
+"343",173,"bessaoud houcine","Messaad","28","m","Brucellose",2024-04-09
+"344",174,"kacemi amar","Messaad","53","m","Brucellose",2024-04-09
+"345",175,"bouchendouka lakhdar","moudjbara","21","m","Brucellose",2024-04-07
+"346",176,"kacemi abdelhamid","moudjbara","4","m","Brucellose",2024-04-04
+"347",177,"mekhlouf said","moudjbara","13","m","Brucellose",2024-04-08
+"348",178,"reguyague ikram","moudjbara","13","f","Brucellose",2024-04-08
+"349",179,"heramese omlkheir","Messaad","63","m","Brucellose",2024-04-11
+"350",180,"benderrah sofiane","Messaad","32","m","Brucellose",2024-04-11
+"351",181,"heloub ziyad","Messaad","20","m","Brucellose",2024-04-14
+"352",182,"ghouini ali","Messaad","33","m","Brucellose",2024-04-15
+"353",183,"bakria malika","Messaad","42","m","Brucellose",2024-04-15
+"354",184,"toumi rabeh","Messaad","16","m","Brucellose",2024-04-15
+"355",185,"bessaoud djamaa","Messaad","15","f","Brucellose",2024-04-17
+"356",186,"bouzid mohamed","Messaad","37","m","Brucellose",2024-04-16
+"357",187,"toumi mostafa","Messaad","37","m","Brucellose",2024-04-16
+"358",188,"mehamedi belkacem","Messaad","27","f","Brucellose",2024-04-16
+"359",189,"dehmane ali","Messaad","12","f","Brucellose",2024-04-16
+"360",190,"dehmane lakhdar","Messaad","15","m","Brucellose",2024-04-16
+"361",191,"dehmane omlouka","Messaad","18","f","Brucellose",2024-04-15
+"362",192,"benslilih amara","Messaad","43","f","Brucellose",2024-04-15
+"363",193,"mekhlouf abdelhamid","moudjbara","44","m","Brucellose",2024-04-17
+"364",194,"mekhlouf sara","moudjbara","16","f","Brucellose",2024-04-17
+"365",195,"touati dehmene","Messaad","23","m","Brucellose",2024-04-18
+"366",196,"haouari mokhtar","Messaad","57","m","Brucellose",2024-04-22
+"367",197,"oubah mohamed","Messaad","19","m","Brucellose",2024-04-22
+"368",198,"benchikh hadjira","Messaad","24","f","Brucellose",2024-04-22
+"369",199,"mousaoui sayeh","Messaad","51","m","Brucellose",2024-04-21
+"370",200,"benyehya yamena","Messaad","63","f","Brucellose",2024-04-21
+"371",201,"borchi lakhdar","Messaad","24","m","Brucellose",2024-04-21
+"372",202,"bessaoud moussa","Messaad","23","m","Brucellose",2024-04-21
+"373",203,"mallati nacira","Messaad","38","f","Brucellose",2024-04-20
+"374",204,"guaafazi ali","Messaad","46","m","Brucellose",2024-04-18
+"375",205,"belkheir ismail","Messaad","37","m","Brucellose",2024-04-18
+"376",206,"rebih zineb","Messaad","44","f","Brucellose",2024-04-22
+"377",207,"ghrieb mohamed","Messaad","28","m","Brucellose",2024-04-22
+"378",208,"ghelisat nadjet","Messaad","14","f","Brucellose",2024-04-23
+"379",209,"bessaoud karim","Messaad","21","m","Brucellose",2024-04-23
+"380",210,"el aiche ali","Messaad","29","m","Brucellose",2024-04-23
+"381",211,"guaimouza amar","Messaad","36","m","Brucellose",2024-04-23
+"382",212,"mechri abdelkader","Messaad","65","m","Brucellose",2024-04-23
+"383",213,"mekhlouf kheira","moudjbara","42","f","Brucellose",2024-04-18
+"384",214,"mekhlouf atra","moudjbara","48","f","Brucellose",2024-04-18
+"385",215,"dekmane baya","moudjbara","48","f","Brucellose",2024-04-23
+"386",216,"dekmane rekia","moudjbara","2","f","Brucellose",2024-04-23
+"387",217,"kacemi fatoum","ain el ibel","21",f,"Brucellose",2024-02-25
+"388",218,"abbasi mereim","ain el ibel","28","f","Brucellose",2024-02-25
+"389",219,"guohiri fatima","ain el ibel","15","f","Brucellose",2024-02-26
+"390",220,"guohiri dokia","ain el ibel","20","f","Brucellose",2024-02-26
+"391",221,"rahmoune zourigue","ain el ibel","54","m","Brucellose",2024-02-26
+"392",222,"kacemi aicha","ain el ibel","20","f","Brucellose",2024-02-27
+"393",223,"guohiri om hani","ain el ibel","49","f","brucellose",2024-04-01
+"394",224,"araba ahmed","ain el ibel","58","m","brucellose",2024-04-01
+"395",225,"far med","ain el ibel","39","m","brucellose",2024-04-02
+"396",226,"baghdadou ali","ain el ibel","25","m","brucellose",2024-04-02
+"397",227,"djakal fatiha","ain el ibel","6","f","brucellose",2024-04-03
+"398",228,"baha messaouda","ain el ibel","35","f","brucellose",2024-04-03
+"399",229,"bendjraibia aymen","ain el ibel","24","m","brucellose",2024-04-04
+"400",230,"far mekhlouf","ain el ibel","35","m","brucellose",2024-04-05
+"401",231,"saada maroua","ain el ibel","8","f","brucellose",2024-04-05
+"402",232,"silet fatna","ain el ibel","44","f","brucellose",2024-04-05
+"403",233,"zaimini mozia","ain el ibel","35","f","brucellose",2024-04-15
+"404",234,"brighith fatna","ain el ibel","26","f","brucellose",2024-04-15
+"405",235,"mazouz kheira","ain el ibel","25","f","brucellose",2024-04-16
+"406",236,"baghdadou amar","ain el ibel","37","m","brucellose",2024-04-16
+"407",237,"kraikar messaouda","ain el ibel","45","f","brucellose",2024-04-16
+"408",238,"benattia salah","ain el ibel","15","m","brucellose",2024-04-16
+"409",239,"kaidache kasem","ain el ibel","35","m","brucellose",2024-04-16
+"410",240,"saada halima","ain el ibel","25","f","brucellose",2024-04-16
+"411",241,"melik ali","ain el ibel","21","m","brucellose",2024-04-16
+"412",242,"lechehbi zohra","ain el ibel","80","f","brucellose",2024-04-17
+"413",243,"saada fatna","ain el ibel","40","f","brucellose",2024-04-17
+"414",244,"araba bachir","ain el ibel","44","m","brucellose",2024-04-18
+"415",245,"arbi atra","ain el ibel","60","f","brucellose",2024-04-18
+"416",246,"arbi abdellah","ain el ibel","35","m","brucellose",2024-04-18
+"417",247,"chelikam med","ain el ibel","25","m","brucellose",2024-04-18
+"418",248,"chelikam zohra","ain el ibel","46","f","brucellose",2024-04-18
+"419",249,"mazouz soltana","ain el ibel","24","f","brucellose",2024-04-21
+"420",250,"baghdadou bouderbala","ain el ibel","69","m","brucellose",2024-04-21
+"421",251,"karara taha","ain el ibel","32","m","brucellose",2024-04-21
+"422",252,"oubah med","ain el ibel","22","m","brucellose",2024-04-22
+"423",253,"toumi fatoum","ain el ibel","25","f","brucellose",2024-04-22
+"424",254,"baha boubakeur","ain el ibel","25","m","brucellose",2024-04-22
+"425",255,"belabiad mostafa","ain el ibel","57","m","brucellose",2024-04-23
+"426",256,"bedirina ahmed","ain el ibel","44","m","brucellose",2024-04-24
+"427",257,"ziouach messaouda","ain el ibel","26","f","brucellose",2024-04-24
+"428",258,"hamada belkacem","ain el ibel","68","m","brucellose",2024-04-28
+"429",259,"tennah omelkheir","ain el ibel","37","f","brucellose",2024-04-28
+"430",260,"araba aissa","ain el ibel","23","m","brucellose",2024-04-28
+"431",261,"melik belkheir","ain el ibel","25","m","brucellose",2024-04-28
+"432",262,"baghdadou nakhla","ain el ibel","61","f","brucellose",2024-04-28
+"433",263,"baghdadou khdara","ain el ibel","22","f","brucellose",2024-04-28
+"434",264,"assali chelaikam","ain el ibel","20","m","brucellose",2024-04-29
+"435",265,"cherboul belkacem","ain el ibel","17","m","brucellose",2024-04-29
+"436",266,"guelila fatiha","ain el ibel","25","f","brucellose",2024-04-29
+"437",267,"othman belkheir","Messaad","64","m","Brucellose",2024-04-28
+"438",268,"rebih hadjira","Messaad","17","f","Brucellose",2024-04-25
+"439",269,"chetouh aicha","Messaad","8","f","Brucellose",2024-04-25
+"440",270,"douirem aicha","Messaad","41","f","Brucellose",2024-04-25
+"441",271,"guaafazi mostafa","Messaad","7","m","Brucellose",2024-04-24
+"442",272,"naoui abderrahman","Messaad","3","m","Brucellose",2024-04-24
+"443",273,"adjaimi messaouda","Messaad","45","f","Brucellose",2024-04-24
+"444",274,"maameri djamed","Messaad","23","m","Brucellose",2024-05-02
+"445",275,"haouari belkacem","Messaad","28","m","Brucellose",2024-05-02
+"446",276,"abikchi fariha","Messaad","65","f","Brucellose",2024-05-02
+"447",277,"bouchendouka khaouni","Messaad","70","m","Brucellose",2024-05-02
+"448",278,"benaissa attaira","Messaad","45","f","Brucellose",2024-04-30
+"449",279,"dehman messaouda","Messaad","19","f","Brucellose",2024-04-30
+"450",280,"guaafazi salah","Messaad","22","m","Brucellose",2024-04-30
+"451",281,"gaimouza yamina","Messaad","40","f","Brucellose",2024-04-28
+"452",282,"haouari sihame","Messaad","25","f","Brucellose",2024-04-29
+"453",283,"touer said","Messaad","71","m","Brucellose",2024-04-29
+"454",284,"gaimouza ameur","Messaad","30","m","Brucellose",2024-04-28
+"455",285,"bessaoud salahddene","Messaad","16","m","Brucellose",2024-04-28
+"456",286,"brahimi zohra","Messaad","28","f","Brucellose",2024-05-06
+"457",287,"rebih fatiha","Messaad","16","f","Brucellose",2024-05-06
+"458",288,"guaafazi achouak","Messaad","9","f","Brucellose",2024-05-06
+"459",289,"rabia zin","Messaad","15","m","Brucellose",2024-05-05
+"460",290,"naimi habib","Messaad","17","m","Brucellose",2024-05-05
+"461",291,"naimi saaddine","Messaad","24","m","Brucellose",2024-05-05
+"462",292,"guaafazi ahmed","Messaad","17","m","Brucellose",2024-05-05
+"463",293,"lehziel abdelouahab","Messaad","20","m","Brucellose",2024-05-04
+"464",294,"bouzid zakaria","Messaad","21","m","Brucellose",2024-05-04
+"465",295,"kehil ahmed","Messaad","24","m","Brucellose",2024-05-07
+"466",296,"kerboub ahmed","Messaad","34","m","Brucellose",2024-05-07
+"467",297,"benhadda cherifa","Messaad","79","f","Brucellose",2024-05-07
+"468",298,"elaiche mohamed","Messaad","34","m","Brucellose",2024-05-07
+"469",299,"delasse amar","moudjbara","79","m","Brucellose",2024-04-28
+"470",300,"dehman khadidja","moudjbara","48","f","Brucellose",2024-04-28
+"471",301,"mekhlouf nadia","moudjbara","22","f","Brucellose",2024-04-23
+"472",302,"bakria saleh","moudjbara","22","m","Brucellose",2024-04-21
+"473",303,"mekhlouf fatehi","moudjbara","15","m","Brucellose",2024-04-23
+"474",304,"meklouf saad","moudjbara","50","m","Brucellose",2024-05-06
+"475",305,"rebih mohamed","moudjbara","14","m","Brucellose",2024-05-06
+"476",306,"dokmane imane","moudjbara","7","f","Brucellose",2024-05-02
+"477",307,"ziane bachir","zaccar","13","m","brucellose",2024-04-01
+"478",308,"boukhalfa abdellah","taadhmit","50","m","brucellose",2024-04-25
+"479",309,"elaid aicha","Messaad","24","f","Brucellose",2024-05-09
+"480",310,"reguayegue fatoum","Messaad","58","f","Brucellose",2024-05-09
+"481",311,"herames mohamed","Messaad","39","m","Brucellose",2024-05-09
+"482",312,"karrache hameza","Messaad","67","m","Brucellose",2024-05-09
+"483",313,"toumi mokhtar","Messaad","72","m","Brucellose",2024-05-13
+"484",314,"bessaoud mohamed","Messaad","60","m","Brucellose",2024-05-13
+"485",315,"maache mostafa","Messaad","9","m","Brucellose",2024-05-13
+"486",316,"guaafazi amel","Messaad","19","f","Brucellose",2024-05-14
+"487",317,"ehmaida abderrahman","Messaad","30","m","Brucellose",2024-05-14
+"488",318,"belekhdar attra","Messaad","77","f","Brucellose",2024-05-14
+"489",319,"benkouider soumia","Messaad","23","f","Brucellose",2024-05-15
+"490",320,"benmessaoud emhamed","Messaad","57","m","Brucellose",2024-05-15
+"491",321,"remadhnia khaouni","moudjbara","71","m","Brucellose",2024-05-12
+"492",322,"bensaada themer","moudjbara","24","m","Brucellose",2024-05-14
+"493",323,"mecheri elcheikh","moudjbara","65","m","Brucellose",2024-05-14
+"494",324,"hadi rabia","moudjbara","33","f","Brucellose",2024-05-12
+"495",325,"bouzid khadidja","moudjbara","9","f","Brucellose",2024-05-12
+"496",326,"rebih soumia","moudjbara","16","f","Brucellose",2024-05-12
+"497",327,"bouchendouka mostafa","Messaad","16","m","Brucellose",2024-05-19
+"498",328,"kaadi kaima","Messaad","63","f","Brucellose",2024-05-16
+"499",329,"moumene yacine","Messaad","36","m","Brucellose",2024-05-16
+"500",330,"adjaimi fatna","Messaad","21","f","Brucellose",2024-05-16
+"501",331,"salamat mostafa","Messaad","75","m","Brucellose",2024-05-19
+"502",332,"alaoua manel","Messaad","15","f","Brucellose",2024-05-19
+"503",333,"zitout ali","Messaad","51","m","Brucellose",2024-05-19
+"504",334,"rabehi nour el houda","Messaad","17","f","Brucellose",2024-05-19
+"505",335,"malati belkacem","Messaad","27","m","Brucellose",2024-05-20
+"506",336,"benselem laila","Messaad","24","f","Brucellose",2024-05-21
+"507",337,"deles zohra","Messaad","31","f","Brucellose",2024-05-21
+"508",338,"assali themeur","Messaad","74","m","Brucellose",2024-05-21
+"509",339,"mallati khadidja","moudjbara","14","f","Brucellose",2024-05-16
+"510",340,"diab aicha","moudjbara","15","f","Brucellose",2024-05-16
+"511",341,"menni zineb","moudjbara","25","f","Brucellose",2024-05-16
+"512",342,"mekhlouf ahmed","moudjbara","30","m","Brucellose",2024-05-16
+"513",343,"selimani khadidja","taadhmit","29","f","Brucellose",2024-05-16
+"514",344,"khadhiri barkahom","taadhmit","54","f","Brucellose",2024-05-16
+"515",345,"saidi abdelkader","Messaad","61","m","Brucellose",2024-05-22
+"516",346,"belkheiri ben abdellah","Messaad","29","m","Brucellose",2024-05-23
+"517",347,"reikha ahmed","Messaad","35","m","Brucellose",2024-05-23
+"518",348,"foudhili ameur","Messaad","5","m","Brucellose",2024-05-24
+"519",349,"haouari messaoud","Messaad","29","m","Brucellose",2024-05-26
+"520",350,"benjnaidi omlkheir","Messaad","32","f","Brucellose",2024-05-26
+"521",351,"kechaida elaid","Messaad","35","m","Brucellose",2024-05-26
+"522",352,"bouzid brahim","Messaad","39","m","Brucellose",2024-05-27
+"523",353,"naami abdechafi","Messaad","17","m","Brucellose",2024-05-27
+"524",354,"dellesse ismail","moudjbara","4","m","Brucellose",2024-05-23
+"525",355,"dellesse louiza","moudjbara","19","f","Brucellose",2024-05-23
+"526",356,"metehazam barkahom","taadhmit","60","f","Brucellose",2024-05-23
+"527",357,"kouidri ahmed","taadhmit","25","m","Brucellose",2024-05-22
+"528",358,"hamada messaouda","taadhmit","19","f","Brucellose",2024-05-23
+"529",359,"djaket AEK","taadhmit","57","m","Brucellose",2024-05-23
+"530",360,"chabira mousa","taadhmit","30","m","Brucellose",2024-05-27
+"531",361,"abbasi miloud","taadhmit","17","m","Brucellose",2024-05-27
+"532",362,"kouidri mousa","taadhmit","32","m","Brucellose",2024-06-03
+"533",363,"kouidri abderrahman","taadhmit","30","m","Brucellose",2024-06-03
+"534",364,"selimani boulerbah","taadhmit","56","m","Brucellose",2024-06-03
+"535",365,"minni lamedjad","moudjbara","13","m","Brucellose",2024-06-03
+"536",366,"mekhlouf ali","moudjbara","30","m","Brucellose",2024-06-05
+"537",367,"youness el amri","moudjbara","12","m","Brucellose",2024-06-05
+"538",368,"mekhlouf med","moudjbara","70","m","Brucellose",2024-06-06
+"539",369,"rebih meriem","moudjbara","12","f","Brucellose",2024-06-06
+"540",370,"mekhlouf mebarka","moudjbara","30","f","Brucellose",2024-05-28
+"541",371,"mekhlouf dehman","moudjbara","13","m","Brucellose",2024-05-27
+"542",372,"mallati nour","moudjbara","6","f","Brucellose",2024-05-23
+"543",373,"kouidri abdelfarouk","moudjbara","11","m","Brucellose",2024-05-19
+"544",374,"lebera med","moudjbara","48","m","Brucellose",2024-05-02
+"545",375,"rebih Med","moudjbara","61","m","Brucellose",2024-05-20
+"546",376,"Hamidi Rania","moudjbara","7","f","Brucellose",2024-06-06
+"547",377,"Moati Belkheir","Messaad","18","m","Brucellose",2024-06-03
+"548",378,"Karrach Sayeh","Messaad","25","m","Brucellose",2024-06-03
+"549",379,"Chetouh Abdelmalek","Messaad","20","m","Brucellose",2024-06-02
+"550",380,"Benmouafak Mousa","Messaad","37","m","Brucellose",2024-06-03
+"551",381,"Guaafazi Israa","Messaad","4","f","Brucellose",2024-05-29
+"552",382,"Guaafazi Rahaf","Messaad","5","f","Brucellose",2024-05-29
+"553",383,"Benlakhdar Yacin","Messaad","1","m","Brucellose",2024-05-29
+"554",384,"Kaidar Mihoub","Messaad","56","m","Brucellose",2024-05-28
+"555",385,"Derkouch Ahmed","Messaad","80","m","Brucellose",2024-06-03
+"556",386,"Meraisse Chikha","Messaad","18","f","Brucellose",2024-06-04
+"557",387,"Benlakhdar Belkacem","Messaad","41","m","Brucellose",2024-06-05
+"558",388,"Ben Ali Med","Messaad","35","m","Brucellose",2024-06-05
+"559",389,"Meaameri AEK","Messaad","63","m","Brucellose",2024-06-06
+"560",390,"Mekhlouf Ali","Messaad","48","m","Brucellose",2024-06-06
+"561",391,"Bloul Khadra","Messaad","60","f","Brucellose",2024-06-06
+"562",392,"Aidi Zohra","Messaad","7","f","Brucellose",2024-06-06
+"563",393,"Cherboul Belekhdar","Ain el ibel","42","m","Brucellose",2024-05-02
+"564",394,"Benlabiadh Zohra","Ain el ibel","24","f","Brucellose",2024-05-02
+"565",395,"Djaoui Ramelia","Ain el ibel","33","f","Brucellose",2024-05-02
+"566",396,"Doudou yamina","Ain el ibel","8","f","Brucellose",2024-05-02
+"567",397,"Gheriab Farhat","Ain el ibel","25","m","Brucellose",2024-05-02
+"568",398,"Mehila Med","Ain el ibel","26","m","Brucellose",2024-05-02
+"569",399,"Araba Djamel","Ain el ibel","9","m","Brucellose",2024-05-02
+"570",400,"Saksak Oualid","Ain el ibel","28","m","Brucellose",2024-05-02
+"571",401,"Ziane Ahmed","Ain el ibel","5","m","Brucellose",2024-05-02
+"572",402,"Ziane Zohra","Ain el ibel","10","f","Brucellose",2024-05-02
+"573",403,"Bakay Baya","Ain el ibel","52","f","Brucellose",2024-05-05
+"574",404,"Chartali AEK","Ain el ibel","31","m","Brucellose",2024-05-05
+"575",405,"Daoudi Ali","Ain el ibel","63","m","Brucellose",2024-05-06
+"576",406,"Djaoui Meriem","Ain el ibel","13","f","Brucellose",2024-05-06
+"577",407,"Lechehbi Nadji","Ain el ibel","58","m","Brucellose",2024-05-07
+"578",408,"Salhi Naoual","Ain el ibel","33","f","Brucellose",2024-05-08
+"579",409,"Benmessaoud Roukia","Ain el ibel","35","f","Brucellose",2024-05-08
+"580",410,"Baghdadou Bachir","Ain el ibel","59","m","Brucellose",2024-08-08
+"581",411,"Tannah Chikh","Ain el ibel","65","m","Brucellose",2024-05-08
+"582",412,"Kourikar Dehman","Ain el ibel","89","m","Brucellose",2024-05-08
+"583",413,"kourisi Fatna","Ain el ibel","42","f","Brucellose",2024-05-09
+"584",414,"Ghoula Med","Ain el ibel","42","m","Brucellose",2024-05-12
+"585",415,"Chomguach Rabia","Ain el ibel","21","f","Brucellose",2024-05-12
+"586",416,"Djakal Bayzid","Ain el ibel","34","m","Brucellose",2024-05-12
+"587",417,"Moussa Fariha","Ain el ibel","40","f","Brucellose",2024-05-12
+"588",418,"Naoum AEK","Ain el ibel","32","m","Brucellose",2024-05-12
+"589",419,"Mehdad Fatna","Ain el ibel","18","f","Brucellose",2024-05-13
+"590",420,"Djabri Nadjet","Ain el ibel","33","f","Brucellose",2024-05-14
+"591",421,"Baghdadou AEK","Ain el ibel","28","m","Brucellose",2024-05-14
+"592",422,"Farhat Bachir","Ain el ibel","10","m","Brucellose",2024-05-15
+"593",423,"Laadjal Benalia","Ain el ibel","48","m","Brucellose",2024-05-15
+"594",424,"Guassab Abdelhafidh","Ain el ibel","28","m","Brucellose",2024-05-15
+"595",425,"Kherifi Yahya","Ain el ibel","30","m","Brucellose",2024-05-15
+"596",426,"Ziani Zinouna","Ain el ibel","62","f","Brucellose",2024-05-16
+"597",427,"Elouad Omlkheir","Ain el ibel","23","f","Brucellose",2024-05-16
+"598",428,"Ghaidjar Med","Ain el ibel","26","m","Brucellose",2024-05-16
+"599",429,"Araba Med","Ain el ibel","17","m","Brucellose",2024-05-16
+"600",430,"Baghdadou Ouadda","Ain el ibel","31","f","Brucellose",2024-05-16
+"601",431,"Hamada Boulerbah","Ain el ibel","50","m","Brucellose",2024-05-16
+"602",432,"Daoudi Moussa","Ain el ibel","57","m","Brucellose",2024-05-19
+"603",433,"Djamal Ahmed","Ain el ibel","39","m","Brucellose",2024-05-19
+"604",434,"Sadki Nadjoua","Ain el ibel","42","f","Brucellose",2024-05-19
+"605",435,"Kouidri Nakhla","Ain el ibel","15","f","Brucellose",2024-05-19
+"606",436,"Aiouaze Elaid","Ain el ibel","20","m","Brucellose",2024-05-19
+"607",437,"Mezhoud Fariha","Ain el ibel","32","f","Brucellose",2024-05-20
+"608",438,"Bourzegue Ahmed","Ain el ibel","56","m","Brucellose",2024-05-20
+"609",439,"Doudou Mebarka","Ain el ibel","14","f","Brucellose",2024-05-21
+"610",440,"Chelaikam Kheira","Ain el ibel","40","f","Brucellose",2024-05-21
+"611",441,"Touer Med","Ain el ibel","71","m","Brucellose",2024-05-21
+"612",442,"Melik Halima","Ain el ibel","23","f","Brucellose",2024-05-22
+"613",443,"Taheri Kheira","Ain el ibel","24","f","Brucellose",2024-05-26
+"614",444,"Kherifi Karima","Ain el ibel","23","f","Brucellose",2024-05-26
+"615",445,"Kherifi Houcin","Ain el ibel","28","m","Brucellose",2024-05-26
+"616",446,"Baghdadi Bahri","Ain el ibel","47","m","Brucellose",2024-05-26
+"617",447,"Mehila Amar","Ain el ibel","20","m","Brucellose",2024-05-27
+"618",448,"Hamada Saida","Ain el ibel","6","f","Brucellose",2024-05-28
+"619",449,"Hamada Ahmed","Ain el ibel","37","m","Brucellose",2024-05-28
+"620",450,"Hamada Abdelbaset","Ain el ibel","11","m","Brucellose",2024-05-28
+"621",451,"Sadeki Rabia","Ain el ibel","15","f","Brucellose",2024-05-28
+"622",452,"Toual Fatoum","Ain el ibel","59","f","Brucellose",2024-05-28
+"623",453,"Marouki Mekadem","Ain el ibel","31","m","Brucellose",2024-06-04
+"624",454,"Charnoubi Belkacem","Ain el ibel","79","m","Brucellose",2024-06-04
+"625",455,"Kraikar Rebiha","Ain el ibel","15","f","Brucellose",2024-06-04
+"626",456,"Assali Abderahman","Ain el ibel","25","m","Brucellose",2024-06-04
+"627",457,"Baghdadou Ahmed","Ain el ibel","23","m","Brucellose",2024-06-03
+"628",458,"Chelaikam Hanan","Ain el ibel","19","f","Brucellose",2024-06-03
+"629",459,"Assali Chaia","Ain el ibel","54","f","Brucellose",2024-06-03
+"630",460,"Rahmoun Abdelhafidh","Ain el ibel","25","m","Brucellose",2024-06-03
+"631",461,"Abdelaoui Med","Ain el ibel","28","m","Brucellose",2024-06-03
+"632",462,"Kouidri Saad","Ain el ibel","45","m","Brucellose",2024-06-03
+"633",463,"Oubah Med","Ain el ibel","28","m","Brucellose",2024-06-03
+"634",464,"Bidi Med","Ain el ibel","29","m","Brucellose",2024-06-03
+"635",465,"Bouzeouada Khadra","Ain el ibel","56","f","Brucellose",2024-06-03
+"636",466,"Bourzegue Med","Ain el ibel","69","m","Brucellose",2024-06-03
+"637",467,"Yahyaoui Med","Ain el ibel","35","m","Brucellose",2024-06-06
+"638",468,"Mokhtari Mostafa","moudjbara","30","m","Brucellose",2024-06-10
+"639",469,"Azouz Med","moudjbara","30","m","Brucellose",2024-06-13
+"640",470,"Zaiouach Abderahman","moudjbara","11","m","Brucellose",2024-06-13
+"641",471,"Zaiouach AEK","moudjbara","14","m","Brucellose",2024-06-11
+"642",472,"Mekhlouf Ahmed","moudjbara","12","m","Brucellose",2024-06-11
+"643",473,"Rebih Ibrahim","moudjbara","30","m","Brucellose",2024-06-11
+"644",474,"Cherait Ibrahim","moudjbara","19","m","Brucellose",2024-06-09
+"645",475,"Sahraoui Kadidja","moudjbara","57","f","Brucellose",2024-06-09
+"646",476,"Djakdali khalil","moudjbara","37","m","Brucellose",2024-06-11
+"647",477,"Rahmani Saad","messaad","39","m","Brucellose",2024-06-09
+"648",478,"Dabechague Adem","messaad","7","m","Brucellose",2024-06-10
+"649",479,"Benslilih Amara","messaad","43","m","Brucellose",2024-06-11
+"650",480,"Benattia Tayeb","messaad","28","m","Brucellose",2024-06-11
+"651",481,"Adjaimi Abdelhak","messaad","17","m","Brucellose",2024-06-11
+"652",482,"Bakheti Rebiha","messaad","57","f","Brucellose",2024-06-11
+"653",483,"Riki Fatna","messaad","32","f","Brucellose",2024-06-11
+"654",484,"Brahimi Omelkheir","messaad","25","f","Brucellose",2024-06-13
+"655",485,"Bouchendouka Roukia","messaad","10","f","Brucellose",2024-06-13
+"656",486,"Meraise Kheira","messaad","21","f","Brucellose",2024-06-12
+"657",487,"Kacemi Feriha","Ain Elibel","27","f","Brucellose",2024-06-09
+"658",488,"Mezhoud Ahmed","Ain Elibel","23","m","Brucellose",2024-06-08
+"659",489,"Touer Sailaa","Ain Elibel","76","m","Brucellose",2024-06-10
+"660",490,"Tennah Mekhalet","Ain Elibel","19","m","Brucellose",2024-06-12
+"661",491,"Ghaidjar Fila","Ain Elibel","30","f","Brucellose",2024-06-12
+"662",492,"Baghdadou Kheira","Ain Elibel","50","f","Brucellose",2024-06-13
+"663",493,"Bedirina Ali","Ain Elibel","36","m","Brucellose",2024-06-10
+"664",494,"Bensaada Bakhta","Ain Elibel","23","f","Brucellose",2024-06-10
+"665",495,"Maleki Meriem","moudjbara","17","f","Brucellose",2024-06-14
+"666",496,"Chetouh Med","messaad","18","m","Brucellose",2024-06-16
+"667",497,"Belkheiri Fariha","messaad","40","f","Brucellose",2024-06-26
+"668",498,"Belakhdar Rabia","messaad","26","f","Brucellose",2024-06-24
+"669",499,"Rebih Fatehi","messaad","28","m","Brucellose",2024-06-24
+"670",500,"Elaib Aicha","messaad","72","f","Brucellose",2024-06-24
+"671",501,"Oubah Ahmed","messaad","80","m","Brucellose",2024-06-24
+"672",502,"Dehman Med","messaad","40","m","Brucellose",2024-06-24
+"673",503,"Haidach Fatna","messaad","62","f","Brucellose",2024-06-24
+"674",504,"Kraiouaa Soumia","moudjbara","19","f","Brucellose",2024-06-09
+"675",505,"Foudhili Aicha","Ain Elibel","4","f","Brucellose",2024-06-19
+"676",506,"Bensaada Samiha","Ain Elibel","35","f","Brucellose",2024-06-19
+"677",507,"Bensaada Ahmed","Ain Elibel","48","m","Brucellose",2024-06-19
+"678",508,"Taibi Omlkheir","Ain Elibel","50","f","Brucellose",2024-06-19
+"679",509,"Toumi Fatna","Ain Elibel","15","f","Brucellose",2024-06-20
+"680",510,"Sailaa Ahmed","Ain Elibel","27","m","Brucellose",2024-06-20
+"681",511,"Chakchak Med","Ain Elibel","23","m","Brucellose",2024-06-20
+"682",512,"Oubah Djamal","messaad","40","m","Brucellose",2024-06-20
+"683",513,"Bensaid Amar","messaad","43","m","Brucellose",2024-06-20
+"684",514,"Benzerguin Boulerbah","messaad","61","m","Brucellose",2024-06-20
+"685",515,"Benrahmoun Abdelaziz","messaad","37","m","Brucellose",2024-06-19
+"686",516,"Benabdesalam Amira","messaad","34","f","Brucellose",2024-06-19
+"687",517,"Feradj Aicha","messaad","55","f","Brucellose",2024-06-19
+"688",518,"Harzallah Med","messaad","62","m","Brucellose",2024-06-19
+"689",519,"Saada Hadda","Ain Elibel","37","f","Brucellose",2024-06-23
+"690",520,"Baghdadi Aicha","Ain Elibel","43","f","Brucellose",2024-06-24
+"691",521,"Keraikar Ameur","Ain Elibel","38","m","Brucellose",2024-06-25
+"692",522,"Bolbol Fatoum","Ain Elibel","72","f","Brucellose",2024-06-25
+"693",523,"Roubeti Ali","Ain Elibel","29","m","Brucellose",2024-06-25
+"694",524,"Taheri Belkheir","Ain Elibel","50","m","Brucellose",2024-06-26
+"695",525,"Mouidid AEK","Ain Elibel","73","m","Brucellose",2024-06-27
+"696",526,"Sedara Nasira","messaad","29","f","Brucellose",2024-06-24
+"697",527,"hamidi ameur","moudjbara","34","m","Brucellose",2024-06-30
+"698",528,"merouche messaoud","ain el ibel","31","m","Brucellose",2024-06-30
+"699",529,"karrach nacira","Messaad","49","f","Brucellose",2024-07-01
+"700",530,"reguayague med","Messaad","71","m","Brucellose",2024-07-01
+"701",531,"bouchendouka arara","Messaad","28","f","Brucellose",2024-06-29
+"702",532,"chaou elkheir mahfoudh","Messaad","27","m","Brucellose",2024-06-28
+"703",533,"othman ouadda","Messaad","63","f","Brucellose",2024-06-27
+"704",534,"benhouria abdellah","Messaad","7","m","Brucellose",2024-06-27
+"705",535,"amor fatima","Messaad","31","f","Brucellose",2024-06-27
+"706",536,"Amara Fatna","Messaad","34","f","Brucellose",2024-06-27
+"707",537,"Houcini Fatna","Messaad","53","f","Brucellose",2024-07-02
+"708",538,"Ghazal Meriem","Messaad","53","f","Brucellose",2024-07-02
+"709",539,"Semati Abdelkarim","Messaad","18","m","Brucellose",2024-07-04
+"710",540,"Rekiat Chaima","Messaad","17","f","Brucellose",2024-07-04
+"711",541,"Belkheiri Abderrahman","Messaad","33","m","Brucellose",2024-07-07
+"712",542,"Lakhnech Omran","Messaad","26","m","Brucellose",2024-07-08
+"713",543,"Serrar Radhoune","Messaad","28","m","Brucellose",2024-07-09
+"714",544,"Bouchendouka Mostafa Abderrahman","Messaad","16","m","Brucellose",2024-07-09
+"715",545,"Benkouider Maroi","Messaad","14","f","Brucellose",2024-07-11
+"716",546,"Benkhelifa Saad","Messaad","40","m","Brucellose",2024-07-11
+"717",547,"Rahmoun Said","Messaad","25","m","Brucellose",2024-07-11
+"718",548,"Lachehbi Ahmed","Ain el ibel","54","m","Brucellose",2024-07-10
+"719",549,"Bessaoud Omhani","Messaad","30","f","Brucellose",2024-07-14
+"720",550,"Abdelouhab Aicha","Messaad","17","f","Brucellose",2024-07-14
+"721",551,"Bargoug Achraf","Messaad","14","m","Brucellose",2024-07-14
+"722",552,"Benbrahim Nourddine","Messaad","42","m","Brucellose",2024-07-14
+"723",553,"Toumi Nedjet","Messaad","15","f","Brucellose",2024-07-17
+"724",554,"Bendkim Zohra","Messaad","21","f","Brucellose",2024-07-18
+"725",555,"Rahmoune Omlkheir","Messaad","19","f","Brucellose",2024-07-18
+"726",556,"Kheniche Elhadj","Taadhmit","32","m","Brucellose",2024-07-16
+"727",557,"Bahha Zohra","Ain el ibel","11","f","Brucellose",2024-07-17
+"728",558,"Bahha Boubakeur","Ain el ibel","27","m","Brucellose",2024-07-15
+"729",559,"Sadouk Aicha","Ain el ibel","58","f","Brucellose",2024-07-15
+"730",560,"Belkheiri Omameur","Ain el ibel","37","f","Brucellose",2024-07-17
+"731",561,"Balbal Belkacem","Ain el ibel","74","m","Brucellose",2024-07-16
+"732",562,"Bahha Amel","Ain el ibel","18","f","Brucellose",2024-07-18
+"733",563,"Bahha Nassima","Ain el ibel","14","f","Brucellose",2024-07-19
+"734",564,"Bahha Abdelkader","Ain el ibel","45","m","Brucellose",2024-07-19
+"735",565,"Bakai Halima","Ain el ibel","25","f","Brucellose",2024-07-19
+"736",566,"Bessaoud Med","Moudjbara","7","m","Brucellose",2024-07-21
+"737",567,"Agoun Toufik","Ain el ibel","41","m","Brucellose",2024-07-21
+"738",568,"Bouchendouka Khadra","Moudjbara","17","f","Brucellose",2024-07-21
+"739",569,"Ghouissem Mostafa","Ain el ibel","50","m","Brucellose",2024-07-22
+"740",570,"Rahmoun Med","Messaad","29","m","Brucellose",2024-07-21
+"741",571,"Ghorab Kouider","Messaad","46","m","Brucellose",2024-07-21
+"742",572,"Gacem Ahmed","Messaad","56","m","Brucellose",2024-07-28
+"743",573,"Benkouider Aicha","Messaad","44","f","Brucellose",2024-07-29
+"744",574,"Nouidjem Rebiha","Messaad","84","f","Brucellose",2024-07-29
+"745",575,"Houcini Benatia","Messaad","24","m","Brucellose",2024-07-29
+"746",576,"Lahrache Rebiha","Messaad","28","f","Brucellose",2024-07-29
+"747",577,"Bouchendouka Mataa","Messaad","6","m","Brucellose",2024-07-29
+"748",578,"Boumidouna Boulerbah","Messaad","29","m","Brucellose",2024-07-30
+"749",579,"Zitout Soltana","Messaad","68","f","Brucellose",2024-07-31
+"750",580,"Far Med","Ain el ibel","39","m","Brucellose",2024-07-01
+"751",581,"Bahha Rahmoun","Ain el ibel","44","m","Brucellose",2024-07-01
+"752",582,"Dokia AEK","Ain el ibel","35","m","Brucellose",2024-07-02
+"753",583,"Tahraoui Mostafa","Ain el ibel","28","m","Brucellose",2024-07-02
+"754",584,"Djakal Chaouli","Ain el ibel","28","m","Brucellose",2024-07-08
+"755",585,"Oubah Amara","Ain el ibel","57","m","Brucellose",2024-07-08
+"756",586,"Oubah Med","Ain el ibel","20","m","Brucellose",2024-07-09
+"757",587,"Elechehbi Sofian","Ain el ibel","15","m","Brucellose",2024-07-10
+"758",588,"Oubah Khadra","Ain el ibel","38","f","Brucellose",2024-07-10
+"759",589,"Regaze AEK","Ain el ibel","30","m","Brucellose",2024-07-10
+"760",590,"Salemi Ahmed","Ain el ibel","25","m","Brucellose",2024-07-11
+"761",591,"Meknaze Ahmed","Ain el ibel","66","m","Brucellose",2024-07-11
+"762",592,"Hamada Halima","Ain el ibel","30","f","Brucellose",2024-07-11
+"763",593,"Kasemi Bentorkia","Ain el ibel","39","f","Brucellose",2024-07-11
+"764",594,"Benlabiadh Kheira","Ain el ibel","32","f","Brucellose",2024-07-11
+"765",595,"Selmi Halima","Ain el ibel","32","f","Brucellose",2024-07-11
+"766",596,"Elechehbi Ahmed","Ain el ibel","54","m","Brucellose",2024-07-13
+"767",597,"Abbasi Mebarka","Ain el ibel","64","f","Brucellose",2024-07-13
+"768",598,"Mihoubi Omlkheir","Ain el ibel","21","f","Brucellose",2024-07-13
+"769",599,"Akrout Med","Ain el ibel","32","m","Brucellose",2024-07-13
+"770",600,"Elechehbi Lina","Ain el ibel","11","f","Brucellose",2024-07-14
+"771",601,"Aayat Abdelali","Ain el ibel","6","m","Brucellose",2024-07-20
+"772",602,"Chetouh Fatna","Ain el ibel","37","f","Brucellose",2024-07-21
+"773",603,"Bedirina Ali","Ain el ibel","74","m","Brucellose",2024-07-22
+"774",604,"Takhtarkha Aabir","Ain el ibel","13","f","Brucellose",2024-07-23
+"775",605,"Ghaidjar Kamel","Ain el ibel","7","m","Brucellose",2024-07-23
+"776",606,"Rahmoun Rihan","Ain el ibel","18","f","Brucellose",2024-07-24
+"777",607,"Deouadi Baizid","Ain el ibel","60","m","Brucellose",2024-07-24
+"778",608,"Abbasi Chaima","Ain el ibel","6","f","Brucellose",2024-07-25
+"779",609,"Baghdadou Med","Ain el ibel","29","m","Brucellose",2024-07-25
+"780",610,"Touer Oualid","Ain el ibel","15","m","Brucellose",2024-07-25
+"781",611,"Elechehbi Ali","Ain el ibel","28","m","Brucellose",2024-07-25
+"782",612,"Elechehbi Hadjer","Ain el ibel","26","f","Brucellose",2024-07-25
+"783",613,"Baira Kheira","Ain el ibel","24","f","Brucellose",2024-07-25
+"784",614,"Far Messaouda","Ain el ibel","56","f","Brucellose",2024-07-25
+"785",615,"Baghdadou Kheled","Ain el ibel","16","m","Brucellose",2024-07-25
+"786",616,"Derouiche Chefiai","Ain el ibel","44","f","Brucellose",2024-07-25
+"787",617,"Toumi Karima","Ain el ibel","13","f","Brucellose",2024-07-29
+"788",618,"Toumi Halima","Ain el ibel","106","f","Brucellose",2024-07-29
+"789",619,"Taibi Torkia","Ain el ibel","28","f","Brucellose",2024-07-29
+"790",620,"Meyah Omlkheir","Ain el ibel","21","f","Brucellose",2024-07-29
+"791",621,"Djaiou Saleh","Ain el ibel","25","m","Brucellose",2024-07-29
+"792",622,"Ouricha Amed","Ain el ibel","37","m","Brucellose",2024-07-30
+"793",623,"Rabehi Fatima","Messaad","22","f","Brucellose",2024-08-04
+"794",624,"Toumi Baya","Messaad","27","f","Brucellose",2024-08-04
+"795",625,"Brila Houria","Messaad","6","f","Brucellose",2024-08-06
+"796",626,"Kriouaa Ahmed","Messaad","62","m","Brucellose",2024-08-06
+"797",627,"Bessaoud Zohra","Messaad","22","f","Brucellose",2024-08-08
+"798",628,"Dehman Touati","Messaad","22","m","Brucellose",2024-08-08
+"799",629,"Serrar Hadjira","Messaad","35","f","Brucellose",2024-08-08
+"800",630,"Remadhnia Khaouni","Moudjbara","71","m","Brucellose",2024-08-05
+"801",631,"Ziouache Aicha","Moudjbara","31","f","Brucellose",2024-08-12
+"802",632,"Derkouche Lakhdar","Messaad","41","m","Brucellose",2024-08-11
+"803",633,"Bencheikh Tayeb","Messaad","17","f","Brucellose",2024-08-11
+"804",634,"Oubah Med","Messaad","50","m","Brucellose",2024-08-12
+"805",635,"Touati Aissa","Messaad","29","m","Brucellose",2024-08-13
+"806",636,"Bessaoud Lahrache","Messaad","46","m","Brucellose",2024-08-14
+"807",637,"Benbachir Saida","Messaad","50","f","Brucellose",2024-08-18
+"808",638,"Touati Ishak","Messaad","29","m","Brucellose",2024-08-18
+"809",639,"Bouchendouka Omelkheir","Messaad","46","f","Brucellose",2024-08-19
+"810",640,"Salamat Ahmed","Messaad","56","m","Brucellose",2024-08-19
+"811",641,"Rouabeh Bochra","Moudjbara","30","f","Brucellose",2024-08-01
+"812",642,"Cheriet Zahra","Moudjbara","54","f","Brucellose",2024-08-12
+"813",643,"Gassemi Roguia","Moudjbara","14","f","Brucellose",2024-08-13
+"814",644,"Bounaama Miloud","Moudjbara","32","m","Brucellose",2024-08-21
+"815",645,"Bouzid Meriem","Moudjbara","29","f","Brucellose",2024-08-25
+"816",646,"Hamidi Lakhdar","Moudjbara","30","m","Brucellose",2024-08-26
+"817",647,"Bouzid Ali","Moudjbara","19","m","Brucellose",2024-08-28
+"818",648,"Belkheiri Fatima","Moudjbara","36","f","Brucellose",2024-08-28
+"819",649,"Gueremit Om Eddaher","Moudjbara","51","f","Brucellose",2024-07-04
+"820",650,"Bourasse Tounssi","Taadhmit","18","m","Brucellose",2024-09-09
+"821",651,"Diab Ahmed","Moudjbara","3","m","Brucellose",2024-09-15
+"822",652,"Bakria Saleh","Moudjbara","53","m","Brucellose",2024-08-29
+"823",653,"Mazouz Ali","Ain El Ibel","26","m","Brucellose",2024-09-03
+"824",654,"Toumi Elhadj","Messaad","43","m","Brucellose",2024-09-04
+"825",655,"Mebarki Katoum","Messaad","40","f","Brucellose",2024-09-04
+"826",656,"Dehman Malika","Messaad","18","f","Brucellose",2024-09-24
+"827",657,"Benslilih Marwa","Messaad","17","f","Brucellose",2024-09-09
+"828",658,"Malati Noura","Messaad","15","f","Brucellose",2024-09-10
+"829",659,"Boukofala Belkacem","Messaad","39","m","Brucellose",2024-09-10
+"830",660,"Zian Hanane","Messaad","33","f","Brucellose",2024-09-12
+"831",661,"Haoua Youcef","Messaad","30","m","Brucellose",2024-09-12
+"832",662,"Bouchenak Messaouda","Messaad","49","f","Brucellose",2024-09-15
+"833",663,"Bendjaria Taher","Messaad","56","m","Brucellose",2024-08-21
+"834",664,"Dehman Sara","Messaad","22","f","Brucellose",2024-08-21
+"835",665,"Haoua Mebkhout","Messaad","67","m","Brucellose",2024-08-21
+"836",666,"Bakria Aissa","Messaad","24","m","Brucellose",2024-08-25
+"837",667,"Boumidouna Atra","Messaad","25","f","Brucellose",2024-08-27
+"838",668,"Rahmoun Said","Messaad","67","m","Brucellose",2024-08-29
+"839",669,"Toumi Cherif","Messaad","74","m","Brucellose",2024-09-01
+"840",670,"Toumi Med","Messaad","27","m","Brucellose",2024-09-01
+"841",671,"Houcini Abdelmalek","Messaad","55","m","Brucellose",2024-09-01
+"842",672,"Fakroun AEK","Messaad","66","m","Brucellose",2024-09-03
+"843",673,"Bencheriet Belkacem","Moudjbara","30","m","Brucellose",2024-09-15
+"844",674,"Maameria Ahmed","Moudjbara","45","m","Brucellose",2024-09-02
+"845",675,"Chikhaoui Salim","Moudjbara","15","m","Brucellose",2024-08-29
+"846",676,"Belkheiri Fatna","Moudjbara","36","f","Brucellose",2024-08-28
+"847",677,"Hamidi Lakhdar","Moudjbara","30","m","Brucellose",2024-08-25
+"848",678,"Bouzid Meriem","Moudjbara","29","f","Brucellose",2024-08-25
+"849",679,"Ben houmida Mokhtar","Moudjbara","34","m","Brucellose",2024-08-11
+"850",680,"Bounaama Miloud","Moudjbara","30","m","Brucellose",2024-08-20
+"851",681,"Cheriet Zohra","Moudjbara","54","f","Brucellose",2024-08-12
+"852",682,"Ameri Zohra","Ain el ibel","26","f","Brucellose",2024-09-02
+"853",683,"Zoubir Abdelhadi","Ain el ibel","26","m","Brucellose",2024-09-03
+"854",684,"Chongache Rabiaa","Ain el ibel","20","m","Brucellose",2024-09-04
+"855",685,"Bensaada Belkacem","Ain el ibel","58","m","Brucellose",2024-09-05
+"856",686,"Grinai Belkheir","Ain el ibel","47","m","Brucellose",2024-09-05
+"857",687,"Toual Kamel","Ain el ibel","67","m","Brucellose",2024-09-05
+"858",688,"Far Moukhtar","Ain el ibel","35","m","Brucellose",2024-09-05
+"859",689,"Boudjaaran Thoria","Ain el ibel","64","f","Brucellose",2024-09-05
+"860",690,"Chelikam Messaouda","Ain el ibel","40","f","Brucellose",2024-09-05
+"861",691,"Fartala Fariha","Ain el ibel","36","f","Brucellose",2024-09-08
+"862",692,"Baghdadou Rokia","Ain el ibel","38","f","Brucellose",2024-09-09
+"863",693,"Miyah Noamana","Ain el ibel","52","f","Brucellose",2024-09-10
+"864",694,"Guohiri Med","Ain el ibel","36","m","Brucellose",2024-09-10
+"865",695,"Baghdadou Omlkheir","Ain el ibel","45","f","Brucellose",2024-09-10
+"866",696,"Foudhili Khadidja","Ain el ibel","65","f","Brucellose",2024-09-10
+"867",697,"Baghdadou Ahmed","Ain el ibel","28","m","Brucellose",2024-09-11
+"868",698,"Rinouba Zohra","Ain el ibel","68","f","Brucellose",2024-09-12
+"869",699,"Chikhaoui Saida","Ain el ibel","24","f","Brucellose",2024-09-12
+"870",700,"Halassa Hanan","Ain el ibel","20","f","Brucellose",2024-09-17
+"871",701,"Naami Aouali","Ain el ibel","24","f","Brucellose",2024-09-18
+"872",702,"Oubah Belkacem","Ain el ibel","58","m","Brucellose",2024-09-18
+"873",703,"Touer Djadla","Ain el ibel","83","f","Brucellose",2024-09-19
+"874",704,"Touer Kharfia","Ain el ibel","60","f","Brucellose",2024-09-19
+"875",705,"Guicem Ahmed","Ain el ibel","35","m","Brucellose",2024-09-19
+"876",706,"Hamada Aicha","Ain el ibel","18","f","Brucellose",2024-09-25
+"877",707,"Bengrina Hadjira","Ain el ibel","18","f","Brucellose",2024-09-27
+"878",708,"Kaniche Aissa","Taadhmit","24","m","Brucellose",2024-09-25
+"879",709,"Boubakraoui Said","Taadhmit","19","m","Brucellose",2024-09-25
+"880",710,"Saksak Khadidja","Taadhmit","41","f","Brucellose",2024-09-30
+"881",711,"Reouabeh Mereim","Moudjbara","81","f","Brucellose",2024-09-30
+"882",712,"Omerani Aicha","Zaccar","50","f","Brucellose",2024-09-30
+"883",713,"Karrach Med","Messaad","16","m","Brucellose",2024-10-03
+"884",714,"Kraiouaa Fatna","Messaad","42","f","Brucellose",2024-10-03
+"885",715,"Naami Habib","Messaad","18","m","Brucellose",2024-09-29
+"886",716,"Belkheiri Messaouda","Messaad","54","f","Brucellose",2024-09-24
+"887",717,"Belakhdar Mihoub","Messaad","5","m","Brucellose",2024-09-21
+"888",718,"Assal Amar","Messaad","87","m","Brucellose",2024-09-18
+"889",719,"Touati Zohra","Messaad","52","f","Brucellose",2024-09-18
+"890",720,"Belghaouthi Ahmed","Messaad","18","m","Brucellose",2024-10-14
+"891",721,"Hanafi Brahim","Messaad","29","m","Brucellose",2024-10-13
+"892",722,"Othman Ali","Messaad","18","m","Brucellose",2024-10-13
+"893",723,"Elaid Djohina","Messaad","9","f","Brucellose",2024-10-07
+"894",724,"Toumi Othman","Messaad","10","m","Brucellose",2024-10-07
+"895",725,"Toumi Laabidi","Messaad","50","m","Brucellose",2024-10-07
+"896",726,"Dehmane Messaouda","Messaad","20","f","Brucellose",2024-10-06
+"897",727,"Ben dkim Zohra","Messaad","21","f","Brucellose",2024-10-27
+"898",728,"Dhib Abderrahman","Messaad","20","m","Brucellose",2024-10-27
+"899",729,"Bouzid Zakaria","Messaad","21","m","Brucellose",2024-10-26
+"900",730,"Toumi Achoura","Messaad","54","f","Brucellose",2024-10-24
+"901",731,"toumi Nadjet","Messaad","14","f","Brucellose",2024-10-24
+"902",732,"Roguayague Fatna","Messaad","58","f","Brucellose",2024-10-24
+"903",733,"Ramadhnia Khaouni","Messaad","71","m","Brucellose",2024-10-23
+"904",734,"Ben said Amar","Messaad","43","m","Brucellose",2024-10-17
+"905",735,"Chinoun Messaouda","Taadhmit","50","f","Brucellose",2024-10-23
+"906",736,"Kames Kaouthar","Taadhmit","11","f","Brucellose",2024-10-16
+"907",737,"Chabira Moussa","Taadhmit","21","m","Brucellose",2024-10-03
+"908",738,"Abassi Farah","Taadhmit","14","f","Brucellose",2024-10-03
+"909",739,"Abassi Med Taher","Taadhmit","61","m","Brucellose",2024-10-06
+"910",740,"Abassi Rebiha","Taadhmit","67","f","Brucellose",2024-10-06
+"911",741,"Far Kheira","Taadhmit","40","f","Brucellose",2024-10-17
+"912",742,"Far Khadidja","Taadhmit","27","f","Brucellose",2024-10-17
+"913",743,"Meriniza Fatima","moudjbara","22","f","Brucellose",2024-10-06
+"914",744,"Laamri Fadhila","moudjbara","30","f","Brucellose",2024-10-22
+"915",745,"Djaalab Assali","moudjbara","30","m","Brucellose",2024-08-08
+"916",746,"Tooba Brahim","moudjbara","30","m","Brucellose",2024-08-08
+"917",747,"Lagrab Torkia","moudjbara","19","f","Brucellose",2024-07-14
+"918",748,"Benmessaoud Nesrine","moudjbara","30","f","Brucellose",2024-06-23
+"919",749,"Sadeki Mohamed","moudjbara","19","m","Brucellose",2024-07-03
+"920",750,"Halassa Ahmed","moudjbara","35","m","Brucellose",2024-07-08
+"921",751,"Mekhlouf Haouari Med","moudjbara","30","m","Brucellose",2024-07-04
+"922",752,"Haimida Mokhtar","moudjbara","14","m","Brucellose",2024-07-02
+"923",753,"Lakhneche Fatna","Ain el ibel","72","f","Brucellose",2024-10-06
+"924",754,"Silat Wada","Ain el ibel","26","f","Brucellose",2024-10-16
+"925",755,"Baghdadou Boubakeur","Ain el ibel","30","m","Brucellose",2024-10-03
+"926",756,"Foudhili Ahmed","Ain el ibel","28","m","Brucellose",2024-10-01
+"927",757,"Akrout Omlkheir","Ain el ibel","3","f","Brucellose",2024-10-03
+"928",758,"Foudhili Ghania","Ain el ibel","6","f","Brucellose",2024-10-03
+"929",759,"Saada Rokia","Ain el ibel","89","f","Brucellose",2024-10-03
+"930",760,"Oubah Hadda","Ain el ibel","20","f","Brucellose",2024-10-08
+"931",761,"Djakal Saliha","Ain el ibel","20","f","Brucellose",2024-10-09
+"932",762,"Belkheiri Aicha","Ain el ibel","35","f","Brucellose",2024-10-09
+"933",763,"Zahhar Khadra","Ain el ibel","61","f","Brucellose",2024-10-13
+"934",764,"Bouhamela Kadouma","Ain el ibel","32","f","Brucellose",2024-10-14
+"935",765,"Boudjaarane Zohra","Ain el ibel","99","f","Brucellose",2024-10-15
+"936",766,"Baghdadou Hafssa","Ain el ibel","35","f","Brucellose",2024-10-16
+"937",767,"Kourikar Taheur","Ain el ibel","24","m","Brucellose",2024-10-16
+"938",768,"Nourddine Med","Ain el ibel","51","m","Brucellose",2024-10-16
+"939",769,"Amraoui Boulerbah","Ain el ibel","35","m","Brucellose",2024-10-17
+"940",770,"Farhat Meriem","Ain el ibel","14","f","Brucellose",2024-10-17
+"941",771,"Bedirina Fatna","Ain el ibel","45","f","Brucellose",2024-10-17
+"942",772,"Chetouh El oued","Ain el ibel","38","m","Brucellose",2024-10-20
+"943",773,"Dehmene Omlkheir","Ain el ibel","34","f","Brucellose",2024-10-20
+"944",774,"Bachraoui Barkahom","Ain el ibel","30","f","Brucellose",2024-10-21
+"945",775,"Laribi Kheira","Ain el ibel","6","f","Brucellose",2024-10-21
+"946",776,"Miyah Kheira","Ain el ibel","9","f","Brucellose",2024-10-22
+"947",777,"Foudhili Yacine","Ain el ibel","5","m","Brucellose",2024-10-23
+"948",778,"Benlabiadh Daykha","Ain el ibel","35","f","Brucellose",2024-10-27
+"949",779,"Lechehbi Hadda","Ain el ibel","49","f","Brucellose",2024-10-28
+"950",780,"Doukia Mebarek","Ain el ibel","62","m","Brucellose",2024-10-29
+"951",781,"Themri Abdelkader","Zaccar","34","m","Brucellose",2024-10-15
+"952",782,"Kacemi Fatna","Zaccar","28","f","Brucellose",2024-10-17
+"953",783,"Souisi Med","Messaad","27","m","brucellose",2024-11-13
+"954",784,"Agoun Naima","Messaad","18","f","brucellose",2024-11-11
+"955",785,"Mallati Haouaria","Messaad","5","f","brucellose",2024-11-11
+"956",786,"Derouiche Alaa","Messaad","6","f","brucellose",2024-11-11
+"957",787,"Kouhil Ahmed","Messaad","24","m","brucellose",2024-10-31
+"958",788,"Karrache Mourad","Messaad","18","m","brucellose",2024-10-29
+"959",789,"Hammadi Yahia","Messaad","24","m","Brucellose",2024-12-01
+"960",790,"Merikh Aicha","Messaad","62","f","Brucellose",2024-12-01
+"961",791,"Benkouidar Ayoub","Messaad","27","m","Brucellose",2024-11-28
+"962",792,"Gueroud Fatna","Messaad","43","f","Brucellose",2024-11-28
+"963",793,"Hammadi Ameur","Messaad","37","m","Brucellose",2024-11-25
+"964",794,"Bouchendouka Mohamed","Moudjbara","28","m","Brucellose",2024-11-21
+"965",795,"Toumi Omlkheir","Messaad","13","f","Brucellose",2024-11-17
+"966",796,"Cheddad Radhia","Messaad","4","f","Brucellose",2024-11-17
+"967",797,"Douaba Ibrahim","Messaad","20","m","Brucellose",2024-12-17
+"968",798,"Baghdadou Laghouini","Ain El Ibel","70","m","Brucellose",2024-11-03
+"969",799,"Saih Hadda","Ain El Ibel","31","f","Brucellose",2024-11-03
+"970",800,"Lachehbi Med","Ain El Ibel","10","m","Brucellose",2024-11-04
+"971",801,"Bourzegue Ziane","Ain El Ibel","56","m","Brucellose",2024-11-06
+"972",802,"Boudjaarane Ahmed","Ain El Ibel","21","m","Brucellose",2024-11-06
+"973",803,"Mihoubi Beladjdel","Ain El Ibel","53","m","Brucellose",2024-11-06
+"974",804,"Eloued Kheira","Ain El Ibel","45","f","Brucellose",2024-11-06
+"975",805,"Salmi Rahma","Ain El Ibel","30","f","Brucellose",2024-11-06
+"976",806,"Tahri Loudjane","Ain El Ibel","6","f","Brucellose",2024-11-10
+"977",807,"Naimi Amar","Ain El Ibel","20","m","Brucellose",2024-11-11
+"978",808,"Tahri Loudjane","Ain El Ibel","11","f","Brucellose",2024-11-11
+"979",809,"Baghdadou Brahim","Ain El Ibel","10","m","Brucellose",2024-11-12
+"980",810,"Tahri Messaoud","Ain El Ibel","54","m","Brucellose",2024-11-12
+"981",811,"Giudjar Aymen","Ain El Ibel","14","m","Brucellose",2024-11-13
+"982",812,"Amraoui Fatna","Ain El Ibel","45","f","Brucellose",2024-11-18
+"983",813,"Chenguach Saih","Ain El Ibel","50","m","Brucellose",2024-11-19
+"984",814,"Taheri Mohamed","Ain El Ibel","90","m","Brucellose",2024-11-19
+"985",815,"Saadi Amdjad","Ain El Ibel","5","m","Brucellose",2024-11-19
+"986",816,"Brighith henia","Ain El Ibel","47","f","Brucellose",2024-11-20
+"987",817,"Farnana Fatna","Ain El Ibel","85","f","Brucellose",2024-11-20
+"988",818,"Biedi Zohra","Ain El Ibel","39","f","Brucellose",2024-11-21
+"989",819,"Hamada Zouina","Ain El Ibel","28","f","Brucellose",2024-11-21
+"990",820,"Fodhili Ahmed","Ain El Ibel","29","m","Brucellose",2024-11-24
+"991",821,"Ghaidjar Aissa","Ain El Ibel","28","m","Brucellose",2024-11-25
+"992",822,"Toual Abdo","Ain El Ibel","23","m","Brucellose",2024-11-26
+"993",823,"Oubah Donia","Ain El Ibel","41","f","Brucellose",2024-11-26
+"994",824,"Rahmoun Habara","Ain El Ibel","60","f","Brucellose",2024-11-27
+"995",825,"Chelikam Safi","Ain El Ibel","37","m","Brucellose",2024-11-27
+"996",826,"Oubah Ahmed","Messaad","79","m","Brucellose",2024-12-13
+"997",827,"Gueroud Nadji","Messaad","18","m","Brucellose",2024-12-22
+"998",828,"Laayadhi Nadir","Messaad","52","m","Brucellose",2024-12-17
+"999",829,"Benhouria Mira","Messaad","21","f","Brucellose",2024-12-10
+"1000",830,"Malati Berira","Messaad","65","f","Brucellose",2024-12-09
+"1001",831,"Belekhdar Omlkheir","Messaad","36","f","Brucellose",2024-12-09
+"1002",832,"Bouchnak Kheira","Messaad","47","f","Brucellose",2024-12-05
+"1003",833,"Zitout Soltana","Messaad","68","f","Brucellose",2024-12-04
+"1004",11,"oamor ramdhan","Messaad","27","m","rougeole",2024-01-02
+"1005",32,"ghoula loueai","Messaad","5","m","rougeole",2024-02-03
+"1006",17,"belmadani saber","Messaad","0","m","méningite",2024-04-13
+"1007",1,"Far Nour","messaad","0","f","Meningite",2024-06-10
+"1008",8,"Lachehbi Mohamed","Ain el ibel","25","m","Meningite",2024-10-16
+"1009",1,"Bennadji Ikram","Messaad","0","f","Coqueluche",2024-08-20
+"1010",2,"Ben hadda Med","Messaad","0","m","Coqueluche",2024-08-21
+"1011",3,"Toumi Zohra","Messaad","0","f","Coqueluche",2024-08-21
+"1012",4,"Bensouisi Meriem","Messaad","0","f","Coqueluche",2024-08-28
+"1013",5,"Tahah Khaled","Messaad","0","m","Coqueluche",2024-08-21
+"1014",6,"Remadhenia AEK","Messaad","0","m","Coqueluche",2024-09-10
+"1015",7,"Beroumane Abderrahmane","Messaad","0","m","Coqueluche",2024-09-22
+"1016",8,"Benmouafki Rokia","Messaad","0","f","Coqueluche",2024-09-19
+"1017",9,"Halbaoui Khadidja","Messaad","0","f","Coqueluche",2024-09-26
+"1018",10,"Messaoudi Fatima","Messaad","0","f","Coqueluche",2024-09-29
+"1019",11,"Benghaouthi Fatima Zohra","Messaad","0","f","Cogueluche",2024-10-01
+"1020",12,"Dacher Koussai","Messaad","0","m","Coqueluche",2024-10-16
+"1021",13,"Sofrani Ilias","Messaad","0","m","Coqueluche",2024-10-16
+"1022",14,"Messaoudi Zakaria","Messaad","0","m","Coqueluche",2024-10-16

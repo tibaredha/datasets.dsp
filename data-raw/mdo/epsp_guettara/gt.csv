@@ -1,0 +1,1784 @@
+"N","NOM.PRENOM","COMMUNE","AGE","SEXE","PATHOLOGIE","DATE"
+1,"rida ali","selmana",28,"m","brucellose",2018-12-27
+2,"dahmen amer","selmana",52,"m","brucellose",2018-12-26
+3,"saadi fatima ","sedrahal",16,"f","brucellose",2019-01-10
+4,"saadi aicha","sedrahal",32,"f","brucellose",2019-01-10
+5,"benbrahim ahmed","selmana",30,"m","brucellose",2019-01-13
+6,"djaballah saadia","feb",30,"F","brucellose",2018-12-02
+7,"rahmoune nadji","feb",18,"m","brucellose",2018-12-19
+8,"kennay  mansour","sedrahal",47,"m","brucellose",2019-01-15
+9,"akrout aamer","deldoul",31,"m","brucellose",2019-01-20
+10,"saoudi  hadda","sedrahal",32,"f","brucellose",2019-01-23
+11,"djaide ben yatou","sedrahal",38,"m","brucellose",2019-01-23
+12,"lahoual aamar","feb",26,"m","brucellose",2019-01-22
+13,"belghaouthi messaoud /ouad","salmana",42,"m","brucellose",2019-02-10
+14,"alaoua meftah dahmane","oumlaadam",18,"m","brucellose",2019-02-10
+15,"malati lakhdar ahmed","salmana",24,"m","brucellose",2019-02-10
+16,"haouari omar abk","salmana",15,"m","brucellose",2019-02-10
+17,"djaid mostapha","sedrehal",33,"m","brucellose",2019-01-29
+18,"djaid farah","sedrehal",9,"f","brucellose",2019-02-03
+19,"kerracha ahlem","salmana",9,"f","brucellose",2019-02-04
+20,"djaid bouta","sedrehal",52,"f","brucellose",2019-02-03
+21,"touati  lakhder","salmana",19,"m","brucellose",2019-02-18
+22,"saoudi kouider","sedrahal",52,"m","brucellose",2019-06-06
+23,"rezazga amra","guettara",60,"f","brucellose",2019-06-03
+24,"benacer elalmi","guettara",36,"m","brucellose",2019-06-03
+25,"souaid  said","feb",30,"m","brucellose",2019-02-11
+26,"benzayane djamila","feb",19,"f","brucellose",2019-02-11
+27,"benyoucef ahmed rayene","feb",5,"m","brucellose",2019-05-02
+28,"benyoucef brahim","feb",30,"m","brucellose",2019-05-06
+29,"benyoucef hassane","feb",15,"m","brucellose",2019-05-06
+30,"benyoucef aya sendosse","feb",17,"f","brucellose",2019-05-02
+31,"rabhi ali","feb",16,"m","brucellose",2019-05-06
+32,"rahmoune mustapha","feb",56,"m","brucellose",2019-05-02
+33,"rekiaa thameur","amourah",35,"m","brucellose",2019-04-28
+34,"hanafi ramlia","feb",29,"f","brucellose",2019-05-07
+35,"madjaba ali","feb",17,"m","brucellose",2019-05-02
+36,"naouari med","deldoul",59,"m","brucellose",2019-06-06
+37,"djedoual youcef","sedrahal",15,"m","brucellose",2019-03-10
+38,"hamidi el hachemi","sedrahal",22,"m","brucellose",2019-03-12
+39,"messaoudi ahmed","selmana",71,"m","brucellose",2019-04-03
+40,"regueia abdelkader","amourah",18,"f","brucellose",2019-04-02
+41,"naoum saad","feb",45,"m","brucellose",2019-04-01
+42,"mouafek ahmed","feb",20,"m","brucellose",2019-03-27
+43,"okacha djmaleddine","feb",17,"m","brucellose",2019-03-27
+44,"ben houria djamal","selmana",22,"m","brucellose",2019-04-01
+45,"mehamdi messaouda","selmana",36,"f","brucellose",2019-03-18
+46,"dahmane touati","selmana",41,"m","brucellose",2019-03-16
+47,"fatma dacher","selmana",7,"f","brucellose",2019-03-21
+48,"djilani nedjma","selmana",5,"f","brucellose",2019-03-21
+49,"kerache amani","selmana",5,"f","brucellose",2019-04-18
+50,"chettouh med","guettara",80,"m","brucellose",2019-06-02
+51,"souilah aida","feb",37,"f","brucellose",2019-04-22
+52,"lakehal fatna","selmana",40,"f","brucellose",2019-05-08
+53,"houari oumelkhir","selmana",82,"f","brucellose",2019-02-25
+54,"benzerguine abderahmana","selmana",26,"m","brucellose",2019-02-26
+55,"othmane saida","deldoul",8,"f","brucellose",2019-03-18
+56,"rouina mechria","feb",28,"f","brucellose",2019-04-28
+57,"rouina abdelaziz","feb",21,"m","brucellose",2019-04-22
+58,"benchiba mebarka","feb",86,"f","brucellose",2019-04-28
+59,"rekiet morad","selmana",15,"m","brucellose",2019-04-22
+60,"gourida selimane","selmana",5,"m","brucellose",2019-05-04
+61,"rebih oumhani","selmana",28,"f","brucellose",2019-04-01
+62,"agoune lembarek","oumlaadam",18,"m","brucellose",2019-05-04
+63,"krioua saleh","selmana",44,"m","brucellose",2019-04-29
+64,"benbrahim djebria","feb",42,"f","brucellose",2019-04-30
+65,"helis saaida","selmana",34,"m","brucellose",2019-04-05
+66,"tahiri ileyes","selmana",15,"m","brucellose",2019-03-28
+67,"tamri sadek","selmana",7,"m","brucellose",2019-03-28
+68,"djeloul rekia ","sedrahal",46,"f","brucellose",2019-03-22
+69,"dahmen amer ","selmana",43,"m","brucellose",2019-03-27
+70,"alaoua mostapha","selmana",5,"m","brucellose",2019-03-25
+71,"alaoua mohamed","selmana",7,"m","brucellose",2019-03-25
+72,"belkheiri khadra","guettara",18,"f","brucellose",2019-03-24
+73,"hannafi othmane","feb",4,"m","brucellose",2019-03-13
+74,"benbrahim abdellah","feb",53,"m","brucellose",2019-03-07
+75,"mouafak saad","feb",37,"m","brucellose",2019-02-26
+76,"derouich mariya","selmana",26,"f","brucellose",2019-05-05
+77,"naami kheira","oumlaadam",30,"f","brucellose",2019-05-06
+78,"tahiri med","selmana",16,"m","brucellose",2019-05-07
+79,"boukofala ali","deldoul",18,"m","brucellose",2019-05-06
+80,"rida aissa","selmana",59,"m","brucellose",2019-05-08
+81,"gouisem oumelkhir","guettara",55,"f","brucellose",2019-05-21
+82,"bourchi khadidja","guettara",30,"f","brucellose",2019-05-22
+83,"hassani lakhdar","sedrahel",46,"m","brucellose",2019-05-07
+84,"zerig med","sedrahel",18,"m","brucellose",2019-05-07
+85,"soltani elhadj","sedrahel",21,"m","brucellose",2019-05-21
+86,"djeaid ali","sedrahel",27,"m","brucellose",2019-05-15
+87,"abdelouaheb fatima","guettara",30,"f","brucellose",2019-05-15
+88,"douaba halima","guettara",65,"f","brucellose",2019-05-01
+89,"benyoucef anouar","feb",25,"m","brucellose",2019-04-23
+90,"benkoamez khadra","feb",46,"f","brucellose",2019-04-16
+91,"gueroud med","guettara",30,"M","brucellose",2019-04-16
+92,"keribaa med","guettara",5,"m","brucellose",2019-04-21
+93,"keribaa belkhir","guettara",3,"m","brucellose",2019-04-21
+94,"redouane ahmed","guettara",70,"m","brucellose",2019-04-11
+95,"bouchendouha taher","guettara",21,"m","brucellose",2019-04-10
+96,"kahoul khadra","guettara",25,"f","brucellose",2019-04-07
+97,"kourida makhlouf","guettara",28,"m","brucellose",2019-04-07
+98,"naoum lakhdar","feb",30,"m","brucellose",2019-02-25
+99,"fatima aadjimi","selmana",23,"f","brucellose",2019-01-31
+100,"keriche messaoud","selmana",39,"m","brucellose",2019-02-18
+101,"lakehal hadda","selmana",45,"f","brucellose",2019-02-18
+102,"akrout miiloud","selmana",40,"m","brucellose",2019-02-19
+103,"dahmane ahmed","selmana",57,"m","brucellose",2019-02-21
+104,"mostapha chaib","sedrahel",20,"m","brucellose",2019-02-27
+105,"benbrahim ahmed","selmana",35,"m","brucellose",2019-03-10
+106,"moifak farhat","feb",30,"m","brucellose",2019-02-27
+107,"rabhi benalia","feb",32,"m","brucellose",2019-02-28
+108,"benabdessalem zeineb","feb",16,"f","brucellose",2019-03-04
+109,"guessmia walid","selmana",22,"m","brucellose",2019-02-11
+110,"heliss djaloul","selmana",17,"m","brucellose",2019-02-25
+111,"djaid oumelkhir","selmana",32,"f","brucellose",2019-02-12
+112,"brahimi mustapha","selmana",21,"m","brucellose",2019-02-12
+113,"guene boubaker","selmana",52,"m","brucellose",2019-02-12
+114,"khedira aicha","sedrahel",50,"f","brucellose",2019-02-11
+115,"deliouah med","sedrahel",35,"m","brucellose",2019-02-10
+116,"djaid tarek","sedrahel",5,"m","brucellose",2019-01-31
+117,"djaid israa","guettara",7,"f","brucellose",2019-02-03
+118,"hamadi maatalaa","guettara",29,"m","brucellose",2019-02-07
+119,"kerrach sadane","feb",8,"m","brucellose",2019-02-09
+120,"kerrach saida","feb",25,"f","brucellose",2019-01-31
+121,"rahmoune lamine","guettara",22,"m","brucellose",2019-03-24
+122,"mouafek ali","guettara",25,"m","brucellose",2019-04-01
+123,"chalali meryem","guettara",52,"f","brucellose",2019-04-21
+124,"moifak farhat","feb",30,"m","brucellose",2019-02-27
+125,"rabhi benalia","feb",32,"m","brucellose",2019-02-28
+126,"benabdessalem zeineb","feb",16,"f","brucellose",2019-03-04
+127,"guessmia walid","selmana",22,"m","brucellose",2019-02-11
+128,"heliss djaloul","selmana",17,"m","brucellose",2019-02-25
+129,"djaid oumelkhir","selmana",32,"f","brucellose",2019-02-12
+130,"brahimi mustapha","selmana",21,"m","brucellose",2019-02-12
+131,"guene boubaker","selmana",52,"m","brucellose",2019-02-12
+132,"khedira aicha","sedrahel",50,"f","brucellose",2019-02-11
+133,"deliouah med","sedrahel",35,"m","brucellose",2019-02-10
+134,"djaid tarek","sedrahel",5,"m","brucellose",2019-01-31
+135,"djaid israa","guettara",7,"f","brucellose",2019-02-03
+136,"hamadi maatalaa","guettara",29,"m","brucellose",2019-02-07
+137,"kerrach sadane","feb",8,"m","brucellose",2019-02-09
+138,"kerrach saida","feb",25,"f","brucellose",2019-01-31
+139,"rahmoune lamine","guettara",22,"m","brucellose",2019-03-24
+140,"mouafek ali","guettara",25,"m","brucellose",2019-04-01
+141,"chalali meryem","guettara",52,"f","brucellose",2019-04-21
+142,"benbrahim moussa","selmana",29,"m","brucellose",2019-06-09
+143,"souiah mohamed","sedrahel",24,"m","brucellose",2019-06-19
+144,"ali dellass","guettara",58,"m","brucellose",2019-06-10
+145,"remaitha rabeh","deldoul",14,"m","brucellose",2019-05-19
+146,"benkhelif dalila","feb",41,"f","brucellose",2019-03-10
+147,"mouafak mebarka","feb",18,"f","brucellose",2019-03-31
+148,"kaihoul nourreddine","feb",34,"m","brucellose",2019-03-07
+149,"amara mohamed","feb",70,"m","brucellose",2019-02-11
+150,"hanafi faiza","feb",21,"f","brucellose",2019-03-31
+151,"benmaamar ahmed","feb",30,"m","brucellose",2019-03-10
+152,"mouafak mohamed","feb",12,"m","brucellose",2019-03-28
+153,"houari med","guettara",34,"m","brucellose",2019-06-25
+154,"attalah mohamed","feb",6,"m","brucellose",2019-03-12
+155,"benchriat khadija","feb",28,"f","brucellose",2019-06-16
+156,"fatima lakehal","selmana",6,"f","brucellose",2019-06-19
+157,"saadi fatima","sedrahel",28,"f","brucellose",2019-06-12
+158,"tahiri elzohra","guettara",24,"f","brucellose",2019-06-25
+159,"khelifa kheira","guettara",29,"f","brucellose",2019-06-19
+160,"bachiri saliha","guettara",29,"f","brucellose",2019-06-16
+161,"bengouamez aicha","feb",19,"f","brucellose",2019-07-21
+162,"derkouche remas","feb",7,"f","brucellose",2019-07-20
+163,"naoui yamina","feb",27,"f","brucellose",2019-07-18
+164,"malki ayoub","feb",15,"m","brucellose",2019-07-18
+165,"bengoumez nacer","feb",63,"m","brucellose",2019-07-17
+166,"bengumez oumlkheir","feb",20,"f","brucellose",2019-07-21
+167,"bengoumez khoula","feb",15,"m","brucellose",2019-07-21
+168,"bensalem abdelrahman","feb",52,"m","brucellose",2019-07-22
+169,"halfaya bachir","feb",46,"m","brucellose",2019-07-21
+170,"belkhir fatoum","deldoul",65,"f","brucellose",2019-06-23
+171,"djeklil mebrouk","deldoul",50,"m","brucellose",2019-06-29
+172,"naouari aicha","deldoul",7,"f","brucellose",2019-07-02
+173,"kouidri ali","feb",30,"m","brucellose",2019-07-23
+174,"korichi said","feb",27,"m","brucellose",2019-07-23
+175,"mehamdi brahim","guettara",25,"m","brucellose",2019-07-31
+176,"houari madani","guettara",31,"m","brucellose",2019-07-22
+177,"remadnia tahar","guettara",44,"m","brucellose",2019-07-04
+178,"reouane ziane","guettara",44,"m","brucellose",2019-07-10
+179,"reouane zohra","guettara",34,"f","brucellose",2019-07-10
+180,"benacer abderahim","guettara",4,"m","brucellose",2019-07-04
+181,"zergaouina zeineb","guettara",50,"f","brucellose",2019-07-03
+182,"bengouamez fatna","feb",30,"f","brucellose",2019-08-01
+183,"souaid aicha","feb",12,"f","brucellose",2019-08-03
+184,"belabbas messaouda","feb",33,"f","brucellose",2019-08-01
+185,"hanafi yamna","feb",30,"f","brucellose",2019-08-04
+186,"benahmed amer","feb",28,"m","brucellose",2019-07-23
+187,"halfaia med","feb",14,"m","brucellose",2019-08-03
+188,"gharbi  henichi","feb",57,"m","brucellose",2019-08-05
+189,"benkoamez basma","feb",11,"f","brucellose",2019-08-04
+190,"hanafi souria","feb",26,"f","brucellose",2019-08-18
+191,"lakrab mbarka","feb",14,"f","brucellose",2019-08-14
+192,"lakrab kadour","feb",38,"m","brucellose",2019-08-14
+193,"bouhali khadra","feb",15,"f","brucellose",2019-08-07
+194,"mazouzi mbarka","feb",80,"f","brucellose",2019-08-01
+195,"bessoud soumia","feb",28,"f","brucellose",2019-07-20
+196,"taybi tayeb","feb",26,"m","brucellose",2019-08-18
+197,"thameri mohamed","feb",30,"m","brucellose",2019-08-13
+198,"benabdelhafid mohamed","feb",38,"m","brucellose",2019-08-19
+199,"hamdi ali","feb",30,"M","brucellose",2019-08-20
+200,"redouane dehikel","guettara",41,"m","brucellose",2019-08-20
+201,"redouane messaouda","guettara",26,"f","brucellose",2019-08-20
+202,"houari safia","guettara",60,"f","brucellose",2019-08-08
+203,"halfaia fatima","guettara",11,"f","brucellose",2019-07-30
+204,"benchaiba elhaydja","feb",49,"f","brucellose",2019-07-28
+205,"bengouamez messaouda","feb",35,"f","brucellose",2019-07-28
+206,"rida fatima","selmana",53,"f","brucellose",2019-10-02
+207,"tahiri khaouela","selmana",20,"f","brucellose",2019-10-02
+1,"omrane omrane","deldoul",37,"m","brucellose",2020-04-01
+2,"boudisa isshak","feb",4,"m","brucellose",2020-04-01
+3,"boudissa naima","feb",38,"f","brucellose",2020-04-01
+4,"dahmane aicha","guettara",55,"f","brucellose",2020-04-01
+5,"toumi khadra","selmana",40,"f","brucellose",2020-04-01
+6,"ghorab belkheir","sedrahal",56,"m","brucellose",2020-04-01
+7,"saadi laaid","sedrahal",23,"m","brucellose",2020-04-01
+8,"bengoumez souhila","feb",46,"f","brucellose",2020-04-01
+9,"hamida abdelbaki","feb",31,"m","brucellose",2020-04-01
+10,"thamri mohamed","feb",30,"m","brucellose",2020-04-01
+11,"ben maamar ahmed","feb",86,"m","brucellose",2020-04-01
+12,"borchi khadidja","guettara",30,"f","brucellose",2020-04-01
+13,"derradji lakhdar","guettara",49,"m","brucellose",2020-04-01
+14,"thamri nacira","feb",27,"f","brucellose",2020-04-01
+15,"rouina mechri","feb",27,"m","brucellose",2020-04-01
+16,"manawia ziane","feb",26,"m","brucellose",2020-04-02
+17,"salhi belkacem","selmana",58,"m","brucellose",2020-04-02
+18,"tahiri halima","selmana",19,"f","brucellose",2020-04-02
+19,"dahmane taher","guettara",20,"m","brucellose",2020-04-02
+20,"hathat hadda","selmana",72,"f","brucellose",2020-04-02
+21,"djaiou nakhla","deldoul",38,"f","brucellose",2020-04-02
+22,"bennacer ahmed","guettara",29,"m","brucellose",2020-04-02
+23,"abidi rebiha","selmana",42,"f","brucellose",2020-04-02
+24,"daoudi boulerbah","guettara",30,"m","brucellose",2020-04-02
+25,"hamadi messaoud","sedrahal",65,"m","brucellose",2020-04-02
+26,"ghorab mohamed","sedrahal",18,"m","brucellose",2020-04-02
+27,"ghedira kheira","sedrahal",65,"f","brucellose",2020-04-02
+28,"ghorab belkheir","sedrahal",17,"m","brucellose",2020-04-02
+29,"ghorab salem","sedrahal",39,"m","brucellose",2020-04-03
+30,"beaissa abbas","sedrahal",22,"m","brucellose",2020-04-03
+31,"charef kamal","sedrahal",21,"m","brucellose",2020-04-03
+32,"ghorab hmaida","sedrahal",10,"m","brucellose",2020-04-03
+33,"ghorab aicha","sedrahal",30,"f","brucellose",2020-04-03
+34,"naoui ahmed","sedrahal",41,"m","brucellose",2020-04-03
+35,"ghorab saad","sedrahal",32,"m","brucellose",2020-04-03
+36,"mimoune bachir","guettara",8,"m","brucellose",2020-04-03
+37,"mimoune saih","guettara",52,"m","brucellose",2020-04-03
+38,"laiche belkacem","feb",54,"m","brucellose",2020-04-03
+39,"barchi mohamed","selmana",61,"m","brucellose",2020-04-03
+40,"barchi fatoum","selmana",22,"f","brucellose",2020-04-03
+41,"borchi fatna","selmana",45,"f","brucellose",2020-04-03
+42,"borchi khadidja","selmana",41,"f","brucellose",2020-04-03
+43,"mimoune messoud","guettara",51,"m","brucellose",2020-04-04
+44,"ghorab ahmad","sedrahal",4,"m","brucellose",2020-04-04
+45,"barchi abdelhamid","guettara",35,"m","brucellose",2020-04-04
+46,"baha mohamed","selmana",26,"m","brucellose",2020-04-04
+47,"remadnia dahmane","guettara",30,"m","brucellose",2020-04-04
+48,"mimoune abdellah","guettara",14,"m","brucellose",2020-04-04
+49,"sayah nwar","feb",19,"m","brucellose",2020-04-04
+50,"khaldi zineb","feb",46,"f","brucellose",2020-04-04
+51,"remadnia tayeb","selmana",20,"m","brucellose",2020-04-04
+52,"abdelhafidh med","feb",48,"m","brucellose",2020-04-04
+53,"laiche sadek","feb",28,"m","brucellose",2020-04-04
+54,"abikchi zineb","selmana",62,"f","brucellose",2020-04-05
+55,"chetouh med","selmana",11,"m","brucellose",2020-04-05
+56,"nail hadda","omlaadam",6,"f","brucellose",2020-04-05
+57,"ghedira sabkhaoui","sedrahal",27,"m","brucellose",2020-04-05
+58,"borchi youcef","guettara",30,"m","brucellose",2020-04-05
+59,"zourigue fatna","sedrahal",58,"f","brucellose",2020-04-05
+60,"elhani saad","feb",26,"m","brucellose",2020-04-05
+61,"hamidi meriem","sedrahal",40,"f","brucellose",2020-04-05
+62,"kenai med","sedrahal",19,"m","brucellose",2020-04-05
+63,"abbas badreddine","sedrahal",4,"m","brucellose",2020-04-05
+64,"derbak rebiaa","selmana",24,"f","brucellose",2020-04-05
+65,"remadhnia med","guettara",60,"m","brucellose",2020-04-05
+66,"rebih boubakar","selmana",11,"m","brucellose",2020-04-06
+67,"djaaidir hafsa","selmana",2,"f","brucellose",2020-04-06
+68,"kadraoui roubih","selmana",1,"m","brucellose",2020-04-06
+69,"kerache belkacem","selmana",2,"m","brucellose",2020-04-06
+70,"mimoune hessen","selmana",40,"m","brucellose",2020-04-06
+71,"regueig mokhtar","selmana",63,"m","brucellose",2020-04-06
+72,"balli aicha","selmana",25,"f","brucellose",2020-04-06
+73,"largat mabrouk","selmana",10,"m","brucellose",2020-04-06
+74,"bessaoud hadda","guettara",30,"f","brucellose",2020-04-06
+75,"nadjem khaled","selmana",12,"m","brucellose",2020-04-06
+76,"rida tayeb","guettara",25,"m","brucellose",2020-04-06
+77,"reguieg saad","selmana",51,"m","brucellose",2020-04-06
+78,"mellati kriouaa","selmana",64,"m","brucellose",2020-04-06
+79,"nouri derar","selmana",26,"m","brucellose",2020-04-06
+80,"touati omelkheir","selmana",52,"f","brucellose",2020-04-07
+81,"djaidir sofiane","selmana",33,"m","brucellose",2020-04-07
+82,"benghowt khawla","omlaadam",9,"f","brucellose",2020-04-07
+83,"mimoune zakhroufa","guettara",46,"f","brucellose",2020-04-07
+84,"benhouthi fadila","omlaadam",2,"f","brucellose",2020-04-07
+85,"merriss fatoum","selmana",22,"f","brucellose",2020-04-07
+86,"remadnia cherifa","guettara",22,"f","brucellose",2020-04-07
+87,"remadnia taher","guettara",65,"m","brucellose",2020-04-07
+88,"remadnia sadam","guettara",26,"m","brucellose",2020-04-07
+89,"remadnia walid","guettara",7,"m","brucellose",2020-04-07
+90,"remadnia wahiba","guettara",4,"f","brucellose",2020-04-07
+91,"chetouh remdane","guettara",23,"m","brucellose",2020-04-07
+92,"aribi fatna","selmana",27,"f","brucellose",2020-04-07
+93,"djaidir saadia","selmana",18,"f","brucellose",2020-04-07
+94,"ghraiab kheira","feb",29,"f","brucellose",2020-04-08
+95,"chikhaoui messaoud","deldoul",12,"m","brucellose",2020-04-08
+96,"melki noredine","selmana",22,"m","brucellose",2020-04-08
+97,"melki ibrahim","selmana",18,"m","brucellose",2020-04-08
+98,"tahiri ibrahim","selmana",58,"m","brucellose",2020-04-08
+99,"toual aek","selmana",20,"m","brucellose",2020-04-08
+100,"mebarki fatna","selmana",39,"f","brucellose",2020-04-08
+101,"benhamida kheira","feb",96,"f","brucellose",2020-04-08
+102,"berbak fatiha","selmana",13,"f","brucellose",2020-04-08
+103,"derbak aissa","selmana",29,"m","brucellose",2020-04-08
+104,"amara saad","feb",63,"m","brucellose",2020-04-08
+105,"naail ali","feb",14,"m","brucellose",2020-04-08
+106,"lagrab moloud","feb",21,"m","brucellose",2020-04-08
+107,"laiche zebda","feb",56,"f","brucellose",2020-04-08
+108,"hebchi yamina","feb",60,"f","brucellose",2020-04-09
+109,"hamaida fatiha","feb",54,"f","brucellose",2020-04-09
+110,"hamrouche youcef","sedrahal",36,"m","brucellose",2020-04-09
+111,"kenai ahmed","sedrahal",11,"m","brucellose",2020-04-09
+112,"kenai ismail","sedrahal",26,"m","brucellose",2020-04-09
+113,"madani ben ali","sedrahal",35,"m","brucellose",2020-04-09
+114,"abbas omelkheir","sedrahal",20,"f","brucellose",2020-04-09
+115,"gourzou ali","sedrahal",17,"m","brucellose",2020-04-09
+116,"saadi thamer","sedrahal",9,"m","brucellose",2020-04-09
+117,"saadi belkacem","sedrahal",19,"m","brucellose",2020-04-09
+118,"chaaib saaida","sedrahal",66,"f","brucellose",2020-04-09
+119,"hamrouche thamer","sedrahal",30,"m","brucellose",2020-04-09
+120,"guelila mohamed","sedrahal",24,"m","brucellose",2020-04-10
+121,"cheniba brahim","sedrahal",34,"m","brucellose",2020-04-10
+122,"cheniba aek","sedrahal",34,"m","brucellose",2020-04-10
+123,"ghorab bachir","sedrahal",46,"m","brucellose",2020-04-10
+124,"mimoune fatna","guettara",20,"f","brucellose",2020-04-10
+125,"touil zohra","selmana",40,"f","brucellose",2020-04-11
+126,"belghouthi khelifa","omlaadam",25,"f","brucellose",2020-04-11
+127,"baghdadi amer","selmana",23,"m","brucellose",2020-04-11
+128,"foudili amar","selmana",35,"m","brucellose",2020-04-11
+129,"zine messaouda","selmana",36,"f","brucellose",2020-04-11
+130,"chaib sayeh","sedrahal",65,"m","brucellose",2020-04-11
+131,"kedira messaouda","sedrahal",58,"f","brucellose",2020-04-12
+132,"kenai ibrahim","sedrahal",15,"m","brucellose",2020-04-12
+133,"chaib mohamed","sedrahal",32,"m","brucellose",2020-04-12
+134,"louaagab younes","omlaadam",14,"m","brucellose",2020-03-29
+135,"ben sedira mohamed","amourah",32,"m","brucellose",2020-04-19
+136,"laguereb salem","feb",29,"m","brucellose",2020-04-15
+137,"ben tounssi rahma","feb",30,"F","brucellose",2020-04-19
+138,"nouidjem messouda","feb",30,"f","brucellose",2020-04-14
+139,"nouidjem maria","feb",6,"f","brucellose",2020-04-17
+140,"zerougue mohamed","feb",54,"m","brucellose",2020-04-19
+141,"cheriat zahra","feb",5,"f","brucellose",2020-04-12
+142,"gherbi hocine","feb",16,"m","brucellose",2020-04-18
+143,"leguerad mohamed","feb",21,"m","brucellose",2020-04-13
+144,"legrab mebarek","feb",80,"m","brucellose",2020-04-23
+145,"benkounissa kheira","feb",44,"f","brucellose",2020-04-26
+146,"bakria aamer","selmana",28,"m","brucellose",2020-04-13
+147,"bensaaid saaid","selmana",66,"m","brucellose",2020-04-16
+148,"kerrach mohamed","selmana",18,"m","brucellose",2020-04-16
+149,"rabhi fatma","feb",22,"f","brucellose",2020-04-16
+150,"touati omelkheir","selmana",40,"f","brucellose",2020-04-19
+151,"meraisse khelifa","selmana",50,"m","brucellose",2020-04-19
+152,"legreb yamina","feb",27,"f","brucellose",2020-04-19
+153,"legreb ouail","feb",4,"m","brucellose",2020-04-20
+154,"mellati khadra","selmana",40,"f","brucellose",2020-04-20
+155,"regueig elhora","feb",47,"f","brucellose",2020-04-23
+156,"chetouhm mohamed","guettara",30,"m","brucellose",2020-04-30
+157,"ben hadda bolerbah","guettara",30,"m","brucellose",2020-04-30
+158,"chetouh ramdan","guettara",35,"m","brucellose",2020-04-30
+159,"brahimi mohamed","guettara",47,"m","brucellose",2020-04-30
+160,"chetouh wessal","guettara",11,"f","brucellose",2020-04-26
+161,"mimoun aymen","guettara",8,"m","brucellose",2020-05-03
+162,"bengouemez belkacem","amourah",32,"m","brucellose",2020-05-03
+163,"djedaoui aek","selmana",33,"m","brucellose",2020-05-03
+164,"bentayeb brahim","feb",24,"m","brucellose",2020-05-04
+165,"elbay hadda","feb",30,"f","brucellose",2020-05-04
+166,"cherif aek","feb",30,"m","brucellose",2020-05-04
+167,"laiche rebiha","feb",85,"f","brucellose",2020-05-04
+168,"hachani abdelrahmane","feb",19,"m","brucellose",2020-05-04
+169,"bengouemez abdelatif","amourah",27,"m","brucellose",2020-05-04
+170,"dahmen zineb","selmana",8,"f","brucellose",2020-05-05
+171,"benhadda boubakar","guettara",20,"m","brucellose",2020-05-05
+172,"meraiss aicha","selmana",25,"f","brucellose",2020-05-06
+173,"mazozi mebarka","selmana",37,"f","brucellose",2020-05-07
+174,"abikchi aissa","selmana",8,"m","brucellose",2020-05-18
+175,"abikchi aicha","selmana",32,"f","brucellose",2020-05-18
+176,"ben brahim fatima","selmana",36,"f","brucellose",2020-05-18
+177,"ben brahim achoura","selmana",32,"f","brucellose",2020-05-10
+178,"cheligham mohamed","deldoul",9,"m","brucellose",2020-05-15
+179,"amara chaima","selmana",22,"f","brucellose",2020-05-10
+180,"salhi mebarka","deldoul",15,"f","brucellose",2020-05-12
+181,"ben brahim abdelkader","selmana",72,"m","brucellose",2020-05-03
+182,"dahmane saida","guettara",28,"f","brucellose",2020-05-19
+183,"chenaiba fatna","sedrahal",3,"f","brucellose",2020-05-19
+184,"bela fatna","selmana",7,"f","brucellose",2020-05-19
+185,"benzerguine slimane","selmana",40,"m","brucellose",2020-05-20
+186,"kihal atia","selmana",40,"m","brucellose",2020-05-21
+187,"benabdelrahmane miloud","deldoul",6,"m","brucellose",2020-05-21
+188,"benmelki soumia","selmana",2,"f","brucellose",2020-05-22
+189,"abikchi mohamed","selmana",38,"m","brucellose",2020-05-27
+190,"salhi fatima","selmana",41,"f","brucellose",2020-05-27
+191,"djmouaai fatima","omlaadam",34,"f","brucellose",2020-05-31
+192,"ben arif kouider","omlaadam",38,"m","brucellose",2020-04-30
+193,"naimi zohra","omlaadam",33,"f","brucellose",2020-05-18
+194,"belkheir yacine","omlaadam",15,"m","brucellose",2020-04-30
+195,"alaoua fatima","omlaadam",47,"f","brucellose",2020-05-18
+196,"belkheir khelfallah","omlaadam",66,"m","brucellose",2020-05-11
+197,"ben arif othmane","omlaadam",36,"m","brucellose",2020-05-09
+198,"meriniza hadda","omlaadam",50,"f","brucellose",2020-05-05
+199,"chaoui saadia","feb",57,"f","brucellose",2020-06-02
+200,"attalah ahmed","feb",30,"m","brucellose",2020-06-07
+201,"chaoui toumi","feb",28,"m","brucellose",2020-06-08
+202,"saaid achourah","feb",27,"f","brucellose",2020-05-28
+203,"benattia lakhdar","feb",24,"m","brucellose",2020-05-31
+204,"berouman rahma","feb",19,"f","brucellose",2020-05-30
+205,"nail saad","feb",29,"m","brucellose",2020-06-03
+206,"bahri rahmoun","feb",27,"m","brucellose",2020-06-03
+207,"laiche oussama","feb",14,"m","brucellose",2020-06-01
+208,"merouche madani","selmana",29,"M","brucellose",2020-06-01
+209,"toual miloude","selmana",10,"M","brucellose",2020-06-11
+210,"harzallah sabah","selmana",5,"F","brucellose",2020-06-10
+211,"rebiah amer","selmana",36,"M","brucellose",2020-06-10
+212,"kholoud halfaia","feb",72,"F","brucellose",2020-06-14
+213,"seghir naaima","feb",35,"F","brucellose",2020-06-10
+214,"abdelssam rabeh","feb",11,"M","brucellose",2020-06-08
+215,"thamri yacine","feb",30,"M","brucellose",2020-06-10
+216,"bentounssi mohamed","feb",26,"M","brucellose",2020-06-06
+217,"fakroun kheira","feb",57,"F","brucellose",2020-06-14
+218,"djarou mebarka","feb",30,"F","brucellose",2020-06-11
+219,"alaba nadjat","feb",7,"F","brucellose",2020-06-11
+220,"halfaia amal","feb",14,"F","brucellose",2020-06-13
+221,"reguiegue benzian","feb",6,"M","brucellose",2020-06-04
+222,"halfaia iman","feb",6,"F","brucellose",2020-06-14
+223,"aarfoui med","omlaadam",6,"M","brucellose",2020-06-14
+224,"benghouti zakhroufa","omlaadam",36,"F","brucellose",2020-06-13
+225,"lougab nadji","omlaadam",62,"M","brucellose",2020-06-10
+226,"benghouti bachir","omlaadam",40,"M","brucellose",2020-06-08
+227,"benbrahim med","feb",2,"m","brucellose",2020-06-14
+228,"seaid salah","feb",25,"m","brucellose",2020-06-14
+229,"saoudi laamria","sedrahal",25,"f","brucellose",2020-06-09
+230,"kenay abdelhalim","sedrahal",2,"m","brucellose",2020-06-09
+231,"chaaib aassali","sedrahal",25,"m","brucellose",2020-06-01
+232,"djkeidel mabrouk","deldoul",51,"m","brucellose",2020-06-10
+233,"hamoudi naoui","sedrahal",17,"m","brucellose",2020-06-02
+234,"hamoudi aicha","sedrahal",14,"f","brucellose",2020-06-02
+235,"hamoudi hadda","sedrahal",24,"f","brucellose",2020-06-10
+236,"chouitar laaredj","sedrahal",36,"m","brucellose",2020-05-27
+237,"djaballah bachir","feb",8,"m","brucellose",2020-06-10
+238,"benrahmoun med","feb",2,"m","brucellose",2020-06-14
+239,"elhanni zohra","feb",32,"f","brucellose",2020-06-22
+240,"benabdelhafid aicha","feb",9,"f","brucellose",2020-06-18
+241,"mouafek belkheir","feb",33,"m","brucellose",2020-06-21
+242,"nouidjem said","feb",30,"m","brucellose",2020-06-22
+243,"nouidjam khelifa","feb",32,"m","brucellose",2020-06-21
+244,"nouidjam amal","feb",27,"f","brucellose",2020-06-22
+245,"rouina mebarka","feb",36,"f","brucellose",2020-06-15
+246,"laarbi omelkheir","feb",72,"f","brucellose",2020-06-15
+247,"bentounssi ali","feb",19,"m","brucellose",2020-06-16
+248,"nouidjem fatima","feb",33,"f","brucellose",2020-06-17
+249,"bentounssi messaoud","feb",25,"m","brucellose",2020-06-18
+250,"zerguin mokhtar","feb",27,"m","brucellose",2020-06-15
+251,"halaf kouider","feb",10,"m","brucellose",2020-06-16
+252,"chaoui djaloul","feb",28,"M","brucellose",2020-06-24
+253,"nadjem med","feb",25,"M","brucellose",2020-06-24
+254,"gharbi messoud","feb",80,"F","brucellose",2020-06-24
+255,"mehamdi saad","feb",28,"M","brucellose",2020-06-25
+256,"laiche khalil","feb",26,"F","brucellose",2020-06-28
+257,"chaoui mohamed","feb",18,"F","brucellose",2020-06-28
+258,"lahoual lhadj","feb",30,"M","brucellose",2020-06-28
+259,"rouina tayeb","feb",30,"M","brucellose",2020-06-29
+260,"ranbi mohamed","deldoul",5,"M","brucellose",2020-06-23
+261,"gueroud chaima","selmana",11,"F","brucellose",2020-06-23
+262,"benbrahim taher","selmana",42,"F","brucellose",2020-06-24
+263,"merisse asma","selmana",3,"F","brucellose",2020-06-15
+264,"benmabkhout thamer","deldoul",36,"F","brucellose",2020-06-16
+265,"bourchi hocine","selmana",22,"M","brucellose",2020-06-22
+266,"belatrech med","feb",10,"M","brucellose",2020-07-02
+267,"benaoui amer","feb",14,"M","brucellose",2020-06-30
+268,"laiche abdelmalek","feb",30,"F","brucellose",2020-07-01
+269,"hebchi mostafa","feb",32,"M","brucellose",2020-07-01
+270,"reouina wahiba","feb",30,"F","brucellose",2020-07-02
+271,"nouidjem mohamed","feb",45,"F","brucellose",2020-07-06
+272,"zohra thamri","feb",8,"M","brucellose",2020-07-01
+273,"belkheiri laiaa","deldoul",34,"M","brucellose",2020-07-02
+274,"mabkhota aek","deldoul",30,"M","brucellose",2020-07-05
+275,"mabkhota saaid","deldoul",15,"F","brucellose",2020-07-05
+276,"bendeghim mokhtar","selmana",17,"F","brucellose",2020-06-22
+277,"belkheiri guettaf","deldoul",14,"F","brucellose",2020-06-29
+278,"belkheiri halima","deldoul",15,"F","brucellose",2020-06-29
+279,"rebih saaida","selmana",54,"F","brucellose",2020-06-28
+280,"taibaoui kharfia","selmana",18,"M","brucellose",2020-06-29
+281,"benamara salem","guettara",50,"M","brucellose",2020-03-22
+282,"mimoun mohamed","guettara",35,"M","brucellose",2020-05-11
+283,"rouibah omar","guettara",30,"M","brucellose",2020-04-14
+284,"benkouider taher","guettara",25,"M","brucellose",2020-04-30
+285,"benchikh mohamed","guettara",32,"M","brucellose",2020-05-09
+286,"bakria mohamed","guettara",20,"M","brucellose",2020-05-10
+287,"laid amar","selmana",57,"M","brucellose",2020-01-10
+288,"touati abdelkader","selmana",40,"M","brucellose",2020-01-09
+289,"dahmane khadra","guettara",15,"F","brucellose",2020-01-06
+290,"abdelrahim nacira","guettara",30,"F","brucellose",2020-01-08
+291,"abdelouahab aissa","guettara",30,"M","brucellose",2020-01-08
+292,"mimoun aissa","guettara",30,"M","brucellose",2020-05-18
+293,"mimoun saad","guettara",48,"M","brucellose",2020-05-20
+294,"mimoun cherifa","guettara",43,"F","brucellose",2020-05-10
+295,"tibouza karsa","selmana",18,"F","brucellose",2020-06-29
+296,"belkheiri chaiaa","deldoul",34,"F","brucellose",2020-07-02
+297,"guerzou hamza","sedrahal",13,"M","brucellose",2020-05-21
+298,"mrikh aissa","sedrahal",27,"M","brucellose",2020-05-18
+299,"mehamdi mabrouk","sedrahal",43,"M","brucellose",2020-05-20
+300,"kennay ahlem","sedrahal",13,"F","brucellose",2020-06-01
+301,"chaib assali","sedrahal",25,"M","brucellose",2020-06-01
+302,"benbelkacem laamri","guettara",30,"M","brucellose",2020-03-16
+303,"remadnia yamina","guettara",30,"F","brucellose",2020-03-02
+304,"guettaf amal","guettara",18,"F","brucellose",2020-03-09
+305,"benbelkacem ahmed","feb",30,"F","brucellose",2020-07-13
+306,"legreb aadel","feb",12,"F","brucellose",2020-07-13
+307,"naoui mayssa","feb",10,"M","brucellose",2020-07-13
+308,"bentounssi ali","feb",30,"M","brucellose",2020-07-13
+309,"benkholifa kheira","feb",30,"M","brucellose",2020-07-13
+310,"hebal houaria","feb",21,"F","brucellose",2020-07-18
+311,"elhanni belkader","feb",27,"M","brucellose",2020-07-15
+312,"benabdelsalem amira","feb",30,"M","brucellose",2020-07-08
+313,"guani naoui","amourah",15,"F","brucellose",2020-07-12
+314,"mouafek belal","feb",6,"F","brucellose",2020-07-08
+315,"zohra thamri","feb",8,"F","brucellose",2020-07-07
+316,"nadji aicha","feb",22,"F","brucellose",2020-07-10
+317,"nadji djalil","feb",27,"M","brucellose",2020-07-10
+318,"zied ahmed","feb",30,"M","brucellose",2020-07-23
+319,"lehbale abdelkader","feb",20,"M","brucellose",2020-07-22
+320,"hassani elhadje","feb",30,"M","brucellose",2020-07-20
+321,"moati mohamed","feb",30,"M","brucellose",2020-07-26
+322,"feriha hamid","feb",24,"M","brucellose",2020-07-26
+323,"benhamida kheira","feb",60,"F","brucellose",2020-07-26
+324,"messoudi omelkheir","amourah",40,"f","brucellose",2020-07-06
+325,"zerigue fatima","sedrahal",13,"f","brucellose",2020-07-06
+326,"baghdad aicha","amourah",17,"f","brucellose",2020-07-06
+327,"laaide toumi","selmana",33,"m","brucellose",2020-07-09
+328,"toumi omelkheir","selmana",70,"f","brucellose",2020-07-07
+329,"hamrouche thamer","selmana",30,"m","brucellose",2020-07-07
+330,"khainache khadidja","sedrahal",14,"f","brucellose",2020-07-13
+331,"benbrahim mourad","selmana",25,"m","brucellose",2020-07-13
+332,"bengharbi merouan","selmana",37,"m","brucellose",2020-07-16
+333,"dhib messouda","selmana",28,"f","brucellose",2020-07-16
+334,"sayed youcef","selmana",8,"m","brucellose",2020-07-16
+335,"taibi fatima","selmana",35,"f","brucellose",2020-07-16
+336,"belkheir saad","selmana",12,"m","brucellose",2020-07-10
+337,"tahiri zohra","selmana",35,"f","brucellose",2020-07-17
+338,"borchi fatoum","selmana",28,"f","brucellose",2020-07-17
+339,"kerach hecham","selmana",8,"m","brucellose",2020-07-22
+340,"benbrahim med","selmana",25,"M","brucellose",2020-06-29
+341,"khainache khadidja","selmana",14,"F","brucellose",2020-07-07
+342,"said youcef","selmana",8,"M","brucellose",2020-06-30
+343,"taib fatima","selmana",35,"F","brucellose",2020-07-12
+344,"belkheiri said","selmana",12,"M","brucellose",2020-07-22
+345,"tahiri zohra","selmana",28,"F","brucellose",2020-07-22
+346,"aicha baghdadi","amourah",17,"F","brucellose",2020-07-09
+347,"fatima zerougui","selmana",13,"F","brucellose",2020-07-06
+348,"bela fatima","selmana",7,"F","brucellose",2020-05-17
+349,"bengharbi merouane","selmana",37,"M","brucellose",2020-07-16
+350,"borchi fatoum","selmana",28,"F","brucellose",2020-07-16
+351,"dhib messouda","selmana",30,"F","brucellose",2020-07-16
+352,"kerach hicham","selmana",8,"m","brucellose",2020-07-16
+353,"salhi fatima","selmana",47,"f","brucellose",2020-05-17
+354,"benzerguin slimane","selmana",40,"m","brucellose",2020-05-20
+355,"kihal atia","selmana",40,"m","brucellose",2020-05-21
+356,"messoud omelkheir","sedrahal",40,"f","brucellose",2020-07-06
+357,"hamrouche thamer","sedrahal",30,"m","brucellose",2020-07-07
+358,"toumi omelkheir","selmana",70,"f","brucellose",2020-07-07
+359,"toumi elaaid","selmana",33,"m","brucellose",2020-07-09
+360,"abikchi med","selmana",38,"m","brucellose",2020-05-27
+361,"manssour kheira","selmana",34,"f","brucellose",2020-07-30
+362,"massaoudi fatima","selmana",8,"f","brucellose",2020-07-03
+363,"massaoudi ben alia","selmana",17,"m","brucellose",2020-07-30
+364,"haoua aicha","selmana",38,"f","brucellose",2020-07-30
+365,"belghouti sendos","selmana",18,"f","brucellose",2020-07-27
+366,"bendjaballah meriem","selmana",30,"f","brucellose",2020-08-04
+367,"rebih omhani","selmana",35,"f","brucellose",2020-08-18
+368,"benbrahim hicham","selmana",28,"m","brucellose",2020-08-10
+369,"touati omelkheir","selmana",23,"f","brucellose",2020-08-17
+370,"benhamadi sayeh","selmana",32,"m","brucellose",2020-08-10
+371,"remadhnia nadji","guettara",33,"m","brucellose",2020-08-31
+372,"borchi lakhdar","guettara",61,"m","brucellose",2020-08-23
+373,"khelifa kheira","guettara",30,"f","brucellose",2020-08-21
+374,"remaitha belkacem","deldoul",49,"m","brucellose",2020-08-06
+375,"remaitha riane","deldoul",13,"m","brucellose",2020-08-20
+376,"benabderahman boulerbah","deldoul",48,"m","brucellose",2020-08-27
+377,"kherkhache houcine","deldoul",46,"m","brucellose",2020-08-21
+378,"remaitha cherifa","deldoul",53,"f","brucellose",2020-08-18
+379,"boughefala lazhari","deldoul",9,"m","brucellose",2020-08-23
+380,"kherkhache mohamed","deldoul",38,"m","brucellose",2020-08-21
+381,"bensalem abdelaadhim","deldoul",15,"m","brucellose",2020-09-06
+382,"melati lakhdar","selmana",42,"m","brucellose",2020-09-06
+383,"hemmadi mohamed","sedrahal",31,"m","brucellose",2020-08-11
+384,"zerigue fatna","sedrahal",52,"f","brucellose",2020-08-16
+385,"noui saad","sedrahal",16,"m","brucellose",2020-08-11
+386,"ghorab boubaker","sedrahal",13,"m","brucellose",2020-08-10
+387,"merikh aissa","sedrahal",26,"m","brucellose",2020-07-26
+388,"saaoudi selimane","sedrahal",23,"m","brucellose",2020-07-09
+389,"hemmadi kheira","sedrahal",54,"f","brucellose",2020-07-12
+390,"zerigue kouider","sedrahal",21,"m","brucellose",2020-07-12
+391,"chaaibe fatna","sedrahal",53,"f","brucellose",2020-09-02
+392,"zerigue mebarka","sedrahal",34,"f","brucellose",2020-08-13
+393,"draoui laadjala","sedrahal",65,"f","brucellose",2020-07-14
+394,"aatallah khaled","sedrahal",23,"m","brucellose",2020-08-06
+395,"houari zahra","sedrahal",55,"f","brucellose",2020-07-14
+396,"chaaibe sayeh","sedrahal",66,"m","brucellose",2020-08-02
+397,"saaoudi ahmed","sedrahal",30,"m","brucellose",2020-07-19
+398,"mekdad mohamed","feb",35,"m","brucellose",2020-08-16
+399,"zohra naaimi","omlaadam",21,"f","brucellose",2020-10-04
+400,"ahmidi messaoud","sedrahal",21,"m","brucellose",2020-09-28
+401,"rouina mebarka","feb",36,"f","brucellose",2020-09-15
+402,"chetouh remdhan","selmana",23,"m","brucellose",2020-09-13
+403,"reguiegue boualem","feb",13,"m","brucellose",2020-09-08
+404,"belakhdar chaima","guettara",8,"f","brucellose",2020-09-07
+405,"zouai iyad","feb",4,"m","brucellose",2020-08-25
+406,"melati lakhdar","selmana",42,"m","brucellose",2020-09-06
+407,"bensalem abdelaadhim","deldoul",15,"m","brucellose",2020-09-06
+408,"lahrache abdelmadjid","guettara",10,"M","brucellose",2020-06-30
+409,"bennacer benaayache","guettara",36,"M","brucellose",2020-06-20
+410,"tahiri bilel","guettara",14,"M","brucellose",2020-08-26
+411,"borchi aamer","guettara",30,"M","brucellose",2020-06-08
+412,"loagab mokhtar","omlaadam",23,"M","brucellose",2020-07-07
+413,"selmi fatna","guettara",20,"F","brucellose",2020-07-08
+414,"bekouche aicha","omlaadam",37,"F","brucellose",2020-07-08
+415,"belakhdar hocine","guettara",35,"M","brucellose",2020-07-09
+416,"benhadda ali","guettara",55,"M","brucellose",2020-07-09
+417,"serar aicha","omlaadam",37,"F","brucellose",2020-07-14
+418,"belkheiri khadidja","omlaadam",25,"F","brucellose",2020-07-13
+419,"alaoua fatima","omlaadam",6,"F","brucellose",2020-07-13
+420,"daoudi mokhtar","guettara",30,"M","brucellose",2020-07-13
+421,"benmazouz rebiha","guettara",30,"F","brucellose",2020-07-13
+422,"baghdadi rahma","guettara",19,"F","brucellose",2020-07-27
+423,"rezazgua houcine","guettara",25,"M","brucellose",2020-07-14
+424,"laidi fatna","guettara",30,"F","brucellose",2020-07-19
+425,"mouafak fathi","guettara",18,"M","brucellose",2020-08-11
+426,"reguiague omelkheir","guettara",30,"F","brucellose",2020-08-10
+427,"mouafek hanan","guettara",25,"F","brucellose",2020-08-11
+428,"nouidjam rachida","omlaadam",34,"F","brucellose",2020-08-12
+429,"laide abdellah","guettara",45,"M","brucellose",2020-08-12
+430,"saoudi khadidja","omlaadam",22,"F","brucellose",2020-08-10
+431,"ghorab messaouda","guettara",13,"F","brucellose",2020-08-10
+432,"naoui abdelrazak","guettara",16,"M","brucellose",2020-08-11
+433,"daoudi chikha","guettara",30,"f","brucellose",2020-07-15
+434,"naoui saaid","guettara",7,"m","brucellose",2020-07-07
+435,"kemari mezia","selmana",30,"f","brucellose",2020-10-04
+436,"adjimi mostapha","guettara",18,"m","brucellose",2020-07-19
+437,"benabdellah nakhla","omlaadam",35,"f","brucellose",2020-06-11
+438,"belkahal aissa","feb",23,"m","brucellose",2020-06-23
+439,"kennay fatna","sedrahal",26,"f","brucellose",2020-06-01
+440,"med abdelsalem","sedrahal",8,"m","brucellose",2020-06-01
+441,"cheniba fatna","sedrahal",61,"f","brucellose",2020-04-20
+442,"saoudi kheira","sedrahal",24,"f","brucellose",2020-06-01
+443,"bentouati abdelhamid","sedrahal",24,"m","brucellose",2020-05-03
+444,"ghorab said","sedrahal",21,"m","brucellose",2020-04-13
+445,"attalah benaissa","feb",11,"m","brucellose",2020-08-17
+446,"naoui zohra","omlaadam",38,"f","brucellose",2020-10-14
+447,"brahimi ahmed","selmana",11,"m","brucellose",2020-10-17
+448,"bendjedou rabie","selmana",67,"m","brucellose",2020-10-14
+449,"nail ahmed","selmana",19,"m","brucellose",2020-10-07
+450,"adjimi mostapha","selmana",20,"m","brucellose",2020-10-07
+451,"zorigue ishak","sedrahal",9,"m","brucellose",2020-05-11
+452,"naoui attalah","sedrahal",24,"m","brucellose",2020-05-11
+453,"guezou lahcen","sedrahal",31,"m","brucellose",2020-05-06
+454,"dhib rokaia","sedrahal",66,"f","brucellose",2020-04-21
+455,"saoudi naas","sedrahal",61,"m","brucellose",2020-05-12
+456,"mahmoudi mohamed","feb",18,"m","brucellose",2020-08-18
+457,"messaouda tahiri","selmana",41,"f","brucellose",2020-10-06
+458,"djamila ben brahim","selmana",52,"f","brucellose",2020-10-06
+459,"chouitar aicha","sedrahal",15,"f","brucellose",2020-11-08
+460,"saoudi zohra","sedrahal",43,"f","brucellose",2020-11-08
+461,"logab abdelrahman","omlaadam",23,"m","brucellose",2020-07-21
+1,"nara mostapha","omlaadam",11,"m","brucellose",2020-11-10
+2,"tahiri djouda","selmana",5,"f","brucellose",2020-10-18
+3,"guiraa abderahmane","guettara",15,"m","brucellose",2020-09-07
+4,"aouicha tabouna","omlaadam",4,"f","brucellose",2020-11-18
+5,"sersoub mohamed","feb",15,"m","brucellose",2020-08-13
+6,"mouafak omelkheir","feb",25,"f","brucellose",2020-08-13
+7,"eloued mostapha","selmana",20,"m","brucellose",2020-11-16
+8,"mansour aicha","selmana",48,"f","brucellose",2020-11-16
+9,"tahiri mohamed","selmana",42,"m","brucellose",2020-11-09
+10,"borchi aicha","selmana",54,"f","brucellose",2020-10-19
+11,"abdelmalek naoui","sedrahal",5,"m","brucellose",2021-01-06
+12,"dhouaba brahim","omlaadam",48,"m","brucellose",2021-01-14
+13,"bouzidi kheira","omlaadam",13,"f","brucellose",2021-01-14
+14,"djaroub assema","deldoul",24,"f","brucellose",2021-01-11
+15,"ahmed benrebih","deldoul",11,"m","brucellose",2021-01-11
+16,"messaouda chlaikam","deldoul",37,"f","brucellose",2021-01-11
+17,"kheira ben nacer","selmana",19,"f","brucellose",2021-01-10
+18,"ben nadji zohra","selmana",36,"f","brucellose",2021-01-03
+19,"abdkader rammache","sedrahal",29,"M","brucellose",2021-01-07
+20,"noura bouzide","selmana",36,"F","brucellose",2021-01-07
+21,"aicha bennacer","omlaadam",3,"F","brucellose",2021-01-07
+22,"hamadi said","selmana",62,"M","brucellose",2021-01-05
+23,"benchanna abdallalh","omlaadam",83,"M","brucellose",2020-12-23
+24,"ben salem ahmed","selmana",85,"M","brucellose",2021-01-02
+25,"taibi mohamed","selmana",75,"M","brucellose",2021-01-02
+26,"bouzidi mohamed","selmana",44,"M","brucellose",2020-12-29
+27,"khelifa ahmed","selmana",68,"M","brucellose",2021-01-03
+28,"benkhelif yamna","omlaadam",58,"f","brucellose",2021-01-31
+29,"fatna saadaoui","deldoul",64,"f","brucellose",2021-01-25
+30,"mohamed reguige","omlaadam",68,"m","brucellose",2021-01-20
+31,"ghlissi khadija","deldoul",19,"f","brucellose",2021-01-25
+32,"radouan tayeb","guettara",9,"m","brucellose",2021-01-19
+33,"bendekim yamina","deldoul",40,"f","brucellose",2021-01-19
+34,"guiraa fatima","guettara",16,"f","brucellose",2021-01-04
+35,"benamara mohamed","amoura",8,"m","brucellose",2021-01-23
+36,"homaida khadra","amoura",24,"f","brucellose",2021-01-25
+37,"abdelaziz hawa","selmana",21,"m","brucellose",2021-01-17
+38,"morad lagraa","feb",12,"m","brucellose",2021-01-16
+39,"mohamed lagraa","feb",25,"m","brucellose",2021-01-25
+40,"amer lagraa","feb",45,"m","brucellose",2021-01-16
+41,"dahman naoui ","sedrahal",14,"m","brucellose",2021-01-10
+42,"ghorab souad","sedrahal",5,"f","brucellose",2021-02-07
+43,"baha fatna","guettara",42,"f","brucellose",2021-02-14
+44,"hmida khadra","selmana",24,"f","brucellose",2021-01-31
+45,"salamat mohamed","deldoul",31,"m","brucellose",2021-01-23
+46,"merinizaabdelhamid ","deldoul",42,"m","brucellose",2021-02-05
+47,"tahiri saleh","guettara",30,"m","brucellose",2021-02-14
+48,"hamada saleh","amourah",21,"m","brucellose",2021-02-06
+49,"khaled derkouche","selmana",82,"m","brucellose",2021-02-18
+50,"zekhroufa boussaoud","selmana",41,"f","brucellose",2021-02-18
+51,"benrebiha hadil","selmana",8,"f","brucellose",2021-02-06
+52,"omelkheir lagraa","selmana",26,"f","brucellose",2021-02-06
+53,"omhani ben houra","selmana",20,"f","brucellose",2021-01-21
+54,"naama abdelaaziz","selmana",62,"m","brucellose",2021-01-27
+55,"regueigue ali","selmana",57,"m","brucellose",2021-01-27
+56,"ahmidi elhachemi","sedrahal",23,"m","brucellose",2021-02-11
+57,"souieh fatna","sedrahal",30,"f","brucellose",2021-02-07
+58,"maameri aamer","sedrahal",9,"m","brucellose",2021-01-21
+59,"naamani messaouda","sedrahal",30,"f","brucellose",2021-02-14
+60,"laabidi rekaiet","selmana",30,"m","brucellose",2021-02-14
+61,"tahiri taher","guettara",66,"m","brucellose",2021-02-17
+62,"ghoraieb omelkheir","feb",35,"f","brucellose",2021-02-13
+63,"benghaouthi nadji","feb",20,"f","brucellose",2021-01-25
+64,"bakria mebarka","guettara",75,"f","brucellose",2021-01-20
+65,"hocine cherfia","amourah",23,"m","brucellose",2021-01-13
+66,"ziane zeineb","guettara",30,"f","brucellose",2021-01-10
+67,"taha ahmed","guettara",52,"m","brucellose",2021-02-04
+68,"regueigue ali","guettara",20,"m","brucellose",2021-02-09
+69,"bensaid boubaker","guettara",17,"m","brucellose",2021-02-22
+70,"bensaid fatiha","guettara",40,"f","brucellose",2021-02-23
+71,"benbrahim aissa","guettara",27,"m","brucellose",2021-03-02
+72,"benbrahim elhadje","guettara",34,"m","brucellose",2021-03-02
+73,"benbrahim laarbi","guettara",75,"m","brucellose",2021-03-02
+74,"tahiri dahmane","guettara",28,"m","brucellose",2021-02-11
+75,"belakhder mohamed","guettara",39,"m","brucellose",2021-02-17
+76,"djerbaoui kheira","selmana",60,"f","brucellose",2021-02-24
+77,"allel berkani","feb",22,"m","brucellose",2021-03-07
+78,"lagraa zohra","selmana",71,"f","brucellose",2021-03-07
+79,"taibi fatna","selmana",21,"f","brucellose",2021-02-14
+80,"naami belkacem","selmana",33,"m","brucellose",2021-02-21
+81,"karache freiha","selmana",65,"f","brucellose",2021-02-21
+82,"touati meriem","selmana",55,"f","brucellose",2021-03-07
+83,"djaaroun kheira","feb",44,"f","brucellose",2021-03-07
+84,"meriniza dahmane","omlaadam",36,"m","brucellose",2021-03-18
+85,"laagab hadda","omlaadam",18,"f","brucellose",2021-03-14
+86,"lakehal sadek","guettara",54,"m","brucellose",2021-03-27
+87,"bouchandouka mohamed","guettara",44,"M","brucellose",2021-03-31
+88,"bekhiti rahma","guettara",30,"F","brucellose",2021-04-01
+89,"bennacer abdelrahim","guettara",30,"M","brucellose",2021-03-30
+90,"ferhat mebarka","guettara",30,"F","brucellose",2021-03-14
+91,"redouane ziane","guettara",15,"M","brucellose",2021-03-31
+92,"souieh mohamed","sedrahal",48,"M","brucellose",2021-04-18
+93,"rouina noureddine","amourah",38,"M","brucellose",2021-04-16
+94,"lakehal sadek","guettara",54,"M","brucellose",2021-03-27
+95,"dellas omhanni","guettara",52,"F","brucellose",2021-04-04
+96,"dahmane khadidja","guettara",18,"F","brucellose",2021-04-04
+97,"hamdi ismail","amourah",30,"M","brucellose",2021-04-04
+98,"moati ziane","amourah",40,"M","brucellose",2021-04-04
+99,"laarbi mostafa","amourah",30,"M","brucellose",2021-04-04
+100,"benmouafek saad","feb",17,"M","brucellose",2021-04-01
+101,"chenaiba khadra","sedrahal",21,"F","brucellose",2021-03-28
+102,"banalia madani","sedrahal",36,"M","brucellose",2021-03-25
+103,"hadj tayeb","feb",30,"M","brucellose",2021-04-01
+104,"bennaoui soumaia","feb",18,"F","brucellose",2021-02-16
+105,"lagreb salem","feb",30,"M","brucellose",2021-02-17
+106,"rabhi abdeldjabar","feb",30,"M","brucellose",2021-03-30
+107,"gozim bachir","feb",26,"M","brucellose",2021-03-30
+108,"alal mohamed","feb",5,"M","brucellose",2021-03-22
+109,"gharbi saad","feb",42,"M","brucellose",2021-03-16
+110,"gharbi fatima","feb",30,"F","brucellose",2021-02-27
+111,"benbrahim lakhdar","feb",30,"M","brucellose",2021-03-28
+112,"benalia hadda","sedrahal",45,"F","brucellose",2021-02-28
+113,"benalia rebiha","sedrahal",25,"F","brucellose",2021-04-11
+114,"ziane ahmed","guettara",45,"M","brucellose",2021-04-07
+115,"merikh massaouda","sedrahal",55,"M","brucellose",2021-03-14
+116,"dahmen meriem","sedrahal",65,"M","brucellose",2021-03-09
+117,"charef khadra","sedrahal",41,"F","brucellose",2021-02-22
+118,"chedad mohamed","sedrahal",32,"F","brucellose",2021-02-08
+119,"hamadi boubaker","sedrahal",55,"M","brucellose",2021-02-09
+120,"sitouha ali","selmana",50,"M","brucellose",2021-04-05
+121,"remitha fatiha","deldoul",26,"M","brucellose",2021-04-04
+122,"boumidouna mohamed","selmana",26,"M","brucellose",2021-03-21
+123,"remitha laatra","deldoul",33,"F","brucellose",2021-04-01
+124,"fatima remitha","deldoul",14,"M","brucellose",2021-04-04
+125,"chelikam halima","deldoul",14,"M","brucellose",2021-04-01
+126,"djeklil aicha","deldoul",8,"F","brucellose",2021-04-05
+127,"chelikam ahmed","deldoul",17,"M","brucellose",2021-03-25
+128,"nadji nacer","guettara",26,"M","brucellose",2021-04-21
+129,"zayan attia","guettara",79,"M","brucellose",2021-04-20
+130,"benmelki fatna","guettara",56,"F","brucellose",2021-04-25
+131,"elbachir remaitha","deldoul",56,"M","brucellose",2021-04-15
+132,"benbelkacem hafnaoui","deldoul",54,"M","brucellose",2021-04-22
+133,"rekza beloul","deldoul",37,"M","brucellose",2021-04-15
+134,"lakhdar heddi","guettara",39,"M","brucellose",2021-04-19
+135,"allel mebarek","feb",18,"M","brucellose",2021-03-28
+136,"hanafi yemina","feb",30,"F","brucellose",2021-04-01
+137,"bennaoui kaniya","feb",35,"F","brucellose",2021-04-08
+138,"kaihoul brahim","feb",10,"M","brucellose",2021-04-06
+139,"zoubir bendaoud","deldoul",31,"M","brucellose",2021-04-08
+140,"dahmane noura","selmana",9,"F","brucellose",2021-04-07
+141,"kerrara mohamed","selmana",70,"M","brucellose",2021-04-11
+142,"houari moatar","selmana",36,"M","brucellose",2021-04-04
+143,"dahmane kamel","selmana",26,"M","brucellose",2021-04-11
+144,"belmelki aicha","selmana",45,"f","brucellose",2021-03-31
+145,"bousri omran","selmana",44,"M","brucellose",2021-04-14
+146,"benhadda messouda","guettara",40,"f","brucellose",2021-03-10
+147,"adjimi dahmane","guettara",56,"m","brucellose",2021-05-10
+148,"latreche tayeb","guettara",11,"m","brucellose",2021-04-07
+149,"kerache nadji","deldoul",37,"m","brucellose",2021-04-29
+150,"salamat brahim","omlaadam",37,"m","brucellose",2021-05-10
+151,"remitha khadija","deldoul",17,"f","brucellose",2021-04-27
+152,"chelikam mebarka","deldoul",40,"f","brucellose",2021-04-26
+153,"rahmoun amer","feb",30,"m","brucellose",2021-04-05
+154,"bensaad aamara","feb",67,"m","brucellose",2021-04-29
+155,"halfaia brahim","feb",61,"m","brucellose",2021-04-29
+156,"halfaia amar","feb",29,"m","brucellose",2021-04-28
+157,"laiche ahmed","feb",63,"m","brucellose",2021-04-05
+158,"kouidri sahra","feb",54,"f","brucellose",2021-04-12
+159,"zeroug ahmed","feb",66,"m","brucellose",2021-04-20
+160,"segheir fatiha","feb",26,"f","brucellose",2021-04-04
+161,"djaballah khaled","feb",61,"m","brucellose",2021-05-03
+162,"chaoui lakhder","feb",45,"m","brucellose",2021-05-03
+163,"bouchandouka amer","guettara",16,"m","brucellose",2021-05-19
+164,"khaouni mohamed","guettara",62,"m","brucellose",2021-05-19
+165,"naimi mohamed","omlaadam",75,"m","brucellose",2021-05-18
+166,"selami saadi","omlaadam",53,"m","brucellose",2021-05-18
+167,"allaoua brahim","omlaadam",9,"m","brucellose",2021-05-18
+168,"meriniza rokaia","omlaadam",80,"f","brucellose",2021-04-05
+169,"laadjal lakhdar","selmana",76,"m","brucellose",2021-05-12
+170,"djeroub belkheir","selmana",25,"m","brucellose",2021-05-12
+171,"benchikh ali","selmana",35,"m","brucellose",2021-04-27
+172,"dacher mohamed","selmana",50,"m","brucellose",2021-05-11
+173,"laadjal aaida","selmana",7,"f","brucellose",2021-05-22
+174,"dacher lakhdar","selmana",15,"m","brucellose",2021-05-12
+175,"dacher aicha","selmana",85,"f","brucellose",2021-05-12
+176,"guen mohamed","selmana",36,"m","brucellose",2021-05-20
+177,"dacher kholoud","selmana",17,"f","brucellose",2021-05-12
+178,"selikh abdellah","sedrahal",46,"m","brucellose",2021-04-26
+179,"assali awali","sedrahal",36,"f","brucellose",2021-05-03
+180,"benharzellah ahmed","selmana",76,"m","brucellose",2021-05-03
+181,"saoudi zolikha","selmana",84,"f","brucellose",2021-05-18
+182,"bensalem elaarbi","selmana",37,"m","brucellose",2021-05-07
+183,"touati merbouha","selmana",40,"f","brucellose",2021-05-11
+184,"guen fatima","selmana",37,"f","brucellose",2021-05-16
+185,"gueroud meriem","selmana",33,"f","brucellose",2021-05-24
+186,"djaroub ossama","deldoul",24,"m","brucellose",2021-05-17
+187,"djaroub abdellah","deldoul",68,"m","brucellose",2021-05-17
+188,"beloul rekza","deldoul",36,"f","brucellose",2021-05-20
+189,"kazrane nouri","sedrahal",59,"m","brucellose",2021-05-29
+190,"kerzou mourad","sedrahal",26,"m","brucellose",2021-05-27
+191,"kennay azouza","sedrahal",13,"f","brucellose",2021-05-26
+192,"melak messouda","sedrahal",25,"f","brucellose",2021-05-21
+193,"derafa belkacem","sedrahal",70,"m","brucellose",2021-05-25
+194,"benalia ahmed","sedrahal",24,"m","brucellose",2021-05-27
+195,"alkouni toumi","sedrahal",38,"m","brucellose",2021-05-20
+196,"benalia nail ","sedrahal",14,"m","brucellose",2021-05-06
+197,"kenay chaibia","sedrahal",64,"f","brucellose",2021-05-05
+198,"touati abdelkader","sedrahal",54,"m","brucellose",2021-05-20
+199,"dellass saadia","selmana",75,"f","brucellose",2021-05-07
+200,"ali merais","selmana",75,"m","brucellose",2021-04-26
+201,"oubah lakhdar","selmana",73,"m","brucellose",2021-05-12
+202,"saida ben nacer","selmana",22,"f","brucellose",2021-05-14
+203,"thameri nail","feb",77,"m","brucellose",2021-05-24
+204,"bendjabellah khadra","feb",55,"f","brucellose",2021-05-16
+205,"benseliman abdelkader","feb",20,"m","brucellose",2021-05-23
+206,"dellas melouka","guettara",23,"f","brucellose",2021-06-07
+207,"bendjaballah hakim","feb",21,"m","brucellose",2021-05-11
+208,"benalia laarbi","feb",61,"m","brucellose",2021-05-23
+209,"lakhdar chawi","feb",45,"m","brucellose",2021-05-16
+210,"halfaia nadji","feb",27,"m","brucellose",2021-05-02
+211,"bendjabballah adam","feb",53,"m","brucellose",2021-05-17
+212,"mehamdi mohamed","sedrahal",44,"m","brucellose",2021-05-31
+213,"cheniba huda","sedrahal",43,"f","brucellose",2021-06-02
+214,"fodhili ali","sedrahal",70,"m","brucellose",2021-06-08
+215,"benattallah baya","guattara",21,"f","brucellose",2021-06-15
+216,"remadnia ahmed","guattara",40,"m","brucellose",2021-06-10
+217,"gozim khelifa","selmana",17,"m","brucellose",2021-06-07
+218,"laib brahim","selmana",23,"m","brucellose",2021-06-10
+219,"lagrab ali","selmana",60,"m","brucellose",2021-06-10
+220,"tahiri ibrahim","selmana",45,"m","brucellose",2021-06-09
+221,"melati ahmed","selmana",13,"m","brucellose",2021-06-09
+222,"melati bouragaa","selmana",60,"m","brucellose",2021-06-12
+223,"belkheir khelfallah","selmana",52,"m","brucellose",2021-06-27
+224,"gherbi mohamed","feb",34,"m","brucellose",2021-06-27
+225,"belkheiri belkheir","feb",20,"m","brucellose",2021-06-11
+226,"mokhlouf mohamed","feb",35,"m","brucellose",2021-06-27
+227,"dokman anwar","feb",3,"m","brucellose",2021-06-20
+228,"belkheiri khaled","feb",25,"m","brucellose",2021-05-12
+229,"kazran fatima","feb",43,"f","brucellose",2021-05-12
+230,"rabhi amar","feb",5,"m","brucellose",2021-06-14
+231,"zidan manad","feb",8,"m","brucellose",2021-06-06
+232,"laiche abdellah","feb",27,"m","brucellose",2021-05-31
+233,"djaiou lakhdar","selmana",36,"m","brucellose",2021-06-10
+234,"ghouini fatima","selmana",45,"f","brucellose",2021-06-07
+235,"besoud aya","selmana",4,"f","brucellose",2021-06-08
+236,"elaib ali","selmana",23,"m","brucellose",2021-06-07
+237,"mimoun meriem","selmana",41,"f","brucellose",2021-05-31
+238,"merzoug khadidja","selmana",36,"f","brucellose",2021-06-06
+239,"kraiker mazouz","selmana",60,"m","brucellose",2021-06-06
+240,"benslilih aicha","selmana",21,"f","brucellose",2021-05-24
+241,"obah mostapha","selmana",60,"m","brucellose",2021-05-20
+242,"kraibaa ahmed","selmana",47,"m","brucellose",2021-06-21
+243,"gharbi abdelkader","selmana",34,"m","brucellose",2021-06-17
+244,"redjam ali","selmana",8,"m","brucellose",2021-06-17
+245,"redjam ibrahim","sedrahal",10,"m","brucellose",2021-06-17
+246,"baghdadou zineb","amourah",56,"f","brucellose",2021-06-24
+247,"lahrache said","guettara",30,"M","brucellose",2021-06-17
+248,"borchi khadidja","guettara",30,"F","brucellose",2021-06-17
+249,"mimoune elaalami","guettara",18,"M","brucellose",2021-06-14
+250,"chetouh maamar","guettara",27,"M","brucellose",2021-06-14
+251,"lakehal saaid","selmana",48,"m","brucellose",2021-06-23
+252,"bessoud ahmed","selmana",30,"m","brucellose",2021-06-13
+253,"benselilih azzeddine","selmana",21,"m","brucellose",2021-06-10
+254,"merouch saad","selmana",65,"m","brucellose",2021-06-15
+255,"tetta habiba","selmana",42,"f","brucellose",2021-06-01
+256,"bessoud mebarek","selmana",35,"m","brucellose",2021-06-14
+257,"dhiab aicha","selmana",22,"f","brucellose",2021-06-13
+258,"moati saad","deldoul",14,"m","brucellose",2021-06-13
+259,"melati mebarka","deldoul",57,"f","brucellose",2021-06-13
+260,"daoudi nakhla","guettara",60,"f","brucellose",2021-07-02
+261,"djaidire khadidja","guettara",23,"f","brucellose",2021-07-01
+262,"remadhnia dahmane","guettara",18,"m","brucellose",2021-06-30
+263,"khenaiche chaima","deldoul",11,"f","brucellose",2021-06-13
+264,"manale beloul","deldoul",19,"f","brucellose",2021-06-10
+265,"aabassi kheira","deldoul",16,"f","brucellose",2021-06-22
+266,"ayate mohamed","deldoul",54,"m","brucellose",2021-06-27
+267,"taibi kheira ","deldoul",62,"f","brucellose",2021-06-27
+268,"mehamdi mebrouk","sedrahal",44,"m","brucellose",2021-06-01
+269,"guettaf mostapha","sedrahal",30,"m","brucellose",2021-06-03
+270,"foudili ali","sedrahal",70,"m","brucellose",2021-06-08
+271,"chouitar ahlem","sedrahal",13,"f","brucellose",2021-06-02
+272,"othmen mohamed","deldoul",23,"m","brucellose",2021-06-07
+273,"chetouh khadidja","selmana",35,"f","brucellose",2021-06-27
+274,"bendekim mohamed","selmana",30,"m","brucellose",2021-06-08
+275,"dahmen belkheir ","selmana",57,"m","brucellose",2021-06-22
+276,"lakehal saad","selmana",30,"m","brucellose",2021-07-10
+277,"mimoun ziane","guettara",20,"m","brucellose",2021-07-12
+278,"kheinach saaid","deldoul",31,"m","brucellose",2021-05-31
+279,"belkheir hafnaoui","deldoul",30,"m","brucellose",2021-06-01
+280,"madani obah","deldoul",39,"m","brucellose",2021-06-09
+281,"lakehal amara","deldoul",21,"m","brucellose",2021-05-15
+282,"fatma beloul","deldoul",39,"f","brucellose",2021-05-25
+283,"merouch omar","selmana",24,"m","brucellose",2021-08-07
+284,"merouch walid","selmana",22,"m","brucellose",2021-06-05
+285,"benhadje mohamed","feb",9,"m","brucellose",2021-07-02
+286,"aloka abdelhak","feb",35,"m","brucellose",2021-07-12
+287,"makhlouf farah","feb",9,"f","brucellose",2021-07-14
+288,"gharbi hocine","feb",29,"m","brucellose",2021-08-04
+289,"elaich fatma","fed",30,"f","brucellose",2021-07-20
+290,"elaich manar","fed",28,"f","brucellose",2021-08-04
+291,"lagreb amer","fed",37,"m","brucellose",2021-06-16
+292,"medouh bachir","fed",19,"m","brucellose",2021-06-02
+293,"merikh mohamed","sedrahal",29,"m","brucellose",2021-08-06
+294,"khennich youcef","deldoul",30,"m","brucellose",2021-09-07
+295,"hamrouche ismail","sedrahal",58,"m","brucellose",2021-08-24
+296,"choaaib hadda","sedrahal",17,"f","brucellose",2021-09-02
+297,"saadi amel","sedrahal",17,"f","brucellose",2021-09-04
+298,"saadi ftoum","sedrahal",35,"f","brucellose",2021-09-04
+299,"ridha mohamed","guettara",36,"m","brucellose",2021-10-06
+300,"daoudi yamina","guettara",24,"f","brucellose",2021-09-01
+301,"laadjel salem","amourah",49,"m","brucellose",2021-09-09
+302,"merikh imen","selmana",19,"f","brucellose",2021-09-11
+303,"laageb hadda","omlaadam",18,"f","brucellose",2021-09-20
+304,"laagab zohra","omlaadam",38,"f","brucellose",2021-09-20
+305,"baghdado bouderbala","selmana",60,"m","brucellose",2021-09-29
+306,"bouakaz mohamed","selmana",47,"m","brucellose",2021-09-30
+307,"obah lakhdar","selmana",67,"m","brucellose",2021-09-12
+308,"kerrida mebarka","guettara",45,"f","brucellose",2021-09-18
+309,"daoudi kadouria","guettara",45,"f","brucellose",2021-11-10
+310,"rida mohamed","guettara",36,"m","brucellose",2021-10-04
+311,"chaoui tayeb","feb",16,"m","brucellose",2021-11-08
+312,"gharbi fatima","feb",25,"f","brucellose",2021-11-13
+313,"rouina saadi","amourah",39,"m","brucellose",2021-11-28
+314,"ghezal kheireddine","selmana",14,"M","brucellose",2021-10-18
+315,"hebib fadhila","selmana",30,"F","brucellose",2021-11-14
+316,"hathat amira","selmana",18,"F","brucellose",2021-11-20
+317,"djeloul mohamed","selmana",35,"M","brucellose",2021-12-12
+318,"touati mohamed","amourah",63,"M","brucellose",2021-12-12
+319,"laadjal omelkheir","amourah",60,"F","brucellose",2021-12-05
+320,"benselilih yacin","selmana",23,"M","brucellose",2021-10-28
+321,"serour radhouan","selmana",26,"M","brucellose",2021-10-18
+322,"regueieg mebkhout","selmana",60,"M","brucellose",2021-12-05
+323,"ferah mohamed","selmana",73,"M","brucellose",2021-10-29
+324,"zian bachir","selmana",68,"M","brucellose",2021-10-18
+325,"medjabah mazouz","selmana",44,"M","brucellose",2021-10-27
+326,"bessoud habiba","selmana",30,"F","brucellose",2021-09-05
+327,"berkouch mohamed","omlaadam",30,"M","brucellose",2021-12-06
+328,"mehfoudi aicha","deldoul",75,"F","brucellose",2021-10-27
+329,"djeklil aicha","deldoul",8,"F","brucellose",2022-12-18
+330,"renani thamer","deldoul",30,"M","brucellose",2022-10-28
+331,"taibi boumedien","selmana",42,"M","brucellose",2022-12-15
+332,"baidi elkaiwani","deldoul",83,"M","brucellose",2022-09-22
+333,"baghdadi lakhdar","deldoul",20,"M","brucellose",2022-12-19
+334,"hammade messoud","deldoul",28,"M","brucellose",2022-12-07
+335,"medjabah mazouz","feb",34,"M","brucellose",2022-10-27
+336,"laadjal omelkheir","amourah",60,"F","brucellose",2022-12-05
+337,"ziane bachir","selmana",68,"M","brucellose",2022-10-18
+1,"djidoul mohamed","selmana",35,"m","brucellose",2021-12-12
+2,"berkoucha mohamed","oum laadam",30,"m","brucellose",2021-12-06
+3,"laadjal oumelkhir","amourah",60,"f","brucellose",2021-12-05
+4,"reguieg mabkhout","selmana",60,"m","brucellose",2021-12-05
+5,"far mohamed ","selmana",73,"m","brucellose",2021-10-20
+6,"serrar radouane","selmana",26,"m","brucellose",2021-10-20
+7,"benslilih yacine","selmana",23,"m","brucellose",2021-11-28
+8,"modjabah meriem","fed",30,"f","brucellose",2021-10-27
+9,"ziane bachir ","selmana",68,"m","brucellose",2021-10-18
+10,"boubaker khelifa","feb",11,"m","brucellose",2022-01-16
+11,"bessaoud mohamed","selmana",30,"m","brucellose",2022-01-02
+12,"naibi aicha","selmana",30,"F","brucellose",2022-01-01
+13,"baghdadou ahmed","selmana",43,"m","brucellose",2022-01-05
+14,"ziane ahmed","guettara",52,"m","brucellose",2022-01-27
+15,"bacha fatna","selmana",45,"f","brucellose",2022-01-22
+16,"haoua abdelhamid","selmana",40,"m","brucellose",2022-01-26
+17,"Allal Mohamed","Selmana",14,"m","brucellose",2022-02-01
+18,"Gouzim Youcef","Selmana",33,"m","brucellose",2022-02-03
+19,"guimouza hania ","Selmana",20,"f","brucellose",2022-02-01
+20,"Benmalki Ziane","deldoul",10,"m","brucellose",2022-02-28
+21,"tayeb lakhdar","guettara",20,"M","brucellose",2022-02-27
+22,"tayeb amina","guettara",9,"F","brucellose",2022-02-27
+23,"benselilih aissa","selmana",30,"M","brucellose",2022-03-10
+24,"dhouaba brahim","oumlaadam",17,"m","brucellose",2022-03-02
+25,"brahimi mokhtar","guettara",30,"m","brucellose",2022-01-03
+26,"bassoud khadidja","selmana",30,"f","brucellose",2022-04-18
+27,"ghoul fatna","selmana",70,"f","brucellose",2022-03-04
+28,"redoune messoud","guettara",8,"m","brucellose",2022-04-26
+29,"mimoune aicha","guettara",40,"f","brucellose",2022-05-08
+30,"belmadani bachir","guettara",49,"m","brucellose",2022-04-21
+31,"lahreche said ","guettara",10,"m","brucellose",2022-04-18
+32,"thelb oumelkhir","guettara",9,"f","brucellose",2022-04-25
+33,"lahrech ali","guettara",51,"m","brucellose",2022-05-23
+34,"mellati rahma","guettara",32,"f","brucellose",2022-05-22
+35,"ziane smail","guettara",20,"m","brucellose",2022-05-20
+36,"moati ahmed","amourah",82,"m","brucellose",2022-03-29
+37,"fodili fatna","amourah",30,"f","brucellose",2022-05-10
+38,"moati boufateh","amourah",52,"m","brucellose",2022-04-24
+39,"regaiaa rokaia","amourah",9,"f","brucellose",2022-02-27
+40,"benaissa khadidja","feb",60,"f","brucellose",2022-05-26
+41,"bennaoui belhadje","feb",23,"m","brucellose",2022-05-11
+42,"khelifa lakhdar","guettara",33,"m","brucellose",2022-06-16
+43,"lahneche ibrahim","guettara",63,"m","brucellose",2022-06-14
+44,"remadnia nadji","guettara",39,"m","brucellose",2022-06-28
+45,"alal mohamed","feb",7,"m","brucellose",2022-06-12
+46,"belahouel belkheir","guettara",42,"m","brucellose",2022-06-20
+47,"brahim lahcen","guettara",63,"m","brucellose",2022-06-14
+48,"boukhalet khalifa","feb",15,"m","brucellose",2022-07-18
+49,"abdelhafidh sofiane","feb",32,"m","brucellose",2022-07-20
+50,"laiche fatna","feb",72,"f","brucellose",2022-07-15
+51,"meriniza bachir","oumlaadam",33,"m","brucellose",2022-07-14
+52,"benaom ahmed","guettara",46,"m","brucellose",2022-08-08
+53,"megueni ibrahim","guettara",35,"m","brucellose",2022-08-17
+54,"daoudi bachir","guettara",42,"m","brucellose",2022-08-18
+55,"ben mazouz oumhani","guettara",40,"f","brucellose",2022-08-09
+56,"abdelwahab khadija","guettara",46,"f","brucellose",2022-09-05
+57,"bedirina houria","sedrahal",27,"f","brucellose",2022-08-22
+58,"khamkham noura","amourah",29,"f","brucellose",2022-08-14
+59,"saadi mebarka","sedrahal",38,"f","brucellose",2022-09-01
+60,"hassani elaassali","sedrahal",16,"m","brucellose",2022-09-06
+61,"charboul naoum","deldoul",48,"m","brucellose",2022-09-23
+62,"laharache ahlem","guettara",4,"f","brucellose",2022-09-07
+63,"far hiba","feb",15,"f","brucellose",2022-10-12
+64,"far mohamed","feb",50,"m","brucellose",2022-10-15
+65,"benabdelssalam belkheir","feb",40,"m","brucellose",2022-10-21
+66,"boukhalat aamar","feb",21,"m","brucellose",2022-10-16
+67,"bennaoui souad","feb",12,"f","brucellose",2022-08-14
+68,"laiche sabrine","feb",21,"f","brucellose",2022-07-12
+69,"maalmi zohra","feb",64,"f","brucellose",2022-08-15
+70,"thamri rabah","feb",19,"m","brucellose",2022-08-04
+71,"laiche fatna","feb",72,"f","brucellose",2022-07-05
+72,"halfaia saadia","feb",48,"m","brucellose",2022-07-31
+73,"ben hadj saddek","feb",29,"m","brucellose",2022-08-07
+74,"halfaia fatna","feb",51,"f","brucellose",2022-07-31
+75,"chraitte fatna","feb",36,"f","brucellose",2022-08-02
+76,"laiche mohamed","feb",30,"m","brucellose",2022-08-24
+77,"sghair ahmed","feb",49,"m","brucellose",2022-08-01
+78,"belkhiri hadjer","feb",23,"f","brucellose",2022-09-08
+79,"boukhalat khelifa","feb",15,"m","brucellose",2022-09-28
+80,"halfaia omelkheir","feb",40,"f","brucellose",2022-09-30
+81,"benabdelhafidh soufian","feb",32,"m","brucellose",2022-10-01
+82,"sid ahmed ","feb",61,"m","brucellose",2022-09-16
+1,"nouidjem elhadje","feb",48,"m","brucellose",2023-02-12
+2,"rahmoune saadi","feb",29,"m","brucellose",2023-02-12
+3,"rahmoune belkhattab","feb",28,"m","brucellose",2023-02-25
+4,"moufak fathi","feb",21,"m","brucellose",2023-02-05
+5,"benkonissa nadji","feb",30,"m","brucellose",2023-02-02
+6,"naama moussa","sedrahal",13,"m","brucellose",2023-03-02
+7,"kennay abdelrahim","sedrahal",30,"m","brucellose",2023-03-14
+8,"dhib mohamed","sedrahal",46,"m","brucellose",2023-03-16
+9,"atalah mohamed","sedrahal",26,"m","brucellose",2023-03-16
+10,"dhib nacira","sedrahal",13,"f","brucellose",2023-03-02
+11,"kennay ben aissa","sedrahal",22,"m","brucellose",2023-03-28
+12,"hatab jouri","sedrahal",6,"F","brucellose",2023-03-20
+13,"chedad aicha","sedrahal",46,"F","brucellose",2023-03-08
+14,"chaaibe laarbi","sedrahal",24,"M","brucellose",2023-03-05
+15,"naama mohcen","sedrahal",24,"M","brucellose",2023-03-21
+16,"ben alia aicha","sed",10,"f","brucellose",2023-04-13
+17,"hassani ahmed","sed",13,"m","brucellose",2023-04-16
+18,"assali assali","sed",41,"m","brucellose",2023-04-03
+19,"gorti azeddin","sed",31,"m","brucellose",2023-04-24
+20,"souiah fatna","sed",42,"f","brucellose",2023-04-25
+21,"assali mohamed","sedrahal",20,"m","brucellose",2023-04-16
+22,"ben alia belkacem","sedrahal",23,"m","brucellose",2023-04-11
+23,"ben naooui ben alia","feb",56,"m","brucellose",2023-03-09
+24,"lakhal dahman","guattara",40,"m","brucellose",2023-04-20
+25,"lakhal rafika","guattara",11,"f","brucellose",2023-04-26
+26,"tahiri ahmed","guattara",25,"m","brucellose",2023-04-26
+27,"lakhal ahmed","guattara",10,"m","brucellose",2023-04-26
+28,"toumi khadija","guattara",30,"f","brucellose",2023-04-28
+29,"chatouh khadija","guattara",41,"f","brucellose",2023-03-29
+30,"barakat abdlkader","selmana",43,"m","brucellose",2023-04-09
+31,"rahmoun zakhroufa","selmana",26,"f","brucellose",2023-04-09
+32,"barakat abdlhadi","guattara",26,"m","brucellose",2023-04-09
+33,"haouari ikram","selmana",9,"f","brucellose",2023-03-06
+34,"bedoui abdellah","selmana",63,"m","brucellose",2023-03-07
+35,"heffaf laid","selmana",81,"m","brucellose",2023-03-19
+36,"salah lahouel","feb",6,"m","brucellose",2023-04-18
+37,"belaid djouber","feb",10,"m","brucellose",2023-04-05
+38,"halfaia abdelkader","feb",28,"m","brucellose",2023-04-30
+39,"djoubar abdellah","feb",12,"m","brucellose",2023-04-29
+40,"djoubar meriem","feb",3,"f","brucellose",2023-04-30
+41,"salah naoumi","feb",16,"m","brucellose",2023-05-06
+42,"bedoui abdelhadi","feb",12,"m","brucellose",2023-04-19
+43,"boukhalkhal abdelkader","feb",36,"m","brucellose",2023-04-19
+44,"makhlouf amira","feb",23,"f","brucellose",2023-05-05
+45,"halfaia laid","feb",71,"m","brucellose",2023-05-09
+46,"touil mohamed","sedrahal",40,"m","brucellose",2023-05-21
+47,"saadi hadda","sedrahal",27,"f","brucellose",2023-06-04
+48,"serayah abdelmoumen","sedrahal",17,"m","brucellose",2023-06-01
+49,"chedad imane","sedrahal",10,"f","brucellose",2023-06-04
+50,"hemrouche fatiha","sedrahal",11,"f","brucellose",2023-05-27
+51,"bergoug faiza","sedrahal",30,"f","brucellose",2023-06-04
+52,"lahwal salah","fed",6,"m","brucellose",2023-04-18
+53,"jawbar fatima","fed",10,"f","brucellose",2023-04-22
+54,"ben naoui benalia","fed",55,"m","brucellose",2023-04-25
+55,"gomez bilal","fed",15,"m","brucellose",2023-05-13
+56,"benlhaj naji","fed",38,"m","brucellose",2023-05-04
+57,"jawbar belgis","fed",17,"f","brucellose",2023-04-15
+58,"halfaiya abdlkader","fed",29,"m","brucellose",2023-04-30
+59,"jawbar meriem","fed",3,"f","brucellose",2023-04-30
+60,"jawbar abdalah","fed",12,"m","brucellose",2023-04-29
+61,"salah nawal","feb",16,"f","brucellose",2023-04-05
+62,"berabeh abdellah","feb",12,"m","brucellose",2023-04-17
+63,"boukhalaf ombareka","feb",36,"f","brucellose",2023-04-19
+64,"makhlouf laamria","feb",29,"f","brucellose",2023-04-10
+65,"laidi khalfalah","fed",7,"m","brucellose",2023-05-09
+66,"halfaia abdellah","fed",24,"m","brucellose",2023-05-15
+67,"mokhtari meftah","fed",34,"m","brucellose",2023-05-14
+68,"djoubar lakehal","fed",38,"m","brucellose",2023-05-12
+69,"attalah meriem","fed",44,"f","brucellose",2023-05-11
+70,"sayar charfia","fed",25,"f","brucellose",2023-05-18
+71,"chetouh messoud","selmana",14,"m","brucellose",2023-06-11
+72,"benhadda ahmed","guettara",56,"m","brucellose",2023-06-11
+73,"belelmi abdelkader","guettara",52,"m","brucellose",2023-06-20
+74,"delles fatma","guettara",33,"f","brucellose",2023-06-21
+75,"laoud rahma","guettara",40,"f","brucellose",2023-06-27
+76,"ziane ahmed","guettara",18,"m","brucellose",2023-06-19
+77,"hebal mohamed","guettara",55,"m","brucellose",2023-06-27
+78,"djaidir aziz","guettara",34,"m","brucellose",2023-07-06
+79,"rebouh abdelrahmane","guettara",16,"m","brucellose",2023-06-22
+80,"belaouam mebarka","guettara",25,"f","brucellose",2023-06-22
+81,"beloul aicha","guettara",14,"f","brucellose",2023-07-06
+82,"chihoub fatima","deldoul",17,"f","brucellose",2023-06-15
+83,"sitouh haizia","deldoul",30,"f","brucellose",2023-07-01
+84,"oubah ombarka","deldoul",50,"f","brucellose",2023-06-26
+85,"djeklil tayeb","deldoul",63,"m","brucellose",2023-06-22
+86,"oubah aicha","deldoul",25,"f","brucellose",2023-06-13
+87,"dahas fatoum","deldoul",52,"f","brucellose",2023-06-03
+88,"beloul aicha","deldoul",14,"f","brucellose",2023-06-01
+89,"guet meriem","sedrahal",38,"f","brucellose",2023-07-06
+90,"koraibaa mohamed","sedrahal",87,"m","brucellose",2023-07-17
+91,"bakouche abdellah","sedrahal",39,"m","brucellose",2023-06-17
+92,"oubah fatna","deldoul",40,"f","brucellose",2023-07-03
+93,"mdouha aicha","deldoul",30,"f","brucellose",2023-07-26
+94,"tahah tourkia","selmana",41,"f","brucellose",2023-07-15
+95,"laabidi halima","selmana",25,"f","brucellose",2023-07-04
+96,"bakria fatna","selmana",30,"f","brucellose",2023-07-21
+97,"chetouh saida","selmana",16,"f","brucellose",2023-07-19
+98,"nacer cherifa","guettara",55,"f","brucellose",2023-07-20
+99,"taleb yamina","guettara",30,"f","brucellose",2023-08-06
+100,"zayane yassen","deldoul",8,"m","brucellose",2023-07-15
+101,"zayane beloul","deldoul",15,"m","brucellose",2023-07-26
+102,"naimi halima","guettara",16,"f","brucellose",2023-07-27
+103,"salhi messoud","guettara",71,"m","brucellose",2023-07-27
+104,"regaia safia","amourah",26,"f","brucellose",2023-07-21
+105,"nefti saida","amourah",40,"f","brucellose",2023-06-30
+106,"regaiag hadda","omlaadam",32,"f","brucellose",2023-06-22
+107,"ben kouider aid","guettara",25,"m","brucellose",2023-06-23
+108,"garache samira","guettara",12,"f","brucellose",2023-06-20
+109,"taleb omelkheir","guettara",10,"f","brucellose",2023-08-10
+110,"taleb alia","guettara",18,"f","brucellose",2023-07-12
+111,"rabhi nessrine","feb",5,"f","brucellose",2023-07-12
+112,"adjaimi ahmed","selmana",10,"m","brucellose",2023-07-07
+113,"khallefallah omar","selmana",13,"m","brucellose",2023-07-04
+114,"laadjel zeinab","amourah",40,"f","brucellose",2023-07-03
+115,"dahmane mokhtar","selmana",65,"m","brucellose",2023-07-02
+116,"laadjimi bayan","selmana",4,"f","brucellose",2023-06-29
+117,"laadjimi yahia","selmana",8,"m","brucellose",2023-06-29
+118,"maati ahmed","amourah",71,"m","brucellose",2023-07-06
+119,"marwache laila","selmana",4,"f","brucellose",2023-07-06
+120,"ghoul bahria","deldoul",29,"f","brucellose",2023-07-10
+121,"gataf hanane","deldoul",23,"f","brucellose",2023-07-14
+122,"touati khawla","selmana",10,"f","brucellose",2023-07-23
+123,"benrebiha lagin","deldoul",5,"f","brucellose",2023-07-20
+124,"basoud boubaker","guettara",30,"m","brucellose",2023-07-15
+125,"aidi ahmida","selmana",44,"m","brucellose",2023-07-16
+126,"bakria lamine","selmana",7,"m","brucellose",2023-08-07
+127,"ben brahim belkheir","selmana",30,"m","brucellose",2023-08-07
+128,"maache abdelrezak","selmana",17,"m","brucellose",2023-07-23
+129,"deradji thamer","selmana",18,"m","brucellose",2023-08-07
+130,"laadjal alia","amourah",52,"f","brucellose",2023-07-20
+131,"bakria saaida","selmana",48,"f","brucellose",2023-07-23
+132,"derbal aachoura","sedrahal",12,"f","brucellose",2023-08-04
+133,"ghriab abdelrahmane","selmana",7,"m","brucellose",2023-07-30
+134,"benbrahim somia","selmana",22,"f","brucellose",2023-08-03
+135,"zayane atia","guettara",24,"m","brucellose",2023-08-10
+136,"benhadda imane","guettara",19,"f","brucellose",2023-08-13
+137,"samdi chaibi","sedrahal",37,"m","brucellose",2023-08-07
+138,"guellile mostapha","sedrahal",25,"m","brucellose",2023-08-31
+139,"amraoui abdelkader","sedrahal",56,"m","brucellose",2023-08-10
+140,"lamlouma talia","sedrahal",18,"f","brucellose",2023-08-03
+141,"naoumi fatima","sedrahal",40,"f","brucellose",2023-08-13
+142,"saaoudi mira","sedrahal",50,"f","brucellose",2023-09-10
+143,"brahimi laadjale","sedrahal",67,"m","brucellose",2023-08-29
+144,"ghorab zohra","sedrahal",33,"f","brucellose",2023-08-25
+145,"mehamedi safi","sedrahal",48,"m","brucellose",2023-08-10
+146,"ghorab tayeb","sedrahal",55,"m","brucellose",2023-07-20
+147,"mribah hocine","sedrahal",28,"m","brucellose",2023-07-24
+148,"assali sara","sedrahal",13,"f","brucellose",2023-07-10
+149,"benamara fatima","sedrahal",77,"f","brucellose",2023-08-24
+150,"saadi bakria","sedrahal",23,"m","brucellose",2023-08-07
+151,"selikhe charafedine","sedrahal",40,"m","brucellose",2023-07-10
+152,"merikh saadia","sedrahal",15,"f","brucellose",2023-07-27
+153,"naama mohamed","sedrahal",20,"m","brucellose",2023-07-27
+154,"ghoul tayeb","sedrahal",26,"m","brucellose",2023-07-10
+155,"ganouza messoud","sedrahal",51,"m","brucellose",2023-08-12
+156,"chenaiba hadda","sedrahal",57,"f","brucellose",2023-08-10
+157,"chedad aya","sedrahal",8,"f","brucellose",2023-07-24
+158,"chouitar aicha","sedrahal",18,"f","brucellose",2023-07-26
+159,"laoud belkacem","guettara",45,"m","brucellose",2023-09-16
+160,"mimoun kouider","guettara",33,"m","brucellose",2023-09-17
+161,"benhadda imane","guettara",19,"f","brucellose",2023-09-17
+162,"ziane atia","guettara",24,"m","brucellose",2023-09-23
+163,"sariah ahmed","sedrahal",82,"m","brucellose",2023-10-24
+164,"ghorab elhaje","sedrahal",29,"m","brucellose",2023-09-20
+165,"benalia hedad","sedrahal",56,"m","brucellose",2023-09-27
+166,"mehamdi madani","sedrahal",56,"m","brucellose",2023-09-27
+167,"benalia hoda","sedrahal",49,"f","brucellose",2023-09-27
+168,"karboub sadia","deldoul",70,"f","brucellose",2023-08-27
+169,"slailih fatiha","omlaadam",23,"f","brucellose",2023-08-29
+170,"reguiag ahmed","omlaadam",21,"m","brucellose",2023-08-31
+171,"benrbaiha ahmed","deldoul",54,"m","brucellose",2023-09-03
+172,"haoua mohemad","selmana",26,"m","brucellose",2023-09-03
+173,"reguiag abdelnour","omlaadam",7,"m","brucellose",2023-09-04
+174,"zorig atra","sedrahal",26,"f","brucellose",2023-09-07
+175,"touati abdelkader","selmana",75,"m","brucellose",2023-10-16
+176,"touati lakhdar","selmana",32,"m","brucellose",2023-10-16
+177,"semache mohamed","selmana",55,"m","brucellose",2023-10-16
+178,"benghouthi meftah","selmana",19,"m","brucellose",2023-10-16
+179,"brahimi lakhdar","selmana",25,"m","brucellose",2023-10-16
+180,"rezazfa herkati","selmana",19,"m","brucellose",2023-10-16
+181,"henache nour elhouda","selmana",20,"f","brucellose",2023-10-16
+182,"ziane attia","selmana",82,"m","brucellose",2023-10-16
+183,"armar fatna","sedrahal",83,"f","brucellose",2023-09-18
+184,"mraouich halima","selmana",25,"f","brucellose",2023-09-14
+185,"boumkhalat mobarka","fed",30,"f","brucellose",2023-09-14
+186,"radouan ramliya","selmana",21,"f","brucellose",2023-09-14
+187,"boumkhalat hada","fed",70,"f","brucellose",2023-09-14
+188,"elgan khoussa","selmana",56,"f","brucellose",2023-09-19
+189,"kouidri janah","selmana",70,"f","brucellose",2023-09-19
+190,"chlaigim massouda","daldoul",40,"f","brucellose",2023-09-19
+191,"chaouli meriem","daldoul",35,"f","brucellose",2023-09-24
+192,"ghorab mohamed","sedrahal",7,"m","brucellose",2023-11-26
+193,"saadi tayeb","sedrahal",47,"m","brucellose",2023-11-13
+1,"benmoussa laatra","guettara",21,"f","lc",2019-01-17
+2,"abdelwahab nessrine","guettara",5,"f","lc",2019-01-22
+3," bakhdache kholoud","guettara",6,"f","lc",2019-01-22
+4,"djaidir ziane","guettara",18,"m","lc",2019-01-21
+5,"benmoussa touati","guettara",27,"m","lc",2019-01-22
+6,"gueroud omelkheir","selmana",50,"f","lc",2018-12-27
+7,"gueroud brahim","selmana",58,"m","lc",2018-12-27
+8,"regueigue baya","selmana",31,"f","lc",2019-01-14
+9,"mansour rachid","selmana",32,"m","lc",2019-01-14
+10,"mansour zakaria","selmana",1,"m","lc",2019-01-15
+11,"kraiwaa brahim","selmana",9,"m","lc",2018-12-29
+12,"kraiwaa mohamed","selmana",6,"m","lc",2019-12-30
+13,"tahiri abdelaziz","selmana",72,"m","lc",2019-01-27
+14,"seghir malika","feb",1,"f","lc",2019-12-30
+15,"ouad mohamed","selmana",15,"m","lc",2019-02-04
+16,"dahmane halima","selmana",47,"f","lc",2019-02-04
+17,"benfatacha naouia","selmana",5,"f","lc",2019-02-04
+18,"messaouda kraibaa","sedrahal",30,"f","lc",2019-03-10
+19,"khadra kraibaa","sedrahal",5,"f","lc",2019-03-10
+20,"regueigue omar","omlaadam",12,"m","lc",2019-02-24
+21,"naimi amar","omlaadam",11,"m","lc",2019-02-24
+22,"benselilih  hmida","omlaadam",8,"m","lc",2019-02-24
+23,"dahmen khelifa","omlaadam",9,"m","lc",2019-02-24
+24,"naimi hlima","omlaadam",13,"f","lc",2019-02-24
+25,"naimi nadji","omlaadam",9,"m","lc",2019-02-24
+26,"meriniza mostapfa","omlaadam",7,"m","lc",2019-02-24
+27,"taybi ahmed","omlaadam",65,"m","lc",2019-02-16
+28,"laadjal messaouda","amourah",3,"f","lc",2019-02-18
+29,"laadjal aamar","amourah",6,"m","lc",2019-02-18
+30,"laadjal djahida","amourah",1,"f","lc",2019-02-16
+31,"saliha gueiraa","amourah",15,"f","lc",2019-01-08
+32,"zeinab nafti","amourah",3,"f","lc",2019-01-08
+33,"mohamed halfaia","feb",63,"m","lc",2019-02-11
+34,"kheira halfaia","feb",33,"f","lc",2019-02-11
+35,"meriem halfaia","feb",60,"f","lc",2019-02-11
+36,"kamal halfaia","feb",35,"m","lc",2019-02-11
+37,"elaarbi halfaia","feb",3,"m","lc",2019-02-11
+38,"meriem halfaia","feb",6,"f","lc",2019-02-11
+39,"hadjira halfaia","feb",17,"f","lc",2019-02-11
+40,"imane halfaia","feb",5,"f","lc",2019-02-11
+41,"khadidja dahmane","feb",12,"f","lc",2019-02-17
+42,"giraa fatna","guettara",2,"f","lc",2019-04-18
+43,"zahira khalil","selmana",15,"f","lc",2019-02-28
+44,"regueia djebria","amourah",34,"f","lc",2019-02-04
+45,"kerache fouzi","selmana",10,"m","lc",2019-02-09
+46,"mansour halima","selmana",42,"f","lc",2019-03-03
+47,"naoui fatna","selmana",60,"f","lc",2019-05-20
+48,"dahmane mebarka","selmana",89,"f","lc",2019-06-06
+49,"guiraa fatma","guettara",20,"f","lc",2019-04-14
+50,"ben mouafak chaima bent kadour","amourah",13,"f","lc",2019-11-17
+51,"ben mouafak saida bent ali","amourah",65,"f","lc",2019-06-06
+52,"ben moufak kadour","amourah",36,"m","lc",2019-06-06
+53,"remeitha taher","deldoul",51,"m","lc",2019-11-19
+54,"ben rebeiha mohamed","deldoul",2,"m","lc",2019-11-16
+55,"ben mouafak fatna","amourah",65,"f","lc",2019-11-24
+56,"nafti charaf elddine","guettara",27,"m","lc",2019-12-03
+1,"moaati abdeldjabar","feb",3,"m","lc",2020-01-02
+2,"moaati mekadem","feb",5,"m","lc",2020-01-02
+3,"moaati ibrahim","feb",36,"m","lc",2020-01-02
+4,"ben amra zoukh","feb",8,"m","lc",2020-01-02
+5,"henach aissa","deldoul",36,"m","lc",2020-01-07
+6,"obah omelkheir","deldoul",3,"f","lc",2020-01-07
+7,"benmelki ahmed","amourah",30,"m","lc",2020-01-02
+8,"zerket souhaila","deldoul",5,"f","lc",2020-01-09
+9," tahiri nadhir","selmana",1,"m","lc",2020-01-09
+10,"ben amara kheira","amourah",1,"f","lc",2020-01-13
+11,"dekim ismail","selmana",1,"m","lc",2020-01-16
+12,"tahiri nadhir","selmana",2,"m","lc",2020-01-09
+13,"baghdad daoud","omlaadam",25,"m","lc",2020-01-09
+14,"aewahab med","selmana",68,"m","lc",2020-01-08
+15,"othmani aerahman","deldoul",11,"m","lc",2020-01-13
+16,"othmani moaadh","deldoul",1,"m","lc",2020-01-13
+17,"mellati maammar","selmana",4,"m","lc",2020-02-03
+18,"benbrahim nadia","selmana",28,"f","lc",2020-01-28
+19,"haouari ahmed","selmana",57,"m","lc",2020-01-11
+20,"benkaamez belkacem","amoura",16,"m","lc",2020-01-26
+21,"dhib ahmed","sedrahal",5,"m","lc",2020-02-05
+22,"benarif meryem","oumlaadam",7,"f","lc",2020-02-05
+23,"salhi soumia","oumlaadam",3,"f","lc",2020-02-05
+24,"mriniza zohra","oumlaadam",5,"f","lc",2020-02-05
+25,"boukhalat noureddine","oumlaadam",3,"m","lc",2020-02-05
+26,"boukhalat zahira","oumlaadam",11,"f","lc",2020-02-05
+27,"bulie youness","oumlaadam",30,"m","lc",2020-02-05
+28,"salhi soulef","oumlaadam",6,"f","lc",2020-02-05
+29,"ben khaled ahmed","oumlaadam",4,"m","lc",2020-02-05
+30,"louagab achouak","oumlaadam",3,"f","lc",2020-02-05
+31,"laaggab ammara","oumlaadam",4,"m","lc",2020-02-05
+32,"laggoune hanane","oumlaadam",10,"f","lc",2020-02-05
+33,"salhi zahira","oumlaadam",10,"f","lc",2020-02-05
+34,"kasbaili mubah","oumlaadam",30,"m","lc",2020-02-05
+35,"khaouni hiba","oumlaadam",7,"f","lc",2020-02-05
+36,"kohil ammar","oumlaadam",1,"m","lc",2020-02-05
+37,"naami moukhtar","oumlaadam",17,"m","lc",2020-02-06
+38,"laggoune rehab","oumlaadam",5,"f","lc",2020-02-06
+39,"korayeb khadidja","oumlaadam",3,"f","lc",2020-02-09
+40,"baghdadi hadda","oumlaadam",6,"f","lc",2020-02-09
+41,"kheniche saida","oumlaadam",8,"f","lc",2020-02-09
+42,"ben chena mustapha","oumlaadam",16,"m","lc",2020-02-09
+43,"djenidi malek","oumlaadam",4,"f","lc",2020-02-10
+44,"naami kheira","oumlaadam",9,"f","lc",2020-02-10
+45,"naami fatma","oumlaadam",16,"f","lc",2020-02-10
+46,"belkheir moloud","oumlaadam",30,"m","lc",2020-02-10
+47,"tamkit mohammed","oumlaadam",30,"m","lc",2020-02-05
+48,"tahri khaled","deldoul",23,"m","lc",2020-02-13
+49,"tahri ali","deldoul",62,"m","lc",2020-02-13
+50,"haoua laila","selmana",1,"f","lc",2020-01-30
+51,"houa messaouda","selmana",37,"f","lc",2020-01-30
+52,"benacer dehikel","deldoul",12,"m","lc",2020-01-30
+53,"saoudi cherif","sedrahal",3,"m","lc",2020-01-19
+54,"heliss adem","sedrahal",4,"m","lc",2020-01-19
+55,"zidane nadjem","feb",24,"m","lc",2020-01-09
+56,"jaidoul mohamed","sedrahal",11,"m","lc",2020-01-15
+57,"benrabia zohra","amourah",24,"f","lc",2020-03-19
+58,"moata anis","amourah",27,"m","lc",2020-02-03
+59,"remadnia messouda","guettara",55,"f","lc",2020-01-27
+60,"daoudi hadda","guettara",34,"f","lc",2020-02-11
+61,"benacer abdelkader","guettara",12,"m","lc",2020-02-19
+62,"benacer med","guettara",5,"m","lc",2020-02-19
+63,"kribaa zahra","sedrahal",15,"f","lc",2020-02-04
+64,"dahmen kheira","selmana",39,"f","lc",2020-03-01
+65,"dahmen hadjer","selmana",1,"f","lc",2020-01-22
+66,"benhadda benallia","guettara",5,"m","lc",2019-12-25
+67,"mansour safa","selmana",5,"f","lc",2019-12-22
+68,"saoudi rokia","sedrahal",6,"f","lc",2019-12-08
+69,"zefzaf fatiha","selmana",40,"F","lc",2019-10-16
+70,"dehmane mebarka","selmana",30,"F","lc",2019-12-08
+71,"dhib omkeltoum","sedrahal",7,"F","lc",2020-01-07
+72,"regueigue kheira","selmana",10,"F","lc",2019-12-22
+73,"touati madani","selmana",25,"M","lc",2019-12-10
+74,"manssour belkacem","selmana",7,"M","lc",2020-01-01
+75,"mansour maroua","selmana",5,"F","lc",2019-11-22
+76,"tahiri imane","guettara",6,"F","lc",2019-12-16
+77,"moati khadidja","amourah",8,"F","lc",2019-11-15
+78,"moati ibrahim","amourah",36,"M","lc",2019-12-28
+79,"benaamara zakaria","amourah",8,"M","lc",2019-12-23
+80,"benrahal miloud","amourah",36,"M","lc",2020-01-15
+81,"moati mekadem","amourah",5,"M","lc",2019-12-28
+82,"moati abdeldjabar","amourah",3,"M","lc",2019-12-28
+83,"mimoune chatia","selmana",42,"F","lc",2019-12-09
+84,"mimoune rihab","selmana",10,"F","lc",2019-12-09
+85,"benaamara kheira","amourah",10,"F","lc",2020-01-15
+86,"moati oualid","amourah",2,"M","lc",2019-12-15
+87,"ben aamara meftah","amourah",14,"M","lc",2020-01-15
+88,"ghorissi aamar","amourah",38,"M","lc",2020-01-15
+89,"benaamara naouia","amourah",28,"F","lc",2019-11-15
+90,"zerguet rachid","deldoul",11,"m","lc",2020-08-18
+91,"thamri aamer","amourah",41,"m","lc",2020-10-05
+92,"abdelouahab kheira","guettara",6,"f","lc",2020-02-27
+93,"maamri saaida","guettara",37,"f","lc",2020-03-03
+94,"cheniba saadia","sedrahal",13,"f","lc",2020-11-11
+95,"cheniba brahim","sedrahal",38,"m","lc",2020-11-24
+96,"kouskous fatma","guettara",29,"f","lc",2020-11-19
+97,"tahiri youcef","guettara",4,"m","lc",2020-11-19
+98,"tahiri salim","guettara",6,"m","lc",2020-11-19
+99,"benbrahim merikha","feb",30,"f","lc",2020-11-24
+100,"mansour fatna","selmana",73,"m","lc",2020-10-28
+101,"benhadda daoudi","selmana",16,"m","lc",2020-10-27
+102,"moati abdelkader","feb",1,"M","lc",2020-02-10
+103,"benahmed assia","amourah",13,"F","lc",2020-02-26
+104,"amara nassira","amourah",30,"F","lc",2020-03-15
+105,"manssour mannar","selmana",4,"F","lc",2020-03-15
+106,"moati abdelkader","amourah",1,"M","lc",2020-03-14
+107,"nail amar","amourah",30,"M","lc",2020-09-21
+108,"thameri amer","amourah",30,"M","lc",2020-10-05
+109,"gadala hocine","amourah",33,"M","lc",2020-10-19
+110,"reguiaa soumia","amourah",18,"F","lc",2020-10-19
+111,"nail younes","amourah",2,"M","lc",2020-11-02
+112,"benghiaba hamza","amourah",3,"M","lc",2020-11-02
+113,"benghiaba kadour","amourah",47,"M","lc",2020-11-02
+114,"maalem issam elddine","amourah",25,"M","lc",2020-11-09
+115,"soltani ibrahim","amourah",21,"M","lc",2020-11-09
+116,"benabdeslam oussama","amourah",18,"M","lc",2020-11-09
+117,"nail abdelkader","amourah",13,"M","lc",2020-11-16
+118,"benghiaba fares","feb",14,"M","lc",2020-11-16
+119,"bakel mohamed","amourah",10,"M","lc",2020-11-16
+120,"bendjaballah naouia","amourah",31,"F","lc",2020-11-23
+121,"ayach ridha","amourah",29,"M","lc",2020-11-30
+122,"zitout sadam","selmana",29,"M","lc",2020-11-30
+123,"belassal abdelkader","feb",22,"M","lc",2020-11-30
+124,"haouia moncef","selmana",14,"M","lc",2020-12-07
+125,"bahri aymen","amourah",25,"M","lc",2020-12-07
+126,"bouhali djouria","feb",5,"F","lc",2020-12-14
+127,"guessiria amine","amourah",28,"M","lc",2020-12-14
+128,"abikchi nadhir","selmana",11,"M","lc",2020-12-21
+129,"kommari wissal","selmana",3,"F","lc",2020-12-21
+130,"benghiaba melki","amourah",40,"M","lc",2020-12-21
+131,"dahmani barkahom","amourah",45,"F","lc",2020-12-21
+132,"bouhali mibarka","amourah",45,"F","lc",2020-12-21
+133,"mouafak abderahmane","feb",12,"M","lc",2020-12-21
+134,"djenidi mohamed","amourah",9,"M","lc",2020-12-21
+1,"benbrahim mohamed","selmana",9,"M","lc",2021-01-04
+2,"monir dhiab","selmana",23,"M","lc",2021-01-11
+3,"abikchi nadine","selmana",11,"F","lc",2020-12-22
+4,"benmoufak malika","amourah",10,"f","lc",2021-01-21
+5,"hamidi dalila","deldoul",60,"f","lc",2021-01-21
+6,"rebiah rania","deldoul",6,"f","lc",2021-01-21
+7,"rebiah mira","deldoul",10,"f","lc",2021-01-21
+8,"benghouthi naima","omlaadam",18,"f","lc",2021-01-11
+9,"bendjeghlil meriem","deldoul",13,"f","lc",2021-01-13
+10,"benboukhalet said","feb",30,"M","lc",2021-02-08
+11,"reguiaa fatna","amourah",13,"f","lc",2021-02-24
+12,"reguiaa djabri","amourah",45,"m","lc",2021-02-24
+13,"kouidri mohamed","amourah",22,"m","lc",2021-02-24
+14,"benboukhalet saadia","feb",58,"f","lc",2021-02-24
+15,"thamri rahaf","amourah",14,"f","lc",2021-02-24
+16,"zidane nakhla","amourah",19,"f","lc",2021-02-24
+17,"thamri abdelmalek","amourah",36,"m","lc",2021-02-24
+18,"bengouaamez aaida","amourah",25,"f","lc",2021-02-24
+19,"kouidri islam","amourah",42,"m","lc",2021-02-24
+20,"manssour ahmed","selmana",36,"m","lc",2021-02-24
+21,"manssour aissa","selmana",12,"m","lc",2021-02-24
+22,"remadnia zohir","guettara",11,"m","lc",2021-03-31
+23,"daoudi bachir","guettara",15,"m","lc",2021-01-06
+24,"mimoun saad","guettara",35,"m","lc",2021-01-06
+25,"chenaiba brahim","sedrahal",4,"m","lc",2021-03-08
+26,"nebchi belkacem","selmana",41,"m","lc",2021-05-30
+27,"maache abdelmadjid","selmana",17,"m","lc",2021-05-17
+28,"rebih fatoum","selmana",1,"f","lc",2021-03-29
+29,"abdi mohamed","deldoul",42,"m","lc",2021-06-02
+30,"manssour assia","selmana",31,"F","lc",2021-10-22
+31,"manssour ahmed","selmana",30,"M","lc",2021-10-22
+32,"laarbi lakhdar","feb",19,"m","lc",2021-11-07
+33,"gouaamez brahim","feb",18,"m","lc",2021-11-07
+34,"aalal safia","feb",3,"f","lc",2021-11-03
+35,"nail ismail","feb",34,"m","lc",2021-11-08
+36,"attalah saad","feb",48,"m","lc",2021-11-11
+37,"attalah benalia","feb",13,"m","lc",2021-11-11
+38,"manssour lakhdar","selmana",74,"m","lc",2021-10-28
+39,"gharbi lahcen","feb",29,"m","lc",2021-10-28
+40,"benaamara benaabdelah","amourah",7,"m","lc",2021-10-28
+41,"benaamara monira","amourah",18,"f","lc",2021-10-14
+42,"rabhi zineb","feb",35,"f","lc",2021-11-18
+43,"aabikchi aya","selmana",42,"f","lc",2021-11-18
+44,"khaldi gharbi","feb",25,"m","lc",2021-11-18
+45,"regueiague aamer","selmana",18,"m","lc",2021-10-28
+46,"belaarbi nadhir","feb",3,"m","lc",2021-10-28
+47,"elhani naoum","feb",25,"m","lc",2021-11-04
+48,"aalal safia","selmana",3,"f","lc",2021-11-04
+49,"haouas mohamed","feb",32,"m","lc",2021-11-11
+50,"bekouche kamel","amourah",50,"m","lc",2021-10-21
+51,"chekali abdelkader","amourah",12,"m","lc",2021-10-21
+52,"medouar abdelghani","feb",27,"m","lc",2021-10-21
+53,"dahmane hanane","selmana",14,"f","lc",2021-11-27
+54,"dahmane soaad","selmana",7,"f","lc",2021-11-27
+55,"gouaamez ziane","feb",9,"m","lc",2021-11-27
+56,"tahiri messoud","selmana",48,"m","lc",2021-11-01
+57,"benchaoui ahmed","guettara",7,"m","lc",2021-12-14
+1,"benaabdslam med","feb",54,"M","lc",2022-01-02
+2,"benaamara messoda","amourah",24,"F","lc",2022-01-02
+3,"rouina oumhani","amourah",64,"F","lc",2022-01-02
+4,"benmoufak ahmed","amourah",52,"m","lc",2022-01-27
+5,"thamer khadidja","amourah",2,"f","lc",2022-02-03
+6,"benchouikha maria","amourah",14,"f","lc",2022-02-03
+7,"thamer abdelmalek","amourah",12,"m","lc",2022-02-03
+8,"benbrahim rouida","selmana",11,"f","lc",2022-02-03
+9,"taybi boumedien ben med ","deldoul",42,"m","lc",2022-02-09
+10,"thamri khadidja mustapha","feid el botma",2,"f","lc",2022-03-14
+11,"tahiri hafida","selmana",9,"f","lc",2022-03-19
+12,"belkheirat meriem","feb",41,"f","lc",2022-11-11
+13,"bazoul yacine","feb",21,"m","lc",2022-10-20
+14,"benguessmia akila","feb",4,"f","lc",2022-10-25
+15,"malati hadjira","feb",38,"f","lc",2022-11-09
+16,"djeraibie massouda","feb",34,"f","lc",2022-10-30
+17,"nail nourelhouda","feb",4,"f","lc",2022-11-01
+18,"amerei mohemed","feb",23,"m","lc",2022-10-28
+19,"djraibie mohemed","feb",12,"m","lc",2022-10-28
+20,"thamer ahmed","feb",6,"m","lc",2022-10-28
+21,"laiche fatma","feb",52,"f","lc",2022-09-29
+1,"salhi belkhir","fed",5,"m","lc",2023-01-06
+2,"benmassoud amer","fed",56,"m","lc",2023-02-09
+3,"daoudi  saliha","guettara",18,"f","lc",2023-04-27
+4,"benchaoui abdelatif","guettara",14,"m","lc",2023-04-27
+5,"bechaoui ahlem","guettara",5,"f","lc",2023-04-27
+6,"rahmoune lakhder","fed",19,"m","lc",2023-10-16
+7,"benibrahim laid","fed",8,"m","lc",2023-10-16
+8,"loaka ibrahim","fed",25,"m","lc",2023-10-23
+9,"melouli badr","amourah",27,"m","lc",2023-10-23
+10,"belkhirat moncef","fed",18,"m","lc",2023-11-06
+11,"laarbi rachid","amourah",29,"m","lc",2023-11-06
+12,"tamim mohemed","fed",19,"m","lc",2023-11-06
+13,"seid youcef","fed",22,"m","lc",2023-11-13
+14,"malki kamel","fed",18,"m","lc",2023-11-13
+15,"bentaher  saleh","selmana",36,"m","lc",2023-11-13
+16,"souici fatna","fed",12,"f","lc",2023-09-11
+17,"souici jihan","fed",5,"f","lc",2023-09-11
+18,"rahmoune rachid","fed",24,"m","lc",2023-09-11
+19,"ben nadji youcef","fed",18,"m","lc",2023-12-11
+20,"rouina hania","fed",15,"f","lc",2023-12-11
+21,"rouina omhani","fed",36,"f","lc",2023-12-24
+22,"attalah nouidjem","fed",26,"m","lc",2023-12-24
+23,"reda zohra","selmana",3,"f","lc",2023-12-24
+1,"salhi abdelhamid ben khaled","oumlaadam",0,"m","COQUELUCHE",2019-02-11
+1,"ben malki arara","omlaadam",12,"f","dephterie",2023-12-22
+2,"ben malki abdelkader","omlaadam",11,"m","dephterie",2023-12-22
+3,"ben malki ahmed ben nacer","omlaadam",4,"m","dephterie",2023-12-30
+1,"bensouaf saif elislam","sedrahal",4,"m","HAV",2019-01-06
+2,"ghoul boubaker ben taher","guettara",6,"m","HAV",2019-02-11
+1,"lagreb soaad","selmana",18,"f","HBV",2020-12-31
+1,"benbrahim belkheir","guettara",35,"m","HBV",2020-05-19
+1,"assali kheira","sedrahal",58,"f","KHF",2020-02-02
+1,"bengaamaz hadda","feid botma",35,"f","KHF",2022-07-03
+1,"rouina zinab","fed",8,"f","KHF",2023-01-16
+2,"guettaf nakhla","guettara",41,"f","KHF",2023-06-18
+1,"hanafi nidal ben kouider","fed",0,"m","MCS",2020-03-17
+2,"taher chedad","selmana",0,"m","MCS",2020-07-26
+1,"tahiri farid ben mohamed","guettara",4,"m","MCS",2019-02-03
+2,"adjimi khadidja bent aissa","oumlaadam",8,"f","MCS",2019-02-03
+3,"said yacine ben salem","fed",1,"m","MCS",2019-06-23
+4,"benkhelifa iyad","fed",0,"m","MCS",2019-05-26
+1,"remadnia ben atia meriem","Guettara",63,"f","HIV",2021-07-13
+2,"meriniza fatima","fed",30,"f","HIV",2021-06-22
+1,"x	y","fed",57,"m","HIV",2023-03-23
+1,"mansour nasreddine","salmana",30,"m","TP",2019-04-30
+1,"belouaz khadra","fed",46,"f","TP",2020-11-10
+1,"sersoub rekaia zakaria","fed",12,"f","PFA",2023-12-23
+1,"tahiri mohamed ben belkacem","guettara",3,"m","rougeole",2019-01-07
+2,"ziane fadila bent amer","guettara",0,"f","rougeole",2019-01-07
+3,"bengoamez mouna bent ali","feb",1,"f","rougeole",2019-01-06
+4,"remadhnia hiba bent atia","guettara",1,"f","rougeole",2019-01-06
+5,"adjimi mohamed lamin ben maamer","guettara",3,"m","rougeole",2019-01-06
+6,"adjimi bent nadji bent dahmane","guettara",6,"f","rougeole",2019-01-06
+7,"kouidri kadoour ben abdelkader","feb",0,"f","rougeole",2019-01-06
+8,"okacha khalil ben sayeh","amourah",5,"m","rougeole",2019-01-13
+9,"okacha younes ben hocine","amourah",1,"m","rougeole",2019-01-13
+10,"chatouh laarbi","selmana",30,"m","rougeole",2019-01-13
+11,"guerzou sejoud bent hocine","sedrahal",1,"f","rougeole",2019-01-13
+12,"rouina mohamed lamine ben ammer","feb",1,"m","rougeole",2019-01-14
+13,"rouina safa kharfia bent ammer","feb",1,"f","rougeole",2019-01-14
+14,"ben nacer khadra","selmana",32,"f","rougeole",2019-01-14
+15,"tahiri adem ben mohamed","feb",4,"m","rougeole",2019-01-14
+16,"tahiri mohamed ben taher","feb",0,"m","rougeole",2019-01-15
+17,"amraoui maya bent khaled","omlaadam",2,"f","rougeole",2019-01-20
+18,"hanafi nesrine bent rabeh","feb",3,"f","rougeole",2019-01-20
+19,"okacha saida bent sayeh","amourah",0,"f","rougeole",2019-01-20
+20,"oukacha aicha","amourah",2,"f","rougeole",2019-01-21
+21,"kouidri cherifa","feb",4,"f","rougeole",2019-01-21
+22,"okacha ritadj","amourah",1,"f","rougeole",2019-01-27
+23,"naaoum fatna bent mohamed","feb",5,"f","rougeole",2019-01-27
+24,"belkheiri mobarka bent kadour","feb",30,"f","rougeole",2019-01-27
+25,"belmiki oumhani bent bennacer","oumlaadam",4,"f","rougeole",2019-01-27
+26,"adjimi imane bent khalifa","guettara",9,"f","rougeole",2019-01-27
+27,"agoun zineb bent naouri","oumlaadam",5,"f","rougeole",2019-01-27
+28,"ben abdelhafid souhila","feb",17,"m","rougeole",2019-01-27
+29,"agoun aicha bent naouri","oumlaadam",2,"f","rougeole",2019-01-27
+30,"kouidri israa","feb",0,"f","rougeole",2019-01-27
+31,"okacha naima bent brahim","amourah",1,"f","rougeole",2019-02-03
+32,"naaoum nacereldinne ben med","feb",4,"m","rougeole",2019-02-03
+33,"okacha med adem ben amar","feb",4,"m","rougeole",2019-02-03
+34,"adjimi rekaia bent khalifa","guettara",9,"f","rougeole",2019-02-03
+35,"kouadria sabah","feb",1,"f","rougeole",2019-02-04
+36,"naaoum mohamed ben saad","feb",5,"m","rougeole",2019-02-04
+37,"dahmen zohra bent taher","guettara",31,"f","rougeole",2019-02-10
+38,"ben malki zian ben mohamed","guettara",5,"m","rougeole",2019-02-10
+39,"ben malki mobarka bent mohamed","guettara",2,"f","rougeole",2019-02-10
+40,"damen maamar ben malki","guettara",3,"m","rougeole",2019-02-10
+41,"ben nacer med ben mokhtar","guettara",5,"m","rougeole",2019-02-10
+42,"dahmen wahiba bent brahim","guettara",4,"f","rougeole",2019-02-11
+43,"naaoum zohra bent boubakar","amourah",8,"f","rougeole",2019-02-10
+44,"dahmane mohamed kadour","guettara",5,"m","rougeole",2019-02-24
+45,"dellas dahmane lalmi","guettara",4,"m","rougeole",2019-02-24
+46,"dahmane tahar amar","guettara",10,"m","rougeole",2019-02-24
+47,"chaoui zineb miloud ","feb",10,"f","rougeole",2019-02-21
+48,"bouhana naoual bent abdelaziz","selmana",35,"f","rougeole",2019-03-04
+49,"omar med ben boulerbah","sed rahal",0,"m","rougeole",2019-03-04
+50,"omar mokhtar ben belkheir","sed rahal",3,"m","rougeole",2019-03-04
+51,"redouane messaoud ben ziane","guettara",1,"m","rougeole",2019-03-03
+52,"redoune taher ben ziane","guettara",5,"m","rougeole",2019-03-03
+53,"thamerie meriem bent med","feb",1,"f","rougeole",2019-03-03
+54,"assali messouda bent med","sed rahal",2,"f","rougeole",2019-03-03
+55,"mimoun alhachmi ben mohamed","guettara",2,"m","rougeole",2019-03-18
+56,"mimoun nadjat bent taher","guettara",4,"f","rougeole",2019-03-18
+57,"assali kaoula bent aissa","sed rahal",2,"f","rougeole",2019-03-04
+58,"adjimi khalifa ben ahmed","selmana",22,"m","rougeole",2019-03-25
+59,"zerigue abdelkader ben slimane","sed rahal",5,"m","rougeole",2019-03-25
+60,"belakehal noura bent messoud","guettara",11,"f","rougeole",2019-03-25
+61,"nacer hasna bent omer","guettara",8,"f","rougeole",2019-03-25
+62,"sersoub roufida bent brahim","feb",0,"f","rougeole",2019-03-25
+63,"belegraa sara bent abdelkader","selmana",8,"f","rougeole",2019-03-31
+64,"loud hamza ben kouidar","guettara",1,"m","rougeole",2019-03-31
+65,"hathat hicham ben kouidar","selmana",1,"m","rougeole",2019-03-23
+66,"thamri kholoud bent ahmed","amourah",2,"f","rougeole",2019-04-08
+67,"thamri wahiba bent lakhder","amourah",1,"f","rougeole",2019-04-08
+68,"rouina soulaf bent mustafa","amourah",3,"f","rougeole",2019-04-08
+69,"mouissi bachir ben belkacem","guettara",31,"m","rougeole",2019-04-09
+70,"tahiri douha bent amar","guettara",1,"f","rougeole",2019-04-07
+71,"tahiri miloud ben messaoud","guettara",5,"m","rougeole",2019-04-09
+72,"tahiri sara ben hamza","guettara",2,"f","rougeole",2019-04-08
+73,"salhi abdelhamid ben khaled","selmana",1,"m","rougeole",2019-04-07
+74,"rouina messauda bent mustapha","amoura",6,"f","rougeole",2019-04-07
+75,"benchekhi saida bent attia","guettara",1,"f","rougeole",2019-04-08
+76,"sara tahiri bent aamer","selmana",5,"f","rougeole",2019-04-21
+77,"mokhtar ben hadda","sed rahal",0,"m","rougeole",2019-04-21
+78,"chetouh hadda","sed rahal",0,"f","rougeole",2019-04-21
+79,"abdelrahim messaouda","guettara",9,"f","rougeole",2019-04-21
+80,"belakehal noura","guettara",12,"f","rougeole",2019-04-21
+81,"mehdi heffafa","feb",6,"m","rougeole",2019-04-21
+82,"miloud tahiri","guettara",0,"m","rougeole",2019-04-21
+83,"ben chikh aamer ben laakhdar","guettara",2,"m","rougeole",2019-04-21
+84,"tahiri mebarka bent youcef","selmana",27,"f","rougeole",2019-04-21
+85,"souid khaled ben madjid","feb",5,"m","rougeole",2019-04-21
+86,"ben chikh aaicha bent lakhdar","guettara",16,"f","rougeole",2019-04-21
+87,"tahiri inas bent messaoud","guettara",10,"f","rougeole",2019-04-21
+88,"aamir kheira bent laaid","sed rahal",1,"f","rougeole",2019-04-21
+89,"aamir bachir ben saaid","sed rahal",6,"m","rougeole",2019-04-21
+90,"aamar belkhir ben lakhdar","sed rahal",1,"m","rougeole",2019-04-21
+91,"tahiri ahmed ben messaoud","selmana",5,"m","rougeole",2019-04-21
+92,"tahiri sara bent aamar","guettara",5,"f","rougeole",2019-04-21
+93,"dailouha tahiri","guettara",0,"f ","rougeole",2019-04-21
+94,"guetcha merouane","feb",18,"m","rougeole",2019-05-29
+95,"gouamez brahim","feb",16,"m","rougeole",2019-05-29
+96,"hanafi chouia","feb",16,"m","rougeole",2019-05-29
+97,"bouchanague dahmen b ahmed","deldoul",2,"m","rougeole",2019-05-29
+98,"belkheiri aicha","deldoul",32,"f ","rougeole",2019-06-09
+99,"rahmoun khadidja","feb",1,"f","rougeole",2019-06-09
+100,"malki elkaima","feb",30,"f","rougeole",2019-04-15
+101,"amara abdelhamid","feb",17,"M","rougeole",2019-06-04
+102,"benderrah mostapha","feb",17,"m","rougeole",2019-06-04
+103,"hameida amer","feb",1,"m","rougeole",2019-06-04
+104,"guesmia achoura","feb",18,"f","rougeole",2019-06-04
+105,"guellissat mohamed","deldoul",0,"m","rougeole",2019-05-19
+106,"said akil","feb",14,"m","rougeole",2019-05-14
+107,"bouchanague houria","deldoul",3,"f","rougeole",2019-05-22
+108,"bengaamez naas","feb",28,"m","rougeole",2019-05-26
+109,"tahiri bachir ben ali","guettara",1,"m","rougeole",2019-05-23
+110,"tahiri med lamine","guettara",1,"m","rougeole",2019-05-22
+111,"halfaya ikram","feb",3,"f","rougeole",2019-05-26
+112,"halfaya ikram","feb",3,"f ","rougeole",2019-05-26
+113,"sofrani noura -lakhdar","sed rahal",18,"f","rougeole",2019-05-19
+114,"abdelrahim oumhani b/ramdan","guettara",15,"f","rougeole",2019-05-19
+115,"guamej ahmed ben abdelkader","feb",33,"m","rougeole",2019-05-29
+116,"mimoune rihab /b salem","guettara",1,"f","rougeole",2019-05-16
+117,"tahiri yamina b /khadir","guettara",3,"f","rougeole",2019-06-06
+118,"tahiri ahlem b/ messaouda","guettara",2,"f","rougeole",2019-06-03
+119,"tahiri bochra b/ messaouda","guettara",4,"f","rougeole",2019-06-06
+120,"mhammedi younes/ b aek","selmana",1,"m","rougeole",2019-06-03
+121,"ben gouaamez wissam b/ mechri","feb",1,"f","rougeole",2019-06-03
+122,"kouidri abdelrahmane b/ ali","feb",1,"m","rougeole",2019-06-01
+123,"ben gouaamez naas b/ ahmed","feb",30,"m","rougeole",2019-05-26
+124,"djaballah bachir b/  dahmen","feb",12,"m","rougeole",2019-05-29
+125,"lakehal aicha b/ abdelkader","selmana",5,"f","rougeole",2019-05-28
+126,"ben khelifa iyad","feb",1,"m","rougeole",2019-05-26
+127,"walid sayah","feb",20,"m","rougeole",2019-05-30
+128,"aifaoui soumia","feb",3,"f ","rougeole",2019-06-10
+129,"thameri ibrahim","feb",32,"m","rougeole",2019-06-10
+130,"khori ben brahim","feb",25,"m","rougeole",2019-06-12
+131,"tahiri maroua bent mohamed","guettara",2,"f","rougeole",2019-06-18
+132,"tahiri mohamed ben belkheir","selmana",1,"m","rougeole",2019-06-17
+133,"abdelrahim azedine ben meftah","guettara",8,"m","rougeole",2019-06-17
+134,"rahmani mohamed","guettara",26,"m","rougeole",2019-06-14
+135,"abderahim othmane ben med","guettara",22,"m","rougeole",2019-06-19
+136,"kouidri yacine ben sadek","feb",3,"m","rougeole",2019-06-20
+137,"mehamdi saida bent abdelkader","selmana",4,"f","rougeole",2019-06-13
+138,"belkheiri fatna bent almi","deldoul",47,"f","rougeole",2019-06-01
+139,"thameri abdelbasset ben nouredine","feb",2,"m","rougeole",2019-06-11
+140,"hamida kheira bent bachir","feb",12,"f","rougeole",2019-06-11
+141,"hamida talma bent bachir","feb",2,"f","rougeole",2019-06-11
+142,"hamida attra bent bachir","feb",9,"f","rougeole",2019-06-11
+143,"thameri maroua bent djmoui","feb",2,"f","rougeole",2019-06-10
+144,"abderahim omhani ben meftah","guettara",15,"f","rougeole",2019-05-25
+145,"rihoub ben salem","feb",10,"m","rougeole",2019-05-26
+146,"meryam mokhtar","guettara",23,"f","rougeole",2019-05-20
+147,"khadidja bent ramdan","guettara",60,"f","rougeole",2019-05-20
+148,"benhadda mahjob ben ramdan","guettara",9,"m","rougeole",2019-05-20
+149,"ben hadj abdelaziz ben amar","feb",6,"m","rougeole",2019-06-30
+150,"dahmane wahiba bent brahim","guettara",5,"f","rougeole",2019-06-30
+151,"makhfia ben abdelmalek","deldoul",37,"m","rougeole",2019-06-26
+152,"ghouini amer ben brahim","deldoul",46,"m","rougeole",2019-06-25
+153,"kadira abdelatif brahim","sedrahal",1,"m","rougeole",2019-06-26
+154,"ben rebiha yamina ben ahmed","guettara",8,"m","rougeole",2019-06-17
+155,"khouli el arbi","feb",39,"m","rougeole",2019-06-03
+156,"benkhelif iyad","feb",1,"m","rougeole",2019-06-03
+157,"benhadj abdelaziz b/amar","feb",6,"m","rougeole",2019-06-30
+158,"dahman wahiba b/brahim","guettara",5,"f","rougeole",2019-06-30
+159,"tahiri khadidja b/mohamed","guettara",5,"f","rougeole",2019-07-02
+160,"ben lakehal meriem b/amara","feb",5,"f","rougeole",2019-07-07
+161,"gouini bachir b/amer","deldoul",1,"m","rougeole",2019-07-07
+162,"rami messaouda b/ahmed","deldoul",32,"f","rougeole",2019-07-07
+163,"bouchenak saadia","deldoul",24,"f","rougeole",2019-07-09
+164,"diad marouan b/mekhtar","selmana",2,"m","rougeole",2019-07-08
+165,"louagab abdelrahmane","oumlaadam",17,"m","rougeole",2019-08-01
+166,"khelif aissa","oumlaadam",3,"m","rougeole",2019-08-01
+167,"louagab yacine","oumlaadam",11,"m","rougeole",2019-08-01
+168,"zidane nadjet","feid elboutma",3,"f","rougeole",2019-08-01
+169,"louagab yamina","oumlaadam",27,"f","rougeole",2019-08-02
+170,"cherif kheira bent ahmed","selmana",23,"f","rougeole",2019-09-03
+171,"mraisse oumhani bent mohamed","selmana",15,"f","rougeole",2019-09-02
+172,"lagraa rahma bent belkacem","selmana",16,"f","rougeole",2019-09-02
+173,"lagraa messaouda bent belkacem","selmana",17,"f","rougeole",2019-09-02
+174,"lagraa bachir ben mohamed","selmana",5,"m","rougeole",2019-09-02
+175,"lagraa karima bent mohamed","selmana",6,"f","rougeole",2019-09-02
+176,"lagraa salah ben belkacem","selmana",11,"m","rougeole",2019-09-11
+177,"lagraa khadidja bent brahim","selmana",8,"f","rougeole",2019-09-11
+178,"lagraa kheira bent brahim","selmana",17,"f","rougeole",2019-09-15
+179,"saoudi aridj ben lamine","sedrahal",1,"m","rougeole",2019-09-20
+180,"lagraa boulerbah ben aissa","selmana",35,"m","rougeole",2019-09-20
+181,"lagraa tayeb ben ali","selmana",38,"m","rougeole",2019-09-20
+182,"lagraa taher ben ali","selmana",36,"m","rougeole",2019-09-16
+183,"lagraa tayeb ben ali","selmana",30,"m","rougeole",2019-09-17
+184,"touati omar ben abdallah","sedrahal",7,"m","rougeole",2019-09-20
+185,"lagraa mohamed ben said","selmana",2,"m","rougeole",2019-10-13
+186,"lagraa bilal ben brahim","selmana",1,"m","rougeole",2019-10-13
+187,"lagraa amine ben said","selmana",4,"m","rougeole",2019-10-13
+188,"touati zahra bent lakhdar","selmana",1,"f","rougeole",2019-10-16

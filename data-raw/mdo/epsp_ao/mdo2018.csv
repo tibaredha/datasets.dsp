@@ -1,0 +1,1213 @@
+N;NOM PRENOM;AGE;SEXE;NATIONALITE;COMMUNE;PATHOLOGIE;DATE
+1;Djaradnia Aicha;8;F;Algérienne;Chehbounia;Leishmaniose;02/01/2018
+2;Azzar Kamel ;29;M;Algérienne;Benhar;Brucellose;02/01/2018
+3;Bouzidi Attalah;63;M;Algérienne;Ain fekka;Leishmaniose;02/01/2018
+4;Seghiri Leila;4;F;Algérienne;Ain Oussera;Leishmaniose;02/01/2018
+5;Soulah Douaa;2;F;Algérienne;Ain Oussera;Leishmaniose;02/01/2018
+6;Dibes Abdelghani ;29;M;Algérienne;Guernini ;Leishmaniose;02/01/2018
+7;Zekkar Hadjira ;16;F;Algérienne;Ain Oussera;TEP;02/01/2018
+8;Mustafai Haroune;1;M;Algérienne;Guernini ;Rougeole;02/01/2018
+9;Ghanem Sihem;7;F;Algérienne;Guernini ;Rougeole;02/01/2018
+10;Berdaya Ayoub;9;M;Algérienne;Benhar;Leishmaniose;03/01/2018
+11;Benziane Ahmida;15;M;Algérienne;Birine;Leishmaniose;03/01/2018
+12;Alim Djihane ;5;F;Algérienne;Sidi Laadjel;Leishmaniose;03/01/2018
+13;Alim Oussema;10;M;Algérienne;Sidi Laadjel;Leishmaniose;03/01/2018
+14;Abderrahmane Souhaib;6;M;Algérienne;Bouaiche;Leishmaniose;03/01/2018
+15;Talia Meliani;60;M;Algérienne;Birine;Leishmaniose;04/01/2018
+16;Chikhaoui Rabah;43;M;Algérienne;Ain Oussera;Leishmaniose;04/01/2018
+17;Meslam Soufiane ;31;M;Algérienne;Ain Oussera;Leishmaniose;07/01/2018
+18;Ghayoub Cherif;54;M;Algérienne;Ain Oussera;Leishmaniose;07/01/2018
+19;Barkat Mouncif;1;M;Algérienne;Ain Oussera;Leishmaniose;07/01/2018
+20;Merbah Mourad ;31;M;Algérienne;Ain Oussera;Leishmaniose;07/01/2018
+21;Saadat Karim;10;M;Algérienne;Sidi Laadjel;Leishmaniose;07/01/2018
+22;Fradj Marouane ;7;M;Algérienne;Sidi Laadjel;Leishmaniose;07/01/2018
+23;Fradj Noueddine ;2;M;Algérienne;Sidi Laadjel;Leishmaniose;07/01/2018
+24;Mihoubi Hamza;2;M;Algérienne;Sidi Laadjel;Leishmaniose;07/01/2018
+25;Limam Amel;17;F;Algérienne;Ain Oussera;Leishmaniose;08/01/2018
+26;Messadi Aya ;7;F;Algérienne;Ain Oussera;Leishmaniose;08/01/2018
+27;Faid Denia ;80;F;Algérienne;Sidi Laadjel;Leishmaniose;08/01/2018
+28;Abzouzi Islam;1;M;Algérienne;Tiaret ;Leishmaniose;08/01/2018
+29;Hachi Hamada;12;M;Algérienne;Boughazoul;Leishmaniose;08/01/2018
+30;Merikhi Khadra ;19;F;Algérienne;Had Shary ;Leishmaniose;08/01/2018
+31;Ziane Ammar;1;M;Algérienne;El Khemis;Leishmaniose;08/01/2018
+32;Belkheiri Cheima;6;F;Algérienne;Ain Oussera;Leishmaniose;08/01/2018
+33;Mahmoud Radouane ;3;M;Algérienne;Birine;Leishmaniose;08/01/2018
+34;Zakar Hadjira ;16;F;Algérienne;Ain Oussera;TEP;08/01/2018
+35;Mustafai Khawla;7;F;Algérienne;Guernini ;Rougeole;09/01/2018
+36;Bouras Abdelkader ;19;M;Algérienne;hassi Fedoul ;Leishmaniose;09/01/2018
+37;Kadous Larbi ;51;M;Algérienne;Ain Oussera;Leishmaniose;09/01/2018
+38;Benalia El kheir;37;M;Algérienne;Had Shary ;Leishmaniose;10/01/2018
+39;Lagraa Mohamed;6;M;Algérienne;Ain Oussera;Brucellose;10/01/2018
+40;Sebah Belkacem;43;M;Algérienne;hassi Fedoul ;Leishmaniose;11/01/2018
+41;Benmaiche Ishak;7;M;Algérienne;Benhar;Leishmaniose;14/01/2018
+42;Douidi Adem;5;M;Algérienne;Ain Oussera;Leishmaniose;14/01/2018
+43;Malek Oum elkheir;42;F;Algérienne;Ain Oussera;Leishmaniose;14/01/2018
+44;Dellal Mohamed;8;M;Algérienne;Sidi Laadjel;Leishmaniose;14/01/2018
+45;Dellal Malika ;9;F;Algérienne;Sidi Laadjel;Leishmaniose;14/01/2018
+46;Beailiche Aissa ;52;M;Algérienne;hassi Fedoul ;Leishmaniose;14/01/2018
+47;Beailiche Fatima;50;F;Algérienne;hassi Fedoul ;Leishmaniose;14/01/2018
+48;Boudiaf Brahim;7;M;Algérienne;Birine;Leishmaniose;14/01/2018
+49;Seghiri Abdelkader ;18;M;Algérienne;Chahbounia;Leishmaniose;14/01/2018
+50;Souifa Zohra ;48;F;Algérienne;Ain Oussera;Leishmaniose;14/01/2018
+51;Hethat Oum elkheir ;48;F;Algérienne;Ain Oussera;Leishmaniose;15/01/2018
+52;Lagraa Cherifa ;11;F;Algérienne;Mesaad ;Leishmaniose;15/01/2018
+53;Behih Mohamed ;40;M;Algérienne;Sidi Laadjel;Leishmaniose;15/01/2018
+54;Yahi Mohamed ;9;M;Algérienne;Ain Oussera;Leishmaniose;15/01/2018
+55;Afif Imad ;33;M;Algérienne;Birine;Leishmaniose;15/01/2018
+56;Senouci Amina ;3;F;Algérienne;Bouaiche;Leishmaniose;16/01/2018
+57;Boudaoud Ahlem;25;F;Algérienne;Birine;Leishmaniose;21/01/2018
+58;Bouziane Sarah ;2;F;Algérienne;Messila ;Leishmaniose;21/01/2018
+59;Abderabi Tayeb ;40;M;Algérienne;Ain Oussera;Leishmaniose;21/01/2018
+60;Hadjaj Ali ;27;M;Algérienne;Ain Oussera;Brucellose;21/01/2018
+61;Ranadi meriem ;39;F;Algérienne;Sidi Laadjel;Leishmaniose;22/01/2018
+62;Djabar Sarah ;7;F;Algérienne;hassi Fedoul ;Rougeole;22/01/2018
+63;Boudabouz Miloud ;32;M;Algérienne;hassi Fedoul ;Rougeole;22/01/2018
+64;Messadi Karim ;6;M;Algérienne;hassi Fedoul ;Rougeole;22/01/2018
+65;Djabouri Raouane ;5;F;Algérienne;hassi Fedoul ;Rougeole;22/01/2018
+66;Sohri Kheira ;18;F;Algérienne;hassi Fedoul ;Rougeole;22/01/2018
+67;Riah Hayet ;0;F;Algérienne;hassi Fedoul ;Rougeole;22/01/2018
+68;Messadi Douaa;0;F;Algérienne;hassi Fedoul ;Rougeole;22/01/2018
+69;Soltani Freiha ;8;F;Algérienne;hassi Fedoul ;Rougeole;22/01/2018
+70;Beneddine  Rouya ;0;F;Algérienne;Ain Oussera;Rougeole;25/01/2018
+71;Beneddine Messaouda;30;F;Algérienne;Ain Oussera;Rougeole;25/01/2018
+72;Sehaim Said ;52;M;Algérienne;Birine;TEP;25/01/2018
+73;Mesmous Samia ;40;F;Algérienne;Ain Oussera;TEP;25/01/2018
+74;Mokrani Belkacem ;28;M;Algérienne;Ain Oussera;TEP;25/01/2018
+75;Djilani Fatima ;28;F;Algérienne;Birine;TP+;25/01/2018
+76;Seffai Kheira ;54;F;Algérienne;Birine;TEP;25/01/2018
+77;Belkheidar Rabah ;34;M;Algérienne;Ain Oussera;TEP;25/01/2018
+78;Djeddi nadir ;13;M;Algérienne;Birine;TEP;25/01/2018
+79;Hamhami Nouria ;34;F;Algérienne;Birine;TEP;25/01/2018
+80;Tahraoui Dandani ;60;M;Algérienne;Ain fekka;Leishmaniose;25/01/2018
+81;Hazrache Hayet ;25;F;Algérienne;Ain Oussera;Leishmaniose;25/01/2018
+82;Azzar Belfoudil ;54;M;Algérienne;Benhar;Brucellose;25/01/2018
+83;Tarbouche  Mokhtar;5;M;Algérienne;Sidi Laadjel;Leishmaniose;25/01/2018
+84;Messadi Abdelmalek ;6;M;Algérienne;Sidi Laadjel;Leishmaniose;25/01/2018
+85;Sehim Amine ;31;M;Algérienne;Ain Oussera;Leishmaniose;25/01/2018
+86;Douba Meriem ;2;F;Algérienne;Ain Oussera;Leishmaniose;25/01/2018
+87;Benziane Mohamed ;10;M;Algérienne;Ain Oussera;Leishmaniose;28/01/2018
+88;Khalili Ammar;7;M;Algérienne;Ain Oussera;Leishmaniose;29/01/2018
+89;Zenina Abdelkader ;67;M;Algérienne;Ain Oussera;Leishmaniose;31/01/2018
+90;Hayour Oussama;16;M;Algérienne;Ain Oussera;Leishmaniose;31/01/2018
+91;Teguig Oujdane ;1;F;Algeriénne;Sidi Laadjel ;Rougeole;01/02/2018
+92;Meriah Yacine ;7;M;Algeriénne;El khemis ;Leishmaniose;04/02/2018
+93;Ziad Mebarka ;36;F;Algeriénne;El khemis ;Leishmaniose;04/02/2018
+94;Kehailiche Aicha ;65;F;Algeriénne;El khemis ;Leishmaniose;04/02/2018
+95;Mohamedi Sidali ;1;M;Algeriénne;Bouaiche;Leishmaniose;04/02/2018
+96;Kouidri Abderrahim;4;M;Algeriénne;Messila ;Leishmaniose;04/02/2018
+97;Cheouaf Marwa ;6;F;Algeriénne;Ain Oussera;Leishmaniose;04/02/2018
+98;Mazouz Ahmed ;40;M;Algeriénne;Ain Oussera;TP+;04/02/2018
+99;Okbi Khadidja;27;F;Algeriénne;Hassi fedoul ;TP+;04/02/2018
+100;Laid Hayet ;28;F;Algeriénne;Ain Oussera;TP+;04/02/2018
+101;Thouamria  Madani ;45;M;Algeriénne;Ksar chellala;TEP;04/02/2018
+102;Laidani Attalah ;33;M;Algeriénne;Ain Oussera;TEP;04/02/2018
+103;Hamidani Fatima ;49;F;Algeriénne;Ain Oussera;TEP;04/02/2018
+104;Sbaa Siham ;28;F;Algeriénne;Birine;TEP;04/02/2018
+105;Ouakal Saida ;25;F;Algeriénne;Ain Oussera;TEP;04/02/2018
+106;Haouche Douaa;2;F;Algeriénne;Sidi Laadjel ;Leishmaniose;06/02/2018
+107;Benkheither Si eddine;13;M;Algeriénne;Ain Oussera;Leishmaniose;06/02/2018
+108;Benkihoul Noura ;10;F;Algeriénne;Ain Oussera;Leishmaniose;06/02/2018
+109;Oumchouireb Fatiha;35;F;Algeriénne;Ain Fekka;Leishmaniose;07/02/2018
+110;Regab Lazhari ;62;M;Algeriénne;Ain Oussera;Leishmaniose;07/02/2018
+111;Outhmani Mihoub;68;M;Algeriénne;Had Shary ;Leishmaniose;08/02/2018
+112;Kabel Rihem;6;F;Algeriénne;Benhar;Leishmaniose;08/02/2018
+113;Benaicha Messaoud ;24;M;Algeriénne;Ain Oussera;Leishmaniose;08/02/2018
+114;Hellal Fouzia ;33;F;Algeriénne;Sidi Laadjel ;Rougeole;08/02/2018
+115;Mouhadi Youcef ;1;M;Algeriénne;Ain Oussera;Rougeole;08/02/2018
+116;Maatoub Mohamed ;36;M;Algeriénne;Boughazoul ;Leishmaniose;11/02/2018
+117;Atoui Saad ;38;M;Algeriénne;Ain Oussera;Leishmaniose;13/02/2018
+118;Atoui Abir ;0;F;Algeriénne;Ain Oussera;Leishmaniose;13/02/2018
+119;Atoui Zohra;26;F;Algeriénne;Ain Oussera;Leishmaniose;13/02/2018
+120;Saadi Nour;3;F;Algeriénne;Benhar;Leishmaniose;13/02/2018
+121;Khenfar Mohamed ;4;M;Algeriénne;Sidi Laadjel ;Leishmaniose;13/02/2018
+122;Metgadem  Mohamed Islam;1;M;Algeriénne;Benhar;Leishmaniose;14/01/2018
+123;Boukharcha Rahma;84;F;Algeriénne;Ain Fekka;Leishmaniose;14/02/2018
+124;Renane Dalila ;29;F;Algeriénne;Birine;TEP;14/02/2018
+125;Lamri Kassida ;54;F;Algeriénne;Birine;TEP;14/02/2018
+126;Malki El ekri;39;F;Algeriénne;Ain Oussera;TEP;14/02/2018
+127;Tahraoui Mohamed ;22;M;Algeriénne;Ain Oussera;TEP;14/02/2018
+128;Belabes Djamel ;34;M;Algeriénne;Birine;TEP;14/02/2018
+129;Mansri Meriem;56;F;Algeriénne;Ain Oussera;TEP;14/02/2018
+130;Regab Mohamed ;16;M;Algeriénne;Ain Oussera;TEP;14/02/2018
+131;Dahmani Aya ;12;F;Algeriénne;Birine;Leishmaniose;15/02/2018
+132;Hachim Mohamed Ayoub;1;M;Algeriénne;Sidi Laadjel ;Leishmaniose;15/02/2018
+133;Benguesmia Abderrahmane ;25;M;Algeriénne;Birine;Leishmaniose;15/02/2018
+134;Khaouni Souhaila ;8;F;Algeriénne;Ain Fekka;Leishmaniose;15/02/2018
+135;Saber Mohamed ;1;M;Algeriénne;Birine;Leishmaniose;18/02/2018
+136;Abidat Roueya;4;F;Algeriénne;Hassi fedoul ;Rougeole;18/02/2018
+137;Benmaamar Bouchra;0;F;Algeriénne;Benhar;Rougeole;18/02/2018
+138;Guerzou Ikram;6;F;Algeriénne;Benhar;Rougeole;18/02/2018
+139;Hellal Fouzia ;10;F;Algeriénne;Ain Oussera;Rougeole;18/02/2018
+140;Hellal Sihem;3;F;Algeriénne;Ain Oussera;Rougeole;18/02/2018
+141;Hellal Yacine ;14;M;Algeriénne;Ain Oussera;Rougeole;18/02/2018
+142;Karmayar Nour yakine;2;F;Algeriénne;Ain Oussera;Rougeole;18/02/2018
+143;Bahri Aya ;1;F;Algeriénne;Ain Oussera;Rougeole;18/02/2018
+144;Mebsout Rabah ;59;M;Algeriénne;Benhar;Leishmaniose;19/02/2018
+145;Daifallah Abdelkader ;50;M;Algeriénne;Ain Oussera;Leishmaniose;20/02/2018
+146;Douiou Aness;5;M;Algeriénne;Ain Oussera;Leishmaniose;20/02/2018
+147;Azzar Billal ;19;M;Algeriénne;Ain Oussera;Leishmaniose;20/02/2018
+148;Bouras Fouzia ;23;F;Algeriénne;Sidi Laadjel ;Rougeole;21/02/2018
+149;Khanfar Sarah ;15;F;Algeriénne;Sidi Laadjel ;Rougeole;21/02/2018
+150;Laabidi Malek ;3;M;Algeriénne;Sidi Laadjel ;Rougeole;21/02/2018
+151;Mezzi  Maya ;1;F;Algeriénne;Ain Oussera;Rougeole;22/02/2018
+152;Belkheir Mohamed ;61;M;Algeriénne;Ain Fekka;Brucellose;22/02/2018
+153;Bensegaa Zohra ;36;F;Algeriénne;Ain Oussera;Kyste Hydatique;22/02/2018
+154;B/A;38;M;Algeriénne;Ain Oussera;HIV;22/02/2018
+155;Bessalem lakhdar ;5;M;Algeriénne;Sidi Laadjel ;Leishmaniose;22/02/2018
+156;Houbita  Nakhla ;70;F;Algeriénne;Sidi Laadjel ;Leishmaniose;22/02/2018
+157;Tchiche Hadda;60;F;Algeriénne;Ain Fekka;Leishmaniose;25/02/2018
+158;Khdimi Bent nabi;40;F;Algeriénne;Bouaiche;Leishmaniose;25/02/2018
+159;Khanfar Hadjira ;3;F;Algeriénne;Sidi Laadjel ;Rougeole;25/02/2018
+160;Khanfar Soujoud ;12;F;Algeriénne;Sidi Laadjel ;Rougeole;25/02/2018
+161;Cherifi Mohamed Lamine;2;M;Algeriénne;Sidi Laadjel ;Rougeole;26/02/2018
+162;Nahali Ayoub ;2;M;Algeriénne;Birine;Rougeole;26/02/2018
+163;Zenikhri Messaouda;6;F;Algeriénne;Birine;Rougeole;26/02/2018
+164; Boudjaja Youcef ;4;M;Algeriénne;Hassi fedoul ;Rougeole;27/02/2018
+165;Tigar Ikram ;1;F;Algeriénne;Hassi Fedoul ;Rougeole;27/02/2018
+166;Hafid Mohamed ;34;M;Algeriénne;Hassi fedoul ;Rougeole;27/02/2018
+167;Labiadh Boumediane ;7;M;Algeriénne;Hassi fedoul ;Rougeole;27/02/2018
+168;Abidat Maram ;2;F;Algeriénne;Hassi fedoul ;Rougeole;27/02/2018
+169;Bennani Abdelaziz;8;M;Algeriénne;Hassi fedoul ;Rougeole;27/02/2018
+170;Ghalmi Tahar ;31;M;Algeriénne;Hassi fedoul ;Rougeole;27/02/2018
+171;Tegar Fathi ;11;M;Algeriénne;Hassi fedoul ;Rougeole;27/02/2018
+172;Tegar Ahmed;9;M;Algeriénne;Hassi fedoul ;Rougeole;27/02/2018
+173;Bachiri Abdelkader;0;M;Algeriénne;Sidi Laadjel ;Leishmaniose;27/02/2018
+174;Boussalem Aicha;51;F;Algeriénne;Had Shary ;Brucellose;27/02/2018
+175;Boumeidouna Cheikh jilali;39;M;Algeriénne;Ain Oussera;Leishmaniose;27/02/2018
+176;Belkheiri Aicha;65;F;Algeriénne;Ain Oussera;Kyste Hydatique;28/02/2018
+177;Gounan Farah ;4;F;Algeriénne;Birine;Rougeole;28/02/2018
+178;Nahali Ahlam ;6;F;Algeriénne;Birine;Rougeole;28/02/2018
+179;Aidoud  Bilal ;26;M;Algeriénne;benhar;Leishmaniose;01/03/2018
+180;Alim Achour ;10;M;Algeriénne;Sidi laadjel;Leishmaniose;01/03/2018
+181;Alim Zahira;4;F;Algeriénne;Sidi laadjel;Leishmaniose;01/03/2018
+182;Djabri Abdallah;56;M;Algeriénne;Ain Fekka;Leishmaniose;01/03/2018
+183;Guesmia  Nadir;38;M;Algeriénne;Birine;Leishmaniose;01/03/2018
+184;Ramdani  Zahia;19;F;Algeriénne;Birine;Leishmaniose;01/03/2018
+185;Ghaithi  Mokhtar ;19;M;Algeriénne;Ain Fekka;TP+;01/03/2018
+186;Laid  Aicha ;26;F;Algeriénne;Birine;TEP;01/03/2018
+187;Dahmani  Linda;22;F;Algeriénne;Birine;TEP;01/03/2018
+188;Ayad  Hayet ;26;F;Algeriénne;Ain Oussera;TEP;01/03/2018
+189;Saadaoui  Khaoula ;15;F;Algeriénne;Hassi Fedoul ;TEP;01/03/2018
+190;Behih  Cheima ;17;F;Algeriénne;Serguine ;TEP;01/03/2018
+191;Houta  Mohamed ;29;M;Algeriénne;Ain Oussera;TEP;01/03/2018
+192;Benattalah  Khadidja;5;F;Algeriénne;Birine;TEP;01/03/2018
+193;Azzar Rihab ;9;F;Algeriénne;Ain Oussera;Leishmaniose;04/03/2018
+194;Bouzid Hafsa;12;F;Algeriénne;Guernini ;Brucellose;04/03/2018
+195;Kadous  Larbi ;51;M;Algeriénne;Guernini ;Leishmaniose;04/03/2018
+196;Chakour  Mohamed;38;M;Algeriénne;Guernini ;Leishmaniose;04/03/2018
+197;Hachiche  Mohamed ;44;M;Algeriénne;Ain Oussera;Leishmaniose;04/03/2018
+198;Senouci  Ikram;14;F;Algeriénne;Sidi laadjel;Leishmaniose;04/03/2018
+199;Salmi  Rabah;54;M;Algeriénne;Ain Oussera;Leishmaniose;04/03/2018
+200;Zouad  Saad;38;M;Algeriénne;Had Shary;Leishmaniose;04/03/2018
+201;Benkous  Saad;34;M;Algeriénne;Ain Fekka;Leishmaniose;04/03/2018
+202;Amiri hibaterrahmen;1;F ;Algeriénne;Birine;Rougeole;04/03/2018
+203;Saadat meftah;18;M ;Algeriénne;El Khemis;Rougeole;04/03/2018
+204;Saadat abdelkrim;30;M ;Algeriénne;El Khemis;Rougeole;04/03/2018
+205;Saadat belkacem;45;M ;Algeriénne;El Khemis;Rougeole;04/03/2018
+206;Djeffal taha med;30;M ;Algeriénne;Sidi Laadjel;Rougeole;04/03/2018
+207;Embarki ali;28;M ;Algeriénne;Sidi Laadjel;Rougeole;04/03/2018
+208;Bader bentcheikh;15;F ;Algeriénne;Sidi Laadjel;Rougeole;04/03/2018
+209;Benaouda aya;1;F ;Algeriénne;Sidi Laadjel;Rougeole;04/03/2018
+210;Aleb sofiane;14;M ;Algeriénne;Sidi Laadjel;Rougeole;04/03/2018
+211;Khoulid boufares;43;M ;Algeriénne;Sidi Laadjel;Rougeole;05/03/2018
+212;Bader fathi;16;M ;Algeriénne;Sidi Laadjel;Rougeole;05/03/2018
+213;Bachiri rimas;6;F ;Algeriénne;Sidi Laadjel;Rougeole;05/03/2018
+214;Bachiri chiraz;2;F ;Algeriénne;Sidi Laadjel;Rougeole;05/03/2018
+215;Bachiri ilham;4;F  ;Algeriénne;Sidi Laadjel;Rougeole;05/03/2018
+216;Amiri yazid abdlebaki;9;M ;Algeriénne;Birine;Rougeole;06/03/2018
+217;Amiri amiri sahar;3;F ;Algeriénne;Birine;Rougeole;06/03/2018
+218;saadou allaaddine;2;M ;Algeriénne;Birine;Rougeole;06/03/2018
+219;saadou younes;7;M ;Algeriénne;Birine;Rougeole;06/03/2018
+220;Miles nasereddine;10;M ;Algeriénne;Birine;Rougeole;06/03/2018
+221;Azzar fatiha;20;F ;Algeriénne;benhar;Rougeole;06/03/2018
+222;Maameri nabil;4;M ;Algeriénne;Ain Oussera;Rougeole;06/03/2018
+223;Hariza aya;4;F ;Algeriénne;Ain Oussera;Rougeole;06/03/2018
+224;Mohadi saada;6;F ;Algeriénne;Ain Oussera;Rougeole;06/03/2018
+225;Benhmimed moatez;8;M ;Algeriénne;Had Shary;Rougeole;07/03/2018
+226;Lakehal kheira;40;F   ;Algeriénne;Sidi Laadjel;Rougeole;08/03/2018
+227;Bensalah hakim;10;M ;Algeriénne;Sidi Laadjel;Rougeole;08/03/2018
+228;Doukani noura;4;F ;Algeriénne;Sidi Laadjel;Rougeole;08/03/2018
+229;Doukani abderahmene;6;M ;Algeriénne;Sidi Laadjel;Rougeole;08/03/2018
+230;Mefti torkia;33;F ;Algeriénne;Sidi Laadjel;Rougeole;08/03/2018
+231;Nouar achraf riad;10;M ;Algeriénne;Birine;Rougeole;10/03/2018
+232;Nouar  amar ;9;M ;Algeriénne;Birine;Rougeole;10/03/2018
+233;Ramdani sirajedine;2;M ;Algeriénne;Birine;Rougeole;10/03/2018
+234;Dif youcef ;5;M ;Algeriénne;Birine;Rougeole;10/03/2018
+235;Djedilet med adem;1;M ;Algeriénne;Birine;Rougeole;10/03/2018
+236;Benziane montasir;7;M ;Algeriénne;Birine;Rougeole;10/03/2018
+237;Benali loudjine;1;F ;Algeriénne;Ain Oussera;Rougeole;10/03/2018
+238;Taha mohamed sadek;3;M ;Algeriénne;Ain Oussera;Rougeole;10/03/2018
+239;Arrab khadra;5;F ;Algeriénne;Ain Oussera;Rougeole;10/03/2018
+240;Hannani chouaib;0;M ;Algeriénne;Sidi Laadjel;Rougeole;10/03/2018
+241;Bensaidane afaf;0;F ;Algeriénne;El Khemis;Rougeole;10/03/2018
+242;Soltani aymen;4;M ;Algeriénne;Sidi Laadjel;Rougeole;11/03/2018
+243;Saadat oumhabib;41;F ;Algeriénne;Sidi Laadjel;Rougeole;11/03/2018
+244;Dellal abdelhai;3;M ;Algeriénne;Sidi Laadjel;Rougeole;11/03/2018
+245;Harkat adem;0;M ;Algeriénne;Sidi Laadjel;Rougeole;11/03/2018
+246;Ziane  nadjia;10;F ;Algeriénne;Birine;Rougeole;11/03/2018
+247;Segir  feriel;6;F ;Algeriénne;Birine;Rougeole;11/03/2018
+248;Boufad  rabah;7;M ;Algeriénne;Birine;Rougeole;11/03/2018
+249;Karnout  aissa;5;M ;Algeriénne;Birine;Rougeole;11/03/2018
+250;Bakhouche  lina ritadi;1;F ;Algeriénne;Birine;Rougeole;11/03/2018
+251;Manseuri  nabila;6;F ;Algeriénne;Birine;Rougeole;11/03/2018
+252;Benmanseur basmala;12;F ;Algeriénne;Birine;Rougeole;11/03/2018
+253;Chehaba ameur;6;M ;Algeriénne;Birine;Rougeole;11/03/2018
+254;Chehaba  oussama;8;M ;Algeriénne;Birine;Rougeole;11/03/2018
+255;Sedkaoui soumia;12;F ;Algeriénne;Birine;Rougeole;11/03/2018
+256;Benfoudil yamina;8;F ;Algeriénne;Birine;Rougeole;11/03/2018
+257;Hassane ahlem;9;F ;Algeriénne;Birine;Rougeole;11/03/2018
+258;Keffal wisal;6;F ;Algeriénne;Birine;Rougeole;11/03/2018
+259;Sidas ritadj;6;F;Algeriénne;Birine;Rougeole;11/03/2018
+260;Meliani housam eddine;17;M ;Algeriénne;Birine;Rougeole;11/03/2018
+261;Achour noureddine;20;M ;Algeriénne;Birine;Rougeole;11/03/2018
+262;dikane amira;4;F;Algeriénne;Birine;Rougeole;11/03/2018
+263;Guesmi meriem;5;F;Algeriénne;Birine;Rougeole;11/03/2018
+264;Ferki yacine;2;M ;Algeriénne;Birine;Rougeole;11/03/2018
+265;Mesrouki meysem;5;F ;Algeriénne;Birine;Rougeole;11/03/2018
+266;Bouragaa  Hadjar ;4;F;Algeriénne;Bouaiche ;Leishmaniose;12/03/2018
+267;Ouled Moussa  Hadil ;3;F;Algeriénne;Chehbounia;Leishmaniose;12/03/2018
+268;Benazouz  Hamza;6;M;Algeriénne;Bouaiche ;Leishmaniose;12/03/2018
+269;Hamida  Mustafa;7;M;Algeriénne;Birine;Leishmaniose;12/03/2018
+270;Razak  Khadidja;1;F;Algeriénne;Chehbounia;Leishmaniose;12/03/2018
+271;Touir  Aness;5;M;Algeriénne;Ain Oussera;Leishmaniose;12/03/2018
+272;Benouthmane  Roumaissa;5;F;Algeriénne;Sidi laadjel;Leishmaniose;12/03/2018
+273;Khalili  Aness;9;M;Algeriénne;Birine;Leishmaniose;12/03/2018
+274;Boussena Ibtisam Khouloud;0;F;Algeriénne;Bouaiche ;Leishmaniose;12/03/2018
+275;Hsein  Fatima;32;F;Algeriénne;Birine;Leishmaniose;12/03/2018
+276;Ouadiaa  Fatima;32;F;Algeriénne;Bouaiche ;Leishmaniose;12/03/2018
+277;Dahmani  Miloud;67;M;Algeriénne;Bouaiche ;Leishmaniose;12/03/2018
+278;Bouhnik  Walid;32;M;Algeriénne;Batna;Leishmaniose;12/03/2018
+279;Benmaicha  Fatiha;69;F;Algeriénne;benhar;Leishmaniose;12/03/2018
+280;Soulah Douaa;2;F;Algeriénne;Ain Oussera;Leishmaniose;12/03/2018
+281;Djelloul Oumenoune ;26;F;Algeriénne;Ain Oussera;Brucellose;12/03/2018
+282;Alim torkiaa;8;F ;Algeriénne;Sidi Laadjel;Rougeole;12/03/2018
+283;Alim ayoub;3;M ;Algeriénne;Sidi Laadjel;Rougeole;12/03/2018
+284;Benbrahim mebarka;34;F ;Algeriénne;Sidi Laadjel;Rougeole;12/03/2018
+285;Hamidi razika;38;F ;Algeriénne;Ain Oussera;Rougeole;12/03/2018
+286;Hasnaoui asma;17;F ;Algeriénne;Ain Oussera;Rougeole;12/03/2018
+287;Guerina mokhtar;2;M ;Algeriénne;Bouiret Lahdab ;Rougeole;12/03/2018
+288;Khadraoui Tajeddine;20;M ;Algeriénne;Birine;Rougeole;12/03/2018
+289;Boufed kholoud;10;F ;Algeriénne;Birine;Rougeole;12/03/2018
+290;Nasser fatima;9;F ;Algeriénne;Birine;Rougeole;12/03/2018
+291;Mekki ilyes;13;M ;Algeriénne;Birine;Rougeole;12/03/2018
+292;Guerna adem ;3;M ;Algeriénne;Birine;Rougeole;12/03/2018
+293;Dahmani rouguia;40;M ;Algeriénne;Birine;Rougeole;12/03/2018
+294;Azizou mohamed;0;M ;Algeriénne;Birine;Rougeole;12/03/2018
+295;Benalia cherifa;47;F ;Algeriénne;Birine;Rougeole;12/03/2018
+296;Madani soumia;9;F;Algeriénne;Birine;Rougeole;13/03/2018
+297;Nour ritadj;2;F;Algeriénne;Birine;Rougeole;13/03/2018
+298;Hassane chamesedin;15;M;Algeriénne;Birine;Rougeole;13/03/2018
+299;Madani ayoub ;3;M;Algeriénne;Birine;Rougeole;13/03/2018
+300;Nouar ameur;10;M;Algeriénne;Birine;Rougeole;13/03/2018
+301;Nouar omar;11;M;Algeriénne;Birine;Rougeole;13/03/2018
+302;Nouar mahmoud ;6;M;Algeriénne;Birine;Rougeole;13/03/2018
+303;Nouar douaa;8;F;Algeriénne;Birine;Rougeole;13/03/2018
+304;Hassane maroua;3;F;Algeriénne;Birine;Rougeole;13/03/2018
+305;Hassane moussa;2;M;Algeriénne;Birine;Rougeole;13/03/2018
+306;Hassane ikram;2;F;Algeriénne;Birine;Rougeole;13/03/2018
+307;Hassane mohamed;9;M;Algeriénne;Birine;Rougeole;13/03/2018
+308;Hassane omar;9;M;Algeriénne;Birine;Rougeole;13/03/2018
+309;Hassane aissa;11;M;Algeriénne;Birine;Rougeole;13/03/2018
+310;Hassane seif elislam;6;M;Algeriénne;Birine;Rougeole;13/03/2018
+311;Hassane dina;8;F;Algeriénne;Birine;Rougeole;13/03/2018
+312;Hassane mokhtar;12;M;Algeriénne;Birine;Rougeole;13/03/2018
+313;Bousalem djihane;2;F ;Algeriénne;Had Shary;Rougeole;13/03/2018
+314;Boudaoura djilali;36;M ;Algeriénne;El Khemis;Rougeole;14/03/2018
+315;Lomri adel;3;M;Algeriénne;Birine;Rougeole;14/03/2018
+316;Lechkham kheira;5;F ;Algeriénne;benhar;Rougeole;14/03/2018
+317;Kholid Mohamed;14;M;Algeriénne;Sidi Laadjel;Rougeole;14/03/2018
+318;Mebarki Djilani ;5;M;Algeriénne;Sidi Laadjel;Rougeole;14/03/2018
+319;Bouaza Si islam;4;F;Algeriénne;Sidi Laadjel;Rougeole;14/03/2018
+320;Bader  Faiza;7;F;Algeriénne;Sidi Laadjel;Rougeole;14/03/2018
+321;Boussadi Yacine ;14;M;Algeriénne;Sidi Laadjel;Rougeole;14/03/2018
+322;Benatia farouk;11;M ;Algeriénne;Ain Oussera;Rougeole;14/03/2018
+323;Silaa nassira ;35;F ;Algeriénne;Ain Oussera;Rougeole;14/03/2018
+324;Bassine rachid;7;M ;Algeriénne;Ain Oussera;Rougeole;14/03/2018
+325;Banai kameleddine;2;M ;Algeriénne;Ain Oussera;Rougeole;14/03/2018
+326;Khaldi  Louiza;35;F;Algeriénne;Birine;Leishmaniose;14/03/2018
+327;Touil  Yacine ;11;M;Algeriénne;Sidi Laadjel;Leishmaniose;14/03/2018
+328;Benaziz Oum elkheir ;74;F;Algeriénne;Ain Oussera;Leishmaniose;14/03/2018
+329;Khatouti  Rachid ;22;M;Algeriénne;Ain Fekka;TP+;14/03/2018
+330;Khatouti  Radia ;29;F;Algeriénne;Had Shary;TEP;14/03/2018
+331;Kheir  Zineb ;23;F;Algeriénne;benhar;TEP;14/03/2018
+332;Ouang Kang Francis;31;M;Cameroun;Ain Oussera;TP+;14/03/2018
+333;Boukerche  Sabrina;20;F;Algeriénne;Ain Oussera ;TEP;14/03/2018
+334;Dehilis Ali ;39;M;Algeriénne;Ain Oussera;TEP;14/03/2018
+335;Khalfaoui  Samia ;18;F;Algeriénne;Ain Oussera;TEP;14/03/2018
+336;Chabounia  Mohamed;31;M;Algeriénne;Ain Oussera;TP+;14/03/2018
+337;Youness Hamama;30;F;Algeriénne;Had Shary;TP+;14/03/2018
+338;Fadha yaakoub;5;M ;Algeriénne;Had Shary;Rougeole;15/03/2018
+339;Ksenna riad;17;M ;Algeriénne;Had Shary;Rougeole;15/03/2018
+340;Gounane abdhakim;6;M ;Algeriénne;Ain Oussera;Rougeole;15/03/2018
+341;Ben lakhmech anes;7;M ;Algeriénne;Ain Oussera;Rougeole;15/03/2018
+342;Ghazali rayane;18;F;Algeriénne;Ain Oussera;Rougeole;15/03/2018
+343;Nakmouche diaaeddin;7;M ;Algeriénne;Ain Oussera;Rougeole;15/03/2018
+344;Benai kamel iyad;1;M ;Algeriénne;Ain Oussera;Rougeole;15/03/2018
+345;Nayeb ameur;0;M ;Algeriénne;Ain Oussera;Rougeole;15/03/2018
+346;Bennour djamila;11;F ;Algeriénne;Ain Oussera;Rougeole;15/03/2018
+347;Ghorab abdelmadjid;22;M ;Algeriénne;Ain Oussera;Rougeole;15/03/2018
+348;Aziz noueddine;17;M ;Algeriénne;Ain Oussera;Rougeole;15/03/2018
+349;Louail mohamed;5;M ;Algeriénne;Ain Oussera;Rougeole;15/03/2018
+350;Benaziz roufida;6;F ;Algeriénne;Ain Oussera;Rougeole;15/03/2018
+351;Sebiha belkacem;4;M ;Algeriénne;Had Shary;Rougeole;15/03/2018
+352;Bouzidi abdessamed;2;M  ;Algeriénne;Ain Fekka;Rougeole;15/03/2018
+353;Boukharcha othmane;29;M ;Algeriénne;Ain Fekka;Rougeole;15/03/2018
+354;Benkharch fatima;11;F ;Algeriénne;Ain Fekka;Rougeole;15/03/2018
+355;Nouar Azedine ;2;M;Algeriénne;Birine;Rougeole;15/03/2018
+356;Bousalem yamina;14;F;Algeriénne;Birine;Rougeole;15/03/2018
+357;Djoudi fares;5;M;Algeriénne;Birine;Rougeole;15/03/2018
+358;Hassane fatiha;2;F;Algeriénne;Birine;Rougeole;15/03/2018
+359;Messaoudi ali monsif;5;M;Algeriénne;Birine;Rougeole;15/03/2018
+360;Ziane dehbia;36;F ;Algeriénne;Birine;Rougeole;15/03/2018
+361;Oukal zineb;81;F  ;Algeriénne;Ain Fekka;Rougeole;15/03/2018
+362;Salmi kater ennada;3;F ;Algeriénne;El Khemis;Rougeole;15/03/2018
+363;Toulriki Youcef;5;M;Algeriénne;Had Shary;Rougeole;18/03/2018
+364;Othmani Taldja;37;F;Algeriénne;Had Shary;Rougeole;18/03/2018
+365;Tahraoui Abaid;2;M;Algeriénne;Had Shary;Rougeole;18/03/2018
+366;Lachekham Hadil;12;F;Algeriénne;benhar;Rougeole;18/03/2018
+367;Salah Khadra;35;F;Algeriénne;Birine;Rougeole;18/03/2018
+368;Bencheikh Djena;2;F;Algeriénne;Birine;Rougeole;18/03/2018
+369;Amara Hamza ;0;M;Algeriénne;Birine;Rougeole;18/03/2018
+370;Ramdani Djamel;10;M;Algeriénne;Birine;Rougeole;18/03/2018
+371;Arab Badis chiheb eddin;7;M;Algeriénne;Ain Oussera;Rougeole;18/03/2018
+372;Lachekham Ritadj;0;F;Algeriénne;Ain Oussera;Rougeole;18/03/2018
+373;Hamdache Marouane;5;M;Algeriénne;Ain Oussera;Rougeole;18/03/2018
+374;Hassaine  Madani ;30;M;Algeriénne;Birine;Leishmaniose;18/03/2018
+375;Bencheddad Yahia;7;M;Algeriénne;benhar;Leishmaniose;18/03/2018
+376;Guerifid  Boudaoud ;60;M;Algeriénne;Hassi Fedoul ;Leishmaniose;18/03/2018
+377;Mohamedi Noura;31;F;Algeriénne;Ain Oussera;Rougeole;19/03/2018
+378;Barboura belkacem ;1;M;Algeriénne;Ain Oussera;Rougeole;19/03/2018
+379;Frid Ahmed;7;M;Algeriénne;Had Shary;Rougeole;19/03/2018
+380;Ramdani Thoria;35;F;Algeriénne;Birine;Rougeole;19/03/2018
+381;Gaith  Mokhtar ;38;M;Algeriénne;Rechaiga;Brucellose;20/03/2018
+382;Djeffal  Kouider ;32;M;Algeriénne;Sidi Laadjel;Brucellose;20/03/2018
+383;Nacer Naima;30;F;Algeriénne;Ain Oussera;Rougeole;20/03/2018
+384;Benhaimoura Imaddine;2;M;Algeriénne;Ain Oussera;Rougeole;20/03/2018
+385;Khamkham Mohamde;2;M;Algeriénne;Ain Oussera;Rougeole;20/03/2018
+386;Dhaifallah  Malek;2;M;Algeriénne;Birine;Rougeole;20/03/2018
+387;Khairani bdereddine;2;M;Algeriénne;Birine;Rougeole;20/03/2018
+388;Boumaidouna Fatiha ;2;F;Algeriénne;Birine;Rougeole;20/03/2018
+389;Taha  Salem;1;M;Algeriénne;Birine;Rougeole;20/03/2018
+390;Taibi Abderaouf;0;M;Algeriénne;Birine;Rougeole;20/03/2018
+391;El amri Adel ;2;M;Algeriénne;Birine;Rougeole;20/03/2018
+392;Mebkhouta Salsabil;5;F;Algeriénne;Birine;Rougeole;20/03/2018
+393;Nouar  Basma;6;F;Algeriénne;Birine;Rougeole;20/03/2018
+394;Benhar  Ahmed;54;M;Algeriénne;Ain Oussera;TEP;21/03/2018
+395;Alleug  Maria ;22;F;Algeriénne;Ain Oussera;TEP;21/03/2018
+396;Guebache Fatna;57;F;Algeriénne;Ain Oussera;TEP;21/03/2018
+397;Lamouri  Amel ;28;F;Algeriénne;Ain Oussera;TEP;21/03/2018
+398;Aradj  Ahmed ;29;M;Algeriénne;Ain Oussera;TEP;21/03/2018
+399;Daoudi  Zeiad ;5;M;Algeriénne;El Khemis;TEP;21/03/2018
+400;Nakmouche  Aicha;35;F;Algeriénne;Ain Oussera;TEP;21/03/2018
+401;Yahi Yacine;6;M;Algeriénne;Birine;Rougeole;22/03/2018
+402;Sellam Mohamed ;6;M;Algeriénne;Birine;Rougeole;22/03/2018
+403;Mohamedi Basma;6;F;Algeriénne;Birine;Rougeole;22/03/2018
+404;Bouziane Meriem ;3;F;Algeriénne;Birine;Rougeole;22/03/2018
+405;Rahmoune mERIEM;3;f;Algeriénne;Birine;Rougeole;22/03/2018
+406;Boutrigue Meriem ;5;F;Algeriénne;Birine;Rougeole;22/03/2018
+407;Malki Khadra ;41;F;Algeriénne;Birine;Rougeole;22/03/2018
+408;Amraoui Ziane ;8;M;Algeriénne;Ain Oussera;Rougeole;22/03/2018
+409;Rabah Youcef ;6;M;Algeriénne;Ain Oussera;Rougeole;22/03/2018
+410;Nadour Mohamed;5;M;Algeriénne;Ain Oussera;Rougeole;22/03/2018
+411;Korichi Youcef;1;M;Algeriénne;Ain Oussera;Rougeole;22/03/2018
+412;Djaafour Mohamed lamine;12;M;Algeriénne;Ain Oussera;Rougeole;22/03/2018
+413;Mebarki Brahim;18;M;Algeriénne;Had Shary;Rougeole;22/03/2018
+414;Rayane Halima;33;F;Algeriénne;Had Shary;Rougeole;22/03/2018
+415;Othmani Asma nor  el kholod;8;F;Algeriénne;Had Shary;Rougeole;22/03/2018
+416;Othmani  Mustafa;0;M;Algeriénne;Had Shary;Rougeole;22/03/2018
+417;Othmani Aziza;5;F;Algeriénne;Had Shary;Rougeole;22/03/2018
+418;Othmani Mohamed;3;M;Algeriénne;Had Shary;Rougeole;22/03/2018
+419;Laadjel Salma;32;F;Algeriénne;Bouiret Lahdab ;Rougeole;22/03/2018
+420;Abderrahim Malika;11;F;Algeriénne;Bouiret Lahdab ;Rougeole;22/03/2018
+421;Abderrahim Ibrahim;5;M;Algeriénne;Bouiret Lahdab ;Rougeole;22/03/2018
+422;Benaicha  Belkacem ;37;M;Algeriénne;Birine;Brucellose;22/03/2018
+423;Draa Chiekh Ayoub ;14;M;Algeriénne;Ain Oussera;Leishmaniose;26/03/2018
+424;Saghiri Zohra;30;F;Algeriénne;Ain Oussera;Rougeole;26/03/2018
+425;Lahoual Soumia;1;F;Algeriénne;Ain Oussera;Rougeole;26/03/2018
+426;Battache Hadjar;3;M;Algeriénne;Ain Oussera;Rougeole;26/03/2018
+427;Sellam Ayoub ;1;M;Algeriénne;Ain Oussera;Rougeole;26/03/2018
+428;Bachiri Maya;0;F;Algeriénne;Ain Oussera;Rougeole;26/03/2018
+429;Djellal  Karim;7;M;Algeriénne;Ain Fekka;Rougeole;26/03/2018
+430;Ghaithi Mouhad;4;M;Algeriénne;Ain Fekka;Rougeole;26/03/2018
+431;Tahraoui Meriem ;4;F;Algeriénne;Ain Fekka;Rougeole;26/03/2018
+432;Belkacemi Mouaatasim;6;M;Algeriénne;Ain Fekka;Rougeole;26/03/2018
+433;Khalfoune Aymen;7;M;Algeriénne;Ain Fekka;Rougeole;26/03/2018
+434;Karnout Nouara;5;F;Algeriénne;Ain Fekka;Rougeole;26/03/2018
+435;Boukhercha Rima;2;F;Algeriénne;Ain Fekka;Rougeole;26/03/2018
+436;Dahani rahma;5;F;Algeriénne;Ain Fekka;Rougeole;26/03/2018
+437;Boukhite Rania ;1;F;Algeriénne;Ain Fekka;Rougeole;26/03/2018
+438;Boukhater Sabrin;28;F;Algeriénne;Ain Fekka;Rougeole;26/03/2018
+439;Karnout  Akila ;10;F;Algeriénne;Ain Fekka;Rougeole;26/03/2018
+440;Ghaithi Slimane;2;M;Algeriénne;Ain Fekka;Rougeole;26/03/2018
+441;Ghaithi Aness;6;M;Algeriénne;Ain Fekka;Rougeole;26/03/2018
+442;Telaiche Islam;14;M;Algeriénne;Ain Fekka;Rougeole;26/03/2018
+443;Khawni Badereddine;12;M;Algeriénne;Ain Fekka;Rougeole;26/03/2018
+444;Benkous  Hadjar;14;F;Algeriénne;Ain Fekka;Rougeole;26/03/2018
+445;Boukhater Yacine ;4;M;Algeriénne;Ain Fekka;Rougeole;26/03/2018
+446;Gharbi haidar Moulay;1;M;Algeriénne;Ain Fekka;Rougeole;26/03/2018
+447;Belkhir Abdelbassat;1;M;Algeriénne;Ain Fekka;Rougeole;26/03/2018
+448;Dahani Houcine ;5;M;Algeriénne;Ain Fekka;Rougeole;26/03/2018
+449;Gouz Ritadj;2;F;Algeriénne;Ain Fekka;Rougeole;26/03/2018
+450;Dahani  Zahra;2;F;Algeriénne;Ain Fekka;Rougeole;26/03/2018
+451;Gana Siham ;5;F;Algeriénne;Ain Fekka;Rougeole;26/03/2018
+452;El gueri Kheira;45;F;Algeriénne;Birine;Rougeole;26/03/2018
+453;Boudaoud Fatiha;17;F;Algeriénne;Birine;Rougeole;26/03/2018
+454;Belabes Islam;8;M;Algeriénne;Birine;Rougeole;26/03/2018
+455;Hassane Ali;1;M;Algeriénne;Birine;Rougeole;26/03/2018
+456;Merzouki Achouak;3;F;Algeriénne;Birine;Rougeole;26/03/2018
+457;Benattalah Ibtihal;0;F;Algeriénne;Birine;Rougeole;26/03/2018
+458;Mohamedi Hayat;11;F;Algeriénne;Birine;Rougeole;26/03/2018
+459;Achour Youcef ;3;M;Algeriénne;Birine;Rougeole;26/03/2018
+460;Rebouh Sabrina;20;F;Algeriénne;Birine;Rougeole;26/03/2018
+461;Ksaiar Belkacem;0;M;Algeriénne;Birine;Rougeole;26/03/2018
+462;Zouaoui Tasnim;2;F;Algeriénne;Birine;Rougeole;26/03/2018
+463;Naoui Mohamed;0;M;Algeriénne;Birine;Rougeole;26/03/2018
+464; Ghaithi Assil;2;F;Algeriénne;Birine;Rougeole;26/03/2018
+465;Zakraoui  Oumaima;2;F;Algeriénne;Birine;Rougeole;26/03/2018
+466;Bouakaz Messaouda ;70;F;Algeriénne;Ain Oussera;Brucellose;27/03/2018
+467;Benhadda  Ibrahim ;26;M;Algeriénne;Ain Oussera;Brucellose;27/03/2018
+468;Laidani zakaria ;11;M;Algeriénne;Ain Oussera;Rougeole;27/03/2018
+469;Bensetalah Dakna;57;F ;Algeriénne;Guernini ;Rougeole;27/03/2018
+470;Ghaithi Wahiba;23;F;Algeriénne;Ain Fekka;Rougeole;27/03/2018
+471;Said Abdessalam;6;M;Algeriénne;Ain Fekka;Rougeole;27/03/2018
+472;Bouakacha Soumia;12;F;Algeriénne;Hassi fedoul;Rougeole;27/03/2018
+473;Bouakacha Maroua;2;F;Algeriénne;Hassi fedoul;Rougeole;27/03/2018
+474;Chedad Safia ;2;F;Algeriénne;Birine;Rougeole;27/03/2018
+475;Benadja Fatima;29;F ;Algeriénne;Birine;Rougeole;27/03/2018
+476;Mekki Aya;13;F;Algeriénne;Birine;Rougeole;28/03/2018
+477;Mokhtari Slami ;3;M;Algeriénne;Birine;Rougeole;28/03/2018
+478;Boukharcha Meriem;2;F;Algeriénne;Ain Fekka;Rougeole;28/03/2018
+479;Boukhatar Aziz;0;M;Algeriénne;Ain Fekka;Rougeole;28/03/2018
+480;Dahani Brahim;0;M;Algeriénne;Ain Fekka;Rougeole;28/03/2018
+481;Khatouti Samira;19;F;Algeriénne;Ain Fekka;Rougeole;28/03/2018
+482;Khawni Ritadj Soundous;7;F;Algeriénne;Ain Fekka;Rougeole;28/03/2018
+483;Ghithi Halima Saadia ;2;F;Algeriénne;Ain Fekka;Rougeole;28/03/2018
+484;Kahouadji Younes;8;M;Algeriénne;Ain Fekka;Rougeole;28/03/2018
+485;Ghaithi   Ibrahim ;1;M;Algeriénne;Ain Fekka;Rougeole;28/03/2018
+486;Bourezgue Mohamed;81;M;Algeriénne;Ain Fekka;Rougeole;28/03/2018
+487;Abdelwaheb Bachir;37;M;Algeriénne;Birine;Rougeole;28/03/2018
+488;Oukali Malek;4;M;Algeriénne;Birine;Rougeole;28/03/2018
+489;Rachdi Hayat ;2;F;Algeriénne;Birine;Rougeole;29/03/2018
+490;Zenikhri  Rabah;13;M;Algeriénne;Birine;Rougeole;29/03/2018
+491;Benaicha Sedik;7;M;Algeriénne;Birine;Rougeole;29/03/2018
+492;Hmaida Mustafa;7;M;Algeriénne;Birine;Rougeole;29/03/2018
+493;Oumeriche Fathi ;3;M;Algeriénne;benhar;Rougeole;29/03/2018
+494;Limam Ahmed ;16;M;Algeriénne;Ain Oussera;Leishmaniose ;29/03/2018
+495;Malek  Houria ;41;F;Algeriénne;Birine;TEP;29/03/2018
+496;Meddah  Kheira ;48;F;Algeriénne;Ain Oussera;TEP;29/03/2018
+497;Guezizet  Arbia ;38;F;Algeriénne;Ain Oussera;TEP;29/03/2018
+498;Barboura  Malika ;8;F;Algeriénne;Ain Oussera;TEP;29/03/2018
+499;Kadri Djamila ;42;F;Algeriénne;Ain Oussera;TEP;29/03/2018
+500;Bahi  Hadjar;20;F;Algeriénne;Ain Oussera;TEP;29/03/2018
+501;Smail  Souad ;32;F;Algeriénne;Ain Oussera;TEP;29/03/2018
+502;Bouzidaoui  Meriem ;50;F;Algeriénne;Ain Oussera;TP+;29/03/2018
+503;Bouzidaoui Kheira;23;F;Algeriénne;benhar;Rougeole;30/03/2018
+504;Bouzidaoui Hanadi;4;F;Algeriénne;benhar;Rougeole;30/03/2018
+505;Bouaziz Mohamed Iliess;8;M;Algeriénne;Had Shary;Rougeole;30/03/2018
+506;Djarmouna Adel;7;M;Algeriénne;Had Shary;Rougeole;30/03/2018
+507;Ziani Djamel;4;M;Algeriénne;Had Shary;Rougeole;30/03/2018
+508;Merikhi Abderaouf;8;M;Algeriénne;Had Shary;Rougeole;30/03/2018
+509;Bousalem  Mouhad;14;M;Algeriénne;Had Shary;Rougeole;30/03/2018
+510;Fathi Nouar;22;M;Algeriénne;Had Shary;Rougeole;30/03/2018
+511;Belkhir Safouane;8;M;Algeriénne;Had Shary;Rougeole;30/03/2018
+512;Merikhi  Zakaria;6;M;Algeriénne;Had Shary;Rougeole;30/03/2018
+513;Merikhi Boussena;8;M;Algeriénne;Had Shary;Rougeole;30/03/2018
+514;Chabira  Tourkia;14;F;Algeriénne;Had Shary;Rougeole;30/03/2018
+515;Benothmane Zoulikha;36;F;Algeriénne;Had Shary;Rougeole;30/03/2018
+516;Benazouz  Raouf;5;M;Algeriénne;Had Shary;Rougeole;30/03/2018
+517;Lakehal Miloud;7;M;Algeriénne;Had Shary;Rougeole;30/03/2018
+518;Khatouti  Houcine ;5;M;Algeriénne;Ain Fekka;Leishmaniose;01/04/2018
+519;Ben Ammar benazouz;56;M;Algeriénne;Bouiret Lahdab;Brucellose;02/04/2018
+520;Ghoul Hadda;29;F;Algeriénne;Ain Oussera;Brucellose;02/04/2018
+521;Bendine Lina;13;F;Algeriénne;Guernini;Rougeole;03/04/2018
+522;Bendine Amira;4;F;Algeriénne;Guernini;Rougeole;03/04/2018
+523;Douadji Abdelbaki ;0;M;Algeriénne;Guernini;Rougeole;03/04/2018
+524;Boushoule  Mohad;14;M;Algeriénne;Had Shary;Rougeole;03/04/2018
+525;Mohad  Abdelkader;2;M;Algeriénne;Had Shary;Rougeole;03/04/2018
+526;Naas  Mohamed;8;M;Algeriénne;Had Shary;Rougeole;03/04/2018
+527;Amer  Fatima;20;F;Algeriénne;Had Shary;Rougeole;03/04/2018
+528;Touiriki  Leila;5;F;Algeriénne;Had Shary;Rougeole;03/04/2018
+529;Fathi  Nour;22;F;Algeriénne;Had Shary;Rougeole;03/04/2018
+530;Fedda Widad;5;F;Algeriénne;Had Shary;Rougeole;03/04/2018
+531;Chabira  Kheira ;4;F;Algeriénne;Had Shary;Rougeole;03/04/2018
+532;Hamza Woujdane Hamza;1;F;Algeriénne;Ain Oussera;Rougeole;03/04/2018
+533;Djedilate Nour elhouda;1;F;Algeriénne;Ain Oussera;Rougeole;03/04/2018
+534;Latoui  Baya;1;F;Algeriénne;Ain Oussera;Rougeole;03/04/2018
+535;Didine  Brahim;1;M;Algeriénne;Ain Oussera;Rougeole;03/04/2018
+536;Makhlouf  Lamine;20;M;Algeriénne;Ain Oussera;Rougeole;03/04/2018
+537;Khelifi Djamel eddine;1;M;Algeriénne;Ain Oussera;Rougeole;03/04/2018
+538;Khamkham Rym ;22;M;Algeriénne;Ain Oussera;Rougeole;03/04/2018
+539;Faradj  Slimane ;70;M;Algeriénne;Sidi Laadjel;Kyste Hydatique;03/04/2018
+540;Bouzid  Fatna;60;F;Algeriénne;Guernini;Brucellose;04/04/2018
+541;Chella  Farah;2;F;Algeriénne;Ain Oussera;Rougeole;06/04/2018
+542;Dif Abdelhakim;1;M;Algeriénne;Birine;Rougeole;06/04/2018
+543;Kebaili  Sirine ;0;F;Algeriénne;Birine;Rougeole;06/04/2018
+544;Nouar Bassma;6;F;Algeriénne;Birine;Rougeole;06/04/2018
+545;Hassane   Ridha;9;M;Algeriénne;Birine;Rougeole;06/04/2018
+546;Mahmoudi Nassira;34;F;Algeriénne;Birine;Rougeole;06/04/2018
+547;Ghithi hemida;1;M;Algeriénne;Ain Fekka;Rougeole;06/04/2018
+548;Ouanid Nasereddine;23;F;Algeriénne;Ain Fekka;Rougeole;08/04/2018
+549;Bouraguaa Slimane ;0;M;Algeriénne;Ain Fekka;Rougeole;08/04/2018
+550;Benchouhra Rahaf;1;F;Algeriénne;Ain Fekka;Rougeole;08/04/2018
+551;Mouilhi Roaya;0;F;Algeriénne;Ain Fekka;Rougeole;08/04/2018
+552;Gafsa Achouak;10;F;Algeriénne;Hassi Fedoul;Leishmaniose;08/04/2018
+553;Lagraa  nassira ;18;F;Algeriénne;Ain Oussera;Leishmaniose;08/04/2018
+554;Mohamedi  Sidali ;2;M;Algeriénne;Bouaiche;Leishmaniose;08/04/2018
+555;Benhadda  Lakhdar;23;M;Algeriénne;Ain Oussera;Brucellose;09/04/2018
+556;Djermoum  Mourad;1;M;Algeriénne;Had Shary;Leishmaniose;09/04/2018
+557;Djaghmouma Khedidja;32;F;Algeriénne;Ain Oussera;Rougeole;09/04/2018
+558;Mahmoudi Mohamed;2;M;Algeriénne;Birine;Rougeole;09/04/2018
+559;Boulthame  Zolikha;36;F;Algeriénne;Had Shary;Rougeole;10/04/2018
+560;Merikhi  Abdelaziz;8;M;Algeriénne;Had Shary;Rougeole;10/04/2018
+561;merikhi  Zakaria;6;M;Algeriénne;Had Shary;Rougeole;10/04/2018
+562;Chabira  Tourkia;4;F;Algeriénne;Had Shary;Rougeole;10/04/2018
+563;Othmani  Theldja;33;F;Algeriénne;Had Shary;Rougeole;10/04/2018
+564;Ziani  Djamel;4;M;Algeriénne;Had Shary;Rougeole;10/04/2018
+565;Bousselam  Djihane;2;F;Algeriénne;Had Shary;Rougeole;10/04/2018
+566;Touiriki Talia;4;F;Algeriénne;Had Shary;Rougeole;10/04/2018
+567;Touiriki  Youcef;6;M;Algeriénne;Had Shary;Rougeole;10/04/2018
+568;Reguieg  Rahaf;6;F;Algeriénne;Had Shary;Rougeole;10/04/2018
+569;Laadjel Farhat;3;M;Algeriénne;Bouiret Lahdab;Rougeole;10/04/2018
+570;Laadjel Aicha;8;F;Algeriénne;Bouiret Lahdab;Rougeole;10/04/2018
+571;Guissem  Malak ;4;F;Algeriénne;Benhar;MCS;10/04/2018
+572;Miliani  Mohamed Anes;3;M;Algeriénne;Birine;MCS;10/04/2018
+573;Deroaya  dalila;26;F;Algeriénne;Ain Fekka;Brucellose;11/04/2018
+574;Chaoui  Souad ;17;F;Algeriénne;Had Shary;Brucellose;12/04/2018
+575;Abzouzi  Mokhtar ;46;M;Algeriénne;Serguine ;Brucellose;12/04/2018
+576;Hammani Rokaya;5;F;Algeriénne;Hassi Fedoul;Rougeole;11/04/2018
+577;Demouka Taib;1;M;Algeriénne;Birine;Rougeole;11/04/2018
+578;Dahmani Ahlam;17;F;Algeriénne;Birine;Rougeole;11/04/2018
+579;Meliani Hamida;32;F;Algeriénne;Birine;Rougeole;11/04/2018
+580;Benchedad Mohamed;4;M;Algeriénne;Benhar;Rougeole;11/04/2018
+581;Alouche Oumaima;6;F;Algeriénne;Benhar;Rougeole;11/04/2018
+582;Messadi Adem;1;M;Algeriénne;Sidi laadjel;Rougeole;11/04/2018
+583;Boutadjine Aniss;1;M;Algeriénne;Sidi laadjel;Rougeole;11/04/2018
+584;Fadjkhi  Mohamed;38;M;Algeriénne;Sidi laadjel;Rougeole;11/04/2018
+585;Barni  Hadj;1;M;Algeriénne;Sidi laadjel;Rougeole;11/04/2018
+586;Djallat  …..;40;M;Algeriénne;Sidi laadjel;Rougeole;11/04/2018
+587;Souici Attalah;5;M;Algeriénne;Ain Fekka;Rougeole;12/04/2018
+588;Souici Ayoub;11;M ;Algeriénne;Ain Fekka;Rougeole;12/04/2018
+589;Ghithi  Nouh;1;M;Algeriénne;Ain Fekka;Rougeole;12/04/2018
+590;Ghithi Ibrahim ;4;M;Algeriénne;Ain Fekka;Rougeole;12/04/2018
+591;Souici  Yakoub;20;M;Algeriénne;Ain Fekka;Rougeole;12/04/2018
+592;Saadat  Amar;32;M;Algeriénne;El Khemis;Rougeole;12/04/2018
+593;Chahmi Soumia;0;F;Algeriénne;El Khemis;Rougeole;12/04/2018
+594;Chehibi Elfakht;30;F;Algeriénne;Birine;Rougeole;12/04/2018
+595;Raguab  Rim;12;F;Algeriénne;Birine;Rougeole;12/04/2018
+596;Messaoudi  Atia;25;M;Algeriénne;Birine;Rougeole;12/04/2018
+597;Benaissa  Fares;1;M;Algeriénne;Birine;Rougeole;12/04/2018
+598;Belghith Aicha;7;F;Algeriénne;Birine;Rougeole;12/04/2018
+599;Hassan Mohamed;6;M;Algeriénne;Birine;Rougeole;12/04/2018
+600;Ghithi  Assil;1;F;Algeriénne;Birine;Rougeole;12/04/2018
+601;Bentoumi Mohamed;3;M;Algeriénne;Birine;Rougeole;12/04/2018
+602;Laadjaj Asma;0;F;Algeriénne;Ain Oussera;Rougeole;12/04/2018
+603;Hocine Rebiha;38;F;Algeriénne;Ain Oussera;Rougeole;13/04/2018
+604;Guezizet  Samia;27;F;Algeriénne;Ain Oussera;TEP;13/04/2018
+605;Loucife  Bakhta;47;F;Algeriénne;Ain Oussera ;TEP;13/04/2018
+606;Benkous  Saadaouia ;42;F;Algeriénne;Had Shary ;TEP;13/04/2018
+607;Abid  Bachir ;76;M;Algeriénne;Hassi Fedoul;TEP;13/04/2018
+608;Makhlouf  Mustafa  ;32;M;Algeriénne;Ain Oussera ;TEP;13/04/2018
+609;Dikeche  Nadjet ;34;F;Algeriénne;Ain Oussera ;TEP;13/04/2018
+610;Chaoui  Mebarka;64;F;Algeriénne;Had Shary ;TEP;13/04/2018
+611;Zenikhri  Samiha ;26;F;Algeriénne;Birine;TEP;13/04/2018
+612;Abbasi  Khalifa ;21;M;Algeriénne;Birine;Brucellose;15/04/2018
+613;Abbasi Benayache ;8;M;Algeriénne;Birine;Brucellose;15/04/2018
+614;Benhadda  Mohamed;17;M;Algeriénne;Ain Oussera;Brucellose;15/04/2018
+615;Mekneche  Razika;40;F;Algeriénne;Ain Oussera;Leishmaniose;16/04/2018
+616;Benhadda  Ammar;31;M;Algeriénne;Ain Oussera;Brucellose;16/04/2018
+617;Benhadda  Hadjar ;12;F;Algeriénne;Ain Oussera;Brucellose;16/04/2018
+618;Rayane Hanane;33;F;Algeriénne;Had Shary;Rougeole;16/04/2018
+619;Othmani Asma;8;F;Algeriénne;Had Shary;Rougeole;16/04/2018
+620;Othmani Mustafa;0;M;Algeriénne;Had Shary;Rougeole;16/04/2018
+621;Othmani Aziz;5;M;Algeriénne;Had Shary;Rougeole;16/04/2018
+622;Othmani Mohamed;3;M;Algeriénne;Had Shary;Rougeole;16/04/2018
+623;Mjalat  Badereddine;10;M;Algeriénne;Had Shary;Rougeole;16/04/2018
+624;Djermoume  Ilies;5;M;Algeriénne;Had Shary;Rougeole;16/04/2018
+625;Djaghmoune  Messaouda;5;F;Algeriénne;Had Shary;Rougeole;16/04/2018
+626;Lasli  Djenane ;11;F;Algeriénne;Had Shary;Rougeole;16/04/2018
+627;Chahmi Soumia;8;F;Algeriénne;El Khemis;Rougeole;16/04/2018
+628;Alouche Nada Omayma;3;F;Algeriénne;Ain Oussera;Rougeole;16/04/2018
+629;Ghithi  Hanane;7;F;Algeriénne;Birine;Rougeole;16/04/2018
+630;Abiza  Ritadj;7;F;Algeriénne;Birine;Rougeole;17/04/2018
+631;Souilah  Kheira;33;F;Algeriénne;Ain Oussera;Rougeole;17/04/2018
+632;Souilah Oum elkheir;24;F;Algeriénne;Ain Oussera;Rougeole;17/04/2018
+633;Souilah Ameur;20;M;Algeriénne;Ain Oussera;Rougeole;17/04/2018
+634;Souilah Laid;21;M;Algeriénne;Ain Oussera;Rougeole;17/04/2018
+635;Fredj  Aya ;11;F;Algeriénne;Sidi laadjel;Leishmaniose;17/04/2018
+636;Mohadi Youcef;0;M;Algeriénne;Ain Oussera;Rougeole;18/04/2018
+637;Benaireche Mohamed;1;M;Algeriénne;Ain Oussera;Rougeole;18/04/2018
+638;Alouche Yacine ;9;M;Algeriénne;Ain Oussera;Rougeole;18/04/2018
+639;Zenina  Abdenour;11;M;Algeriénne;Ain Oussera;Rougeole;18/04/2018
+640;Chrifi  Nihal;1;F;Algeriénne;Birine;Rougeole;18/04/2018
+641;Djedilate Mohamed;2;M;Algeriénne;Benhar;Rougeole;18/04/2018
+642;Amirat  Abdallah;60;M;Algeriénne;Sidi laadjel;Brucellose;19/04/2018
+643;Alim Maya Alaa;0;F;Algeriénne;Sidi laadjel;Rougeole;22/04/2018
+644;Saadat  Yacine;28;M;Algeriénne;Sidi laadjel;Rougeole;22/04/2018
+645;Bouammama Mohamed;1;M;Algeriénne;Ain Oussera;Rougeole;22/04/2018
+646;Akkar  Kheira;1;F;Algeriénne;Ain Oussera;Rougeole;23/04/2018
+647;Bertali Wissam;1;M;Algeriénne;Ain Oussera;Rougeole;23/04/2018
+648;Souilah  Rachid;22;M;Algeriénne;Benhar;Brucellose;23/04/2018
+649;Ben edine  Kouider ;40;M;Algeriénne;Guernini ;Leishmaniose;23/04/2018
+650;Djoughma  Oumelkheir ;28;F;Algeriénne;Ain Oussera;Brucellose;24/04/2018
+651;Benhadda Ammar ;3;M;Algeriénne;Ain Oussera;Brucellose;24/04/2018
+652;Lagraa Hadda ;27;F;Algeriénne;Ain Oussera;Brucellose;24/04/2018
+653;Derahi  fatiha ;29;F;Algeriénne;Ain Oussera;Leishmaniose;26/04/2018
+654;Taibi  Ahmed;37;M;Algeriénne;Benhar;Brucellose;26/04/2018
+655;Bader  El khineche;46;M;Algeriénne;Sidi laadjel;Leishmaniose;26/04/2018
+656;Tahah  Said ;18;M;Algeriénne;Birine;Brucellose;26/04/2018
+657;Alim Tayeb ;51;M;Algeriénne;Sidi laadjel;Brucellose;26/04/2018
+658;Bouzid  Djaloul;20;M;Algeriénne;Sidi laadjel;Leishmaniose;29/04/2018
+659;Farhat  Fatna ;27;F;Algeriénne;Birine;Brucellose;29/04/2018
+660;Zegrir  Laid ;50;M;Algeriénne;Ain Oussera;Brucellose;29/04/2018
+661;Benhadda  Belkacem ;44;M;Algeriénne;Ain Oussera;Brucellose;29/04/2018
+662;Sebiha  Mohamed;3;M;Algeriénne;Ain Oussera;Rougeole;30/04/2018
+663;Houti Kheira;54;F;Algeriénne;Hassi Fedoul;Kyste Hydatique;30/04/2018
+664;Garnout  Oumhani ;67;F;Algeriénne;Ain Fekka;Brucellose;02/05/2018
+665;Ouissi Mohamed;36;M;Algeriénne;Ain Oussera;Brucellose;03/05/2018
+666;Nahar  Mohamed;20;M;Algeriénne;Ain Oussera;Brucellose;03/05/2018
+667;Djaghdali Sarah;9;F;Algeriénne;Had Shary ;TIAC;03/05/2018
+668;Djaghdali  Mohamed;1;M;Algeriénne;Had Shary ;TIAC;03/05/2018
+669;Djaghdali  Ismail ;6;M;Algeriénne;Had Shary ;TIAC;03/05/2018
+670;Djaghdali  Yassine ;11;M;Algeriénne;Had Shary ;TIAC;03/05/2018
+671;Rezgui  Said ;40;M;Algeriénne;Had Shary ;Brucellose;06/05/2018
+672;Daifallah Soraya ;24;F;Algeriénne;Ain Oussera;Leishmaniose;06/05/2018
+673;Boussalem Naim ;4;M;Algeriénne;Had Shary ;Rougeole;08/05/2018
+674;Gasmi Khadidja;16;F;Algeriénne;El Khemis;Rougeole;08/05/2018
+675;Bouzid Hayat ;29;F;Algeriénne;Ain Oussera;Rougeole;08/05/2018
+676;Akkar Fatima;26;F;Algeriénne;Ain Oussera;Rougeole;08/05/2018
+677;Saker Aya;5;F;Algeriénne;Birine;Rougeole;08/05/2018
+678;Djaber Nour Hane ;0;F;Algeriénne;Hassi fedoul;Rougeole;08/05/2018
+679;Djaber Aya ;5;F;Algeriénne;Hassi fedoul;Rougeole;08/05/2018
+680;Djaber razika;3;F;Algeriénne;Hassi fedoul;Rougeole;08/05/2018
+681;Baara  Messaoud;27;M;Algeriénne;Birine;Brucellose;09/05/2018
+682;Amirat  Madani ;42;M;Algeriénne;Birine;Brucellose;09/05/2018
+683;Ziane Naima;42;F;Algeriénne;Birine;Brucellose;10/05/2018
+684;Douidi  Rabah ;6;M;Algeriénne;Birine;Leishmaniose;10/05/2018
+685;Krifif  Abderrazak;15;M;Algeriénne;Ain Oussera;TP;10/05/2018
+686;Bessaoud  Lahrach;28;M;Algeriénne;Birine;Brucellose;13/05/2018
+687;Bouzidaoui  Hadda;75;F;Algeriénne;Ain Oussera;Brucellose;13/05/2018
+688;Baara Messaouda ;39;F;Algeriénne;Birine;Brucellose;13/05/2018
+689;Guemmoura Med Lamine;5;M;Algeriénne;Ain Oussera;Leishmaniose;13/05/2018
+690;Krifif  Abderrazak;15;M;Algeriénne;Ain Oussera;PFA;13/05/2018
+691;Djafel Aicha;26;F;Algeriénne;Ain Oussera;Kyste Hydatique;14/05/2018
+692;Fechar  Rahma;50;F;Algeriénne;Ain Oussera;Brucellose;14/05/2018
+693;Sersou  Nadia ;26;F;Algeriénne;Ain Oussera;Brucellose;14/05/2018
+694;Ziani  Moussa;73;M;Algeriénne;Had Shary ;Brucellose;16/05/2018
+695;Chahaba Abdelkader ;79;M;Algeriénne;Birine;Brucellose;16/05/2018
+696;Mebrouki  Rouguia;33;F;Algeriénne;Ain Oussera;Brucellose;17/05/2018
+697;Debbab Wessam ;3;M;Algeriénne;Had Shary ;Rougeole;18/05/2018
+698;Debbab Salma;1;F;Algeriénne;Had Shary ;Rougeole;18/05/2018
+699;Rebai Messaouda ;16;F;Algeriénne;Had Shary ;Leishmaniose;20/05/2018
+700;Smaida  Djabria ;39;F;Algeriénne;Benhar ;Brucellose;20/05/2018
+701;Bennouf  Oumhani ;48;F;Algeriénne;Ain Fekka;Leishmaniose;21/05/2018
+702;Ghazel  Lakhdar ;79;M;Algeriénne;Ain Oussera;Leishmaniose;21/05/2018
+703;Nadour Cherifa;23;F;Algeriénne;Ain Oussera;Brucellose;21/05/2018
+704;Kedari Abdelkader ;32;M;Algeriénne;Ain Oussera;Leishmaniose;22/05/2018
+705;Benhadda  Rabah;32;M;Algeriénne;Ain Oussera;Brucellose;23/05/2018
+706;Boudiaf  Rabah;51;M;Algeriénne;Birine;Brucellose;23/05/2018
+707;Drissi  Kheira ;75;F;Algeriénne;Sidi Laadjel;Leishmaniose;24/05/2018
+708;Ziani Belkacem;22;M;Algeriénne;Had Shary ;Brucellose;24/05/2018
+709;Bouchoul  Belkacem;8;M;Algeriénne;Ain Oussera;Brucellose;24/05/2018
+710;Gholmane  Saadaouia;60;F;Algeriénne;Ain Fekka;Brucellose;27/05/2018
+711;Hammad  laadjel ;40;M;Algeriénne;Had Shary ;Brucellose;27/05/2018
+712;Benlakhdar Abdelmoumen;14;M;Algeriénne;Sidi Laadjel;Brucellose;27/05/2018
+713;Bassine Lakhdar ;57;M;Algeriénne;Benhar ;Brucellose;28/05/2018
+714;Saigaa  Tourkia;18;F;Algeriénne;Had Shary ;Brucellose;28/05/2018
+715;Ziani  Douaa;2;F;Algeriénne;Had Shary ;TIAC;29/05/2018
+716;Ziani  Leila ;4;F;Algeriénne;Had Shary ;TIAC;29/05/2018
+717;Ziani  Djabri ;8;M;Algeriénne;Had Shary ;TIAC;29/05/2018
+718;Ziani Wahiba;5;F;Algeriénne;Had Shary ;TIAC;29/05/2018
+719;Ziani Ibrahim ;10;M;Algeriénne;Had Shary ;TIAC;29/05/2018
+720;Bessaoud Ahmed;69;M;Algeriénne;Birine;Brucellose;30/05/2018
+721;Mustfai  Houcine ;35;M;Algeriénne;Guernini ;Brucellose;30/05/2018
+722;Ziane Ahmed;38;M;Algeriénne;Birine;Brucellose;30/05/2018
+723;Bouchoul Naima;22;F;Algeriénne;Ain Oussera;TEP;30/05/2018
+724;Segaa Manal;6;F;Algeriénne;Ain Oussera;TEP;30/05/2018
+725;Lamri  Nadjet;30;F;Algeriénne;Ain Oussera;TEP;30/05/2018
+726;Benfoudhil  Hind;18;F;Algeriénne;Birine;TEP;30/05/2018
+727;Bassine Abdelhamid;83;M;Algeriénne;Ain Oussera;TEP;30/05/2018
+728;Gherbi Djamila ;59;F;Algeriénne;Ain Oussera;TEP;30/05/2018
+729;Kefif  Kheira ;9;F;Algeriénne;Ain Oussera;TEP;30/05/2018
+730;Saidani  Sarah;27;F;Algeriénne;Ain Oussera;TEP;30/05/2018
+731;Dahmani Nakhla;28;F;Algeriénne;Birine;TEP;30/05/2018
+732;Chouaf Mahaya;56;F;Algeriénne;Ain Oussera;TEP;30/05/2018
+733;Hedou betka ;56;M;;Sidi laadjel ;Leishmaniose;03/06/2018
+734;Chikhaoui Noureddine ;49;M;;Ain Oussera ;Brucellose;03/06/2018
+735;Bessaoud  malika ;8;F;;Birine ;Brucellose;04/06/2018
+736;Bardaya  Messaoud ;67;M;;Ain Oussera ;Leishmaniose;04/06/2018
+737;Boussalem  Meslem;9;M;;Had Shary;Brucellose;04/06/2018
+738;Harchaoui Rachid ;36;M;;Ain Oussera ;Brucellose;04/06/2018
+739;Baara Lakhdar ;27;M;;Birine ;Brucellose;06/06/2018
+740;Bessaoud  mabrak ;4;M;;Birine ;Brucellose;07/06/2018
+741;Alim Abdallah ;63;M;;Sidi laadjel ;Brucellose;10/06/2018
+742;Gholmane  rabie ;38;M;;Ain Fekka;Brucellose;11/06/2018
+743;Ragab  Ziane ;34;M;;Ain Fekka;Brucellose;11/06/2018
+744;Gassab  rania ;8;F;;Ain Oussera ;Rougeole ;11/06/2018
+745;Djaballah Noura ;38;F;;Birine ;Leishmaniose;14/06/2018
+746;Farah  khouloud;6;F;;Ain Oussera ;Rougeole ;14/06/2018
+747;Djemaa  Zoubida ;50;F;;Ain Oussera ;TEP;15/06/2018
+748;Benfoudil Amina ;17;F;;Birine ;TEP;15/06/2018
+749;Abzouzi  Dounia ;41;F;;Ain Oussera ;TEP;15/06/2018
+750;Dibaoui  Fatna ;54;F;;Ain Oussera ;TEP;15/06/2018
+751;mabsout  halima ;43;F;;Ain Oussera ;TEP;15/06/2018
+752;Zouaoui  Warda ;20;F;;Birine ;TEP;15/06/2018
+753;Guerzou  Sabah ;46;F;;Ain Oussera ;TEP;15/06/2018
+754;Cherif  karima ;30;F;;Ain Oussera ;TEP;15/06/2018
+755;Gacem  ladmia ;34;F;;Birine ;TEP;15/06/2018
+756;Kheir  Nabila ;15;F;;Ain Oussera ;TEP;15/06/2018
+757;Boudiaf  manal ;22;F;;Ain Oussera ;TEP;15/06/2018
+758;Larbi  Noura ;52;F;;Ain Oussera ;TEP;15/06/2018
+759;Bentoumi  lamia ;26;F;;Birine ;TEP;15/06/2018
+760;Ghaithi Messaouda;26;F;;Ain fekka;TP+;15/06/2018
+761;Benkabel  Cherif ;67;M;;Ain Oussera ;TEP;15/06/2018
+762;Souilhi  Abdelkader ;31;M;;Ain Oussera ;TEP;15/06/2018
+763;Behairi  Ahmed ;24;M;;Ain Oussera ;TEP;15/06/2018
+764;Benina  nabila ;27;F;;Ain Oussera ;TEP;15/06/2018
+765;Fedag  ladmia ;77;F;;Ouled maaraf;TP+;15/06/2018
+766;Djedilate  fatima ;58;F;;Benhar ;TEP;15/06/2018
+767;Benaireche Mohamed ;71;M;;Ain Oussera ;TP+;15/06/2018
+768;Benchelaf  Dalal ;37;F;;Ain Oussera ;TEP;15/06/2018
+769;Adam  Soumia ;35;F;;Ain Oussera ;TEP;15/06/2018
+770;Soudani  Roukia ;52;F;;Ain Oussera ;TEP;15/06/2018
+771;Tahah  Fattoum ;28;F;;Boughazoul ;Brucellose;17/06/2018
+772;Rebouh  Roukia ;53;F;;Birine ;Brucellose;18/06/2018
+773;Kadous  Zohra ;32;F;;Ain Oussera ;Brucellose;19/06/2018
+774;Bouchoul  Ziane ;2;M;;Ain Oussera ;Brucellose;19/06/2018
+775;Dahmani  El Arem ;56;F;;Ain Oussera ;Brucellose;20/06/2018
+776;Souilah Aissa ;26;M;;Birine ;Brucellose;21/06/2018
+777;Bouchoul Djaloul  ;4;M;;Ain Oussera ;Brucellose;21/06/2018
+778;Benhadda  Messaouda;5;F;;Ain Oussera ;Brucellose;24/06/2018
+779;Dahmani  Laid;61;M;;Ain Oussera ;Brucellose;24/06/2018
+780;Hadjaj  Aissa;48;M;;Sidi laadjel ;Brucellose;24/06/2018
+781;Ziane  lakhdar ;9;M;;Birine ;Brucellose;24/06/2018
+782;Lahlali  saad ;24;M;;Birine ;Brucellose;25/06/2018
+783;Hadjaj  Bassma;10;F;;Sidi laadjel ;Brucellose;25/06/2018
+784;Kadous  lazhari ;18;M;;Ain Oussera ;Brucellose;25/06/2018
+785;Kadous  fatima ;29;F;;Ain Oussera ;Brucellose;25/06/2018
+786;Adouane  Boudaoud ;39;M;;Sidi laadjel ;Brucellose;26/06/2018
+787;Djaouadi  yacine ;4;M;;Birine ;Brucellose;26/06/2018
+788;Chagroune  Djabri ;64;M;;Ain Oussera ;Brucellose;27/06/2018
+789;Chakour  Mohamed ;38;M;;Guernini;Brucellose;27/06/2018
+790;Bakhti  keltoum ;63;F;;El Khemis ;Brucellose;27/06/2018
+791;Merrah  El Hadja ;47;F;;Birine ;Brucellose;27/06/2018
+792;Makhlouf  Yacine ;23;M;;Birine ;TIAC;27/06/2018
+793;Smai  Noureddine ;23;M;;Birine ;TIAC;27/06/2018
+794;Garzouli  Ammar ;35;M;;Birine ;TIAC;27/06/2018
+795;Hamtaoui  Abbes;24;M;;Birine ;TIAC;27/06/2018
+796;Merzoug  messaouda;55;F;;Ain Oussera ;Brucellose;28/06/2018
+797;Benkous  Saadia ;20;F;;Had Shary;Brucellose;28/06/2018
+798;Benhadda Mohamed ;70;M;;Ain Oussera ;Brucellose;28/06/2018
+799;Noual  Ali ;65;M;;Ain Oussera ;TP+;30/06/2018
+800;Bakhouche  Samira;47;F;;Birine ;TEP;30/06/2018
+801;Driffel  Hadil ;5;F;;Ain Oussera ;TEP;30/06/2018
+802;Tahraoui  Djabri ;18;M;;Ain Fekka;TP+;30/06/2018
+803;Tammar  Faouzi ;32;M;;Ain Oussera ;TP+;30/06/2018
+804;Krifif  Cheima ;27;F;;Ain Oussera ;TEP;30/06/2018
+805;Dermache  Zineb ;52;F;;Birine ;TEP;30/06/2018
+806;Messadi  randa;24;F;;Sidi laadjel ;TEP;30/06/2018
+807;El Guerri  malika ;28;F;;Ain Fekka;TP+;30/06/2018
+808;Benchouita  Wissam ;18;M;;Ain Oussera ;TP+;30/06/2018
+809;Djafour Adel ;25;M;;Ain Oussera ;TEP;30/06/2018
+810;Zenagui  kouider ;47;M;;Birine ;TEP;30/06/2018
+811;Benalia  Billal ;23;M;;Birine ;TEP;30/06/2018
+812;Drissi  Fettoum  ;78;F;;Ain Oussera ;TEP;30/06/2018
+813;Kadi  Messaoud ;7;M;;Birine ;TEP;30/06/2018
+814;Zouaoui  Abdelhamid ;44;M;;Birine ;TEP;30/06/2018
+815;Taibaoui  Menad;35;M;;Ain Oussera ;TEP;30/06/2018
+816;Romana  bakhta;37;F;;Ain Oussera ;TEP;30/06/2018
+817;Zenikhri  Affaf ;28;F;;Birine ;TEP;30/06/2018
+818;lakehal  Chahrazed;34;F;;Ain Oussera ;TEP;30/06/2018
+819;Douidi  said ;56;M;;Ain Oussera ;TEP;30/06/2018
+820;Bessaoud  Ahmed ;7;M;Algeriénne;Birine ;Brucellose;01/07/2018
+821;Messoud  Yahia ;52;M;Algeriénne;Ain Oussera;Brucellose;01/07/2018
+822;Chettouh  Mohamed;21;M;Algeriénne;Bouiret Lahdab ;Brucellose;01/07/2018
+823;Chegroune Souraya ;27;F;Algeriénne;Ain Oussera;Brucellose;01/07/2018
+824;Bessaoud Abderrazak ;6;M;Algeriénne;Birine ;Brucellose;01/07/2018
+825;Bessaoud Sadek ;52;M;Algeriénne;Birine ;Brucellose;01/07/2018
+826;Zekkar  Mouhad;37;M;Algeriénne;Had Shary ;Brucellose;01/07/2018
+827;Lounas  Nawel ;32;F;Algeriénne;Guernini ;Brucellose;02/07/2018
+828;Rabouzi  Kouider ;54;M;Algeriénne;Ain Oussera;Brucellose;02/07/2018
+829;Hadjaj Oum Elkheir ;50;F;Algeriénne;Sidi laadjel ;Brucellose;02/07/2018
+830;Merzougui  Oumeima ;3;F;Algeriénne;Benhar ;Brucellose;02/07/2018
+831;Aitouti  Mekki ;30;M;Algeriénne;Ain Oussera;Brucellose;03/07/2018
+832;Chahaba Larem ;57;F;Algeriénne;Birine ;Brucellose;04/07/2018
+833;Guesmi  Benalia ;33;M;Algeriénne;El Khemis ;Brucellose;04/07/2018
+834;Hafid  Abdallah ;45;M;Algeriénne;Hassi fedoul ;Brucellose;09/07/2018
+835;Aitouti  Arbi ;25;M;Algeriénne;Guernini ;Brucellose;09/07/2018
+836;Naar  Laadjel ;43;M;Algeriénne;Hassi fedoul ;Brucellose;09/07/2018
+837;Djedai  Abdelghani ;17;M;Algeriénne;Birine ;Brucellose;09/07/2018
+838;Lemerekhi  Sabkhaoui ;39;M;Algeriénne;Ain Oussera;Brucellose;09/07/2018
+839;Kadous  Khadra ;64;F;Algeriénne;Guernini ;Brucellose;10/07/2018
+840;Gasmia  bachir ;14;M;Algeriénne;Birine ;Brucellose;10/07/2018
+841;Mouhadi  meriem ;47;F;Algeriénne;Ain Oussera;Brucellose;11/07/2018
+842;Bouchoul  hadda ;14;F;Algeriénne;Ain Oussera;Brucellose;11/07/2018
+843;Bouchoul  Hafnaoui ;59;M;Algeriénne;Ain Oussera;Brucellose;12/07/2018
+844;Draa Cheih Mohamed ;18;M;Algeriénne;Ain Oussera;Leishmaniose ;12/07/2018
+845;Lemerekhi  Yacine ;2;M;Algeriénne;Ain Oussera;Brucellose;12/07/2018
+846;Chegloufa  Mimouna ;22;F;Algeriénne;Guernini ;Brucellose;15/07/2018
+847;Djabalah  Aicha ;44;F;Algeriénne;Birine ;Leishmaniose ;15/07/2018
+848;Mezhoudi  Ismail ;18;M;Algeriénne;Birine ;Brucellose;15/07/2018
+849;Chettouh  Abdelbaki ;52;M;Algeriénne;Bouiret Lahdab ;Brucellose;16/07/2018
+850;Righi Houssam;0;M;Algeriénne;Ain Oussera;Rougeole;16/07/2018
+851;Ghadbaoui Adem;0;M;Algeriénne;Had Shary ;Rougeole;16/07/2018
+852;Amirat  Saida ;8;F;Algeriénne;Birine ;Brucellose;18/07/2018
+853;Seddi  Rachid ;35;M;Algeriénne;Sidi laadjel ;Brucellose;19/07/2018
+854;Oumrani  Lakhdar ;39;M;Algeriénne;Ain Oussera;Brucellose;23/07/2018
+855;Laab  Naim ;38;M;Algeriénne;Had Shary ;Brucellose;23/07/2018
+856;Baara  hadjira ;11;F;Algeriénne;Birine ;Brucellose;23/07/2018
+857;Chema  Mohamed ;18;M;Algeriénne;Benhar ;Brucellose;23/07/2018
+858;Ouchene  Aicha ;25;F;Algeriénne;Ain Oussera;Brucellose;23/07/2018
+859;Benhar  Ahmed ;54;M;Algeriénne;Ain Oussera;Brucellose;23/07/2018
+860;Hafid  Ahmed ;21;M;Algeriénne;Hassi fedoul ;Brucellose;24/07/2018
+861;Hafid  fatna ;47;F;Algeriénne;Hassi fedoul ;Brucellose;24/07/2018
+862;Saadat  Mohamed ;30;M;Algeriénne;Sidi laadjel ;Brucellose;24/07/2018
+863;Bendjafel  Saad ;31;M;Algeriénne;Birine ;Brucellose;24/07/2018
+864;Guetfaoui  Abda ;33;F;Algeriénne;Birine ;Brucellose;25/07/2018
+865;Atoui  saida ;22;F;Algeriénne;Ain Oussera;Brucellose;25/07/2018
+866;Mouhad  Ismail ;20;M;Algeriénne;Had Shary ;Brucellose;29/07/2018
+867;Bendjafel  freiha ;65;F;Algeriénne;Birine ;Brucellose;29/07/2018
+868;Abdoune  fatiha ;53;F;Algeriénne;Ain Oussera;Brucellose;29/07/2018
+869;Yahi  Rebiha ;55;F;Algeriénne;Birine ;Brucellose;29/07/2018
+870;Belkhous Raounak;1;F;Algeriénne;Birine ;Rougeole;29/07/2018
+871;Nouar Meriem Insaf;0;F;Algeriénne;Birine ;Rougeole;29/07/2018
+872;Ayad Meriem;1;F;Algeriénne;Ain Oussera;Rougeole;29/07/2018
+873;Bardaya Khaoula ;20;F;Algeriénne;Ain Oussera;Brucellose;30/07/2018
+874;Djafel  Abdelkader ;80;M;Algeriénne;Birine ;Brucellose;31/07/2018
+875;Kenniche Djamel eddine ;30;M;Algeriénne;Ain Oussera;TEP;31/07/2018
+876;Bouchoul Nouria ;19;F;Algeriénne;Ain Oussera;TEP;31/07/2018
+877;Ammi Saliha ;51;F;Algeriénne;Ain Oussera;TP ;31/07/2018
+878;Lakehal Rokia ;55;F;Algeriénne;Ain Oussera;TEP;31/07/2018
+879;Farhat  Amina ;26;F;Algeriénne;Ain Oussera;TEP;31/07/2018
+880;Chaouche Khadidja ;41;F;Algeriénne;Ain Oussera;TEP;31/07/2018
+881;Mostefaoui  Rouya ;20;F;Algeriénne;Ain Oussera;TEP;31/07/2018
+882;Gherbi  Fatna ;24;F;Algeriénne;Had Shary ;TEP;31/07/2018
+883;Benadji  Meriem ;29;F;Algeriénne;Birine ;TEP;31/07/2018
+884;Dibaoui  Dounia ;25;F;Algeriénne;Ain Oussera;TEP;31/07/2018
+885;Latrache Djoumana ;20;F;Algeriénne;Had Shary ;TEP;31/07/2018
+886;Saoudia  Houcine ;27;M;Algeriénne;Ain Oussera;TEP;31/07/2018
+887;Kolea  Aicha ;22;F;Algeriénne;Ain Fekka;TP ;31/07/2018
+888;Kibache Mohamed ;32;M;Algeriénne;Ain Oussera;TEP;31/07/2018
+889;Maameri  Nacira;20;F;Algeriénne;Ain Oussera;TEP;31/07/2018
+890;Guesmi Houria ;27;F;Algeriénne;Ain Oussera;TEP;31/07/2018
+891;Soltani  Malika ;32;F;Algeriénne;Ain Oussera;TEP;31/07/2018
+892;Ayad Mokhtar ;43;M;Algeriénne;Ksar Chellala;TP ;31/07/2018
+893;Mabsout  Messaouda ;52;F;Algeriénne;Ain Oussera;TEP;31/07/2018
+894;Youness Saad ;35;M;Algeriénne;Ain Fekka;TEP;31/07/2018
+895;Khalfaoui Nour Elhouda ;12;F;Algeriénne;Ain Oussera;TEP;31/07/2018
+896;Berni  Tourkia ;45;F;Algeriénne;Sidi laadjel ;TEP;31/07/2018
+897;Farfar Zoulikha ;44;F;Algeriénne;Ain Oussera;TEP;31/07/2018
+898;Bahri Sid Ahmed ;28;M;Algeriénne;Ain Oussera ;TEP;31/07/2018
+899;Zenikhri  Fatiha ;33;F;Algeriénne;Birine ;TEP;31/07/2018
+900;Chaoui  Bouzid ;43;M;Algeriénne;Had Shary ;TP ;31/07/2018
+901;Magran  Naouia;52;F;;Benhar;Brucellose;01/08/2018
+902;Laab  Boukhari ;17;M;;Had Sahary ;Brucellose;02/08/2018
+903;Lemerekhi  Noureddine ;8;M;;Ain Oussera ;Brucellose;02/08/2018
+904;Sayehi  Aicha;50;F;;Birine ;Brucellose;02/08/2018
+905;Saigaa  Ameur ;40;M;;Had Sahary ;Brucellose;02/08/2018
+906;Lahoual  mabrouk ;53;M;;Had Sahary ;Brucellose;05/08/2018
+907;Laab Boukhatem ;47;M;;Had Sahary ;Brucellose;06/08/2018
+908;Laadjel  Khadra ;26;F;;Birine ;Brucellose;06/08/2018
+909;Djaffel  Ben Aissa;40;M;;Birine ;Brucellose;06/08/2018
+910;Kadous Ahmed ;60;M;;Ain Oussera ;Brucellose;07/08/2018
+911;Boudiaf  Rachid;25;M;;Birine ;Rougeole ;08/08/2018
+912;Boudiaf hadda;31;F;;Birine ;Rougeole;08/08/2018
+913;Souilah  Oume elkheir ;24;M;;Birine ;Brucellose;12/08/2018
+914;Lahoual  maissa;2;F;;Ain Oussera ;Rougeole;12/08/2018
+915;Meddouh Hamam A/salem;3;M;;Ain Oussera ;Rougeole;12/08/2018
+916;Abib Ahmed ;12;M;;Ain Oussera ;Brucellose;12/08/2018
+917;Mohad  Aicha ;33;F;;Had Sahary ;Brucellose;12/08/2018
+918;Mazhoud  Kamel ;46;M;;Birine ;Brucellose;14/08/2018
+919;Chegloufa  Fatima Zahra;35;F;;Ain Oussera ;Brucellose;16/08/2018
+920;Bouseila  Mohamed;5;M;;Ain Oussera ;Leishmaniose;16/08/2018
+921;Ben Guirech  laadjel ;37;M;;Sidi laadjel ;Brucellose;16/08/2018
+922;Boudaoud  Saida ;39;F;;Birine ;Brucellose;19/08/2018
+923;Ben Amraoui  Fatiha ;47;F;;Had Sahary ;Brucellose;19/08/2018
+924;Charad  Mosaab;31;M;;Ain Oussera ;Leishmaniose;20/08/2018
+925;Saigaa Mebarka;6;F;;Had Sahary ;Brucellose;20/08/2018
+926;saigaa Slimane ;23;M;;Had Sahary ;Brucellose;20/08/2018
+927;Abib Ahmed ;13;M;;Ain Oussera ;Brucellose;20/08/2018
+928;Mezhoudi  messaoud ;45;M;;Birine ;Brucellose;20/08/2018
+929;Djafour  Zineb ;26;F;;Guernini;Brucellose;26/08/2018
+930;Hamadi  dahmane ;52;M;;Had Sahary ;Brucellose;26/08/2018
+931;Dib  belkacem ;12;M;;Birine ;Brucellose;26/08/2018
+932;Sbaiha  Ali ;24;M;;Had Sahary ;Brucellose;27/08/2018
+933;Abib Zohra ;10;F;;Ain Oussera ;Brucellose;28/08/2018
+934;Bouzenad  Mohamed ;36;M;;Hassi fedoul ;Brucellose;28/08/2018
+935;Guatouache  Lakhdar ;75;M;;Had Sahary ;Brucellose;28/08/2018
+936;Rebhi  Rabeh ;42;M;;Ain Oussera ;Brucellose;28/08/2018
+937;Rebihaoui Hammani ;1;M;;Ain Oussera ;Rougeole;29/08/2018
+938;Chedad Abdelkader;10;M;;Birine ;TIAC;29/08/2018
+939;Bouchoul  Djaloul ;28;M;;Ain Oussera ;Brucellose;29/08/2018
+940;Bouchoul  Foulla;6;F;;Ain Oussera ;Brucellose;29/08/2018
+941;Bahri  Soumia;19;F;;Birine ;Brucellose;30/08/2018
+942;Naar  Safia ;28;F;;Ain Oussera ;Leishmaniose;30/08/2018
+943;Bouchoul Ahmed ;4;M;;Sidi laadjel ;Brucellose;30/08/2018
+944;Laab  fatima ;40;F;;Had Sahary ;Brucellose;30/08/2018
+945;Chagloufa  fatima ;25;F;;Ain Oussera ;Brucellose;30/08/2018
+946;Amrane  Talia ;62;F;;Birine ;Brucellose;30/08/2018
+947;Chenoufi  Wafia ;24;F;;Ain Oussera ;TEP;30/08/2018
+948;Hallas  Marwa ;18;F;;Ain Oussera ;TEP;30/08/2018
+949;Kebir  Fatiha ;32;F;;Had Sahary ;TP +;30/08/2018
+950;Benaissa  Amel ;17;F;;Birine ;TEP;30/08/2018
+951;Yahiaoui  Aicha;31;F;;Ain Oussera ;TEP;30/08/2018
+952;Laadjali  Loubna ;15;F;;Ain Oussera ;TEP;30/08/2018
+953;Djelouli  Basma ;17;F;;Birine ;TEP;30/08/2018
+954;Nassah Oum El kheir;70;F;;Ain Oussera ;TEP;30/08/2018
+955;Benmaicha Hibatoullah;8;F;;Ain Oussera ;TEP;30/08/2018
+956;Begaa Sarah ;28;F;;Ain Oussera ;TEP;30/08/2018
+957;Hattab  Mokhtar ;68;M;;Birine ;TEP;30/08/2018
+958;Mihoubi  Aissa;22;M;;Had Sahary ;TP +;30/08/2018
+959;Boukhater Hadda;78;F;;Ain fekka;TEP;30/08/2018
+960;Kebir Fatna ;65;F;;Had Sahary ;TEP;30/08/2018
+961;Sedira  Leila ;38;F;;Birine ;TEP;30/08/2018
+962;Sadraoui  Hadjira ;25;F;;Benhar;TEP;30/08/2018
+963;Zegriri  Youcef ;12;M;;Ain Oussera ;TEP;30/08/2018
+964;Khineche  Khaoula ;17;F;;Ain Oussera ;TEP;30/08/2018
+965;Ghayat  Malika ;55;F;;Ain Oussera ;TEP;30/08/2018
+966;Benattalah  Moustafa;66;M;;Birine;Brucellose;02/09/2018
+967;Boufares  Mohamed;38;M;;Sidi laadjel;Brucellose;05/09/2018
+968;Ouissi Aicha ;39;F;;benhar;Brucellose;05/09/2018
+969;Bouzenad  Ammar;38;M;;Hassi fedoul ;Brucellose;06/09/2018
+970;El Ouali  Dhib;25;M;;benhar;Brucellose;06/09/2018
+971;Lamri  Fatima ;24;F;;Birine;Brucellose;10/09/2018
+972;Mohamedi  Mohamed;38;M;;Ain Oussera ;Brucellose;10/09/2018
+973;Atoui  Abir;11;F;;Ain Oussera ;Brucellose;10/09/2018
+974;Benchiha  Ferdous;1;F;;Benhar;Rougeole ;10/09/2018
+975;Kizane  Youcef;4;M;;Ain Oussera ;Rougeole ;10/09/2018
+976;Rebhi  Rania ;1;F;;Ain Oussera ;Rougeole ;10/09/2018
+977;Ouchah Messaouda;58;F;;Birine;Brucellose;12/09/2018
+978;Belabes  Zineb;37;F;;Birine;Brucellose;16/09/2018
+979;Delmadji  Oualid;30;M;;Birine;Brucellose;16/09/2018
+980;Abib Mustafa;41;M;;Ain Oussera ;Brucellose;18/09/2018
+981;Darouaya  Mohamed;16;M;;Ain Fekka;Brucellose;19/09/2018
+982;Bouabdelli  Messaouda;74;F;;Had Sahary ;Kyste Hydatique;19/09/2018
+983;Mabrouki  Salah;4;M;;Ain Oussera ;Rougeole;24/09/2018
+984;Mabrouki  Walid;4;M;;Ain Oussera ;Rougeole;24/09/2018
+985;Charrab  Fatna ;31;F;;Ain Oussera ;TEP;30/09/2018
+986;Aissat  Souad ;26;F;;Birine;TEP;30/09/2018
+987;Taibi  Belkacem ;65;M;;Ain Oussera ;TEP;30/09/2018
+988;Gherbi  Aicha;30;F;;Had Sahary ;TP+;30/09/2018
+989;Souri  Amel ;12;F;;Ain Oussera ;TEP;30/09/2018
+990;Mojhfi  Tayeb ;22;M;;Ain Oussera ;TEP;30/09/2018
+991;Benhaimoura  Zineb ;27;F;;Ain Oussera ;TEP;30/09/2018
+992;Bourai  Yamina ;39;F;;Ain Oussera ;TEP;30/09/2018
+993;Younes  Hakim ;1;M;;Had Sahary ;TEP;30/09/2018
+994;Bouziane Bakhta ;38;F;;benhar;TEP;30/09/2018
+995;Mihoubi Houcine ;22;M;;Had Sahary ;TEP;30/09/2018
+996;Djellal  Meriem ;27;F;;Had Sahary ;TEP;30/09/2018
+997;Hadjab  Djamila ;37;F;;Ain Oussera ;TEP;30/09/2018
+998;Rebhi  Djamila ;45;F;;Ain Oussera ;TEP;30/09/2018
+999;Amri  Nacira ;59;F;;Birine;TEP;30/09/2018
+1000;Rahmani  Hayet ;37;F;;Ain Oussera ;TEP;30/09/2018
+1001;Habbache  Afifa ;23;F;;Had Sahary ;TP+;30/09/2018
+1002;Metrouche  Ismail ;23;M;;Ain Oussera ;TEP;30/09/2018
+1003;Djennane  Mohamed ;31;M;;Sidi laadjel;TP+;30/09/2018
+1004;Rebhi  Darradji ;2;M;;Ain Oussera ;Rougeole;30/09/2018
+1005;Chetouh Noureddine ;19;M;Algerienne;Benhar;Leishmaniose;02/10/2018
+1006;Chetouh Sieddine;17;M;Algerienne;Benhar;Leishmaniose;02/10/2018
+1007;Hafid  ryme ;23;F;Algerienne;El Khemis;Brucellose;02/10/2018
+1008;Saadat  fatima ;24;F;Algerienne;El Khemis;Brucellose;02/10/2018
+1009;Chaabani  hadda ;52;F;Algerienne;El Khemis;Brucellose;02/10/2018
+1010;Mekki benazouz;48;M;Algerienne;Birine;Brucellose;10/10/2018
+1011;Lemerikhi  nadia ;30;F;Algerienne;Ain Oussera;Brucellose;15/10/2018
+1012;Kehiliche Lobna;22;F;Algerienne;Guernini ;Brucellose;17/10/2018
+1013;Djenane belkacem ;25;M;Algerienne;sidi laadjel ;Leishmaniose;18/10/2018
+1014;Lachekham Ali ;28;M;Algerienne;Ain Oussera;Brucellose;22/10/2018
+1015;Zerouki Yahia ;3;M;Algerienne;Ain Oussera;Rougeole;22/10/2018
+1016;Zrouki  Mohamed;1;M;Algerienne;Ain Oussera;Rougeole;22/10/2018
+1017;Mazouni Imad;0;M;Algerienne;Ain Oussera;Rougeole;23/10/2018
+1018;Bouras  Mohamed;1;M;Algerienne;Ain Oussera;Rougeole;23/10/2018
+1019;Termouch Abdelghani ;2;M;Algerienne;Hassi fedoul ;Rougeole;23/10/2018
+1020;Azzar adem ;2;M;Algerienne;Ain Oussera;Rougeole;24/10/2018
+1021;Bouzid  Halima ;0;F;Algerienne;Ain Oussera;Rougeole;24/10/2018
+1022;Rezague  Serine;2;F;Algerienne;sidi laadjel ;Rougeole;24/10/2018
+1023;Tahraoui  lakhdar ;32;M;Algerienne;Had Shary ;Kyste Hydatique ;24/10/2018
+1024;Younsi  Yassine ;32;M;Algerienne;Ain Oussera;Leishmaniose;24/10/2018
+1025;Djaoubar  Hanane;21;F;Algerienne;Ain Oussera;Leishmaniose;28/10/2018
+1026;Rebhi Slami ;28;M;Algerienne;Guernini ;Brucellose;28/10/2018
+1027;Boukhacheba  Rouguia ;68;M;Algerienne;Benhar;Brucellose;28/10/2018
+1028;Adaoui  Attalah;74;M;Algerienne;Ain Boucif;Brucellose;28/10/2018
+1029;Souici  Islam ;0;M;Algerienne;Ain Fekka;MCS;29/10/2018
+1030;Bouabdallah Mohamed;7;M;Algerienne;Ain Oussera;Leishmaniose;30/10/2018
+1031;saadat Hemida ;3;M;Algerienne;El Khemis;Brucellose;30/10/2018
+1032;Gouissem  Ritadj ;0;F;Algerienne;Ain Oussera;Rougeole;30/10/2018
+1033;Zerouki  Roukia ;8;F;Algerienne;Ain Oussera;Rougeole;30/10/2018
+1034;Ben Ezine Bakhti;22;M;Algerienne;Ain Oussera;Leishmaniose;31/10/2018
+1035;Zaddani  Ahmida;32;M;Algerienne;Birine;Brucellose;31/10/2018
+1036;Dib  Fatiha;35;F;Algerienne;Ain Oussera;TEP;31/10/2018
+1037;Rebihaoui  Azouz;26;M;Algerienne;Ain Oussera;TP+;31/10/2018
+1038;Taleb Fatima Zohra;34;F;Algerienne;Ain Oussera;TP+;31/10/2018
+1039;Zegriri Benazouz;53;M;Algerienne;Ain Oussera;TEP;31/10/2018
+1040;Mezhoud  Mohamed;29;M;Algerienne;Ain Oussera;TEP;31/10/2018
+1041;Benabderrahmane Imane ;33;F;Algerienne;Ain Oussera;TEP;31/10/2018
+1042;Kessab messaouda;36;F;Algerienne;Ain Oussera;TEP;31/10/2018
+1043;Mabrouki  Belkacem ;4;M;Algerienne;Benhar ;TEP;31/10/2018
+1044;Maatib fatima Zohra;48;F;Algerienne;Ain Oussera;TEP;31/10/2018
+1045;Saadaoui  Djamila ;39;F;Algerienne;Ain Oussera;TP+;31/10/2018
+1046;Soulah  yamina ;29;F;Algerienne;Birine ;TEP;31/10/2018
+1047;Gounar  Amel ;23;F;Algerienne;Ain Oussera;TEP;31/10/2018
+1048;Sman Ghufran ;1;F;Algerienne;Ain Oussera;Rougeole;31/10/2018
+1049;Tammar  Rahaf ;1;F;Algerienne;Ain Oussera;Rougeole;31/10/2018
+1050;Sabbar Bouchera;3;F;Algerienne ;Sidi Laadjel;Leishmaniose;21/11/2018
+1051;Sabbar Abdelhakim ;2;M;Algerienne ;Sidi Laadjel;Leishmaniose;21/11/2018
+1052;Benchiha Ammar;47;M;Algerienne ;Benhar;Leishmaniose;21/11/2018
+1053;Rebie Ismail ;8;M;Algerienne;Ain Fekka;Leishmaniose;21/11/2018
+1054;Rebie sarah ;9;F;Algerienne;Ain Fekka;Leishmaniose;21/11/2018
+1055;Bendjarmoume Bakhti ;44;M;Algerienne;Had Shary;Leishmaniose;21/11/2018
+1056;Menad  Ahmed ;18;M;Algerienne ;Ain Oussera;Leishmaniose;25/11/2018
+1057;Bouzid  Amine ;28;M; ;Sidi Laadjel;Leishmaniose;27/11/2018
+1058;Chaabane  Mohamed ;36;M; ;Ain Oussera;Leishmaniose;27/11/2018
+1059;Chibout Khadra ;76;F; ;Ain Oussera;Brucellose;27/11/2018
+1060;Oukal Djihane ;1;F;Ain Fekka;Ain Oussera;Rougeole ;21/11/2018
+1061;Oukal Anes Badredine ;2;M;Ain Fekka;Ain Oussera;Rougeole ;21/11/2018
+1062;Lakehal abdelkarim ;1;M;Ain Oussera ;Ain Oussera;Rougeole ;21/11/2018
+1063;Mansour Fadhli;14;M;Algérienne;Ain Oussera ;Leishmaniose;04/11/2018
+1064;Kourik  Ahmed;26;M;Algérienne;Ain Oussera ;Leishmaniose;04/11/2018
+1065;Dehilis mohamed amine ;0;M;Algérienne;Birine ;Rougeole ;04/11/2018
+1066;Saadat Ahmida ;14;M;Algérienne;El Khemis;Brucellose;05/11/2018
+1067;Alim Djelal;21;M;Algérienne;Sidi laadjel ;Leishmaniose;05/11/2018
+1068;Radouane Ahmed;16;M;Algérienne;Ain Oussera ;Leishmaniose;07/11/2018
+1069;Sehil madjd Islam ;13;M;Algérienne;Sidi laadjel ;Leishmaniose;11/11/2018
+1070;Ziani Elghazel ;19;F;Algérienne;Had Shary ;Leishmaniose;12/11/2018
+1071;El Bay Soulaf ;9;F;Algérienne;Ain Fekka;Leishmaniose;13/11/2018
+1072;Fedda Oualid ;10;M;Algérienne;Had Shary ;Leishmaniose;13/11/2018
+1073;Bassine  Rami ;18;M;Algérienne;Ain Oussera ;Leishmaniose;14/11/2018
+1074;Reguieg Messaouda;19;F;Algérienne;Birine ;Brucellose;14/11/2018
+1075;Taibaoui  Manel ;18;F;Algérienne;Ain Oussera ;Leishmaniose;14/11/2018
+1076;Soulah  Chouiha ;40;M;Algérienne;Ain Oussera ;Rougeole ;18/11/2018
+1077;Khanfar lamia;15;F;Algérienne;Sidi laadjel ;Rougeole ;19/11/2018
+1078;Malati Rabia;10;F;Algérienne;Sidi laadjel ;Rougeole ;19/11/2018
+1079;Hacen Younes;1;M;Algérienne;Ain Oussera ;Rougeole ;19/11/2018
+1080;Sabbar Bouchera;3;F;Algérienne;Sidi Laadjel ;Leishmaniose;21/11/2018
+1081;Sabbar Abdelhakim ;2;M;Algérienne;Sidi Laadjel ;Leishmaniose;21/11/2018
+1082;Benchiha Ammar;47;M;Algérienne;Benhar ;Leishmaniose;21/11/2018
+1083;Rebie Ismail ;8;M;Algérienne;Ain Fekka;Leishmaniose;21/11/2018
+1084;Rebie sarah ;9;F;Algérienne;Ain Fekka;Leishmaniose;21/11/2018
+1085;Bendjarmoume Bakhti ;44;M;Algérienne;Had Shary;Leishmaniose;21/11/2018
+1086;Oukal Djihane ;1;F;Algérienne;Ain Fekka;Rougeole ;21/11/2018
+1087;Oukal Anes Badredine ;2;M;Algérienne;Ain Fekka;Rougeole ;21/11/2018
+1088;Lakehal abdelkarim ;1;M;Algérienne;Ain Oussera ;Rougeole ;21/11/2018
+1089;Menad  Ahmed ;18;M;Algérienne;Ain Oussera ;Leishmaniose;25/11/2018
+1090;Bouzid  Amine ;28;M;Algérienne;Sidi Laadjel ;Leishmaniose;27/11/2018
+1091;Chaabane  Mohamed ;36;M;Algérienne;Ain Oussera ;Leishmaniose;27/11/2018
+1092;Chibout Khadra ;76;F;Algérienne;Ain Oussera ;Brucellose;27/11/2018
+1093;Hajali Assil ;1;F;Algérienne;Ain Oussera ;Rougeole;27/11/2018
+1094;Khanfar  Boudaoud;31;M;Algérienne;Ain Oussera ;Rougeole;27/11/2018
+1095;Kouskous nabil ;6;M;Algérienne;Ain Oussera ;Rougeole;28/11/2018
+1096;Ammar Ramzi ;7;M;Algérienne;Ain Oussera ;TIAC;28/11/2018
+1097;Ammar Abdallah ;5;M;Algérienne;Ain Oussera ;TIAC;28/11/2018
+1098;Rahmani Iyad;1;M;Algérienne;Ain Oussera ;Rougeole;28/11/2018
+1099;Rahmani  Ahlam ;1;F;Algérienne;Ain Oussera ;Rougeole;28/11/2018
+1100;Hamdaoui  Zohra ;37;F;Algérienne;Ain Oussera ;Brucellose;29/11/2018
+1101;Benouf  Zakhroufa ;10;F;Algérienne;Ain Fekka;Leishmaniose;29/11/2018
+1102;Rzig  Yasser ;6;M;Algérienne;Ain Oussera ;Rougeole;29/11/2018
+1103;Dahmani  hayat ;16;F;Algérienne;Hassi fedoul;Rougeole;30/11/2018
+1104;Ben Nail Ritadj ;3;F;Algérienne;Ain Fekka;Rougeole;30/11/2018
+1105;Malek Radhia;19;F;Algérienne;Ain Oussera ;Hepatite C;30/11/2018
+1106;Boulagna  Malek;1;F;Algérienne;Ain Oussera ;Rougeole;30/11/2018
+1107;Boumana  Abdelkader ;37;M;Algérienne;Ain Oussera ;TEP;30/11/2018
+1108;Larbi  Meriem ;16;F;Algérienne;Ain Oussera ;TEP;30/11/2018
+1109;Serai  Taous;43;F;Algérienne;Ain Oussera ;TEP;30/11/2018
+1110;Hamlaoui  Yousra ;12;F;Algérienne;Ain Oussera ;TEP;30/11/2018
+1111;Dardouri  Razika ;18;F;Algérienne;Benhar ;TEP;30/11/2018
+1112;Dardouri  Walid;7;M;Algérienne;Benhar ;TEP;30/11/2018
+1113;Dardouri  fatima ;30;F;Algérienne;Benhar ;TEP;30/11/2018
+1114;Lakehal Mebarka ;46;F;Algérienne;Ain Oussera ;TEP;30/11/2018
+1115;Dardouri  Abdenacer ;28;M;Algérienne;Benhar ;TEP;30/11/2018
+1116;Louail  Saadia ;45;F;Algérienne;Ain Oussera ;TP+;30/11/2018
+1117;Benmaamar Abderahmane;39;M;Algérienne;Ain Oussera ;TP+;30/11/2018
+1118;Nadia  Hadjira ;29;F;Algérienne;Had Shary ;TEP;30/11/2018
+1119;Zaidi  Omar ;39;M;Algérienne;Ain Oussera ;TEP;30/11/2018
+1120;Nazergui  Salem ;17;M;Algérienne;Ain Oussera ;TEP;30/11/2018
+1121;Gharbi  Tahar ;32;M;Algérienne;Ain Fekka;TEP;30/11/2018
+1122;Fraihi  Hadda ;25;F;Algérienne;Ain Oussera ;TEP;30/11/2018
+1123;Kribi  Messaouda;38;F;Algérienne;Ain Oussera ;TEP;30/11/2018
+1124;Mebarki Tesnim ;6;F;Algérienne;Had Shary ;Rougeole;02/12/2018
+1125;Kliouet Abdelkader ;51;M;Algérienne;Ain Oussera ;Brucellose;02/12/2018
+1126;Berni  Badredine ;33;M;Algérienne;Sidi Laadjel;Leishmaniose;04/12/2018
+1127;Benraouan Aissa ;2;M;Algérienne;Benhar ;Rougeole;04/12/2018
+1128;Benraouan Mohamed ;2;M;Algérienne;Benhar ;Rougeole;04/12/2018
+1129;Benraouan Lakhdar ;4;M;Algérienne;Benhar ;Rougeole;04/12/2018
+1130;Khanfous Mohamed ;41;M;Algérienne;Ain Oussera ;Rougeole;04/12/2018
+1131;Berni Baderedine ;33;M;Algérienne;Sidi laadjel ;Leishmaniose;04/12/2018
+1132;Souilah nasereddine;0;M;Algérienne;Birine;Rougeole;04/12/2018
+1133;Karnout  Boulam ;4;M;Algérienne;Ain Fekka;Leishmaniose;05/12/2018
+1134;Cheddad  Zohir;12;M;Algérienne;Sidi laadjel ;Leishmaniose;05/12/2018
+1135;Benzid  Islam ;13;M;Algérienne;Ain Oussera;Leishmaniose;09/12/2018
+1136;Hemri  Bilal ;19;M;Algérienne;Ain Oussera;Leishmaniose;09/12/2018
+1137;Feradj  Madiha;30;F;Algérienne;Sidi laadjel ;Kyste Hydatique;09/12/2018
+1138;Kouskous  rahaf ;3;F;Algérienne;Ain Oussera;Rougeole;09/12/2018
+1139;Mostefai  Torkia ;32;F;Algérienne;Guernini ;Kyste Hydatique;09/12/2018
+1140;Felgouma  Belkacem ;32;M;Algérienne;Ain Fekka;Leishmaniose;10/12/2018
+1141;Saadat  Zakaria ;6;M;Algérienne;Sidi laadjel ;Leishmaniose;11/12/2018
+1142;Berghouth  Malek ;2;M;Algérienne;Birine;Rougeole;11/12/2018
+1143;Naar  Mhamed;26;M;Algérienne;Hassi fedoul ;Beucellose;12/12/2018
+1144;Smaida  Torkia ;40;F;Algérienne;Ain Oussera ;Rougeole ;12/12/2018
+1145;Abdelatif  Mohamed;6;M;Algérienne;Ain Oussera;Rougeole ;13/12/2018
+1146;Zaoui  Mohamed;23;M;Algérienne;Birine;Leishmaniose;13/12/2018
+1147;Serbah  Naima ;3;F;Algérienne;Sidi laadjel ;Leishmaniose;13/12/2018
+1148;Leblalta Moaatassim billah;11;M;Algérienne;Ain Oussera;Leishmaniose;16/12/2018
+1149;Ammi  Ikram ;2;F;Algérienne;Ain Oussera ;Rougeole ;17/12/2018
+1150;El khaouni Abdelhafif;65;M;Algérienne;Birine;Beucellose;18/12/2018
+1151;Tarbouche Ibtissam ;2;F;Algérienne;Sidi laadjel ;Leishmaniose;19/12/2018
+1152;ElKhaouni Abdelhafid;65;M;Algérienne;Birine ;Brucellose;19/12/2018
+1153;Gamoura Sarah;14;F;Algérienne;Ain Oussera ;leishmaniose;20/12/2018
+1154;Delmadji Nour elhouda;21;F;Algérienne;Birine ;leishmaniose;20/12/2018
+1155;Delmadji  Abdelkader ;10;M;Algérienne;Birine ;leishmaniose;20/12/2018
+1156;Bensaha  Abderraouf;6;M;Algérienne;Bouaiche;leishmaniose;20/12/2018
+1157;Bensaha Nadjet;3;F;Algérienne;Bouaiche;leishmaniose;20/12/2018
+1158;Bendjaghmoume Tayeb;33;M;Algérienne;Had Shary;Brucellose;20/12/2018
+1159;Sarsab  Fatima zohra;3;F;Algérienne;Ain Oussera ;leishmaniose;20/12/2018
+1160;Messaoudi Narimane ;4;F;Algérienne;Ain Oussera ;Rougeole;20/12/2018
+1161;Souafi  Ahmed;47;M;Algérienne;Bouaiche;leishmaniose;24/12/2018
+1162;Souafi  Anis;13;M;Algérienne;Bouaiche;leishmaniose;24/12/2018
+1163;Alouane  hanane;3;F;Algérienne;El Khemis;leishmaniose;24/12/2018
+1164;Rebaie Wardia;37;F;Algérienne;Ain Fekka;leishmaniose;24/12/2018
+1165;Hourabi Achraf;3;M;Algérienne;Ain Fekka;leishmaniose;24/12/2018
+1166;Djemaa djihad ;1;F;Algérienne;Guernini ;Rougeole;24/12/2018
+1167;Mezhoudi Ayoub;0;M;Algérienne;Birine ;Rougeole;24/12/2018
+1168;Dellal Abdelkader ;17;M;Algérienne;Sidi laadjel;leishmaniose;25/12/2018
+1169;Tchiche Aicha;32;F;Algérienne;Ain Fekka;leishmaniose;26/12/2018
+1170;Gharbi  Aichouche;60;F;Algérienne;Ain Fekka;leishmaniose;26/12/2018
+1171;Laidani  Ahmed;1;M;Algérienne;Benhar ;Rougeole;27/12/2018
+1172;Hamidat Ahmed;6;M;Algérienne;Ain Oussera ;Rougeole;27/12/2018
+1173;Dir Nour ;1;F;Algérienne;Benhar ;Rougeole;27/12/2018
+1174;Amii  Imad ;3;M;Algérienne;Ain Oussera ;Rougeole;27/12/2018
+1175;Soulah  Islam ;5;M;Algérienne;Ain Oussera ;Rougeole;27/12/2018
+1176;Hafida  Saida ;20;F;Algérienne;Hassi fedoul ;leishmaniose;27/12/2018
+1177;Khanfar  Ibtihal ;4;F;Algérienne;Sidi laadjel;Rougeole;30/12/2018
+1178;Khalid Ali ;6;M;Algérienne;Sidi laadjel;Rougeole;30/12/2018
+1179;Gaoui Mohamed ;3;M;Algérienne;Ain Oussera ;Rougeole;30/12/2018
+1180;Mohamedi Fatoum ;29;F;Algérienne;Ain Oussera ;Rougeole;30/12/2018
+1181;Djedilete  Oualid;11;M;Algérienne;benhar;leishmaniose;30/12/2018
+1182;Abidat  Souad ;33;F;Algérienne;Hassi fedoul ;leishmaniose;30/12/2018
+1183;Tounsi  manel ;0;F;Algérienne;Birine ;Rougeole;30/12/2018
+1184;Abid  Slimane ;50;M;Algérienne;Hassi fedoul ;Syphilis;30/12/2018
+1185;Tamelakte  Samra;41;F;Algérienne;Hassi fedoul ;Syphilis;30/12/2018
+1186;Ouled mabrouk mohamed ;33;M;Algérienne;Sidi laadjel;leishmaniose;31/12/2018
+1187;Hassane  hamza;16;M;Algérienne;Birine ;Brucellose;31/12/2018
+1188;Touil  Zineb ;49;F;Algérienne;Sidi laadjel;leishmaniose;31/12/2018
+1189;Souar  Abdelkarim;51;M;Algérienne;Benhar ;TEP;31/12/2018
+1190;Hamidani  Souraya ;10;F;Algérienne;Birine ;TEP;31/12/2018
+1191;Boukharacha Hadda;39;F;Algérienne;Ain Fekka;TEP;31/12/2018
+1192;Benmechaia  Benali ;40;M;Algérienne;Benhar;TEP;31/12/2018
+1193;Rezigui  Dhia eddine;4;M;Algérienne;Had Shary;TEP;31/12/2018
+1194;Megag  Meriem ;65;F;Algérienne;Benhar;TEP;31/12/2018
+1195;Dahani  Salsabil ;11;F;Algérienne;Ain Oussera ;TEP;31/12/2018
+1196;Bahnas Djoumana ;21;F;Algérienne;Ain Oussera ;TEP;31/12/2018
+1197;Douidi  Aicha;53;F;Algérienne;Ain Oussera ;TEP;31/12/2018
+1198;Alleug Youcef eddine ;11;M;Algérienne;Ain Oussera ;TEP;31/12/2018
+1199;Guedim  Khedidja;23;F;Algérienne;Ain Oussera ;TEP;31/12/2018
+1200;Ziad Anouar ;23;M;Algérienne;Ain Oussera ;TEP;31/12/2018
+1201;Ghazali  Bachir ;6;M;Algérienne;Ain Oussera ;TEP;31/12/2018
+1202;Salmaoui  Hadjer ;25;F;Algérienne;Ain Oussera ;TEP;31/12/2018
+1203;Kihoul  Bilal ;21;M;Algérienne;Ain Oussera ;TEP;31/12/2018
+1204;Bendiaf  keltoum ;36;F;Algérienne;Ain Oussera ;TEP;31/12/2018
+1205;Douabi  Khaled;43;M;Algérienne;Hassi fedoul ;TP+;31/12/2018
+1206;Gaoui  Houda;30;F;Algérienne;Ain Oussera ;TEP;31/12/2018
+1207;Kheir Djamila ;48;F;Algérienne;Ain Oussera ;TEP;31/12/2018
+1208;Foudhil  Ali ;39;M;Algérienne;Ain Oussera ;TEP;31/12/2018
+1209;Omrani  Aicha;27;F;Algérienne;Ain Oussera ;TEP;31/12/2018
+1210;Bennouf  Fatima;22;F;Algérienne;Birine ;TEP;31/12/2018
+1211;Daifalah  Zohra;26;F;Algérienne;Birine ;TEP;31/12/2018
+1212;Sahraoui  Yahia ;57;F;Algérienne;Ain Oussera ;TEP;31/12/2018

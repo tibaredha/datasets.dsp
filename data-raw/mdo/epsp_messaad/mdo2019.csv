@@ -1,0 +1,1530 @@
+﻿N;NOM PRENOM;COMMUNE;AGE;SEXE;PATHOLOGIE;DATE
+1;ben hadda taher;messaad;27;m;Rougeole;2/01/2019
+2;adjimi khalefa;messaad;8;m;Rougeole;2/01/2019
+3;bensaid meftah;messaad;5;m;Rougeole;2/01/2019
+1;haffaf nourdine;messaad;5;m;Leishmaniose,c;9/01/2019
+2;tahiri khaoula;messaad;1;f;Leishmaniose,c;9/01/2019
+3;guettaf kouider;messaad;50;m;Leishmaniose,c;6/01/2019
+4;dahmane zohra;messaad;23;f;Leishmaniose,c;7/01/2019
+5;dahmane khadra;messaad;25;f;Leishmaniose,c;7/01/2019
+6;dahmane saadia;messaad;48;f;Leishmaniose,c;7/01/2019
+7;benrahmoune nabil;messaad;14;m;Leishmaniose,c;7/01/2019
+8;guerracha nadjet;messaad;14;f;Leishmaniose,c;9/01/2019
+9;benchatouh messaouda;taadmit;46;f;Rougeole;5/01/2019
+10;mehal fatna;ain elibel;4;f;Rougeole;3/01/2019
+11;dahmane hadjer;messaad;0;f;Rougeole;8/01/2019
+12;hamada fatima;ain elibel;19;f;Tuberculose p;6/01/2019
+1;debba mohamed;messaad;19;m;leishmaniose ,c;12/01/2019
+2;mahcha amani;messaad;0;f;rougeole;8/01/2019
+3;dahmane hadjer;messaad;0;f;rougeole;5/01/2019
+4;ben abdelsalam mayar;messaad;0;f;rougeole;15/01/2019
+5;dahman khadidja ;messaad;30;f;rougeole;10/01/2019
+6;ayachi belkacem;ainelibel;8;m;rougeole;10/01/2019
+7;far zohra;taadmit;2;f;rougeole;14/01/2019
+8;derkouche nacera;moudjbara;0;f;rougeole;14/01/2019
+9;benhomida fatoum;moudjbara;16;f;rougeole;14/01/2019
+10;benhomida lakhder;moudjbara;22;m;rougeole;14/01/2019
+11;benhomida belkacem;moudjbara;11;m;rougeole;14/01/2019
+12;bonhomida el amouria;moudjbara;18;f;rougeole;14/01/2019
+13;rahmoune ghofrane;messaad;4;f;rougeole;10/01/2019
+14;adjimi zohra;moudjbara;1;f;rougeole;8/01/2019
+15;mehila naima;ainelibel;10;f;rougeole;13/01/2019
+16;mehila kheira;ainelibel;7;f;rougeole;13/01/2019
+17;hobita cheikh;moudjbara;2;m;rougeole;13/01/2019
+18;renni lakhder;ainelibel;7;m;rougeole;13/01/2019
+19;gourieb mohamed;messaad;0;m;rougeole;13/01/2019
+20;mazouzi mohamed;messaad;99;m;Tuberculose p;14/01/2019
+21;bloul mohamed;messaad;0;m;Meningite;18/01/2019
+22;mechalfakh aicha;ainelibel;80;f;Tuberculose (TEP);14/01/2019
+23;temezghine laila;messaad;18;f;Tuberculose (TEP);16/01/2019
+01;borchi abdallah;messaad;19;m;Brucellose;5/11/2019
+02;benhadda thamer;messaad;34;m;Brucellose;8/11/2019
+03;gueche ahmed;ainelibel;40;m;Brucellose;8/11/2019
+04;garoud taher;messaad;38;m;Brucellose;8/11/2019
+05;hamadi messaoud;messaad;57;m;Brucellose;13/11/2019
+06;toumi mustapha;ainelibel;14;m;Brucellose;14/11/2019
+07;garoud ahmed;messaad;77;m;Brucellose;15/11/2019
+08;adjimi messaouda;messaad;23;f;Brucellose;18/11/2019
+09;zitout hachmi;messaad;19;m;Brucellose;19/11/2019
+10;merzoug khadidja;moudjbara;21;f;Brucellose;22/11/2019
+11;mazouzi ziane;messaad;50;m;Brucellose;22/11/2019
+12;messaoudi lakhder;messaad;84;m;Brucellose;2/12/2019
+13;benslilih mohamed;messaad;57;m;Brucellose;23/12/2019
+14;saidi taher;messaad;42;m;Brucellose;30/12/2019
+15;naoui hathat;ain elibel;12;m;Brucellose;30/12/2019
+16;boussairi ali;messaad;45;m;Brucellose;24/12/2019
+17;lagreb lakhder;messaad;58;m;Brucellose;12/12/2019
+18;dlioueh amer;messaad;42;m;Brucellose;30/12/2019
+19;benahmed lakhder;messaad;29;m;Brucellose;30/12/2019
+20;halal imen;messaad;24;f;Brucellose;3/01/2019
+21;touati fatiha;messaad;35;f;Brucellose;14/01/2019
+22;serrar fatna;messaad;28;f;Brucellose;14/01/2019
+23;touer O,E,K;messaad;39;f;Brucellose;14/01/2019
+24;karrache nakhla;messaad;15;f;Brucellose;15/01/2019
+25;choungach mekhelat;messaad;69;m;Brucellose;15/01/2019
+26;gaimouza ameur;messaad;25;m;Brucellose;17/01/2019
+27;touati dahmen;messaad;40;m;Brucellose;16/01/2019
+28;benattia lakhder;messaad;63;m;Brucellose;13/01/2019
+29;haouari aicha;messaad;35;f;Brucellose;12/01/2019
+30;toumi rabiaa;ainelibel;32;f;Brucellose;12/01/2019
+31;gaimouza abdelmadjid;messaad;67;m;Brucellose;12/01/2019
+32;dardour fouzi;ainelibel;31;m;Brucellose;9/01/2019
+33;bensalem zohra;messaad;32;f;Brucellose;7/01/2019
+34;ziani talia;messaad;47;f;Brucellose;7/01/2019
+35;baghdadou messaouda;ainelibel;16;f;Brucellose;6/01/2019
+36;dahmane zohra;messaad;70;f;Brucellose;14/01/2019
+37;Rini lakhder;ain elibel;7;m;Brucellose;23/01/2019
+38;maamri aicha;messaad;35;f;Brucellose;3/01/2019
+39;berrabah khadidja;messaad;13;f;Hepatie A;20/01/2019
+40;azouz guaafazi;moudjbara;14;m;Rougeole;21/01/2019
+41;benOurif achouak;messaad;2;f;Rougeole;21/01/2019
+42;karrache idriss;messaad;2;m;Rougeole;18/01/2019
+43;sofrani oek;messaad;31;f;Rougeole;20/01/2019
+44;tadjin siraj;taadmit;0;m;Rougeole;18/01/2019
+45;guerracha younes;messaad;2;m;Rougeole;21/01/2019
+46;belkheir farah;messaad;3;f;Rougeole;22/01/2019
+47;djelita achraf;messaad;9;m;Rougeole;23/01/2019
+48;benboudina adem;messaad;5;m;Rougeole;20/01/2019
+49;tahiri wafa;messaad;15;f;Leishmaniose c;8/01/2019
+50;naami safa;messaad;1;f;Leishmaniose c;13/01/2019
+51;khelifa aek;messaad;37;m;Leishmaniose c;21/01/2019
+52;benfettacha hiba;messaad;1;f;Leishmaniose c;20/01/2019
+1;ben salem fatiha;messaad;32;f;leishmaniose c;23/01/2019
+2;ben souissi benalia;messaad;60;m;leishmaniose c;24/01/2019
+3;belouaz houria;messaad;33;f;leishmaniose c;24/01/2019
+4;ben nouidjem Abdeldjabar;messaad;27;m;leishmaniose c;29/01/2019
+5;benmessaoud saad;messaad;54;m;leishmaniose c;28/01/2019
+6;ghouini hamra;messaad;74;f;leishmaniose c;31/01/2019
+7;saada noura;taadmit;2;f;Rougeole;27/01/2019
+8;sofrani rahaf;messaad;0;f;Rougeole;27/01/2019
+9;zaimini abdelrahmen;Ain elibel;0;m;Rougeole;29/01/2019
+10;naami fatima;messaad;1;f;Rougeole;28/01/2019
+11;bakhti ali;moudjbara;40;m;Brucellose;30/01/2019
+12;bessaoud messaoud;moudjbara;28;m;Brucellose;30/01/2019
+13;bessaoud lakhder;moudjbara;2;f;Brucellose;30/01/2019
+14;maache fayala;messaad;19;f;Tuberculose(tep);31/01/2019
+15;aouale amer;Ain elibel;44;m;Tuberculose(tep);31/01/2019
+16;boumidouna achouak;messaad;0;f;Meningite;28/01/2019
+1;naimi saada;messaad;40;f;Brucellose;19/01/2019
+2;Haideche soumia;messaad;17;f;Brucellose;20/01/2019
+3;Rebih zineb;messaad;37;f;Brucellose;20/01/2019
+4;belakhder saida;messaad;26;f;Brucellose;21/01/2019
+5;salhi meriem;messaad;62;f;Brucellose;21/01/2019
+6;moussaoui amer;messaad;17;m;Brucellose;22/01/2019
+7;benmessaoud abdelhak;messaad;18;m;Brucellose;22/01/2019
+8;touati abdelrrahman;messaad;27;m;Brucellose;27/01/2019
+9;djaidoul oek;ainelibel;60;f;Brucellose;27/01/2019
+10;abdi abdelaziz;messaad;23;m;Brucellose;28/01/2019
+11;abdi radia;messaad;9;f;Brucellose;28/01/2019
+12;lagraa houria;messaad;43;f;Brucellose;29/01/2019
+13;ouirak aicha;messaad;51;f;Brucellose;30/01/2019
+14;tahiri mohamed;messaad;40;m;Brucellose;30/01/2019
+15;belkheir djawhar;messaad;0;f;Rougeole;2/02/2019
+16;malki khawla;messaad;8;f;Rougeole;2/02/2019
+17;malki khadidja;messaad;2;f;Rougeole;2/02/2019
+18;madani ahlem;messaad;11;f;Rougeole;1/02/2019
+19;gaafazi khelifa;messaad;20;m;Rougeole;30/01/2019
+20;gaafazi ahmed;messaad;16;m;Rougeole;30/01/2019
+21;elhadi meriem;messaad;2;f;Rougeole;30/01/2019
+22;djekal salem;ainelibel;31;m;Tuberculose(TP);7/02/2019
+1;benkhaled selma;messaad;40;F;Leishmaniose c;10/02/2019
+2;bensaid mbarka;messaad;59;F;leishmaniose c;10/02/2019
+3;saksak ali;Taadmit;30;M;syphilis;4/02/2019
+4;naama amour;messaad;85;M;Brucellose;10/02/2019
+5;tameri zineb;Zaccar;52;F;Brucellose;10/02/2019
+6;kouadria sebah;moudjbara;0;F;Rougeole;3/02/2019
+7;benkouider hadda;messaad;32;f;Rougeole;12/02/2019
+8;ghanay kheira;ainelibel;39;f;Rougeole;13/02/2019
+9;boudhaina ritaj;messaad;3;f;Rougeole;13/02/2019
+1;khourief nadji;Messaad;2;M;Rougeole;17/02/2019
+2;Benkouider mohamed;Messaad;2;M;Rougeole;17/02/2019
+3;chaib wassila;Messaad;5;f;Leishmaniose c;18/02/2019
+4;tahiri wafae;Messaad;15;f;Leishmaniose c;18/02/2019
+5;Haoua Ahmed;Messaad;31;M;Leishmaniose c;18/02/2019
+6;Touati azzeddine;Messaad;13;M;Leishmaniose c;18/02/2019
+7;benabdelsalam nacera;Messaad;23;F;Leishmaniose c;18/02/2019
+8;benkhaled salma;Messaad;46;F;Leishmaniose c;18/02/2019
+9;douaba saadia;Messaad;52;f;Leishmaniose c;18/02/2019
+10;Allaoua naoual;Messaad;2;f;Leishmaniose c;18/02/2019
+11;Naami safae;Messaad;2;f;Leishmaniose c;18/02/2019
+12;Benara Mustapha;Messaad;50;m;Leishmaniose c;18/02/2019
+13;laassal freiha;Moudjbara;8;f;Brucellose;7/02/2019
+14;bendjouel saida;Moudjbara;21;f;Brucellose;7/02/2019
+15;taaboub fayala;Moudjbara;26;f;Brucellose;14/02/2019
+16;mokhtari daouadia;Moudjbara;49;f;Brucellose;14/02/2019
+17;khomkham zineb ;Moudjbara;34;f;Brucellose;14/02/2019
+18;ayouaz oek;Moudjbara;28;f;Brucellose;12/02/2019
+19;bessaoud aicha;Moudjbara;46;f;Brucellose;12/02/2019
+20;benchriet belkacem;Moudjbara;35;M;Brucellose;12/02/2019
+21;benbaghdad saad;Moudjbara;30;M;Brucellose;11/02/2019
+22;benbaghdad zohra;Moudjbara;13;F;Brucellose;10/02/2019
+23;brahim ahmed;Moudjbara;30;M;Brucellose;31/01/2019
+24;bejkina ali ;Moudjbara;37;M;Brucellose;28/01/2019
+25;boudouh fatna;Moudjbara;48;F;Brucellose;31/12/2019
+26;Benourif fatima;Messaad;16;F;Tuberculose(TEP);15/02/2019
+27;Benourif fatna;Messaad;12;F;Tuberculose(TEP);16/02/2019
+01;Oubah rawane;messaad;3;M;Rougeole;24/02/2019
+02;baghdadi sara;messaad;2;f;Rougeole;26/02/2019
+03;benzerguine saida;messaad;41;f;Tuberculose(tep);27/02/2019
+04;benbagdad mustapha;zakar;32;m;Brucellose;26/02/2019
+05;omrani messaouda;zakar;30;f;Brucellose;26/02/2019
+06;bouharag taheur;moudjbara;12;m;Brucellose;26/02/2019
+07;kouskous aek;moudjbara;38;m;Brucellose;26/02/2019
+08;Charboul fatiha;zakar;36;f;Brucellose;26/02/2019
+01;joudi chourouk;moudjbara;6;f;Rougeole;3/03/2019
+02;joudi hicham;moudjbara;7;m;Rougeole;3/03/2019
+03;guedid Abdelnour;moudjbara;3;m;Rougeole;3/03/2019
+04;oubah othmane;messaad;24;m;Rougeole;3/03/2019
+05;oubah Bilal;messaad;5;m;Rougeole;5/03/2019
+06;oubah messaoud;messaad;33;m;Rougeole;5/03/2019
+07;oubah khadidja;messaad;19;f;Rougeole;5/03/2019
+08;oubah omara;messaad;26;m;Rougeole;6/03/2019
+09;oubah dokman;messaad;4;m;Rougeole;6/03/2019
+10;oubah mohamed;messaad;6;m;Rougeole;6/03/2019
+11;oubah bachir;messaad;8;m;Rougeole;6/03/2019
+12;belagraa aicha;messaad;33;f;Rougeole;7/03/2019
+13;belhadj djilali;zaccar;16;m;Meningo encephalite;3/03/2019
+14;ben ourif fatna;messaad;12;f;Tuberculose (TEP);5/03/2019
+01;Raini mouaradj;Ainelibel;45;M;Brucellose;31/01/2019
+02;raini souad;Ainelibel;7;f;Brucellose;31/01/2019
+03;touer sumain;Ainelibel;45;m;Brucellose;31/01/2019
+04;den hada;Ainelibel;50;f;Brucellose;31/01/2019
+05;bengourina azzedine;Ainelibel;18;m;Brucellose;31/01/2019
+06;bengourina attia;Ainelibel;25;m;Brucellose;31/01/2019
+07;touer bouzid;Ainelibel;30;m;Brucellose;31/01/2019
+08;bengrina fayed;Ainelibel;29;m;Brucellose;31/01/2019
+09;tayebi med;Ainelibel;24;m;Brucellose;31/01/2019
+10;djabhi hamza;Ainelibel;18;m;Brucellose;31/01/2019
+11;bella med;Ainelibel;57;m;Brucellose;31/01/2019
+12;djaballah ahmed;Ainelibel;24;m;Brucellose;31/01/2019
+13;rahmoun chaouli;Ainelibel;25;m;Brucellose;31/01/2019
+14;touer aicha;Ainelibel;35;f;Brucellose;31/01/2019
+15;bengourina med;Ainelibel;70;m;Brucellose;31/01/2019
+16;chakhma omar;Ainelibel;34;m;Brucellose;31/01/2019
+17;touer zohra;Ainelibel;28;f;Brucellose;31/01/2019
+18;larget dhaiba;Ainelibel;49;f;Brucellose;31/01/2019
+19;doudou fatna;Ainelibel;48;f;Brucellose;31/01/2019
+20;mestifa aicha;Ainelibel;73;f;Brucellose;31/01/2019
+21;bakhti meriem;Ainelibel;53;f;Brucellose;31/01/2019
+22;dahass djadia;Ainelibel;39;f;Brucellose;31/01/2019
+23;rabhi aek;Ainelibel;29;m;Brucellose;31/01/2019
+24;amraoui hadja;Ainelibel;24;f;Brucellose;31/01/2019
+25;raini naoum;Ainelibel;48;m;Brucellose;31/01/2019
+26;assali souad;Ainelibel;30;f;Brucellose;31/01/2019
+27;benhafaf ameur;Ainelibel;34;m;Brucellose;31/01/2019
+28;raikha khiera;Ainelibel;45;f;Brucellose;31/01/2019
+29;bakhti belkheir;Ainelibel;41;m;Brucellose;31/01/2019
+30;kasmi abdallah;Ainelibel;30;m;Brucellose;31/01/2019
+31;rebih mohamed;moudjbara;18;m;Brucellose;12/03/2019
+32;hamidi mokhtar;moudjbara;57;m;Brucellose;12/03/2019
+33;Oued aicha;messaad;86;f;Tubercullose(TP);4/03/2019
+34;zerguet lakhder;messaad;84;m;Tubercullose(TP);10/03/2019
+35;djaiou el horma;Ainelibel;65;f;Tubercullose(TP);10/03/2019
+36;oubah lobna;messaad;4;m;Rougeole;13/03/2019
+37;oubah rebiha;messaad;30;f;Rougeole;13/03/2019
+38;oubah wedjene;messaad;0;f;Rougeole;13/03/2019
+39;oubah mohamed;messaad;0;m;Rougeole;12/03/2019
+40;gaafazi sabah;messaad;0;f;Rougeole;12/03/2019
+41;oubah maroua;messaad;5;f;Rougeole;12/03/2019
+42;oubah khadidja;messaad;4;f;Rougeole;12/03/2019
+43;guedid mustafa;moudjbara;0;m;Rougeole;10/03/2019
+44;guedid oek;moudjbara;2;f;Rougeole;10/03/2019
+45;naami mustafa;Ainelibel;1;m;Rougeole;10/03/2019
+46;melati mustafa;messaad;1;m;Rougeole;10/03/2019
+47;zioueche said;moudjbara;1;m;Meningite;11/03/2019
+01;guedid hadjira;moudjbara;6;f;Rougeole;15/03/2019
+02;abikchi idris;messaad;1;m;Rougeole;18/03/2019
+03;guenne ayoub;messaad;7;m;Rougeole;16/03/2019
+04;bessaoud aatra;moudjbara;5;f;Rougeole;19/03/2019
+05;boumidouna ahmed;messaad;0;m;Rougeole;16/03/2019
+06;oubah ismail;messaad;1;m;Rougeole;16/03/2019
+07;reouabeh kheira;moudjbara;1;f;Rougeole;16/03/2019
+08;oubah azeddine;messaad;0;m;Rougeole;14/03/2019
+09;lekhneche raouane;ain el ibel;1;f;Rougeole;15/03/2019
+10;ben selem lakhdar;ain el ibel;0;m;Meningite;13/03/2019
+11;mbarki bachir;messaad;43;m;brucellose;17/03/2019
+12;selmi ouda;taadhmit;33;f;brucellose;17/03/2019
+13;hamida haritch;ain el ibel;25;m;tubercilose P;14/03/2019
+01;chikhaoui khadidja;Ainelibel;20;f;Brucellose;1/02/2019
+02;rebai omlkheir;messaad;82;f;Brucellose;4/02/2019
+03;tahah razika;messaad;5;f;Brucellose;3/02/2019
+04;belekhdar ameur;messaad;26;m;Brucellose;3/02/2019
+05;belekhdar benaitia;messaad;25;m;Brucellose;3/02/2019
+06;othmane seliman;messaad;44;m;Brucellose;3/02/2019
+07;bkhaiti lakhdar;messaad;30;m;Brucellose;3/02/2019
+08;kidar ameur;messaad;64;m;Brucellose;3/02/2019
+09;lehzeil omlkheir;messaad;35;f;Brucellose;30/01/2019
+10;mehamedi AEK;messaad;34;m;Brucellose;5/02/2019
+11;bessaoud bessaoud;messaad;16;m;Brucellose;19/03/2019
+12;chaabane belkacem;Ainelibel;24;m;Brucellose;12/03/2019
+13;bouzid yacine;messaad;17;m;Brucellose;20/03/2019
+14;karrache yamina;messaad;16;f;Brucellose;20/02/2019
+15;messaodi messaouda;messaad;48;f;Brucellose;20/03/2019
+16;sedara asmaa;messaad;25;f;Brucellose;17/03/2019
+17;silaa hameza;messaad;18;m;Brucellose;17/03/2019
+18;salhi benharzellah;Ainelibel;30;m;Brucellose;17/03/2019
+19;touati halima;messaad;32;f;Brucellose;19/03/2019
+20;kacemi zahra;Ainelibel;15;f;Brucellose;19/03/2019
+21;othmane belkacem;messaad;34;m;Brucellose;19/03/2019
+22;kazrane ali;messaad;39;m;Brucellose;19/03/2019
+23;debchegue ahmed;messaad;38;m;Brucellose;12/03/2019
+24;lekhneche mira;Ainelibel;48;f;Brucellose;12/03/2019
+25;kacemi ameur;Ainelibel;12;m;Brucellose;12/03/2019
+26;brahimi khadra;messaad;24;f;T,E,P;24/03/2019
+27;abbas fatna;messaad;46;f;T,E,P;26/03/2019
+28;guedid saadia;moudjbara;1;f;rougeole;26/03/2019
+29;guedid belkacem;moudjbara;2;m;rougeole;26/03/2019
+30;guedid ahmed;moudjbara;5;m;rougeole;26/03/2019
+31;benhadda houcin;messaad;5;m;rougeole;24/03/2019
+32;benhadda kheira;messaad;4;f;rougeole;24/03/2019
+33;toumi zohra;moudjbara;33;f;rougeole;24/03/2019
+34;toumi hayfa;messaad;5;f;rougeole;24/03/2019
+35;naoui aicha;messaad;0;f;rougeole;24/03/2019
+01;malak aicha;Ainelibel;30;f;Brucellose;11/03/2019
+02;bakria ismail;taadhmit;21;m;Brucellose;13/03/2019
+03;othmane arbia;messaad;83;f;Brucellose;14/03/2019
+04;toumi ameur;moudjbara;6;m;Brucellose;14/03/2019
+05;ghoureib khalifa;messaad;70;m;Brucellose;14/03/2019
+06;lekhneche mostafa;messaad;37;m;Brucellose;14/03/2019
+07;aabikchi abdelaziz;messaad;20;m;Brucellose;12/03/2019
+08;toumi aicha;moudjbara;8;f;Brucellose;12/03/2019
+09;serrar samira;messaad;31;f;Brucellose;24/03/2019
+10;haidech abderrahman;messaad;6;m;Brucellose;24/03/2019
+11;gaimouza hadjira;messaad;10;f;Brucellose;24/03/2019
+12;djaidoul fatima;Ainelibel;23;f;Brucellose;24/03/2019
+13;kaderi khaounia;Ainelibel;33;f;Brucellose;24/03/2019
+14;berahimi saida;messaad;52;f;Brucellose;24/03/2019
+15;karrache ahmed;messaad;22;m;Brucellose;24/03/2019
+16;karrache souhila;messaad;22;f;Brucellose;24/03/2019
+17;karrache hanan;messaad;27;f;Brucellose;24/03/2019
+18;serrar fatiha;messaad;22;f;Brucellose;24/03/2019
+19;  salhi khaira;messaad;17;f;Brucellose;21/03/2019
+20;mouafek mohamed;messaad;72;m;Brucellose;21/03/2019
+21;chaib abdellah;messaad;32;m;Brucellose;11/03/2019
+22;kheniche aicha;messaad;40;f;Brucellose;11/03/2019
+23;toumi fatiha;moudjbara;9;f;Brucellose;11/03/2019
+24;hamadi mebrouk;messaad;43;m;Brucellose;10/03/2019
+25;hamadi fatiha;messaad;40;f;Brucellose;12/03/2019
+26;rida sara;messaad;14;f;Brucellose;12/03/2019
+27;abikchi mohamed;messaad;14;m;Brucellose;24/03/2019
+28;saihi mohamed;Ainelibel;39;m;Brucellose;13/03/2019
+29;touamria messaoud;moudjbara;28;m;Brucellose;28/03/2019
+30;djedir zohra;moudjbara;27;f;Brucellose;28/03/2019
+31;seghir a/fettah;moudjbara;26;m;Brucellose;28/03/2019
+32;Naoui mustapha;moudjbara;27;m;Brucellose;28/03/2019
+33;laassel friha;moudjbara;25;f;Brucellose;28/03/2019
+34;benabdelsalem aida;moudjbara;25;f;Brucellose;28/03/2019
+35;habita saadia;moudjbara;57;f;Brucellose;28/03/2019
+36;bouzid ben allia;moudjbara;34;m;Brucellose;28/03/2019
+37;bouzid ahmed;moudjbara;61;m;Brucellose;28/03/2019
+38;zbida saadia;moudjbara;28;f;Brucellose;28/03/2019
+39;bencheriet salima;moudjbara;29;f;Brucellose;28/03/2019
+40;kouadria salima;moudjbara;26;f;Brucellose;24/03/2019
+41;guloul aissa;moudjbara;44;m;Brucellose;24/03/2019
+42;ziani aissa;moudjbara;36;m;Brucellose;24/03/2019
+43;naoui khadidja;moudjbara;36;f;Brucellose;24/03/2019
+44;bengourina med;Ainelibel;7;m;Brucellose;9/02/2019
+45;bengourina salam;Ainelibel;8;m;Brucellose;9/02/2019
+46;djidoul miloudia;Ainelibel;19;f;Brucellose;10/02/2019
+47;bedirina boubakeur;Ainelibel;29;m;Brucellose;11/02/2019
+48;mehirigua salima;Ainelibel;30;f;Brucellose;13/02/2019
+49;berhom fatna;Ainelibel;35;f;Brucellose;13/02/2019
+50;haraoua yucef;Ainelibel;19;m;Brucellose;13/02/2019
+51;touer belkacem;Ainelibel;19;m;Brucellose;18/02/2019
+52;haitaf zohra;Ainelibel;60;f;Brucellose;20/02/2019
+53;benlabiad yucef;Ainelibel;22;m;Brucellose;20/02/2019
+54;toumi med;Ainelibel;28;m;Brucellose;20/02/2019
+55;djaoui bachir;Ainelibel;16;m;Brucellose;21/02/2019
+56;amraoui nail;Ainelibel;24;m;Brucellose;21/02/2019
+57;hani khadra;Ainelibel;76;f;Brucellose;24/02/2019
+58;zoubir messaouda;Ainelibel;50;f;Brucellose;25/02/2019
+59;hamada benazouz;Ainelibel;20;m;Brucellose;25/02/2019
+60;hamada abdelrahman;Ainelibel;20;m;Brucellose;25/02/2019
+61;lachehbi miloudia;Ainelibel;50;f;Brucellose;25/02/2019
+62;lassra boualam;Ainelibel;23;m;Brucellose;25/02/2019
+63;raini saida;Ainelibel;11;f;Brucellose;25/02/2019
+64;hlassa boumediene;Ainelibel;19;m;Brucellose;27/02/2019
+65;raini friha;Ainelibel;14;f;Brucellose;27/02/2019
+66;touer saliha;Ainelibel;13;f;Brucellose;27/02/2019
+67;bakhti kheira;Ainelibel;28;f;Brucellose;27/02/2019
+68;benbaghdad belkacem;Ainelibel;17;m;Brucellose;28/02/2019
+69;mogti thameur;Ainelibel;21;m;Brucellose;28/02/2019
+70;choungache nakhla;Ainelibel;65;f;Brucellose;28/02/2019
+71;toumi zoulikha;Ainelibel;18;f;Brucellose;28/02/2019
+72;toumi ahmed;Ainelibel;32;m;Brucellose;28/02/2019
+73;houcin aicha;messaad;61;f;Tubercullose(tep);1/04/2019
+74;zaamrichi melina;messaad;0;f;Rougeole;3/04/2019
+75;zitout sadek;messaad;0;m;Rougeole;3/04/2019
+76;djraibie yasmine;messaad;8;f;Rougeole;31/03/2019
+77;merissa oumhani;messaad;25;f;Rougeole;31/03/2019
+78;bennadji issra;messaad;1;f;Rougeole;31/03/2019
+79;bouzid ibrahim;messaad;0;m;Rougeole;1/04/2019
+80;kemari wassim;messaad;0;m;Rougeole;2/04/2019
+81;baghdadi abdallah;messaad;1;m;Rougeole;31/03/2019
+82;bessaoud afaf;messaad;0;f;Rougeole;31/03/2019
+83;bouzid rahmani;messaad;8;m;Rougeole;31/03/2019
+84;benhadda aida;messaad;2;f;Rougeole;4/04/2019
+01;seray berkahoum ;Ainelibel;59;f;Brucellose;3/03/2019
+02;Toumi houcine;Ainelibel;25;f;Brucellose;3/03/2019
+03;djidoul mokhtar;Ainelibel;29;m;Brucellose;3/03/2019
+04;largat belkacem;Ainelibel;23;m;Brucellose;3/03/2019
+05;lamlouma boulerbah;Ainelibel;30;m;Brucellose;4/03/2019
+06;azouzi saad;Ainelibel;6;m;Brucellose;3/03/2019
+07;rahmoun khiera;Ainelibel;28;f;Brucellose;3/03/2019
+08;djidoul aissa;Ainelibel;40;m;Brucellose;3/03/2019
+09;thamri dahmane;Ainelibel;43;m;Brucellose;6/03/2019
+10;chibout mougti;Ainelibel;25;m;Brucellose;6/03/2019
+11;belkhieri zouina;Ainelibel;35;f;Brucellose;7/03/2019
+12;zaiouni abir;Ainelibel;42;f;Brucellose;7/03/2019
+13;tenoum belkacem;Ainelibel;39;m;Brucellose;7/03/2019
+14;hathati ali;Ainelibel;36;m;Brucellose;9/03/2019
+15;saihi mourad;Ainelibel;35;m;Brucellose;9/03/2019
+16;guidjar med;Ainelibel;47;m;Brucellose;9/03/2019
+17;chinoune saadi;Ainelibel;35;m;Brucellose;10/03/2019
+18;gouicem belaila;Ainelibel;68;m;Brucellose;10/03/2019
+19;tennah ombarka;Ainelibel;36;f;Brucellose;11/03/2019
+20;djakal amar;Ainelibel;26;m;Brucellose;11/03/2019
+21;den hadda;Ainelibel;19;f;Brucellose;19/03/2019
+22;bouzouada nakhla;Ainelibel;48;f;Brucellose;20/03/2019
+23;mogti ali;Ainelibel;32;m;Brucellose;20/03/2019
+24;derouich siham;Ainelibel;22;f;Brucellose;20/03/2019
+25;touir ahlam;Ainelibel;15;f;Brucellose;20/03/2019
+26;tenah fatna;Ainelibel;38;f;Brucellose;20/03/2019
+27;kacemi ahmed;Ainelibel;56;m;Brucellose;20/03/2019
+28;tenah hafsa;Ainelibel;6;f;Brucellose;20/03/2019
+29;gussmia boulerbah;Ainelibel;21;m;Brucellose;20/03/2019
+30;mouissa zahra;Ainelibel;32;f;Brucellose;20/03/2019
+31;kouidri ahmed;Ainelibel;20;m;Brucellose;21/03/2019
+32;gourinai atalah;Ainelibel;25;m;Brucellose;24/03/2019
+33;laarbi alaatra;Ainelibel;58;m;Brucellose;26/03/2019
+34;touir abdellah;Ainelibel;43;m;Brucellose;26/03/2019
+35;tahiri fatna;Ainelibel;61;m;Brucellose;26/03/2019
+36;raini khadir;Ainelibel;65;m;Brucellose;26/03/2019
+37;touir saila;Ainelibel;22;m;Brucellose;26/03/2019
+38;touier kheira;Ainelibel;23;m;Brucellose;26/03/2019
+39;gouicem laila;Ainelibel;34;m;Brucellose;26/03/2019
+40;touer ahmed;Ainelibel;35;m;Brucellose;26/03/2019
+41;maikdache mohamed;Ainelibel;26;m;Brucellose;26/03/2019
+42;chetouh mohamed;Ainelibel;33;m;Brucellose;26/03/2019
+43;djoudi ali;Ainelibel;22;m;Brucellose;27/03/2019
+44;touer fatna;Ainelibel;40;m;Brucellose;26/03/2019
+45;chinoune adam;Ainelibel;76;m;Brucellose;26/03/2019
+46;saksak mohamed;Ainelibel;33;m;Brucellose;27/03/2019
+47;amouri belkacem;Ainelibel;22;m;Brucellose;28/03/2019
+48;kacemi fatima;Ainelibel;18;m;Brucellose;28/03/2019
+49;kacemi rahmoun;Ainelibel;21;m;Brucellose;28/03/2019
+50;toual fatoum;Ainelibel;31;m;Brucellose;28/03/2019
+51;hatab mohamed;Ainelibel;48;m;Brucellose;28/03/2019
+52;raini AEK;Ainelibel;21;m;Brucellose;28/03/2019
+53;khadraoui aida;Ainelibel;23;m;Brucellose;28/03/2019
+54;kourikar mostafa;Ainelibel;25;m;Brucellose;28/03/2019
+55;halbaoui zohra;Ainelibel;56;m;Brucellose;30/03/2019
+56;mehiriga bachir;Ainelibel;57;m;Brucellose;31/03/2019
+57;helassa dehman;Ainelibel;21;m;Brucellose;31/03/2019
+58;abdelaoui ombarka;Ainelibel;40;m;Brucellose;31/03/2019
+59;gelila salma;Ainelibel;30;m;Brucellose;31/03/2019
+60;guefaf kheira;Ainelibel;53;m;Brucellose;31/03/2019
+61;benkheled messaouda;messaad;34;f;tubercullose P;10/04/2019
+62;boulenoir ahmed;moudjbara;30;m;Brucellose;1/04/2019
+63;demai saida;moudjbara;26;f;Brucellose;3/04/2019
+64;behaira kheiram;moudjbara;16;f;Brucellose;1/04/2019
+65;behaira messaouda;moudjbara;10;f;Brucellose;1/04/2019
+66;serara nadji;moudjbara;4;m;Brucellose;1/04/2019
+67;ghoul nihal;moudjbara;0;f;Rougeole;4/04/2019
+68;toumi fatna;moudjbara;38;f;Rougeole;7/04/2019
+69;derbak fatna;messaad;2;f;Rougeole;7/04/2019
+01;gharbi amira;messaad;1;f;meningite;11/04/2019
+02;agoun roukia;taadhmit;26;f;Rougeole;16/04/2019
+03;agoun mebarka;taadhmit;27;f;Rougeole;16/04/2019
+04;agoun mokhtar;taadhmit;28;m;Rougeole;16/04/2019
+05;ben saada widjden;taadhmit;4;f;Rougeole;16/04/2019
+06;bencheikh zahia;messaad;36;f;Rougeole;14/04/2019
+07;benchikh zahia bent med;messaad;50;f;Rougeole;13/04/2019
+08;mansour yacmine;messaad;1;f;Rougeole;11/04/2019
+09;sdara mourad;messaad;0;m;Rougeole;10/04/2019
+10;gache abderrahmane ;messaad;0;m;Rougeole;9/04/2019
+11;kouadria salima;moudjbara;26;f;Brucellose;24/03/2019
+12;guloul assia;moudjbara;44;f;Brucellose;24/03/2019
+13;ziani aissa;moudjbara;36;m;Brucellose;24/03/2019
+14;naoui khadidja;zaccar;30;f;Brucellose;24/03/2019
+15;hammadi amer;messaad;16;m;Brucellose;14/04/2019
+16;benkouider rabhi;messaad;26;m;Brucellose;26/04/2019
+17;abikchi omhani ;messaad;23;f;Brucellose;20/02/2019
+18;benzerguin mohamed;messaad;57;m;Brucellose;24/03/2019
+19;benselem ahmed;messaad;58;m;Brucellose;15/04/2019
+20;ferhat cherifa;taadhmit;14;f;Brucellose;15/04/2019
+21;germit mostafa;zaccar;25;m;Brucellose;15/04/2019
+22;maileb omlkheir;messaad;24;f;Brucellose;20/02/2019
+23;kazrann assmaa;messaad;13;f;Brucellose;20/04/2019
+24;nara maamar;messaad;30;m;Brucellose;21/02/2019
+25;abikchi mebkhouta;messaad;45;f;Brucellose;19/02/2019
+26;mriass mohamed;messaad;16;m;Brucellose;19/02/2019
+27;omrani kadour;Ainelibel;28;m;Brucellose;20/09/2019
+28;bouakar mostafa;messaad;30;m;Brucellose;23/02/2019
+29;debchegue mohamed;messaad;13;m;Brucellose;25/09/2019
+30;naibi fatoum;messaad;17;f;Brucellose;14/02/2019
+31;djaidoul mokhtar;Ainelibel;38;m;Brucellose;24/02/2019
+32;djaidoul rokia;Ainelibel;9;f;Brucellose;25/02/2019
+33;taibi mohamed;messaad;65;m;Brucellose;24/02/2019
+34;saksak adel;taadhmit;20;m;Brucellose;25/02/2019
+35;mayah mohamed;Ainelibel;32;m;Brucellose;25/02/2019
+36;kerrache houssem;messaad;8;m;Brucellose;27/03/2019
+37;malati fatna;messaad;19;f;Brucellose;27/03/2019
+38;benmoussa abdelkader;messaad;27;m;Brucellose;27/03/2019
+39;malati chamsa;messaad;13;f;Brucellose;27/03/2019
+40;bessaoud rebhia;messaad;48;f;Brucellose;27/03/2019
+41;dehman selma;messaad;26;f;Brucellose;26/03/2019
+42;saada fatna;Ainelibel;19;f;Brucellose;26/03/2019
+43;mebarki abderrahman;messaad;16;m;Brucellose;26/03/2019
+44;omar m'hamad;messaad;32;m;Brucellose;1/04/2019
+45;laagouni djilani;Ainelibel;26;m;Brucellose;1/04/2019
+46;djidoul fatima;Ainelibel;7;f;Brucellose;1/04/2019
+47;mebarki ahmed;messaad;45;m;Brucellose;31/03/2019
+48;djeket benatia;messaad;21;m;Brucellose;28/03/2019
+49;messaoudi ahmed;messaad;27;m;Brucellose;28/03/2019
+50;mebarki bochra;messaad;10;f;Brucellose;28/03/2019
+51;choukri djaouhar;moudjbara;24;f;Brucellose;1/04/2019
+52;chikhaoui kheira;zaccar;33;f;Brucellose;1/04/2019
+53;mehammdi belkheir;zaccar;26;m;Brucellose;1/04/2019
+54;benaissa ouicem;zaccar;24;f;Brucellose;1/04/2019
+55;touati larbi;messaad;31;m;Brucellose;1/04/2019
+56;laagouni fathi;Ainelibel;14;m;Brucellose;1/04/2019
+57;gouini aissa;messaad;38;m;Brucellose;1/04/2019
+58;naami mohamed;Ainelibel;27;m;Brucellose;1/04/2019
+59;bendkim fzatima;Ainelibel;38;f;Brucellose;1/04/2019
+60;agouni souad;Ainelibel;10;f;Brucellose;7/04/2019
+61;agouni mohamed;Ainelibel;7;m;Brucellose;7/04/2019
+62;toumi mostafa;Ainelibel;15;m;Brucellose;7/04/2019
+63;gouzim mohamed;messaad;58;m;Brucellose;7/04/2019
+64;bessaoud zakhroufa;messaad;7;f;Brucellose;7/04/2019
+65;gafaf kheira;Ainelibel;45;f;Brucellose;4/04/2019
+66;gouicem fatna;Ainelibel;28;f;Brucellose;4/04/2019
+67;benhadda ahmed;messaad;36;m;Brucellose;4/04/2019
+68;laid ali;messaad;44;m;Brucellose;11/04/2019
+69;nara ghouinia;messaad;74;f;Brucellose;10/04/2019
+70;benhafaf ameur;taadhmit;34;m;Brucellose;9/04/2019
+71;djabri fatna;Ainelibel;72;f;Brucellose;8/04/2019
+72;benzerguin malak;messaad;9;f;Brucellose;8/04/2019
+73;benzerguin khadidja;Ainelibel;6;f;Brucellose;9/04/2019
+74;kazran hameza;messaad;26;m;Brucellose;8/04/2019
+75;nail mohamed;messaad;9;m;Brucellose;8/04/2019
+76;derouiche lakhdar;Ainelibel;24;m;Brucellose;8/04/2019
+77;benzerguin belkheir;messaad;28;m;Brucellose;7/04/2019
+78;haoua omlkheir;messaad;85;f;Brucellose;7/04/2019
+79;nail said;messaad;38;m;Brucellose;7/04/2019
+80;benbrahim tahar;messaad;60;m;Brucellose;7/04/2019
+81;bedirina nakhla;Ainelibel;57;f;Brucellose;7/04/2019
+01;amour embarka;moudjbara;0;f;Rougeole;23/04/2019
+02;akrout atia ben saad;Ainelibel;1;m;Rougeole;21/04/2019
+03;lahoual adem;messaad;0;m;Rougeole;21/04/2019
+04;ben cheikh azeddine;messaad;2;m;Rougeole;21/04/2019
+05;hamadi ahmed ben saad;messaad;0;m;Rougeole;21/04/2019
+06;kasri taiba;moudjbara;5;m;Brucellose;22/04/2019
+07;djedir zineb;moudjbara;55;f;Brucellose;18/04/2019
+08;azouz tayeb;moudjbara;29;m;Brucellose;18/04/2019
+09;bensalem moussa;moudjbara;5;m;Brucellose;16/04/2019
+10;naam kheira;moudjbara;29;f;Brucellose;14/04/2019
+11;bensalem said;moudjbara;5;m;Brucellose;11/04/2019
+12;djedir sabrina;moudjbara;12;f;Brucellose;11/04/2019
+13;rebih oumhani;moudjbara;30;f;Brucellose;10/04/2019
+14;djedir daoud;moudjbara;7;m;Brucellose;9/04/2019
+15;benboudina mohamed;moudjbara;19;m;Brucellose;9/04/2019
+01;meharigua kheira;moudjbara;16;f;Brucellose;1/04/2019
+02;meharigua Messaouda;moudjbara;10;f;Brucellose;1/04/2019
+03;serrar nadji;moudjbara;4;m;Brucellose;1/04/2019
+04;boulanoir ahmed;moudjbara;30;m;Brucellose;2/04/2019
+05;demir saadia;moudjbara;26;f;Brucellose;4/04/2019
+06;benboudina mohamed;moudjbara;2;m;Brucellose;9/04/2019
+07;djdir daoued;moudjbara;7;m;Brucellose;9/04/2019
+08;rebih omhani;moudjbara;30;f;Brucellose;10/04/2019
+09;djdjir sabrina;moudjbara;12;m;Brucellose;11/04/2019
+10;benselem said;moudjbara;4;m;Brucellose;12/04/2019
+11;naam kheira;moudjbara;9;f;Brucellose;14/04/2019
+12;benselem moussa;moudjbara;5;m;Brucellose;16/04/2019
+13;azzouze laibe;moudjbara;25;m;Brucellose;17/04/2019
+14;ziouache hakim;moudjbara;13;m;Brucellose;18/04/2019
+15;kaceri taiba;moudjbara;5;m;Brucellose;22/04/2019
+16;meni abdelhani;moudjbara;19;m;Brucellose;23/04/2019
+17;benselem lakhdar;moudjbara;65;m;Brucellose;24/04/2019
+18;zerigue ahmed;moudjbara;33;m;Brucellose;24/04/2019
+19;touir abdelkarim;moudjbara;14;m;Brucellose;24/04/2019
+20;boudina bakhta;moudjbara;17;f;Brucellose;25/04/2019
+21;boulanoir hadjira;moudjbara;5;f;Brucellose;25/04/2019
+22;blgoulissa messaouda;moudjbara;47;f;Brucellose;25/04/2019
+23;djedir mustafa;moudjbara;47;m;Brucellose;28/04/2019
+24;ben kouider messaouda;messaad;58;f;rougeole;28/04/2019
+25;derkouche taher;messaad;33;m;hypatite BS;28/04/2019
+01;dahmane mebarka;messaad;89;f;Leishmaniose c;27/05/2019
+02;baha aek;Ainelibel;0;m;Meningite;26/05/2019
+03;djakal feriha;Ainelibel;34;f;tp;5/05/2019
+04;guettaf assia;messaad;20;f;tep;5/05/2019
+05;gheriab messaouda ;messaad;29;f;tp;6/05/2019
+06;gorti kaltoum;messaad;39;f;tep;7/05/2019
+07;djedir amar;moudjbara;32;m;Brucellose;21/05/2019
+08;maamria dahmane;moudjbara;33;m;Brucellose;19/05/2019
+09;daradji ameur;moudjbara;34;m;Brucellose;19/05/2019
+10;kasri aya;moudjbara;3;f;Brucellose;19/05/2019
+11;naam naam;moudjbara;30;m;Brucellose;22/05/2019
+12;karrache mohamed;moudjbara;32;m;Brucellose;26/05/2019
+13;facih mokhtar;moudjbara;34;m;Brucellose;27/05/2019
+14;naam dahmane;moudjbara;15;m;Brucellose;14/05/2019
+15;bouzid salma;moudjbara;23;f;Brucellose;13/05/2019
+16;bendina ali;moudjbara;38;m;Brucellose;9/05/2019
+17;boudissa lakhdar;moudjbara;36;m;Brucellose;9/05/2019
+18;bendouma taloum;moudjbara;31;f;Brucellose;9/05/2019
+19;bouzid oek;moudjbara;35;f;Brucellose;9/05/2019
+20;doukia messaoud;moudjbara;8;m;Brucellose;6/05/2019
+21;heliss bachir;moudjbara;17;m;Brucellose;6/05/2019
+22;boulanouar sadek;moudjbara;34;m;Brucellose;6/05/2019
+23;djedir mustafa;moudjbara;42;m;Brucellose;28/04/2019
+24;benghlissi messouda;moudjbara;49;f;Brucellose;25/04/2019
+25;boulanouar hadjira;moudjbara;5;f;Brucellose;25/04/2019
+26;boudhaina kheira;moudjbara;17;f;Brucellose;25/04/2019
+27;tioua abdelkarim;moudjbara;14;m;Brucellose;24/04/2019
+28;zrougue ahmed;moudjbara;33;m;Brucellose;24/04/2019
+29;bensalem lakhder;moudjbara;65;m;Brucellose;23/04/2019
+30;menni abdelhalim;moudjbara;20;m;Brucellose;23/04/2019
+01;maamar embarka;messaad;27;f;Rougeole;6/05/2019
+02;selmi salah;taadmit;4;m;Rougeole;6/05/2019
+03;belkheiri said;messaad;32;m;Rougeole;8/05/2019
+04;omor mohamed;messaad;0;m;Rougeole;7/05/2019
+05;djakal freiha;ain elibel;34;f;TP;8/05/2019
+06;guettaf assia;messaad;20;f;TEP;8/05/2019
+07;ghorieb messaouda;messaad;29;f;TP;8/05/2019
+08;oubah omara;messaad;26;m;TEP;8/05/2019
+01;lehziel oek;messaad;35;f;Brucellose;8/04/2019
+02;mazouz ziane;moudjbara;30;m;Brucellose;8/04/2019
+03;chikhaoui embarka;messaad;25;f;Brucellose;22/04/2019
+04;boulanouar hadjira;messaad;5;f;Brucellose;28/04/2019
+05;bengouilissi messaouda;moudjbara;47;f;Brucellose;28/04/2019
+06;salhi abdelaziz;messaad;15;m;TEP;15/05/2019
+07;hamdi ines;moudjbara;0;m;Rougeole;28/04/2019
+08;maameri embarka;messaad;21;f;Rougeole;5/05/2019
+09;benkouider amar;messaad;28;m;Rougeole;14/05/2019
+10;benkouider boubaker;messaad;21;m;Rougeole;13/05/2019
+11;toaba abdelrahmane;zeccar;4;m;Rougeole;8/05/2019
+12;benomar ritaj;zeccar;1;f;Rougeole;8/05/2019
+13;slami serine;messaad;2;f;Rougeole;15/05/2019
+14;benyahia mouad;messaad;0;m;Rougeole;15/05/2019
+01;dahmen aek;moudjbara;73;m;Brucellose;21/05/2019
+02;zerigue sabah;messaad;25;f;TEP;16/05/2019
+03;kheniche nasrine ;messaad;2;m;Rougeole;20/05/2019
+04;belkheiri soumia;messaad;2;f;Rougeole;22/05/2019
+05;belkheiri yamina;messaad;3;f;Rougeole;19/05/2019
+06;bagua gharbi;messaad;36;m;Rougeole;19/05/2019
+07;belkheiri sahar;messaad;0;f;Rougeole;19/05/2019
+01;grainai souad;ain elibel;12;f;Rougeole;2/06/2019
+02;brahimi brahim;messaad;26;m;Rougeole;2/06/2019
+03;laid mohamed;messaad;5;m;Rougeole;27/05/2019
+04;gacem karima;messaad;7;f;Rougeole;25/05/2019
+05;nedjaimi zohra;taadmit;28;f;Rougeole;2/05/2019
+06;reguieg noura;messaad;4;f;Rougeole;6/06/2019
+07;belkheiri affaf;messaad;4;f;Rougeole;6/06/2019
+01;guaroud med;messaad;34;m;Brucellose;16/04/2019
+02;gaimouza ibrahim;messaad;1;m;Brucellose;16/04/2019
+03;gaimouza kheira;messaad;31;f;Brucellose;16/04/2019
+04;belahoual halima;messaad;49;f;Brucellose;16/04/2019
+05;djarmoum med;messaad;42;m;Brucellose;16/04/2019
+06;debchegue med;messaad;13;m;Brucellose;17/04/2019
+07;debchegue tidjani;messaad;28;m;brucellose;17/04/2019
+08;mazouz khelifa;messaad;17;m;Brucellose;17/04/2019
+09;lahrache malika;messaad;27;f;Brucellose;17/04/2019
+10;bessoud naoui;messaad;44;m;Brucellose;27/04/2019
+11;haouari siham;messaad;20;f;Brucellose;21/04/2019
+12;benkouider mokhtar;messaad;32;m;Brucellose;21/04/2019
+13;othmane slimane;messaad;45;m;Brucellose;21/04/2019
+14;gherieb arbi;messaad;17;m;Brucellose;21/04/2019
+15;benboudhina ahmed;messaad;82;m;Brucellose;21/04/2019
+16;kazran abdellah;messaad;13;m;Brucellose;22/04/2019
+17;abassi abderrahman;messaad;14;m;Brucellose;22/04/2019
+18;maache hafidha;messaad;24;f;Brucellose;23/04/2019
+19;benhouria benabdellah;messaad;50;m;Brucellose;23/04/2019
+20;aikil ameur saliha;messaad;33;f;Brucellose;23/04/2019
+21;mallati fatima;messaad;52;f;Brucellose;23/04/2019
+22;rebih fatna;messaad;17;f;Brucellose;23/04/2019
+23;benmouafki hadjira;messaad;25;f;Brucellose;24/04/2019
+24;rekiat mohamed;messaad;20;m;Brucellose;24/04/2019
+25;othmane boumadiane;messaad;26;m;Brucellose;24/04/2019
+26;hidjoul nacera;messaad;30;f;Brucellose;25/04/2019
+27;hamadi med;messaad;44;m;Brucellose;25/04/2019
+28;haouari zohra;messaad;36;f;Brucellose;26/04/2019
+29;salhi amer;messaad;68;m;Brucellose;28/04/2019
+30;gheriab messsaouda;messaad;42;f;Brucellose;29/04/2019
+31;hamadi omk;messaad;18;f;Brucellose;29/04/2019
+32;abikchi selimane;messaad;17;m;Brucellose;29/04/2019
+33;lahoual ahmed;messaad;70;m;Brucellose;29/04/2019
+34;boudjaarane thouria;ain elibel;23;f;Brucellose;30/04/2019
+35;deliouah aek;messaad;88;m;Brucellose;2/05/2019
+36;merezegue boulerbah;messaad;50;m;Brucellose;1/05/2019
+37;mihoubi omhani;messaad;42;f;Brucellose;30/04/2019
+38;mehamedi belkacem;messaad;20;m;Brucellose;30/04/2019
+39;deliouah bachir;messaad;40;m;Brucellose;30/04/2019
+40;lamlouma meriem;ain elibel;26;f;Brucellose;30/04/2019
+41;remitha fatima;messaad;25;f;Brucellose;4/05/2019
+42;haoua sadek;messaad;42;m;Brucellose;5/05/2019
+43;assali khaouni;messaad;20;m;Brucellose;5/05/2019
+44;chaib messaoud;messaad;50;m;Brucellose;5/05/2019
+45;serrar meriem ;messaad;39;f;Brucellose;5/05/2019
+46;djelita zohra;messaad;52;f;Brucellose;5/05/2019
+47;benrahmoun zohra;messaad;27;f;Brucellose;5/05/2019
+48;benchikh zineb;messaad;42;f;Brucellose;5/05/2019
+49;benrahmoun nabil;messaad;15;m;Brucellose;2/05/2019
+50;gaimouza amar;messaad;31;m;Brucellose;5/05/2019
+51;kebiche fatna;messaad;15;f;Brucellose;6/05/2019
+52;benkouider taher;messaad;34;m;Brucellose;6/05/2019
+53;allaoui rekia;messaad;32;f;Brucellose;8/05/2019
+54;gherieb naima;messaad;4;f;Brucellose;8/05/2019
+55;djiou nabil;ain elibel;10;m;Brucellose;8/05/2019
+56;balbal aek;messaad;45;m;Brucellose;9/05/2019
+57;gaimouza med ;messaad;12;m;brucellose;11/05/2019
+58;lahoual hadj;messaad;56;m;Brucellose;11/05/2019
+59;taibouza kharza;taadmit;62;f;Brucellose;9/05/2019
+60;benkouider messaouda;messaad;15;f;Brucellose;9/05/2019
+61;djakkal med;ain elibel;21;m;Brucellose;13/05/2019
+62;balbal bakar;messaad;32;m;Brucellose;13/05/2019
+63;omrani fatna ;messaad;52;f;Brucellose;9/05/2019
+64;bounoua meriem;messaad;69;f;Brucellose;13/05/2019
+65;gherieb hayat;messaad;5;f;Brucellose;15/05/2019
+66;othmane naouri;messaad;20;m;Brucellose;14/05/2019
+67;gaimouza sayeh;messaad;11;m;Brucellose;13/05/2019
+68;zaitout ahmed;messaad;64;m;Brucellose;8/05/2019
+69;kazrane fatima z;messaad;25;f;Brucellose;19/05/2019
+70;benkouider tayeb;messaad;30;m;Brucellose;30/04/2019
+71;saadi yamina;messaad;6;f;Brucellose;6/05/2019
+72;rebih faiza;messaad;24;f;Brucellose;13/05/2019
+73;bakhti messoud;messaad;50;m;Brucellose;26/05/2019
+74;salhi meki;messaad;17;m;Brucellose;26/05/2019
+75;haouari houria;messaad;19;f;Brucellose;27/05/2019
+76;khenniche messoud;taadmit;32;m;Brucellose;22/05/2019
+77;gaimouza amel;messaad;5;f;Brucellose;14/05/2019
+78;zoubir saad;ain elibel;34;m;Brucellose;9/05/2019
+79;bensalem sida;messaad;37;f;Brucellose;22/05/2019
+80;benkouider rebiha;messaad;60;f;Brucellose;12/05/2019
+81;sitouha zohra;messaad;20;f;Brucellose;13/05/2019
+82;alaoui messouda;messaad;31;f;Brucellose;12/05/2019
+83;othmane salaheddine;messaad;30;m;Brucellose;13/05/2019
+84;djeklil mabrouka;messaad;50;f;Brucellose;13/05/2019
+85;derouiche kaltoum;messaad;27;f;Brucellose;11/05/2019
+86;laoud louadia;messaad;46;f;Brucellose;26/05/2019
+87;abikchi brahim khalil;messaad;25;m;Brucellose;23/05/2019
+88;belakhdar ned;messaad;16;m;Brucellose;22/05/2019
+89;kouadria amina;messaad;25;f;Brucellose;22/05/2019
+90;benrahmoun khaled;messaad;15;m;Brucellose;24/05/2019
+91;hathat fatima;messaad;5;f;Brucellose;21/05/2019
+92;benbrahim ned;messaad;35;m;Brucellose;20/05/2019
+93;rekiat ahmed;messaad;35;m;Brucellose;20/05/2019
+94;benchikh khadidja;messaad;36;f;Brucellose;20/05/2019
+95;hamadi lazhari;messaad;51;m;Brucellose;19/05/2019
+96;kerrache ahlam;messaad;26;f;Brucellose;8/05/2019
+97;abassi boulanouar;taadmit;6;m;Brucellose;8/05/2019
+98;bennadji anis;messaad;4;m;Brucellose;6/05/2019
+99;bensalem salem;messaad;39;m;Brucellose;19/05/2019
+100;mailab naouia;messaad;41;f;Brucellose;2/05/2019
+101;naibi mebarka;messaad;19;f;Brucellose;30/05/2019
+102;bensalem fatoum;messaad;36;f;Brucellose;30/05/2019
+103;kerrache mebkhout;messaad;4;m;Brucellose;30/05/2019
+104;kheniche ael;taadmit;13;m;Brucellose;30/05/2019
+105;brahimi chahrazad ;ain elibel;17;f;Brucellose;30/05/2019
+106;saihi belhadsat;ain elibel;22;m;Brucellose;30/05/2019
+107;abassi lakhdar ;taadmit;11;m;Brucellose;29/05/2019
+108;koriba ali;messaad;43;m;Brucellose;28/05/2019
+109;kerrache noura;messaad;4;f;Brucellose;28/05/2019
+110;assali omk;messaad;11;f;Brucellose;7/05/2019
+111;benchikh omk;messaad;11;f;rougeole;20/05/2019
+112;toaba abderrahmane ;zeccar;4;m;rougeole;9/05/2019
+113;ben omar ritadj;zeccar;1;f;rougeole;9/05/2019
+01;gouzim  lalmi;messaad;1;m;Rougeole;12/06/2019
+02;regiage  souhila;messaad;1;f;Rougeole;16/06/2019
+03;kihal inas;messaad;1;f;Rougeole;16/06/2019
+04;saidi marwa lamia;moudjbara;3;f;Rougeole;17/06/2019
+05;derrafa asma ;messaad;1;f;Rougeole;13/06/2019
+06;derafaa iibrai;messaad;2;m;Rougeole;13/06/2019
+07;gueddide ahmed;moudjbara;56;m;Brucellose;30/05/2019
+08;kouidri nadia;moudjbara;30;f;Brucellose;1/06/2019
+09;ben hadda saih;moudjbara;60;m;Brucellose;9/06/2019
+10;taaboube mohamed;moudjbara;31;m;Brucellose;12/06/2019
+11;maache baya;moudjbara;58;f;Brucellose;13/06/2019
+12;hebita aek ;moudjbara;31;m;Brucellose;16/06/2019
+13;rouibeha tayeb;moudjbara;30;m;Brucellose;17/06/2019
+14;gacem aek ;moudjbara;31;m;Brucellose;16/06/2019
+15;chokri kamel;moudjbara;31;m;Brucellose;11/06/2019
+01;zaitout sihem;messaad;3;f;Rougeole;25/06/2019
+02;kraouaa aicha;ain elbel ;1;f;Rougeole;20/06/2019
+03;moubarki fatna;messaad;5;f;Rougeole;6/06/2019
+04;belkheiri afaf;messaad;4;f;Rougeole;6/06/2019
+05;nedjimi zohra ;taadmit;28;f;Rougeole;2/06/2019
+06;ben abdallah med;messaad;1;m;Rougeole;23/06/2019
+07;ben rahmoune amina;messaad;1;f;Rougeole;23/06/2019
+08;maache hafida ;messaad;24;f;Brucellose;23/06/2019
+09;ben kouider ali ;messaad;14;m;Brucellose;20/06/2019
+10;laroussi ali ;messaad;27;m;leishmaniose c;26/06/2019
+01;ben boudhina saad;moudjbara;20;m;Brucellose;18/06/2019
+02;mouktari abdelbasset;moudjbara;10;m;Brucellose;20/06/2019
+03;mouktari rihal;moudjbara;6;f;Brucellose;20/06/2019
+04;ben hamed friha;moudjbara;66;f;Brucellose;20/06/2019
+05;kaibech taher ;moudjbara;25;m;Brucellose;23/06/2019
+06;naam azize;moudjbara;20;m;Brucellose;25/06/2019
+07;bouzide ameure;moudjbara;18;m;Brucellose;25/06/2019
+08;nacer zouina;moudjbara;31;f;Brucellose;25/06/2019
+09;ben saleh med ;moudjbara;25;m;Brucellose;27/06/2019
+10;meheiriga messoude;moudjbara;10;f;Brucellose;30/06/2019
+11;saied adel;moudjbara;0;m;meningite;23/06/2019
+12;zaine khalifa;messaad;25;m;TEP;26/06/2019
+1;nail hadda;moudjbara;1;f;rougeole;25/07/2019
+2;haoua abdellah;messaad;27;m;rougeole;25/07/2019
+3;mehamedi raouane;messaad;6;f;rougeole;25/07/2019
+4;guiraa rima;messaad;0;f;rougeole;24/07/2019
+5;merais hadda;moudjbara;5;f;rougeole;24/07/2019
+6;miraoui lina;messaad;1;f;rougeole;28/07/2019
+7;mebarki mebrouk;messaad;46;m;T,E,P;22/07/2019
+8;salehi aicha;messaad;70;f;T,P;24/07/2019
+01;ben labgaa brahim;ain el ibel;60;m;brucellose;4/04/2019
+02;sikoum  zohra;ain el ibel;30;f;brucellose;4/04/2019
+03;chelikam mabrouk;ain el ibel;25;m;brucellose;9/04/2019
+04;gourini  boubaker;ain el ibel;19;m;brucellose;09/04/2019
+05;charboul med ;ain el ibel;26;m;brucellose;09/04/2019
+06;berhoum khaira;ain el ibel;30;f;brucellose;9/04/2019
+07;regaze  tayeb;ain el ibel;45;m;brucellose;9/04/2019
+08;oricha mostafa;ain el ibel;30;m;brucellose;10/04/2019
+09;abassi tourkia;ain el ibel;12;f;brucellose;10/04/2019
+10;djakal ahmed;ain el ibel;43;m;brucellose;10/04/2019
+11;sandog ali;ain el ibel;56;m;brucellose;10/04/2019
+12;halbaoui med;ain el ibel;41;m;brucellose;11/04/2019
+13;derouiche bela ;ain el ibel;65;f;brucellose;11/04/2019
+14;lachehbi bachir;ain el ibel;52;m;brucellose;11/04/2019
+15;ben atia aicha ;ain el ibel;60;f;brucellose;11/04/2019
+16;fernana fatna;ain el ibel;25;f;brucellose;11/04/2019
+17;toumi noureddine;ain el ibel;36;m;brucellose;14/04/2019
+18;kerimi abdelkader;ain el ibel;55;m;brucellose;14/04/2019
+19;baha messouda ;ain el ibel;20;f;brucellose;14/04/2019
+20;djouba zineb ;ain el ibel;29;f;brucellose;14/04/2019
+21;bachraoui barkahem;ain el ibel;25;f;brucellose;14/04/2019
+22;meyah khenatha ;ain el ibel;9;f;brucellose;17/04/2019
+23;radhouane ahmed;ain el ibel;22;m;brucellose;17/04/2019
+24;baha hafsa ;ain el ibel;31;f;brucellose;17/04/2019
+25;baghdadou emaamar;ain el ibel;22;m;brucellose;17/04/2019
+26;hlas mokhtar;ain el ibel;22;m;brucellose;17/04/2019
+27;lamlouma khadra;ain el ibel;21;f;brucellose;18/04/2019
+28;zaine blgacem;ain el ibel;37;m;brucellose;19/04/2019
+29;ferhat cherifa;ain el ibel;46;f;brucellose;20/04/2019
+30;mayeh fatima;ain el ibel;5;f;brucellose;22/04/2019
+31;taybi zohra;ain el ibel;50;f;brucellose;22/04/2019
+32;bedirina youcef;ain el ibel;25;m;brucellose;23/04/2019
+33;abassi salma;ain el ibel;49;f;brucellose;23/04/2019
+34;omar messoud;ain el ibel;82;m;brucellose;24/04/2019
+35;zelfa brahim;ain el ibel;28;m;brucellose;24/04/2019
+36;bourzegue belgacem;ain el ibel;67;m;brucellose;24/04/2019
+37;toumi aicha;ain el ibel;42;f;brucellose;24/04/2019
+38;zaimini elarem;ain el ibel;18;f;brucellose;24/04/2019
+39;kourikaf daoudi;ain el ibel;31;f;brucellose;25/04/2019
+40; mestfa aicha;ain el ibel;26;f;brucellose;25/04/2019
+41; chetouh messaoud;ain el ibel;29;m;brucellose;25/04/2019
+42; bessaoud louiza;ain el ibel;25;f;brucellose;25/04/2019
+43;assali abdelkader;ain el ibel;29;m;brucellose;28/04/2019
+44; sadki Iarbi;ain el ibel;28;m;brucellose;28/04/2019
+45;bidi bencherif;ain el ibel;48;m;brucellose;28/04/2019
+46;harizi ahmed;ain el ibel;47;m;brucellose;28/04/2019
+47; toumi ali;ain el ibel;25;m;brucellose;29/04/2019
+48;salhi Salah;ain el ibel;37;m;brucellose;2/06/2019
+49; agouni bouzid;ain el ibel;33;m;brucellose;2/06/2019
+50; halbaoui zohra;ain el ibel;56;f;brucellose;2/06/2019
+51; benchetouh kouider;ain el ibel;15;m;brucellose;2/06/2019
+52;toual ahlam;ain el ibel;15;f;brucellose;2/06/2019
+53;toual Saadia;ain el ibel;13;f;brucellose;2/06/2019
+54; herizi aicha;ain el ibel;45;f;brucellose;2/06/2019
+55; far boulerbah;taadhmit;29;m;brucellose;2/06/2019
+56;toumi malika;ain el ibel;11;f;brucellose;30/06/2019
+57;guefaf kheira;ain el ibel;53;f;brucellose;3/06/2019
+58;naoumi djilali;ain el ibel;63;m;brucellose;9/06/2019
+59;djabri mebarka;ain el ibel;33;f;brucellose;11/06/2019
+60;baghdadi omar;ain el ibel;19;m;brucellose;11/06/2019
+61;  boualaga kouider;ain el ibel;27;m;brucellose;11/06/2019
+62;raouan belkheir;ain el ibel;32;m;brucellose;11/06/2019
+63;chenguache djilani;ain el ibel;60;m;brucellose;11/06/2019
+64;daoudi souad;ain el ibel;74;f;brucellose;12/06/2019
+65;halass? Mokhtar;ain el ibel;28;m;brucellose;12/06/2019
+66;baida brahim;ain el ibel;70;m;brucellose;12/06/2019
+67;bouhalfaya mereim;ain el ibel;19;f;brucellose;12/06/2019
+68;baira ziane;ain el ibel;22;m;brucellose;16/06/2019
+69;agouni taher;ain el ibel;57;m;brucellose;16/06/2019
+70;gouicem  imane;ain el ibel;28;f;brucellose;17/06/2019
+71;rabhi mostafa;ain el ibel;16;m;brucellose;17/06/2019
+72;fachehbi taleb;ain el ibel;9;m;brucellose;17/06/2019
+73;toumi mohamed;ain el ibel;43;m;brucellose;19/06/2019
+74;lihoud embarka;ain el ibel;29;f;brucellose;19/06/2019
+75;ziane zouina;ain el ibel;50;f;brucellose;19/06/2019
+76;belakhal slimane;ain el ibel;15;m;brucellose;20/06/2019
+77;silet side;ain el ibel;14;m;brucellose;20/06/2019
+78;touer  benabdelah;ain el ibel;42;m;brucellose;24/06/2019
+79;lachehbi mostafa;ain el ibel;17;m;brucellose;24/06/2019
+80;abassi kheira;ain el ibel;50;f;brucellose;24/06/2019
+81;amraoui kouider;ain el ibel;47;m;brucellose;24/06/2019
+82;saadi fouad;ain el ibel;11;m;brucellose;24/06/2019
+83;djaoui med;ain el ibel;23;m;brucellose;24/06/2019
+84;zaimini abderrahma;ain el ibel;42;m;brucellose;25/06/2019
+85;helassa  med;ain el ibel;58;m;brucellose;25/06/2019
+86;lachehbi ali;ain el ibel;33;m;brucellose;25/06/2019
+87;fernana saad;ain el ibel;65;m;brucellose;26/06/2019
+88;baghdad fatiha;ain el ibel;27;f;brucellose;26/06/2019
+89;derouiche menal;ain el ibel;25;f;brucellose;26/06/2019
+90;silet omlkheir;ain el ibel;34;f;brucellose;26/06/2019
+91;djoudi hada;ain el ibel;15;f;brucellose;27/06/2019
+92;djekal meda;ain el ibel;82;f;brucellose;27/06/2019
+93;boudjarane  fatoum;ain el ibel;50;f;brucellose;27/06/2019
+94;bengrina  azeddine;ain el ibel;16;m;brucellose;28/06/2019
+95;boukhiar rachid;ain el ibel;52;m;brucellose;30/06/2019
+96;abassi med;taadhmit;70;m;brucellose;30/06/2019
+97;aziaoui ameur;taadhmit;9;m;brucellose;30/06/2019
+98;aziaoui ameur;taadhmit;13;m;brucellose;30/06/2019
+99;menaye hichem;ain el ibel;26;m ;brucellose;30/06/2019
+100;sadki Mostafa;ain el ibel;42;m;brucellose;30/06/2019
+101;touftil zoulikha;ain  el ibel;19;f;brucellose;30/06/2019
+102;hani khadra;ain el ibel;44;f;brucellose;30/06/2019
+403;benalia belkeir;ain el ibel;4;m;brucellose;30/06/2019
+104;naami soltafa;ain el ibel;28;f;brucellose;30/06/2019
+105;hamada med;ain el ibel;43;m;brucellose;18/06/2019
+106;touer abdellah;ain el ibel;40;m;brucellose;21/06/2019
+107;zehar mouafek;ain el ibel;20;m;brucellose;21/06/2019
+108;djaoui salah;taadhmit;30;m;brucellose;22/06/2019
+109;salhi omlkheir;ain el ibel;25;f;brucellose;22/06/2019
+110;touir miloud;ain el ibel;50;m;brucellose;25/06/2019
+111;sailaa lakhdar;ain el ibel;40;m;brucellose;25/06/2019
+112;bouhargue arbi;ain el ibel;30;m;brucellose;25/06/2019
+113;zoubir hanane;ain el ibel;27;f;brucellose;28/06/2019
+114;boudjaarane laid;ain el ibel;30;m;brucellose;30/06/2019
+115;bedirina abira;ain el ibel;1;f;brucellose;3/06/2019
+116;oubah messaoud;ain el ibel;3;m;brucellose;4/06/2019
+117;kherchi chaaye;ain el ibel;29;m;brucellose;4/06/2019
+118;doudou ali;ain   el  ibel;29;m;brucellose;5/06/2019
+119;Khazare dokime;ain el ibel;29;m;brucellose;6/06/2019
+120;ziane fatna;ain el ibel;50;f;brucellose;7/06/2019
+121;bourzegue med;ain el ibel;11;m;brucellose;7/06/2019
+122;oubah baya;ain  el ibel;10;f;brucellose;7/06/2019
+123;khelil ombarka;ain el ibel;53;f;brucellose;07/06/2019
+124;touer lakhdar;taadhmit;42;m;brucellose;7/06/2019
+125;bourzegue regueg;ain el ibel;62;m;brucellose;08/06/2019
+126;touir belkacem;ain el ibel;70;m;brucellose;12/06/2019
+127;boudjaarane djedla;ain el ibel;14;f;brucellose;12/06/2019
+128;mehila nora;ain el ibel;3;f;brucellose;14/06/2019
+129;saada youcef;ain el ibel;10;m;brucellose;16/06/2019
+130;guelil feriha;ain el ibel;34;f;brucellose;17/06/2019
+131;ajeair anmeo;moudjbara;39;m;brucellose;29/05/2019
+132;naoui zineb;moudjbara;30;f;brucellose;29/05/2019
+133;naoui rahoudja;moudjbara;40;f;brucellose;29/05/2019
+134;lagreb zohra;moudjbara;22;f;brucellose;29/05/2019
+135;kouadria baya;moudjbara;20;f;brucellose;29/05/2019
+136;ziouache mohamed;moudjbara;37;m;brucellose;29/05/2019
+137;kouadria touati;moudjbara;14;m;brucellose;16/06/2019
+138;kouadria affaf;moudjbara;19;f;brucellose;16/06/2019
+139;ghouhin torkia;moudjbara;60;f;brucellose;16/06/2019
+140;loutid brahim;moudjbara;40;m;brucellose;16/06/2019
+141;helis slimane;moudjbara;24;m;brucellose;16/06/2019
+142;facih halima;moudjbara;36;f;brucellose;16/06/2019
+143;facih ahmed;moudjbara;14;m;brucellose;16/06/2019
+144;facih kelthoum;moudjbara;18;f;brucellose;16/06/2019
+145;lassali mena;moudjbara;28;f;brucellose;16/06/2019
+146;facih marouane;moudjbara;25;m;brucellose;16/06/2019
+147;facih fatiha;moudjbara;44;f;brucellose;16/06/2019
+148;facih khalil;moudjbara;6;m;brucellose;16/06/2019
+149;labiadh youcef;messaad;2;m;tiac;7/07/2019
+150;labiadh miral;messaad;4;f;tiac;7/07/2019
+151;naoui nacira;messaad;33;f;tiac;8/07/2019
+152;saihl khelifa;messaad;9;m;tiac;6/07/2019
+153;saihl amanl;messaad;3;f;tiac;6/07/2019
+154;saihi ahmed;messaad;6;m;tiac;6/07/2019
+155;saihi youcef;messaad;5;m;tiac;6/07/2019
+156;lagraa rebei;moudjbara;24;m;rougeole;10/07/2019
+157;belkheiri hanine;messaad;1;f;rougeole;9/07/2019
+18;belaid souhila;taadhmit;1;f;rougeole;7/07/2019
+15;nail hada;messaad;6;f;rougeole;2/07/2019
+160;mebarki marwa;messaad;0;f;meningite;4/07/2019
+161;bakria ayoub;am el ibel;11;m;tuberculose;10/07/2019
+01;kouadria abdelkarin;moudjbara;9;m;Brucellose;7/07/2019
+02;said salahddine;moudjbara;7;m;Brucellose;7/07/2019
+03;touir aicha;ain el ibel;35;f;Brucellose;07/07/2019
+04;far khadidja;taadhmit;20;f;Brucellose;7/07/2019
+05;far ibrahim;taadhmit;9;m;Brucellose;7/07/2019
+06;ranmoun hadda;moudjbara;30;f;Brucellose;7/07/2019
+07;nail messaouda;messaad;15;f;rougeole;12/07/2019
+8;nail tayeb;messaad;35;m;rougeole;11/07/2019
+09;nail zohra;messaad;2;f;rougeole;11/07/2019
+10;nail mohamed;messaad;10;m;rougeole;12/07/2019
+11;moati nacerddine;messaad;1;m;rougeole;12/07/2019
+12;assal hanine;moudjbara;1;f;rougeole;17/07/2019
+13;bouchnak saadia;messaad;26;f;rougeole;10/07/2019
+14;adjimi rebih?;messaad;41;f;rougeole;14/07/2019
+15;lagraa  rebai;moudjbara;24;m;rougeole;12/07/2019
+15;chouiha fatna;moudjbara;23;f;brucellose;2/07/2019
+1;azzouz cheikh;Moudjbara;40;m;Brucellose;2/07/2019
+2;guedid kouider;Moudjbara;24;m;Brucellose;2/07/2019
+3;ziouache yaakoub;Moudjbara;20;m;Brucellose;4/07/2019
+4;taboub ahmed;Moudjbara;68;m;Brucellose;10/07/2019
+5;ben cheriet aicha;Moudjbara;27;f;Brucellose;10/07/2019
+6;gharbi salem;Moudjbara;38;m;Brucellose;16/07/2019
+7;bessaoud mouloud;Moudjbara;22;m;Brucellose;16/07/2019
+8;djedir bachir;Moudjbara;89;m;Brucellose;20/07/2019
+9;mimoun aicha;Messaad;65;f;Tubercullose(TP);18/07/2019
+10;bakhti Zohra;Messaad;30;f;tubercullose;18/07/2019
+11;nah ritaj;Messaad;2;f;Rougeole;21/07/2019
+12;nail zakaria;Messaad;4;m;Rougeole;21/07/2019
+13;malki amina;Messaad;12;f;Rougeole;21/07/2019
+14;nail omar ;Messaad;2;m;Rougeole;21/07/2019
+15;merais khadra;Messaad;47;f;Rougeole;23/07/2019
+16;salhi oem;Messaad;20;f;Rougeole;23/07/2019
+17;malki meriem;Messaad;1;f;Rougeole;24/07/2019
+01;dahmen aek;moudjbara;73;m;Brucellose;21/05/2019
+02;zerigue sabah;messaad;25;f;TEP;16/05/2019
+03;kheniche nasrine ;messaad;2;m;Rougeole;20/05/2019
+04;belkheiri soumia;messaad;2;f;Rougeole;22/05/2019
+05;belkheiri yamina;messaad;3;f;Rougeole;19/05/2019
+06;bagua gharbi;messaad;36;m;Rougeole;19/05/2019
+07;belkheiri sahar;messaad;0;f;Rougeole;19/05/2019
+08;dahmen aek;moudjbara;73;m;Brucellose;21/05/2019
+09;zerigue sabah;messaad;25;f;TEP;16/05/2019
+10;kheniche nasrine ;messaad;2;m;Rougeole;20/05/2019
+11;belkheiri soumia;messaad;2;f;Rougeole;22/05/2019
+12;dahmen aek;moudjbara;73;m;Brucellose;21/05/2019
+13;zerigue sabah;messaad;25;f;TEP;16/05/2019
+14;kheniche nasrine ;messaad;2;m;Rougeole;20/05/2019
+15;belkheiri soumia;messaad;2;f;Rougeole;22/05/2019
+1;Merais khadra;messaad;47;f;Rougeole;25/07/2019
+2;Ajimi douaa;messaad;2;f;Rougeole;31/07/2019
+3;hathat lamine;messaad;5;m;Rougeole;6/08/2019
+4;hathat omer;messaad;1;m;Rougeole;4/08/2019
+5;lahouel azedine;messaad;0;m;Rougeole;4/08/2019
+6;mehamdi naouel;messaad;27;f;Rougeole;7/08/2019
+7;salhi ahmed;messaad;1;m;Rougeole;7/08/2019
+8;laid abd elbaki;messaad;16;m;Rougeole;7/08/2019
+9;benkhaled djomana;messaad;0;f;Rougeole;8/08/2019
+10;tahiiri mehamad;messaad;4;m;Hepatite A;07/08/2019
+1;barboura sedik;messaad;4;m;Hepatite A;14/08/2019
+2;barboura omar;messaad;8;m;Hepatite A;14/08/2019
+3;ben taher maya;messaad;1;f;rougeole;13/08/2019
+1;belkhir ritaj;messaad;1;f;Hepatite A;19/08/2019
+2;toumi maamar;ainelibel;31;m;Brucellose;22/08/2019
+3;Farae salem;ainelibel;27;m;Tubercullose(tep);7/08/2019
+4;bounaoua zakaria;messaad;16;m;Tubercullose(tep);7/08/2019
+5;gharbi oumhani;messaad;2;f;Tubercullose(tep);11/08/2019
+6;kazrane djihade;messaad;25;f;Tubercullose(tep);21/08/2019
+1;cheick hadda;messaad;68;f;Tubercullose(tep);28/08/2019
+01;haffaf mohamed;messaad;44;m;Tubemullore(tep);9/04/2019
+02;saadi mohamed;messaad;33;m;Tubercullose(tep);9/04/2019
+01;Boufad Lakhdar;Messaad;46;M;T I A C;12/09/2019
+02;Saadi Rachida;Messaad;39;F;T I A C;12/09/2019
+03;Boufad Meriem;Messaad;14;F;T I A C;12/09/2019
+04;Boufad Marwane;Messaad;12;M;T I A C;12/09/2019
+01;Darradji Fatima ;Messaad;51;F;Leishmaniose;17/09/2019
+02;Narra Assil;Messaad;0;F;Rougeale;17/09/2019
+03;Ziani Nail;Messaad;0;M;Rougeale;17/09/2019
+04;Maamri OEK;Messaad;43;F;Tubercullose;18/09/2019
+05;Madani Ziani;Messaad;29;M;Tubercullose;18/09/2019
+06;Ben Ahmed Slimane;Messaad;62;M;Tubercullose;18/09/2019
+07;Hlisse Abla;Messaad;58;F;Tubercullose;18/09/2019
+08;Nara Chaiaa;Messaad;50;F;Syphilis;15/09/2019
+01;Messoudi Ahmed;Messaad;70;M;Brucellose;14/08/2019
+02;Lebgaa Nourelhoda;Messaad;22;F;Brucellose;14/08/2019
+03;Bkhaiti Mohamed;Messaad;56;M;Brucellose;14/08/2019
+04;Ben Djabaliah Maroua;Selmana;14;F;Brucellose;14/08/2019
+05;Taiba Zohra;Taadmite;30;F;Brucellose;15/08/2019
+06;bendekim hakim;Messaad;8;M;Brucellose;18/08/2019
+07;ben slailih Elarbi ;Messaad;42;M;Brucellose;18/08/2019
+08;Guimouza Sara;Messaad;9;F;Brucellose;18/08/2019
+09;Ben Goamoz omhani;Messaad;25;F;Brucellose;19/08/2019
+10;Messoudi Ahmed;Messaad;57;M;Brucellose;19/08/2019
+11;kheniche Nadji;Taadmite;7;M;Brucellose;20/09/2019
+12;Gassmi Aicha;Ain elibel;27;F;Brucellose;21/08/2019
+13;Diab Mohamed;Moudjbara;35;M;Brucellose;21/08/2019
+14;Chelikam Mohamed;Ain elibel;32;M;Brucellose;21/08/2019
+15;Chabira Ahmed;Taadmite;15;M;Brucellose;21/08/2019
+16;Guimouza Hmaidi;Messaad;0;M;Brucellose;21/08/2019
+17;Naami Fatima;Messaad;19;F;Brucellose;22/08/2019
+18;Derkouche Mostapha;Messaad;54;M;Brucellose;3/09/2019
+19;Abikchi Rouida;Messaad;5;F;Brucellose;3/09/2019
+20;Gueroud Tayab;Messaad;76;M;Brucellose;4/09/2019
+21;Mebarki Messouda;Messaad;70;F;Brucellose;4/09/2019
+22;Othmane Mohamed;Messaad;38;M;Brucellose;5/09/2019
+23;Guimouza Taher;Messaad;17;M;Brucellose;5/09/2019
+24;Aidi Mebarka;Messaad;29;F;Brucellose;5/09/2019
+25;Zian Abdelkader;Messaad;42;M;Brucellose;5/09/2019
+26;Ben Dkim Abdelbaki;Messaad;14;M;Brucellose;5/09/2019
+27;Rbih Omhani;Messaad;29;F;Brucellose;5/09/2019
+28;Othmane Khairani;Messaad;15;M;Brucellose;8/09/2019
+29;Sedara Taher;Messaad;15;M;Brucellose;22/08/2019
+30;Omran Omran;Zacar;37;M;Brucellose;25/08/2019
+31;Maamri Belkheir;Messaad;23;M;Brucellose;25/08/2019
+32;Kacemi Saadia;Messaad;39;F;Brucellose;25/08/2019
+33;Kouchida Bounoua;Taadmite;66;M;Brucellose;22/08/2019
+34;Ben Rahmoun Nabil;Messaad;15;M;Brucellose;27/08/2019
+35;Ben Dkim Kheira;Messaad;17;F;Brucellose;8/08/2019
+36;Guelil Tayab;Ain elibel;27;M;Brucellose;29/08/2019
+37;Othman Abdelkader;Messaad;47;M;Brucellose;29/08/2019
+38;Ben Zahia Barkahom;Ain elibel;40;F;Brucellose;29/08/2019
+39;Brahimi kheira;Ain elibel;29;F;Brucellose;2/09/2019
+40;Dacher Zohra;Messaad;40;F;Brucellose;29/08/2019
+41;Moati Ahmed;Messaad;67;M;Brucellose;2/09/2019
+42;Naami Naoual;Messaad;13;F;Brucellose;2/09/2019
+43;Selilih Abdalah;Messaad;40;M;Brucellose;2/09/2019
+44;Naami Aicha;Messaad;11;F;Brucellose;2/09/2019
+45;Lahoual Ali;Messaad;57;M;Brucellose;3/09/2019
+46;Ben Hadda Abdelkader;Messaad;53;M;Brucellose;12/09/2019
+47;Chaiba Mohamed;Messaad;63;M;Brucellose;11/09/2019
+48;Hathat Salem;Messaad;37;M;Brucellose;9/09/2019
+49;Darkouch Kamal;Messaad;11;M;Brucellose;8/09/2019
+50;Hathat Daradji;Messaad;70;M;Brucellose;12/09/2019
+51;Bessoud Ahmed;Messaad;40;M;Brucellose;15/09/2019
+52;Rebih Abdallah;Messaad;23;M;Brucellose;12/09/2019
+53;Naami Nadji;Messaad;26;M;Brucellose;15/09/2019
+54;Naami Fatna;Messaad;19;F;Brucellose;15/09/2019
+55;Madani Zohra;Messaad;21;F;Brucellose;17/09/2019
+56;Zitout Ahmed;Messaad;65;M;Brucellose;16/09/2019
+57;Chahma Hada;Ain elibel;37;F;Brucellose;20/07/2019
+58;Ziane Asma;Zacar;23;F;Brucellose;28/07/2019
+59;Touer Ahmed;Ain elibel;35;M;Brucellose;28/07/2019
+60;Ben Sadouk Fatoum;Ain elibel;51;F;Brucellose;30/07/2019
+61;Kouriba Brahim;Ain elibel;31;M;Brucellose;28/07/2019
+62;Toumi Dahman;Ain elibel;36;M;Brucellose;28/07/2019
+63;Hassibi Daimeh;Taadmite;55;M;Brucellose;1/08/2019
+64;Tanoum Khadra;Taadmite;43;F;Brucellose;1/08/2019
+65;Amraoui Attia;Ain elibel;19;M;Brucellose;1/08/2019
+66;Amraoui Ali;Ain elibel;20;M;Brucellose;1/08/2019
+67;Ben Sadek Mohamed;Taadmite;7;M;Brucellose;4/08/2019
+68;Mhairiga Salem;Ain elibel;40;F;Brucellose;4/08/2019
+69;Halbaoui Khadra;Ain elibel;34;F;Brucellose;4/08/2019
+70;Hamada Mohamed;Ain elibel;20;M;Brucellose;4/08/2019
+71;Cherboul Messoud;Ain elibel;70;M;Brucellose;5/08/2019
+72;Ben Sadek Fatna;Taadmite;45;F;Brucellose;5/08/2019
+73;Dahasse Mohamed;Ain elibel;24;M;Brucellose;5/08/2019
+74;Ayachi Naimi;Ain elibel;42;M;Brucellose;5/08/2019
+75;Rabhi OEM;Ain elibel;30;F;Brucellose;6/08/2019
+76;Kharchi Chikh;Ain elibel;42;M;Brucellose;6/08/2019
+77;Ben Messoud Khadidja;Zacar;47;F;Brucellose;6/08/2019
+78;Abassi Kheira;Ain elibel;58;F;Brucellose;6/08/2019
+79;Silet Chahra;Ain elibel;12;F;Brucellose;7/08/2019
+80;Omrani Aicha;Ain elibel;32;F;Brucellose;13/08/2019
+81;Dib Aicha;Ain elibel;59;F;Brucellose;15/08/2019
+82;Zoubir Boubeker;Ain elibel;24;M;Brucellose;15/08/2019
+83;Choubiha Mohamed;Ain elibel;17;M;Brucellose;18/08/2019
+84;Ben Labiad Abdo;Ain elibel;31;M;Brucellose;18/08/2019
+85;Ben Djedari Alaadine;Taadmite;19;M;Brucellose;21/08/2019
+86;Omrani Hadda;Ain elibel;46;F;Brucellose;25/08/2019
+87;Tahah Mohamed;Taadmite;23;M;Brucellose;25/08/2019
+88;Chatouh Mohamed;Zacar;74;M;Brucellose;25/08/2019
+89;Ben Labiad Mohamed;Taadmite;42;M;Brucellose;25/08/2019
+90;Zaimini Mohamed;Ain elibel;12;M;Brucellose;26/08/2019
+91;Zaimini Djamila;Ain elibel;16;F;Brucellose;26/08/2019
+92;Naoumi djerou;Ain elibel;8;M;Brucellose;26/08/2019
+93;Far Aissa;Ain elibel;30;M;Brucellose;27/08/2019
+94;Hellasa abdelkader;Ain elibel;40;M;Brucellose;30/08/2019
+95;Derkouche Messouda;Messaad;54;F;Tubercullose;24/09/2019
+96;Taouache Abdelkader;Messaad;60;F;Tubercullose;24/09/2019
+97;Ben Kouider Khadidja;Messaad;27;F;Tubercullose;26/09/2019
+98;Gaafazi Youcef;Moudjbara;0;M;Meningite;19/09/2019
+01;Nara Aicha;Messaad;32;F;Rougeale;30/09/2019
+02;Gacem Mohamed Walid;Messaad;1;M;Rougeale;30/09/2019
+03;Damai Lakhder;Messaad;4;M;Rougeale;26/09/2019
+04;Bouakaze Zohra;Messaad;2;F;Rougeale;27/09/2019
+05;ben Derkouch Khalil;Messaad;1;M;Meningite;30/09/2019
+06;Saksak Sliman;Taadmit;27;M;Brucellose;23/09/2019
+07;Boussairi Bachir;Messaad;46;M;Brucellose;8/08/2019
+08;Rebih Mohamed;Messaad;81;M;Brucellose;8/09/2019
+09;Gacem Nassira;Messaad;57;F;Brucellose;27/09/2019
+10;Ben Salem Mekhalet;Messaad;30;M;Brucellose;24/09/2019
+11;Kheniche Abderaman;Taadmit;17;M;Brucellose;7/08/2019
+12;Kacemi Abdalah;Ain elibel;21;M;Brucellose;7/08/2019
+13;Rekiat Mebkhout;Messaad;51;M;Brucellose;7/08/2019
+14;chikh bakhta;Moudjbara;70;F;Brucellose;8/08/2019
+15;chetouh abdellah;Messaad;26;M;Brucellose;29/09/2019
+16;fernan zineb;Ain elibel;21;F;Brucellose;29/09/2019
+17;rezazga abdelkader;Messaad;26;M;Brucellose;19/09/2019
+18;ben ghaouthi med ;Moudjbara;40;M;Brucellose;22/09/2019
+19;hathat med;Messaad;56;M;Brucellose;23/09/2019
+20;themri dahman;Ain elibel;23;M;Brucellose;24/09/2019
+21;bessoud belgasem ;Ain elibel;53;M;Brucellose;29/09/2019
+22;hani khadra;Ain elibel;19;F;Brucellose;24/09/2019
+23;haoua omlkheir ;Messaad;26;F;Brucellose;24/09/2019
+24;touati siham;Messaad;23;F;Tubercullose;1/10/2019
+25;nara kheira;Messaad;18;F;Tubercullose;1/10/2019
+1;toumi ali;ain elibel;40;m;leishmaniose;3/10/2019
+2;bouakaz basma;messaad;1;f;rougeole;2/10/2019
+3;lagraa aek;messaad;44;m;rougeole;2/10/2019
+4;lagraa ibrahim;messaad;36;m;rougeole;3/10/2019
+5;smain salem;messaad;1;m;meningite;2/10/2019
+6;amraoui khawnia;ain elibel;29;f;brucellose;3/10/2019
+7;gelissat aek;moudjbara;39;m;brucellose;2/10/2019
+8;lagraa khadra;moudjbara;40;f;brucellose;2/10/2019
+9;rafae ziane;moudjbara;15;m;brucellose;3/09/2019
+10;helis ali;moudjbara;32;m;brucellose;6/08/2019
+11;defailia halima;moudjbara;21;f;brucellose;8/08/2019
+12;naama noura;moudjbara;10;f;brucellose;20/08/2019
+13;seghir mekadam;moudjbara;55;m;brucellose;21/08/2019
+14;rebih zineb;moudjbara;50;f;brucellose;22/08/2019
+15;zioueche aek;moudjbara;10;m;brucellose;22/08/2019
+16;habita kheira;moudjbara;35;f;brucellose;28/08/2019
+17;rabihe aicha;moudjbara;5;f;brucellose;28/08/2019
+18;kouadria mebarka;moudjbara;24;f;brucellose;1/10/2019
+19;rebih amer;moudjbara;33;m;brucellose;3/10/2019
+20;berikith boubakeur;moudjbara;75;m;brucellose;6/10/2019
+21;taibi saida;moudjbara;68;f;brucellose;6/10/2019
+22;gourini boulerbah;moudjbara;40;m;brucellose;7/10/2019
+23;reguieg lakhdar;moudjbara;62;m;brucellose;7/10/2019
+24;bessoud oek;messaad;40;f;brucellose;7/10/2019
+25;remitha aissa;messaad;39;m;brucellose;7/10/2019
+26;daoudi souad;ain elibel;28;f;brucellose;7/10/2019
+27;far lamia;taadmit;35;f;brucellose;7/10/2019
+28;benahmed silaa;ain elibel;23;m;brucellose;7/10/2019
+29;hathat yacine;messaad;17;m;brucellose;6/10/2019
+30;salamat kouider;messaad;55;m;brucellose;8/10/2019
+31;baghdado kheira;ain elibel;8;f;brucellose;8/10/2019
+32;kihel khadidja;messaad;60;f;brucellose;8/10/2019
+33;chouitar miloud;moudjbara;16;m;brucellose;8/10/2019
+34;baghdado aek;ain elibel;40;m;brucellose;8/10/2019
+35;derouiche halima;ain elibel;20;f;brucellose;8/10/2019
+36;chaib atia;messaad;44;m;brucellose;8/10/2019
+37;kazran f/z;messaad;25;f;brucellose;8/10/2019
+38;baghdado nakhla;ain elibel;14;f;brucellose;8/10/2019
+39;zaadjal mohamed;messaad;33;m;brucellose;8/10/2019
+40;bouchnak saadia;messaad;54;f;brucellose;8/10/2019
+41;lahouel ahmed;messaad;71;m;brucellose;8/10/2019
+42;othmane salah;messaad;30;m;brucellose;8/10/2019
+43;salhi saleh;messaad;39;m;brucellose;8/10/2019
+44;benselilih benabdellah;messaad;46;m;brucellose;8/10/2019
+45;naom baka;messaad;40;f;brucellose;8/10/2019
+46;douaba aicha;messaad;14;f;brucellose;8/10/2019
+47;kharchi saadi;ain elibel;38;m;brucellose;8/10/2019
+48;lachehbi zaid;ain elibel;38;m;brucellose;8/10/2019
+49;derouiche djamila;messaad;40;f;brucellose;8/10/2019
+50;zoubir messoud;ain elibel;35;m;brucellose;8/10/2019
+51;laoud belkheir;moudjbara;77;m;brucellose;8/10/2019
+52;saidi taher;messaad;31;m;brucellose;8/10/2019
+53;guerreche fatna;messaad;59;f;brucellose;8/10/2019
+54;chaib fattoum;messaad;17;f;brucellose;8/10/2019
+55;benmouafki hadjira;messaad;26;f;brucellose;8/10/2019
+56;derbak messoud;messaad;32;m;brucellose;26/09/2019
+57;derouiche med;messaad;39;m;brucellose;26/09/2019
+58;rahmani mbarka;messaad;59;f;leishmaniose;29/09/2019
+59;rahmani belkacem;messaad;11;m;leishmaniose;10/10/2019
+01;bouakaz mokhtar;messaad;7;m;Rougeole;13/10/2019
+02;touati noura;messaad;7;f;Rougeole;13/10/2019
+03;Louail khadidja;messaad;38;f;Rougeole;6/10/2019
+04;aidi zoubir;messaad;15;m;Rougeole;14/10/2019
+05;el aibe hamza;messaad;26;m;Hepatite B;15/10/2019
+06;moussaoui hiba noujc;messaad;9;f;Meningite;13/10/2019
+07;hamdi abdelhamid;messaad;26;m;Meningite;10/10/2019
+08;nara mokadem;messaad;8;m;Meningite;10/10/2019
+09;boudissa moussa;messaad;17;m;Brucellose;5/08/2019
+10;nara a/abdaIlah;messaad;58;m;Brucellose;05/08/2019
+11;bessaoud mehamed;messaad;40;m;Brucellose;5/08/2019
+12;djalali meriem;messaad;27;f;Brucellose;4/08/2019
+13;haoua belkheir;messaad;34;m;Brucellose;4/08/2019
+14;garoud bilal;messaad;28;m;Brucellose;23/06/2019
+15;benchettouh  kouider;ain elibel;15;m;Brucellose;2/06/2019
+16;taiba mohamed;taadmit;32;m;Brucellose;2/06/2019
+17;kasmi marwa;messaad;21;f;Brucellose;02/06/2019
+18;benmessaoud zakhro;messaad;42;f;Brucellose;3/06/2019
+19;zerguine bilal;messaad;12;m;Brucellose;3/06/2019
+20;labachi fatna;ain elibel;86;f;Brucellose;28/05/2019
+21;otmane fatna;messaad;43;f;Brucellose;28/05/2019
+22;benkhelil meriem;ain elibel;34;f;Brucellose;9/06/2019
+23;ayachi achoura;ain elibel;10;f;Brucellose;10/06/2019
+24;haouari fatna;messaad;46;f;Brucellose;10/06/2019
+25;lahreche belkheir;messaad;20;m;Brucellose;10/06/2019
+26;kaniche rahma;taadmit;38;f;Brucellose;10/06/2019
+27;hamada mira;ain elibel;29;f;Brucellose;9/06/2019
+28;ferhat mebarka;zaccar;18;f;Brucellose;09/06/2019
+29;lachehbi elkheir;ain elibel;33;m;Brucellose;10/06/2019
+30;otmane mebarka;messaad;39;f;Brucellose;10/06/2019
+31;hamadi fathi;messaad;8;m;Brucellose;10/06/2019
+32;lahouel bouhadja;messaad;32;m;Brucellose;10/06/2019
+33;benselem naouia;messaad;29;f;Brucellose;10/06/2019
+34;othmane fatna;messaad;27;f;Brucellose;11/06/2019
+35;benslilih abdelkader;messaad;29;m;Brucellose;11/06/2019
+36;benkouider zahra;messaad;14;f;Brucellose;10/06/2019
+37;benkouider  adel;messaad;10;m;Brucellose;9/06/2019
+38;bennadji mohamed;messaad;35;m;Brucellose;4/06/2019
+39;souiah khadidja;taadmit;64;f;Brucellose;9/06/2019
+40;hedibi ahmed;messaad;75;m;Brucellose;11/06/2019
+41;tahiri belkacem;messaad;30;m;Brucellose;11/06/2019
+42;bakria fatna;messaad;29;f;Brucellose;13/06/2019
+43;othmane mostafa;messaad;16;m;Brucellose;13/06/2019
+44;merikh kamel;messaad;10;m;Brucellose;13/06/2019
+45;aidi mebarka;messaad;29;f;Brucellose;15/06/2019
+46;othmane abdelkader;messaad;47;m;Brucellose;16/06/2019
+47;chetouh dahmen;messaad;42;m;Brucellose;16/06/2019
+48;gueniche ameur;taadmit;51;m;Brucellose;26/06/2019
+49;nouidjem fayala;messaad;60;f;Brucellose;27/06/2019
+50;sdara fares;messaad;14;m;Brucellose;16/06/2019
+51;bessaoud rabeh;messaad;20;m;Brucellose;20/06/2019
+52;gacem mohamed;messaad;64;m;Brucellose;18/06/2019
+53;naami oek;messaad;45;f;Brucellose;21/06/2019
+54;maache abd elbaki;messaad;35;m;Brucellose;18/06/2019
+55;maache malika;messaad;30;f;Brucellose;18/06/2019
+56;boularbah bendekim;messaad;65;m;Brucellose;18/06/2019
+57;serar fatiha;messaad;23;f;Brucellose;18/06/2019
+58;benghouthi salem;moudjbara;9;m;Brucellose;27/06/2019
+59;semati mohamed;messaad;23;m;Brucellose;27/06/2019
+60;benabdelhadi  wahiba;messaad;15;f;Brucellose;30/06/2019
+61;otmane boulerbah;messaad;19;m;Brucellose;20/06/2019
+62;salhi salem;messaad;18;m;Brucellose;1/07/2019
+63;toual aek;messaad;28;m;Brucellose;2/07/2019
+64;tahinmed;messaad;55;m;Brucellose;6/07/2019
+65;ben kouider sabah;messaad;10;f;Brucellose;2/07/2019
+66;nara ghouinia;messaad;33;f;Brucellose;2/07/2019
+67;bendekim fatiha;messaad;32;f;Brucellose;2/07/2019
+68;karrache  oek;messaad;84;f;Brucellose;4/07/2019
+69;othmane mohamed;messaad;22;m;Brucellose;4/07/2019
+70;othman oek;messaad;49;f;Brucellose;7/07/2019
+71;meraiss  cheikha;messaad;14;f;Brucellose;7/07/2019
+72;rebihi zeineb;messaad;39;f;Brucellose;7/07/2019
+73;benabdelhadi  aicha;messaad;15;f;Brucellose;7/07/2019
+74;saimouza  amer;messaad;12;m;Brucellose;7/07/2019
+75;gaimouza fatima;messaad;5;f;Brucellose;1/07/2019
+76;ghorieb elarbi;messaad;19;m;Brucellose;1/07/2019
+77;naoui aicha;messaad;16;f;Brucellose;8/07/2019
+78;gozim aida;messaad;54;f;Brucellose;8/07/2019
+79;benbaghdad aek;messaad;41;m;Brucellose;8/07/2019
+80;benbaghdad khadldja;messaad;15;f;Brucellose;8/07/2019
+81;benkouider oualid;messaad;10;m;Brucellose;8/07/2019
+82;benkouider nakhla;messaad;33;f;Brucellose;9/07/2019
+83;agoun ali;messaad;50;m;Brucellose;9/07/2019
+84;hocini fatna;messaad;56;f;Brucellose;9/07/2019
+85;abdelrahim  mohamed;messaad;45;m;Brucellose;9/07/2019
+86;farid aicha;messaad;32;f;Brucellose;9/07/2019
+87;melati aicha;messaad;30;f;Brucellose;9/07/2019
+88;laib kheira;messaad;46;f;Brucellose;9/07/2019
+89;naami mokhtar;ain elibel;24;m;Brucellose;10/07/2019
+90;zaitot hicham;ain elibel;20;m;Brucellose;10/07/2019
+91;ziouache yaagoub;moudjbara;20;m;Brucellose;10/07/2019
+92;mbarka  bouchra;messaad;10;f;Brucellose;10/07/2019
+93;mbarki abdelrahman;messaad;16;m;Brucellose;10/07/2019
+94;bessaoud saad;moudjbara;25;m;Brucellose;11/07/2019
+95;bensalem mkhalet;messaad;72;m;Brucellose;11/07/2019
+96;rahmoun khelifa;messaad;69;m;Brucellose;14/07/2019
+97;bessaoud messaoud;zaccar;29;m;Brucellose;14/07/2019
+98;taiba ahmed;taadmit;20;m;Brucellose;14/07/2019
+99;?acem dahmen;messaad;68;m;Brucellose;14/07/2019
+100;touatiel hachml;messaad;43;m;Brucellose;14/07/2019
+101;abikchi messaouda;messaad;35;f;Brucellose;15/07/2019
+102;ghaibeche mbarka;messaad;27;m;Brucellose;15/07/2019
+103;abikchi mabkhouta;messaad;45;f;Brucellose;15/07/2019
+104;benkouider ibrahim;messaad;1;m;Brucellose;15/07/2019
+105;benabdelsalam  rekia;messaad;64;m;Brucellose;17/07/2019
+106;haouari aicha;messaad;29;f;Brucellose;17/07/2019
+107;benaissa kheira;taadmit;44;f;Brucellose;18/07/2019
+108;taiba ahlem;taadmit;24;f;Brucellose;18/07/2019
+109;kenniche karima;taadmit;17;f;Brucellose;18/07/2019
+110;halfaya aicha;messaad;35;f;Brucellose;21/07/2019
+111;houcini laarbi;messaad;35;m;Brucellose;8/07/2019
+112;benslilih saad;messaad;14;m;Brucellose;22/07/2019
+113;madani ahmed;messaad;28;m;Brucellose;24/07/2019
+114;bounaoua hamza;messaad;22;m;Brucellose;19/06/2019
+115;tarnime khalifa;messaad;34;m;Brucellose;19/06/2019
+116;bouzid lakhder;moudjbara;32;m;Brucellose;19/06/2019
+117;guerracha fatna;messaad;66;f;Brucellose;20/06/2019
+118;ben taher mouafek;messaad;79;m;Brucellose;20/06/2019
+119;souici mohamed;messaad;37;m;Brucellose;20/06/2019
+120;derouiche manel;ain elibel;21;f;Brucellose;23/06/2019
+121;ben mouafak dahmer;messaad;29;m;Brucellose;23/06/2019
+122;dahas meftah;ain elibel;19;m;Brucellose;21/06/2019
+123;kazran abass;messaad;34;m;Brucellose;23/06/2019
+124;debcheg arbia;messaad;14;f;Brucellose;23/06/2019
+125;maache hamam;ain elibel;6;m;Brucellose;24/06/2019
+126;benkouider fatiha;messaad;5;f;Brucellose;24/06/2019
+127;benkouider attia;messaad;13;m;Brucellose;24/06/2019
+128;taibi saad;messaad;25;m;Brucellose;24/06/2019
+129;bounaoua bilal;taadmit;30;m;Brucellose;26/06/2019
+130;abikchi rabeh;messaad;24;m;Brucellose;26/06/2019
+131;derkouche mustapha;messaad;54;m;Brucellose;26/06/2019
+132;meni benharzallah;ain elibel;22;m;Brucellose;26/06/2019
+133;abikchi saleh;messaad;55;m;Brucellose;27/06/2019
+134;gholissat ahmed;messaad;25;m;Brucellose;27/06/2019
+135;salhi meriem;messaad;60;f;Brucellose;24/07/2019
+136;maache djamel;moudjbara;9;m;Brucellose;25/07/2019
+137;fakroun zohra;messaad;20;f;Brucellose;25/07/2019
+138;halbaoui med;ain elibel;31;m;Brucellose;28/07/2019
+139;kheniche djamel;taadmit;48;m;Brucellose;29/07/2019
+140;brahimi khedidja;messaad;48;f;Brucellose;30/07/2019
+141;benghouthi elamri;messaad;37;m;Brucellose;30/07/2019
+142;benlakhder  attia;messaad;26;m;Brucellose;31/07/2019
+143;benlakhder fadhlla;messaad;19;f;Brucellose;31/07/2019
+144;benlakhder  marzougE;messaad;20;m;Brucellose;31/07/2019
+145;hamadi fethi;messaad;9;m;Brucellose;14/07/2019
+146;taibi ben ali;ain elibel;33;m;Brucellose;14/07/2019
+147;hamadi belkacem;messaad;53;m;Brucellose;14/07/2019
+148;gaimouza kheira;messaad;32;f;Brucellose;13/07/2019
+149;zoubir meriem;ain el bel;12;f;Brucellose;13/07/2019
+150;baghdadou meriem;ain elibel;33;f;Brucellose;13/10/2019
+151;lahreche bouragaa;messaad;13;m;Brucellose;9/10/2019
+152;otmane fatna;messaad;64;m;Brucellose;20/10/2019
+153;benattia aicha;messaad;30;f;Brucellose;20/10/2019
+154;daoudi miloud;ain elibel;25;m;Brucellose;10/10/2019
+155;djaroub rabia;messaad;24;f;Brucellose;20/10/2019
+156;lahreche malika;messaad;33;f;Brucellose;20/10/2019
+157;bensalem zohra;messaad;32;f;Brucellose;20/10/2019
+158;benlakhder dahmen;messaad;23;m;Brucellose;16/10/2019
+159;boudjaaran oek;ain elibel;50;f;Brucellose;15/10/2019
+160;gued ar oumbarka;ain elibel;49;f;Brucellose;15/10/2019
+161;dahas aicha;ain elibel;23;f;Brucellose;14/10/2019
+162;bennara saadia;messaad;30;f;Brucellose;13/02/2019
+163;bessaoud freiha;messaad;10;f;Brucellose;13/02/2019
+164;naoui ameur;moudjbara;25;m;Brucellose;28/02/2019
+165;salhi fatna;messaad;42;f;Brucellose;28/02/2019
+166;lasrab aek;messaad;22;m;Brucellose;28/02/2019
+167;othman zeineb;taadmit;8;f;Brucellose;28/02/2019
+168;garoud hadda;messaad;53;f;Brucellose;27/02/2019
+169;hamadi mohamed;messaad;25;m;Brucellose;27/02/2019
+170;gaimouza lakhder;messaad;22;m;Brucellose;27/02/2019
+171;hamadi hadda;messaad;23;f;Brucellose;27/02/2019
+172;rebih mohamed;messaad;40;m;Brucellose;26/02/2019
+173;abikchi leid;messaad;52;m;Brucellose;26/02/2019
+174;benattia meriem;messaad;45;f;Brucellose;25/02/2019
+175;benhadda daouadia;messaad;36;f;Brucellose;25/02/2019
+176;gouhiri messaouda;messaad;40;f;Brucellose;25/02/2019
+177;naibi fatna;messaad;34;f;Brucellose;25/02/2019
+178;dabcheg miloud;messaad;26;m;Brucellose;25/02/2019
+179;dabcheg zohra;messaad;34;f;Brucellose;25/02/2019
+01;chengache freiha;ain el ibel;36;f;brucellose;11/09/2019
+02;ayat abdelkader;taadmit;24;m;brucellose;11/09/2019
+03;naami dalal;ain el ibel;10;f;brucellose;11/09/2019
+04;cherboul kadour;ain el ibel;39;m;brucellose;11/09/2019
+05;fertala zouina;ain el ibel;57;f;brucellose;12/09/2019
+06;abassi djilani;ain el ibel;21;m;brucellose;13/09/2019
+07;oubah fatna;ain el ibel;40;f;brucellose;14/09/2019
+08;mouissa messaouda;ain el ibel;52;f;brucellose;15/09/2019
+09;djidoul fatima;ain el ibel;25;f;brucellose;11/09/2019
+10;boualagua  slimane;ain el ibel;59;m;brucellose;12/09/2019
+11;cherboul mostafa;ain el ibel;27;m;brucellose;13/09/2019
+12;kharchi feriha;ain elibel;95;f;brucellose;14/09/2019
+13;mayah belkacem;ain el ibel;33;m;brucellose;15/09/2019
+14;djakal med;ain el ibel;43;m;brucellose;16/09/2019
+15;aguoni ali;ain el ibel;59;m;brucellose;17/09/2019
+16;balbal mokhtar;ain el ibel;84;m;brucellose;18/09/2019
+17;oubah belkacem;ain el ibel;53;m;brucellose;19/09/2019
+18;meknaze  aicha;ain el ibel;46;f;brucellose;20/09/2019
+19;bensaleh mebarka;moudjbara;26;f;brucellose;21/10/2019
+20;bouzid lakhdar;moudjbara;30;m;brucellose;21/10/2019
+21;laib ismail;messaad;20;m;Hepatite B;23/10/2019
+22;laib rebiha;messaad;13;f;Hepatite B;23/10/2019
+01;saidi khaled;messaad;54;m;leishmaniose;4/11/2019
+02;djaraoub  khadidja;messaad;50;f;leishmaniose;30/10/2019
+03;rebei israa;messaad;2;f;leishmaniose;3/11/2019
+04;lagraa djamila;messaad;5;f;rougeole;6/11/2019
+05;guass ab aitia;messaad;46;m;brucellose;20/10/2019
+06;bagaa fatna;messaad;21;f;brucellose;23/10/2019
+07;bouneoua naima;messaad;18;f;brucellose;24/10/2019
+08;lekhnache  mihoub;messaad;29;m;brucellose;29/10/2019
+09;chaib abdellah;messaad;35;m;brucellose;5/11/2019
+01;Bloul araba;messaad;56;f;Brucellose;24/10/2019
+02;salhi zohra;messaad;87;f;Leishmaniose.c;28/10/2019
+03;bouakaz narwa;messaad;6;f;Rougeole;22/10/2019
+04;lagraa boulerbah;messaad;1;m;Rougeole;23/10/2019
+05;lagraa hiba;messaad;8;f;Rougeole;27/10/2019
+06;Laid hamza;messaad;25;m;Hepatite B;24/10/2019
+01;dliouahkarima ;moudjbara;14;f;Brucellose;24/10/2019
+02;kouadria nacer ddine;moudjbara;24;m;Brucellose;22/10/2019
+03;hathat mira ;moudjbara;21;f;Brucellose;15/10/2019
+04;said mekdem;moudjbara;31;m;Brucellose;13/10/2019
+05;guelil wael;moudjbara;3;m;Brucellose;10/10/2019
+06;naamanoura;moudjbara;10;f;Brucellose;8/10/2019
+07;maache aicha;messaad;57;f;leishmaniose;11/11/2019
+01;x;messaad;30;f;HIV;19/11/2019
+02;belahoual youcef ;messaad;0;m;coqueluche;19/11/2019
+03;sdara maram;messaad;6;f;hepatite A;17/11/2019
+04;sailat ahmed ;messaad;6;m;leishmaniose;15/11/2019
+05;tahiri abdeldjalil;messaad;0;m;leishmaniose;18/11/2019
+06;gozim fatima ;messaad;53;f;leishmaniose;14/11/2019
+07;heziel fouad;messaad;0;m;menengite;14/11/2019
+08;bloul arba;messaad;56;f;Brucellose;4/11/2019
+09;benyahya ilyas abdela;messaad;8;m;hepatite A;18/11/2019
+01;bennacer hadjira ;messaad;25;f;Brucellose;12/11/2019
+02;moustfaoui taher;messaad;60;m;Brucellose;9/11/2019
+03;bakheti messaouda ;messaad;50;m;Brucellose;7/11/2019
+04;bessaoud farida;messaad;25;f;Brucellose;5/11/2019
+05;benderkouche ali;messaad;32;m;Brucellose;19/11/2019
+06;moussoui sayeh;messaad;48;m;leishmaniose;21/11/2019
+07;djeklil samiha fatiha;messaad;3;f;meningite;21/11/2019
+08;gharbi amira ;messaad;1;f;meningite;24/11/2019
+09;dehmane fatna;messaad;13;f;leishmaniose;25/11/2019
+10;bakria nadia ;messaad;2;f;leishmaniose;26/11/2019
+11;M'hammedi ahmed ;messaad;71;m;hepatite A;26/11/2019
+12;bakria cherifa nacira;messaad;3;f;leishmaniose;28/11/2019
+13;tahiri ayoub ;messaad;30;m;leishmaniose;28/11/2019
+14;ziani nada ;messaad;0;f;meningite;21/11/2019
+01;ben brahim fatima ;messaad;34;f;leishmaniose;8/12/2019
+02;benabdesslam mebark;messaad;79;f;leishmaniose;9/12/2019
+03;saada meriem;ain el ibel;16;f;leishmaniose;4/12/2019
+04;baghdadou toufik ;ain el ibel;7;m;hepatite A;10/12/2019
+05;salhi mohamed ;ain el ibel;6;m;hepatite A;10/12/2019
+06;dehmane saad;messaad;7;m;leishmaniose;11/12/2019
+07;dehmane ahmed;messaad;17;m;leishmaniose;11/12/2019
+08;garoud rabeh ;messaad;37;m;leishmaniose;30/12/2019
+09;ghouini sara  ;messaad;23;f;leishmaniose;1/12/2019
+10;benkouider saad ;messaad;1;m;leishmaniose;1/12/2019
+11;tahiri abdeljalil ;messaad;0;m;leishmaniose;3/12/2019
+12; laoud halima ;messaad;15;f;leishmaniose;9/12/2019
+13;haffafe rabie;messaad;6;m;leishmaniose;9/12/2019
+14;barakat mariem;messaad;4;f;leishmaniose;18/12/2019
+01;benzerguin abdelhamid;messaad;8;m;Leishmaniose c;11/12/2019
+02;chekkaf mohamed ;messaad;57;m;leishmaniose c;16/12/2019
+03;bengoamoz omhani;messaad;46;f;leishmaniose;15/12/2019
+04;taiba makhlouf;taathmit;14;M;leishmaniose;8/12/2019
+01; x;messaad;56;m;HIV;24/12/2019
+02;benzerguin soumia;messaad;10;f;leishmaniose;18/12/2019
+03;benzerguin ilham;messaad;5;f;leishmaniose;18/12/2019
+04;bouzid aissa ;moudjbara;64;m;leishmaniose;14/12/2019
+05;djdid zohra ;messaad;32;f;leishmaniose;15/12/2019
+06;decher amel ;messaad;4;f;leishmaniose;15/12/2019
+07;zorgot morad ;messaad;35;m;leishmaniose;18/12/2019
+08;mazouzi zian ;messaad;23;m;leishmaniose;15/12/2019
+01;bakhti omlkhier;moudjbara;7;f; Brucellose;2/12/2019
+02;guato moukhtar ;moudjbara;54;m;Brucellose;22/12/2019
+03;bessaoud med;moudjbara;13;m;Brucellose;24/12/2019
+04;themri azounia ;moudjbara;18;f;Brucellose;26/12/2019
+05;bakhti bachir  ;moudjbara;8;m;Brucellose;29/12/2019
+06;sayhi mebarka;messaad;13;f;leishmaniose;30/12/2019
+07;maamri fatna;messaad;33;f;leishmaniose;31/12/2019
+08;mahmoudi khadidja;messaad;58;f;leishmaniose;31/12/2019
+09;ghazel hameza;messaad;3;m;intoxication A;30/12/2019
+10;toual saadia;ain el ibel;13;f;Brucellose;19/05/2019
+11;akhdari ahmed ;ain el ibel;24;m;Brucellose;1/05/2019
+12;taybi kheira;ain el ibel;22;f;Brucellose;1/05/2019
+13;choubiha saad ;ain el ibel;28;m;Brucellose;2/05/2019
+14;benlabiad saad ;ain el ibel;32;m;Brucellose;1/05/2019
+15;saihi laalmi ;ain el ibel;32;m;Brucellose;3/05/2019
+16;silet med;ain el ibel;29;m;Brucellose;3/05/2019
+17;eloud aissa ;ain el ibel;19;m;Brucellose;4/05/2019
+18;rabhi rebiha ;ain el ibel;50;f;Brucellose;5/05/2019
+19;saihi ahmed;ain el ibel;30;m;Brucellose;5/05/2019
+20;taibi belkacem;ain el ibel;22;m;Brucellose;5/05/2019
+21;meghdad mostafa;ain el ibel;17;m;Brucellose;5/05/2019
+22;kourikar rabah;ain el ibel;16;m;Brucellose;8/05/2019
+23;chhakchak  harzellah;ain el ibel;35;m;Brucellose;10/04/2019
+24;saksak selimane ;ain el ibel;39;m;Brucellose;15/04/2019
+25;dehasse naoum;ain el ibel;40;m;Brucellose;15/04/2019
+26;dehasse med;ain el ibel;12;m;Brucellose;15/04/2019
+27;dehasse aicha;ain el ibel;20;f;Brucellose;16/12/2019
+28;abdelhafid aicha ;taadhmit;32;f;Brucellose;16/12/2019
+29;kheniche zouina ;ain el ibel;49;f;Brucellose;16/12/2019
+30;touer ahmed;ain el ibel;42;m;Brucellose;17/12/2019
+31;taibi zohra;ain el ibel;56;f;Brucellose;17/12/2019
+32;themi nadia ;ain el ibel;20;f;Brucellose;18/12/2019
+33;doudou barkahom ;ain el ibel;40;f;Brucellose;18/12/2019
+34;allaoua nadya ;ain elibel;5;f;Brucellose;25/12/2019
+35;themri cherifa ;ain el ibel;48;f;Brucellose;25/12/2019
+36;mezhoud ahmed;ain el ibel;40;m;Brucellose;25/12/2019
+37;mazouze ouansa ;ain el ibel;35;f;Brucellose;25/12/2019
+38;djedoul fatima ;ain el ibel;25;f;Brucellose;25/12/2019
+39;bekay khaled ;ain el ibel;56;m;Brucellose;25/12/2019
+40;meghdad themeur;ain elibel;12;m;Brucellose;26/12/2019
+41;decher amar ;messaad;9;m;leishmaniose;23/12/2019
+42;gueroud said ;messaad;38;m;leishmaniose;25/12/2019
+43;gherieb maamar ;messaad;43;m;leishmaniose;23/12/2019
+44;aibikchi mebarka ;messaad;85;f;leishmaniose;24/12/2019
+45;ben brahim houria ;messaad;36;f;leishmaniose;28/12/2019
+46;tahiri salah ddine ;messaad;13;m;leishmaniose;20/12/2019
+47;decher abdel ouahab;messaad;9;m;leishmaniose;23/12/2019
+48;derkouche aicha ;messaad;55;f;leishmaniose;25/12/2019
+49;decher hameza ;messaad;2;m;leishmaniose;23/12/2019
+50;guecem ahmed ;moudjbara;41;m;leishmaniose;24/12/2019
+51;benderrah omlkhier;messaad;57;f;leishmaniose;22/12/2019
+52;said farhat;messaad;80;m;leishmaniose;18/12/2019
+53;taiba baya ;messaad;33;f;leishmaniose;26/12/2019

@@ -1,0 +1,712 @@
+﻿N;NOM PRENOM;COMMUNE;AGE;SEXE;PATHOLOGIE;DATE
+01;Guedid Abdelkader;Moudjbara;30;m;Brucellose;25/12/2022
+02;Rahmoune Nadji;Moudjbara;44;m;Brucellose;26/12/2022
+03;Oubah Fadila;Moudjbara;22;f;Brucellose;03/08/2022
+04;Kadrani Tayeb;Moudjbara;16;m;Brucellose;24/04/2022
+05;Naama Rebhia;Moudjbara;65;f;Brucellose;18/07/2022
+06;Brahimi Ahmed;Moudjbara;28;m;Brucellose;31/08/2022
+07;Habita Laala;Moudjbara;67;m;Brucellose;11/09/2022
+08;Oubah Aicha;Messaad;17;f;Leishmaniose C;09/01/2023
+09;Gharbi Gharbi;Messaad;63;m;Leishmaniose C;09/01/2023
+10;Lakheneche Abir;Messaad;17;f;Leishmaniose C;02/01/2023
+11;Lakheneche Mohamed;Messaad;13;m;Leishmaniose C;02/01/2023
+12;Kharkhache Fatoum;Messaad;44;f;Leishmaniose C;02/01/2023
+13;Daoudi Karim;Ain el ibel;28;m;Brucellose;08/12/2022
+14;Salehi Naouia;Ain el ibel;40;f;Brucellose;08/12/2022
+15;Amraoui Fatna;Ain el ibel;43;f;Brucellose;11/12/2022
+16;Saksak Rachid;Taadhmit;48;m;Brucellose;20/12/2022
+17;Latrache Zohra;Taadhmit;46;f;Brucellose;20/12/2022
+18;Farhat Nourddine;Ain el ibel;30;m;Brucellose;20/12/2022
+19;Baha Ahmed;Ain el ibel;37;m;Brucellose;02/01/2023
+20;Mihoubi Omlkheir;Ain el ibel;20;f;Brucellose;02/01/2023
+21;Chahra Nourddine;Ain el ibel;24;m;Brucellose;02/01/2023
+22;Kouriabe Mohamed;Ain el ibel;33;m;Brucellose;04/01/2023
+23;Khadari Mohamed;Ain el ibel;29;m;Brucellose;04/01/2023
+24;Tenoum Ali;Taadhmit;29;m;Brucellose;05/01/2023
+25;Chenoufi Mohamed;Ain el ibel;58;m;Brucellose;05/01/2023
+01;Benzerguin Abdelbaki;Messaad;34;m;Brucellose;05/01/2023
+02;Benothmane Belkheir;Messaad;47;m;Brucellose;04/01/2023
+03;Moati Ahmed;Messaad;82;m;Brucellose;29/12/2022
+04;Haouari Chahra;Messaad;20;f;Brucellose;29/12/2022
+05;Rekayat Ahmed;Messaad;75;m;Brucellose;29/12/2022
+06;Bendekim Madjid;Messaad;30;m;Brucellose;29/12/2022
+07;Rebih Zakaria;Messaad;12;m;Brucellose;26/12/2022
+08;Rebih Rebih;Messaad;16;m;Brucellose;26/12/2022
+09;Ghibeche Abdelbaki;Messaad;22;m;Brucellose;26/12/2022
+10;Baha Attallah;Ain El Ibel;28;m;Brucellose;11/01/2023
+11;Hailat Kouidar;Ain El Ibel;65;m;Brucellose;18/01/2023
+12;Ayachi Ahmed;Messaad;29;m;Leishmaniose C;03/01/2023
+01;Douaba Aicha;Messaad;30;f;Brucellose;15/01/2023
+02;Hailat Kouidar;Ain El Ibel;60;m;Brucellose;15/01/2023
+03;Rebih Zineb;Messaad;42;f;Brucellose;15/01/2023
+04;Meriasse Chikha;Messaad;15;f;Brucellose;15/01/2023
+05;Rebih Dehman;Messaad;30;m;Brucellose;12/01/2023
+06;Rebih Fatiha;Messaad;15;f;Brucellose;12/01/2023
+07;Rebih Elhadj;Messaad;8;m;Brucellose;11/01/2023
+08;Rebih Salma;Messaad;32;f;Brucellose;10/01/2023
+09;Gueracha Fatna;Messaad;30;f;Brucellose;10/01/2023
+10;Belkheir Rokia;Messaad;64;f;Brucellose;09/01/2023
+01;Boukhlifa zahra;Ain El Ibel;17;f;Brucellose;26/01/2023
+02;Bghdadi Wahiba;Ain El Ibel;17;f;Brucellose;29/01/2023
+03;Weiqiang Du;Moudjbara;46;m;Brucellose;29/01/2023
+04;Haoua Mohamed;Moudjbara;13;m;Brucellose;29/01/2023
+05;Gussemia Elarbi;Moudjbara;42;m;Brucellose;29/01/2023
+06;Borchi Amar;Moudjbara;53;m;Brucellose;29/01/2023
+07;Borchi Fatna;Moudjbara;52;f;Brucellose;29/01/2023
+08;Bensaleh Baya;Moudjbara;28;f;Brucellose;18/01/2023
+01;Ben sdira Aicha;Messaad;85;f;T-polmonaire;29/01/2023
+02;Dliouah Aicha;Messaad;43;f;HiV;02/02/2023
+03;Madani Zohra;Messaad;63;f;HiV;02/02/2023
+04;Akrout Ali;Ain El Ibel;8;m;Leishmaniose C;06/02/2023
+05;Nara Ben cheriet;Messaad;63;m;Leishmaniose C;06/02/2023
+01;Naoum Zohra;Ain el ibel;30;f;Brucellose;01/02/2023
+02;Touer Lakhdar;Ain el ibel;28;m;Brucellose;01/02/2023
+03;Cherboul Mohamed;Ain el ibel;42;m;Brucellose;02/02/2023
+04;Baha Cherifa;Ain el ibel;47;f;Brucellose;05/02/2023
+05;Ghidjar Mohamed;Ain el ibel;26;m;Brucellose;06/02/2023
+06;Mokhtari Belkheir;Ain el ibel;30;m;Brucellose;07/02/2023
+07;Houcini Mohamed;Ain el ibel;7;m;Brucellose;09/02/2023
+08;Baghdadou Sadam;Ain el ibel;30;m;Brucellose;13/02/2023
+09;Reguegue Hakim;Ain el ibel;19;m;Leishmaniose C;11/02/2023
+10;reguegue Adel;Ain el ibel;12;m;Leishmaniose C;11/02/2023
+11;Reguegue Bochra;Ain el ibel;14;f;Leishmaniose C;11/02/2023
+01;Guefaf Djamila;Ain el ibel;19;f;Brucellose;17/01/2023
+02;Cherboul Nour hane;Ain el ibel;13;f;Brucellose;17/01/2023
+03;Derouiche Belkheir;Ain el ibel;72;m;Brucellose;23/02/2023
+04;Far Ali;Taadhmit;18;m;Brucellose;23/02/2023
+05;Far Fatna;Taadhmit;12;f;Brucellose;23/02/2023
+06;Karrache sara;Messaad;16;f;Brucellose;25/01/2023
+07;Rebih Brahim;Messaad;44;m;Brucellose;25/01/2023
+08;Rebih Salema;Messaad;53;f;Brucellose;22/01/2023
+09;Bendekim omlekheir;Messaad;30;f;Brucellose;22/01/2023
+10;Rebih Dhaoua;Messaad;23;f;Brucellose;17/01/2023
+11;Rebih Oualid;Messaad;19;m;Brucellose;17/01/2023
+12;Taibi Houcine;Messaad;17;m;Brucellose;17/01/2023
+13;Haouari Saadia;Messaad;45;f;Brucellose;13/01/2023
+14;Kheiri Fatima;Messaad;29;f;Brucellose;08/02/2023
+15;Radouane Messaoud;Messaad;10;m;Brucellose;08/02/2023
+16;Rebih Salah;Messaad;50;m;Brucellose;08/02/2023
+17;Bouzid Rekia;Messaad;36;f;Brucellose;01/02/2023
+18;Bennadji Abdslaam;Messaad;35;m;Brucellose;28/01/2023
+19;Douaaba Aissa;Messaad;50;m;Brucellose;27/01/2023
+20;kaabache Khelifa;Messaad;48;m;Brucellose;27/01/2023
+21;Kassmi Lakhdar;Messaad;82;m;Brucellose;27/01/2023
+22;Rebih Kouidar;Messaad;50;m;Brucellose;05/03/2023
+23;Mallati Ziane;Messaad;34;m;Brucellose;05/03/2023
+24;Belghaouthi Ben aabdellah;Messaad;34;m;Brucellose;05/03/2023
+25;Belghaouthi Ali;Messaad;27;m;Brucellose;05/03/2023
+26;Belghaouthi Dehmane;Messaad;24;m;Brucellose;05/03/2023
+27;Haouari Ahmed;Messaad;48;m;Brucellose;05/03/2023
+28;Rekiat Aicha;Messaad;29;f;Brucellose;01/03/2023
+29;Touir Nourddine;Messaad;35;m;Tiac;09/03/2023
+30;Touir Radhia;Messaad;31;f;Tiac;09/03/2023
+01;Ben hadda Kheira;Messaad;21;f;Brucellose;21/03/2022
+02;Raouane Nadjat;Ain El Ibel;15;f;Brucellose;21/03/2022
+03;Hassebi Lemkhalet;Taadhmit;65;m;Brucellose;21/03/2022
+04;Hilali Ammar;Ain El Ibel;11;m;Brucellose;21/03/2022
+05;Tenoum Mebrouk;Ain El Ibel;17;m;Brucellose;21/03/2022
+06;Amraoui Benharzallah;Ain El Ibel;19;m;Brucellose;21/03/2022
+07;Saksak Rachid;Ain El Ibel;47;m;Brucellose;21/03/2022
+08;Taleb Mohamed;Messaad;90;m;Brucellose;18/03/2022
+09;Taleb Abdelkader;Messaad;10;m;Brucellose;18/03/2022
+10;Baghdadou Baghdad;Messaad;21;m;Brucellose;18/03/2022
+11;Gucem Abdelkarim;Messaad;37;m;Brucellose;24/03/2022
+12;Bensaleh Malika;Messaad;25;f;Brucellose;22/03/2022
+13;Kharchi Saad;Ain El Ibel;19;m;Brucellose;23/03/2022
+14;Lakehal Belkheir;Messaad;27;m;Brucellose;22/03/2022
+15;Kriouaa Abdellah;Messaad;12;m;Brucellose;29/03/2022
+16;Tenoum Fatima;Ain El Ibel;30;f;Brucellose;29/03/2022
+17;Taibi Ali;Ain El Ibel;28;m;Brucellose;29/03/2022
+18;Djakal Saad;Ain El Ibel;40;m;Brucellose;29/03/2022
+19;Taibi Khadra;Ain El Ibel;27;f;Brucellose;29/03/2022
+20;Kechida Hadj;Ain El Ibel;54;m;Brucellose;02/03/2022
+21;Bourasse Messaouda;Ain El Ibel;30;f;Brucellose;02/03/2022
+22;Melak Mohamed;Ain El Ibel;61;m;Brucellose;06/03/2022
+23;Dahasse Ahmed;Ain El Ibel;8;m;Brucellose;09/03/2022
+24;Amraoui Ahmed;Ain El Ibel;33;m;Brucellose;10/03/2022
+25;Goussere Med;Ain El Ibel;56;m;Brucellose;10/03/2022
+26;Rahmoune Saida;Ain El Ibel;14;f;Brucellose;13/03/2022
+27;Rahmoune Boulerbah;Ain El Ibel;25;m;Brucellose;13/03/2022
+28;Amraoui Belkacem;Ain El Ibel;25;m;Brucellose;13/03/2022
+29;Amraoui Moustafa;Ain El Ibel;14;m;Brucellose;13/03/2022
+30;Ben ahmed Yamina;Ain El Ibel;27;f;Brucellose;13/03/2022
+31;Lakhneche AEK;Ain El Ibel;28;m;Brucellose;14/03/2022
+32;lakhneche Khadidja;Ain El Ibel;48;f;Brucellose;20/03/2022
+33;Amraoui Hadj;Ain El Ibel;14;m;Brucellose;20/03/2022
+34;Baghdadi Adila;Ain El Ibel;49;f;Brucellose;20/03/2022
+35;Tenoum Saad;Ain El Ibel;23;m;Brucellose;20/03/2022
+36;Labgaa Attia;Ain El Ibel;53;m;Brucellose;20/03/2022
+37;Layadhi Abdelmalek;Ain El Ibel;14;m;Brucellose;20/03/2022
+38;Dehasse Khadidja;Ain El Ibel;15;f;Brucellose;20/03/2022
+39;Amraoui Roukia;Ain El Ibel;54;f;Brucellose;21/03/2022
+40;Rahmoune Benharzallah;Ain El Ibel;19;m;Brucellose;21/03/2022
+01;Boukhacha Faiza;Messaad;39;f;Tiac;01/04/2023
+02;Boukhacha Rihab;Messaad;16;f;Tiac;01/04/2023
+03;Boukhacha Mohamed Nadir;Messaad;11;m;Tiac;01/04/2023
+04;Boukhacha Abderrahman;Messaad;9;m;Tiac;01/04/2023
+05;Boukhacha Rahil;Messaad;4;f;Tiac;01/04/2023
+06;Bakhti Ahmed;Ain El Ibel;67;m;Leishmaniose ;13/02/2023
+07;Djraibia Ayat rahmane;Ain El Ibel;4;f;Leishmaniose ;06/03/2023
+08;Abaas Ismail;Messaad;18;m;Leishmaniose ;06/04/2023
+09;Menni Fatima;Moudjbara;40;f;Brucellose;15/02/2023
+10;Ben cheriet Hadda;Moudjbara;18;f;Brucellose;14/02/2023
+11;Guaafazi Ahmed;Moudjbara;51;m;Brucellose;14/02/2023
+12;Chaihab Aya ;Moudjbara;17;f;Brucellose;14/02/2023
+13;Djedir Ameri ;Moudjbara;34;m;Brucellose;15/02/2023
+14;Djedir Fathi;Moudjbara;17;m;Brucellose;20/02/2023
+15;Elaid Bochra;Moudjbara;25;f;Brucellose;15/02/2023
+16;Guaafazi  Zahia;Moudjbara;16;f;Brucellose;16/02/2023
+17;Dehman Hameza;Moudjbara;4;m;Brucellose;16/02/2023
+01;Mimoune Mahmoud;Messaad;39;m;Brucellose;28/03/2022
+02;Rebih Aicha;Messaad;60;f;Brucellose;28/03/2022
+03;Lembarki Mohamed;Messaad;32;m;Brucellose;27/03/2022
+04;Maamri Om hani;Messaad;37;f;Brucellose;27/03/2022
+05;Kraiouaa Ahmed;Messaad;60;m;Brucellose;27/03/2022
+06;Toumi Kharfia;Messaad;40;f;Brucellose;26/03/2022
+07;Chetouh Belkacem;Messaad;69;m;Brucellose;28/03/2022
+08;Benkouidar Ali;Messaad;31;m;Brucellose;26/03/2022
+09;Eloued Omlkheir;Messaad;49;f;Brucellose;26/03/2022
+10;Souisi Mohamed;Messaad;23;m;Brucellose;16/04/2022
+11;Bessaoud Abdrazak;Messaad;11;m;Brucellose;05/04/2022
+12;Lagrab Bassam;Messaad;3;m;Brucellose;06/04/2022
+13;Dehmane Youcef;Messaad;25;m;Brucellose;18/04/2022
+14;Malati Taleb;Messaad;3;m;Brucellose;18/04/2022
+15;Rebih Noura;Messaad;22;f;Brucellose;19/04/2022
+16;Lagrab zahra;Messaad;25;f;Brucellose;19/04/2022
+17;Sofrani Barkahom;Taadhmit;15;f;Brucellose;19/04/2022
+18;sofrani Amel;Taadhmit;4;f;Brucellose;19/04/2022
+01;x;Messaad;45;f;HIV;23/04/2023
+02;Gaoura Ahmed;Ain el ibel;21;m;Brucellose;24/04/2023
+03;Chetouh Fatoum;Ain el ibel;42;f;Brucellose;24/04/2023
+04;Brahimi Abdeabar;Ain el ibel;36;m;Brucellose;24/04/2023
+05;Araba Ousama;Ain el ibel;21;m;Brucellose;23/04/2023
+06;Baghdadou Amar;Ain el ibel;25;m;Brucellose;02/04/2023
+07;Kourichi Ahmed;Ain el ibel;58;m;Brucellose;20/04/2023
+08;Gouicem Fatna;Ain el ibel;36;f;Brucellose;19/04/2023
+09;Silat Mohamed;Ain el ibel;50;m;Brucellose;23/04/2023
+10;Mahemedi Dahmane;Zaccar;37;m;Brucellose;12/04/2023
+01;Rebih Ameur;Messaad;7;m;Brucellose;09/04/2022
+02;Ben hadda belkheeir;Messaad;32;m;Brucellose;09/04/2022
+03;Reguayegue Mebaka;Messaad;4;f;Brucellose;09/04/2022
+04;Tahri Elaid;Moudjbara;33;m;Brucellose;10/04/2022
+05;Sufrani Ahmed;Messaad;36;m;Brucellose;12/04/2022
+06;Tahiri Ayoub;Messaad;28;m;Brucellose;17/04/2022
+07;Haoua  Abdelaziz;Messaad;36;m;Brucellose;17/04/2022
+08;Dahman Saad;Messaad;6;m;Brucellose;17/04/2022
+09;Chouia Belkacem;Messaad;41;m;Brucellose;17/04/2022
+10;Debaa Abdeldjalil;Messaad;11;m;Brucellose;17/04/2022
+11;Naoum Yamina;Moudjbara;22;f;Brucellose;17/04/2022
+01;barakate lakhder;Messaad;29;m; Brucellose;19/06/2023
+02;karach sohila;Messaad;13;f; Brucellose;19/06/2023
+03;garzou assad;Messaad;17;m; Brucellose;19/06/2023
+04;bouchendeka mahjouba;Messaad;33;m; Brucellose;19/06/2023
+05;taouache kadour;Messaad;70;m; Brucellose;19/06/2023
+06;naoui moustafa;Messaad;15;m; Brucellose;19/06/2023
+07;salamat mohamed;Messaad;34;m; Brucellose;19/06/2023
+08;ben moufki massoud;Messaad;42;m; Brucellose;19/06/2023
+09;oubah oumkhir;Messaad;36;f; Brucellose;19/06/2023
+10;barakat lakhder;Messaad;29;m; Brucellose;19/06/2023
+11;naoui omar;moujbara;44;m; Brucellose;19/06/2023
+12;haoua sondous;Messaad;0;f;Meningite;15/06/2023
+13;ben gamaz raham;Messaad;0;f;Meningite;19/06/2023
+14;Chayouh aicha;moujbara;16;f;Intoxi-A;15/06/2023
+15;chatouh hanane;moujbara;11;f;Intoxi-A;15/06/2023
+01;Guecem Oumaima;Messaad;12;f; Brucellose;19/06/2023
+02;Saoudi Fatima;Messaad;20;f; Brucellose;19/06/2023
+03;Guaimouza Fatiha;Messaad;47;f; Brucellose;19/06/2023
+04;Salhi Lakhdar;Messaad;25;m; Brucellose;19/06/2023
+05;Taouche Taher;Messaad;18;m; Brucellose;18/06/2023
+06;Naami Miloud;Messaad;66;m; Brucellose;18/06/2023
+07;Ben kouidar Saida;Messaad;18;f; Brucellose;18/06/2023
+08;Araibi Baya;Messaad;53;f; Brucellose;18/06/2023
+09;Ben yahya Ihssan;Messaad;3;m; Brucellose;15/06/2023
+10;Saidi AEK;Messaad;76;m; Brucellose;15/06/2023
+11;Babani Aissa;Messaad;32;m; Brucellose;15/06/2023
+12;x;Messaad;0;f; Brucellose;15/06/2022
+13;x;Messaad;0;f; Brucellose;19/06/2022
+14;x;Messaad;16;f; Brucellose;15/06/2022
+15;x;Messaad;11;f; Brucellose;15/06/2022
+01;Bassoud Bachir;Moudjbara;56;m; Brucellose;22/06/2022
+02;Bessaoud Elrihe ;Moudjbara;50;m; Brucellose;22/06/2022
+03;Rebih  Hayat;Ain el ibel;12;f; Brucellose;22/06/2022
+04;Lahrache Ahmed ;messaad;11;m; Brucellose;27/06/2022
+05;Maameri Oumhani;messaad;45;f; Brucellose;28/06/2022
+06;Ben cheikh Taib;messaad;77;m; Brucellose;21/06/2022
+07;Karrache Bakhta ;messaad;19;f; Brucellose;28/06/2022
+08;Bourchi Sadia ;messaad;60;f; Brucellose;28/06/2022
+09;Mamri Nadjib;messaad;13;m; Brucellose;28/06/2022
+10;Derouiche Dehmen;messaad;19;m; Brucellose;29/06/2022
+11;Tahah Abdelrazek;messaad;19;m; Brucellose;29/06/2022
+12;Ghol Fatna;messaad;21;m; Brucellose;29/06/2022
+13;Gacem Nadjib;messaad;6;m; Brucellose;29/06/2022
+14;Diab Islam;messaad;22;m; Brucellose;23/06/2022
+15;Mamri Brahim ;messaad;33;m; Brucellose;23/06/2022
+16;Touti Aissa ;messaad;74;m; Brucellose;23/06/2022
+17;Lehzeil Mohamed;messaad;30;m; Brucellose;23/06/2022
+18;Gueibach Abdeelbaki;messaad;22;m; Brucellose;23/06/2022
+19;Garoud Brahim ;messaad;42;m; Brucellose;23/06/2022
+20;chattouh kheira;messaad;64;f; Brucellose;23/06/2022
+21;Rassoul Bouzen ;messaad;54;m; Brucellose;23/06/2022
+22;Rebih Zakaria;messaad;11;m; Brucellose;23/06/2022
+01;Bessaoud Abdelkader;moudjbara;59;m; Brucellose;02/05/2023
+02;Lagrab Mebarka;moudjbara;26;f; Brucellose;04/05/2023
+03;Bessaoud Hadda;moudjbara;30;f; Brucellose;04/05/2023
+04;Borchi Barkana;moudjbara;45;f; Brucellose;29/05/2023
+05;Rahmoun Messaouda;moudjbara;16;f; Brucellose;02/05/2023
+06;Laasal Hanane;moudjbara;17;f; Brucellose;11/07/2023
+07;Benchreit Cherifa;moudjbara;48;f; Brucellose;11/07/2023
+08;Laasal Ali;moudjbara;12;m; Brucellose;11/07/2023
+09;Said Khedidja;moudjbara;58;f; Brucellose;03/07/2023
+10;Djdir Kheira;moudjbara;27;f; Brucellose;25/06/2023
+11;Ben selem Ammar;moudjbara;27;m; Brucellose;27/06/2023
+12;Naoui Ali;moudjbara;16;m; Brucellose;03/07/2023
+13;Lakhedari Rebiha;Taadhmit;17;f; Brucellose;20/07/2023
+14;Oraba Osama;Ain el ibel;19;m; Brucellose;20/07/2023
+15;Melik Ali;Ain el ibel;34;m; Brucellose;20/07/2023
+16;Chekhma Selem;Ain el ibel;29;m; Brucellose;23/07/2023
+17;Dahmani Sabrin;Ain el ibel;24;f; Brucellose;23/07/2023
+18;Zoubir Saad;Ain el ibel;53;m; Brucellose;23/07/2023
+19;Gattaf Zahra;Ain el ibel;19;f; Brucellose;23/07/2023
+20;Guessmia Mebarka;Ain el ibel;57;f; Brucellose;24/07/2023
+21;Amraoui Zineb;Ain el ibel;18;f; Brucellose;24/07/2023
+22;Gouissem Zahra;Ain el ibel;76;f; Brucellose;24/07/2023
+23;Baghdadou Fatna;Ain el ibel;18;f; Brucellose;25/07/2023
+24;Abbasi Rebiha;Ain el ibel;66;f; Brucellose;25/07/2023
+25;Foudili Kheira;Ain el ibel;34;f; Brucellose;25/07/2023
+26;Bessaoud Ameur;Ain el ibel;38;m; Brucellose;26/07/2023
+27;Foudili Fatna;Ain el ibel;24;f; Brucellose;11/07/2023
+28;Fartala Taher;Ain el ibel;61;m; Brucellose;09/07/2023
+29;Baghdadi Selem;Ain el ibel;27;m; Brucellose;11/07/2023
+30;Cherboul Omlkheir;Ain el ibel;47;f; Brucellose;12/07/2023
+31;Ayache Saad;Ain el ibel;49;m; Brucellose;13/07/2023
+32;Zaimini AEK;Ain el ibel;27;m; Brucellose;13/07/2023
+33;Sayhi Mohamed;Ain el ibel;38;m; Brucellose;13/07/2023
+34;Benslimane Med;Ain el ibel;35;m; Brucellose;13/07/2023
+35;Touhami Zohra;Ain el ibel;38;f; Brucellose;16/07/2023
+36;Dekia AEK;Ain el ibel;49;m; Brucellose;13/07/2023
+37;Baghdadou Omlkheir;Ain el ibel;16;f; Brucellose;16/07/2023
+38;Mehazam Boubakeur;Ain el ibel;50;m; Brucellose;16/07/2023
+39;Baghdadou Chabia;Ain el ibel;83;f; Brucellose;16/07/2023
+40;Tariba Lakhdar;Ain el ibel;69;m; Brucellose;16/07/2023
+41;Dene Ibrahim;Ain el ibel;43;m; Brucellose;17/07/2023
+42;Salhi Lakhdar;Ain el ibel;30;m; Brucellose;17/07/2023
+43;Baghdadou Abbas;Ain el ibel;40;m; Brucellose;17/07/2023
+44;Chekchak Med;Ain el ibel;56;m; Brucellose;17/07/2023
+45;Bourzegue Ahmed;Ain el ibel;67;m; Brucellose;18/07/2023
+46;Toumi Yacine;Ain el ibel;14;m; Brucellose;18/07/2023
+47;Baghdadi Boulerbah;Ain el ibel;69;m; Brucellose;20/07/2023
+48;Ayouazi Omlkheir;Ain el ibel;31;f; Brucellose;30/07/2023
+49;Bouchendouka Chetouh;Messaad;16;m; Brucellose;24/07/2023
+50;Derkouche Houcine;Messaad;30;m; Brucellose;23/07/2023
+51;Ghouini Abderazak;Messaad;17;m; Brucellose;23/07/2023
+52;Tahiri Salma;Messaad;65;f; Brucellose;24/07/2023
+53;Karach Asia;Messaad;40;f; Brucellose;25/07/2023
+54;Salamat Ouiem;Messaad;23;f; Brucellose;25/07/2023
+55;Sofrani Zineb;Messaad;38;f; Brucellose;27/07/2023
+56;Borchi Barkana;Messaad;45;f; Brucellose;27/07/2023
+57;Achouri Mohamed;Messaad;41;m; Brucellose;26/07/2023
+58;Messaoudi Mesaouda;Messaad;46;f; Brucellose;24/07/2023
+59;Feritis Amar;Messaad;37;m; Brucellose;30/07/2023
+60;Touati Khedidja;Messaad;27;f; Brucellose;30/07/2023
+61;Benmouafki Mechri;Messaad;33;m; Brucellose;30/07/2023
+62;Djeklil Mohamed;Messaad;13;m; Brucellose;30/07/2023
+63;Mekadem Mohamed;Messaad;35;m; Brucellose;31/07/2023
+64;Derkouche Saad;Messaad;34;m; Brucellose;31/07/2023
+65;Feritis Hadjer;Messaad;30;f; Brucellose;31/07/2023
+66;Dacher Fatna;Messaad;12;f; Brucellose;01/08/2023
+67;Haoua Mehamed;Messaad;53;m; Brucellose;04/08/2023
+68;Bedirina Saadia;Messaad;40;f; Brucellose;05/08/2023
+69;Ziane ArAra;Messaad;23;f; Brucellose;08/08/2023
+70;Guimouza Hinia;Messaad;20;f; Brucellose;07/08/2023
+71;Benaissa Atira;Messaad;43;f; Brucellose;06/08/2023
+72;Feritis Fatoum;Messaad;44;f; Brucellose;06/08/2023
+73;Guezim Fatima;Messaad;32;f; Brucellose;06/08/2023
+74;Bedirina Selem;Messaad;75;m; Brucellose;06/08/2023
+75;Gueroud Djeloul;Messaad;43;m; Brucellose;06/08/2023
+76;Benabdesslam Ali;Messaad;23;m; Brucellose;03/08/2023
+77;Salama Zoubir;Messaad;38;m; Brucellose;02/08/2023
+78;Mehamedi Abderrazak;Messaad;47;m; Brucellose;01/08/2023
+79;Mebarki Teyeb;Messaad;26;m;Leishmaniose;09/08/2023
+01;Taheri Mostafa;Ain el ibel;15;m;Tberculose P;13/08/2023
+02;Zitout Youcef;Messaad;15;m;Leishmaniose;15/08/2023
+03;Melik Brahim;Ain el ibel;75;m;Leishmaniose;16/08/2023
+04;Benabdellah Rahema;moudjbara;26;f; Brucellose;09/08/2023
+05;benabdellah Salema;moudjbara;26;f; Brucellose;09/08/2023
+06;Taheri Messaoud;Messaad;53;m; Brucellose;08/08/2023
+07;Ghouini Ouahiba;Messaad;15;f; Brucellose;08/08/2023
+08;Chaouli Aabir;Messaad;24;f; Brucellose;09/08/2023
+09;Ben bachir Saida;Messaad;65;f; Brucellose;09/08/2023
+10;Zorgot Anouar Abderrahman;Messaad;17;m; Brucellose;09/08/2023
+11;Guecem Mebarka;Messaad;63;f; Brucellose;10/08/2023
+12;Rezazguea Abdellah;Messaad;22;m; Brucellose;12/08/2023
+13;Othmane Ahmed;Messaad;40;m; Brucellose;13/08/2023
+14;Ziane Ahmed;Messaad;71;m; Brucellose;13/08/2023
+01;Mehamedi Zekhroufa;moudjbara;26;f; Brucellose;20/08/2023
+02;Saada Abelkader;Taadhmit;85;m; Brucellose;01/08/2023
+03;Beriki Kouider;Taadhmit;35;m; Brucellose;01/08/2023
+04;Brahimi Mohamed;Taadhmit;71;m; Brucellose;10/08/2023
+05;Saksak Fatna;Taadhmit;43;f; Brucellose;16/08/2023
+06;Lobna Eloued;Ain el ibel;11;f; Brucellose;15/08/2023
+07;Ghaidjar Aissa;Ain el ibel;28;m; Brucellose;01/08/2023
+08;Cherboul Meloud;Ain el ibel;22;m; Brucellose;01/08/2023
+09;Foudaili Kheira;Ain el ibel;24;f; Brucellose;01/08/2023
+10;Bedirina Bachir;Ain el ibel;26;f; Brucellose;01/08/2023
+11;Ziani Torkia;Ain el ibel;46;f; Brucellose;01/08/2023
+12;Meyah Saad;Ain el ibel;56;m; Brucellose;01/08/2023
+13;Oubah Khaounia;Ain el ibel;50;f; Brucellose;01/08/2023
+14;Baghdadi Sara;Ain el ibel;25;f; Brucellose;02/08/2023
+15;Tahah Omenoun;Ain el ibel;22;f; Brucellose;02/08/2023
+16;Dehasse Khadidja;Ain el ibel;13;f; Brucellose;02/08/2023
+17;Taibi Aicha;Ain el ibel;25;f; Brucellose;02/08/2023
+18;Far Mohamed;Ain el ibel;38;m; Brucellose;02/08/2023
+19;Baghdadou Fatna;Ain el ibel;68;f; Brucellose;02/08/2023
+20;Melak Aadel;Ain el ibel;16;m; Brucellose;02/08/2023
+21;Djakal Mostafa;Ain el ibel;18;m; Brucellose;02/08/2023
+22;Halbaoui Ali;Ain el ibel;35;m; Brucellose;02/08/2023
+23;Djeklil Houyam;Ain el ibel;3;f; Brucellose;02/08/2023
+24;Hamada Aicha;Ain el ibel;17;f; Brucellose;03/08/2023
+25;Ameri Sadek;Ain el ibel;73;m; Brucellose;03/08/2023
+26;Ameri AEK;Ain el ibel;18;m; Brucellose;03/08/2023
+27;Kheniche AEK;Ain el ibel;48;m; Brucellose;03/08/2023
+28;Cherboul Ahmed;Ain el ibel;50;m; Brucellose;03/08/2023
+29;Lemlouma hadj;Ain el ibel;35;m; Brucellose;04/08/2023
+30;Bouchaalah Fatna;Messaad;50;f; Brucellose;20/08/2023
+31;Bedirina rezika;Messaad;19;f; Brucellose;20/08/2023
+32;Gueroud zeineb;Messaad;38;f; Brucellose;17/08/2023
+33;Taouach Omlkheir;Messaad;68;f; Brucellose;16/08/2023
+34;Haouari Khaled;Messaad;44;m; Brucellose;16/08/2023
+35;Benali Brahim;Messaad;49;m; Brucellose;15/08/2023
+36;Taibi Kholoud;Messaad;15;f; Brucellose;15/08/2023
+37;Benbrahim Abderrahman;Messaad;38;m; Brucellose;15/08/2023
+38;Benderrah Ahmed;Messaad;70;m; Brucellose;14/08/2023
+39;Benromane Khadra;Messaad;70;f; Brucellose;13/08/2023
+40;Bakra Salma;Messaad;26;f; Brucellose;22/08/2023
+41;Ghoul Fatna;Messaad;63;f; Brucellose;23/08/2023
+42;Djlaita Habiba;Messaad;15;f; Brucellose;21/08/2023
+43;Djlaita Elaid;Messaad;8;m; Brucellose;21/08/2023
+44;Salamat Hameza;Messaad;2;m; Brucellose;21/08/2023
+45;Brahimi Aymen;Messaad;27;m; Brucellose;20/08/2023
+01;Mazouzi Abas;Messaad;34;m;Hepatite B;27/08/2023
+02;Lamlouma Saad;Ain el ibel;31;m; Brucellose;04/08/2023
+03;Daoiudi zinabe;Ain el ibel;38;f; Brucellose;04/08/2023
+04;mazouz soultana;Ain el ibel;23;f; Brucellose;04/08/2023
+05;mazouz almagherbi;Ain el ibel;84;m; Brucellose;08/08/2023
+06;djakal belkhir;Ain el ibel;16;m; Brucellose;09/08/2023
+07;Belkheri  Alaalmi;Ain el ibel;21;m; Brucellose;09/08/2023
+08;Zoubire halima;Ain el ibel;50;f; Brucellose;09/08/2023
+09;Baghdadou halima;Ain el ibel;35;f; Brucellose;09/08/2023
+10;Djakal  Khiera;Ain el ibel;26;f; Brucellose;10/08/2023
+11;Baghdadou Zeinab;Ain el ibel;16;f; Brucellose;10/08/2023
+12;Souilah  Amra;Ain el ibel;59;f; Brucellose;10/08/2023
+13;Djakale yamina;Ain el ibel;30;f; Brucellose;13/08/2023
+14;Charboul om alkhire;Ain el ibel;50;f; Brucellose;13/08/2023
+15;Bachiri  Ammar;Ain el ibel;27;m; Brucellose;13/08/2023
+16;Salehi AEK;Ain el ibel;12;m; Brucellose;13/08/2023
+17;Meyah Messaouda;Ain el ibel;12;f; Brucellose;13/08/2023
+18;Touir Beraika;Ain el ibel;53;f; Brucellose;14/08/2023
+19;Cherboul Rebaiha;Ain el ibel;26;f; Brucellose;15/08/2023
+20;Aiouazi Fatoum;Ain el ibel;20;f; Brucellose;16/08/2023
+21;Ghaidjar Karsa;Ain el ibel;21;f; Brucellose;14/08/2023
+22;Bedirina Ahmed;Ain el ibel;25;m; Brucellose;16/08/2023
+23;Abbasi Amel;Ain el ibel;33;f; Brucellose;20/08/2023
+24;Abbasi Khadra;Ain el ibel;33;f; Brucellose;20/08/2023
+25;Abbasi Ahmed;Ain el ibel;12;m; Brucellose;20/08/2023
+26;Houche Aicha;Ain el ibel;40;f; Brucellose;21/08/2023
+27;Boudjaarane Feraiha;Ain el ibel;61;f; Brucellose;21/08/2023
+28;Hanafi Brahim;Messaad;28;m; Brucellose;27/08/2023
+29;Othmane Ahmed;Messaad;16;m; Brucellose;27/08/2023
+30;Benrahmoun Zohra;Messaad;29;f; Brucellose;24/08/2023
+31;Benderrah Souad;Messaad;26;f; Brucellose;24/08/2023
+32;Karrach Feriha;Messaad;78;f; Brucellose;23/08/2023
+33;Mehamedi Hoda;Messaad;14;f; Brucellose;23/08/2023
+34;mehamedi Imane;Messaad;11;f; Brucellose;23/08/2023
+35;Benlaid Lazhari;Messaad;54;m; Brucellose;23/08/2023
+36;Mehamedi Sayeh;Moudjbara;19;m; Brucellose;24/08/2023
+37;Tenah Om lkheir;Taadhmit;24;f; Brucellose;04/08/2023
+01;Derkouche Ahmed;Messaad;80;m; Brucellose;27/08/2023
+02;Guroud Alaa;Messaad;7;f; Brucellose;28/08/2023
+03;Feritis Mohamed;Messaad;42;m; Brucellose;28/08/2023
+04;Benabdellah Zohra;Messaad;34;f; Brucellose;28/08/2023
+05;Touati Mebarka;Messaad;63;f; Brucellose;31/08/2023
+06;Bensdira Messaouda;Messaad;81;f; Brucellose;31/08/2023
+07;Kacem Yacin;Messaad;32;m; Brucellose;03/09/2023
+08;Sersoub Zohra;Messaad;33;f; Brucellose;03/09/2023
+09;Feritis Mostafa;Messaad;42;m; Brucellose;03/09/2023
+10;Dehman Mohamed;Messaad;27;m; Brucellose;04/09/2023
+11;Zeguin Zineb;Messaad;90;f; Brucellose;04/09/2023
+12;Adjimi Zohra;Messaad;16;f; Brucellose;04/09/2023
+13;Djeraoub Salem;Messaad;80;m; Brucellose;04/09/2023
+14;Benkouider Ahmed;Messaad;58;m; Brucellose;05/09/2023
+15;Belghouthi Alamri;Messaad;41;m; Brucellose;06/09/2023
+16;Bendkim Nasira;Messaad;30;f; Brucellose;06/09/2023
+17;Dib Fatiha;Messaad;35;f; Brucellose;07/09/2023
+18;Baghdadou AEK;Ain el ibel;9;m; Brucellose;06/09/2023
+19;Djaroub Alaatas;Ain el ibel;52;f; Brucellose;06/09/2023
+20;Merzouk Khadra;Moudjbara;65;f; Brucellose;27/08/2023
+21;Reguague Lakhdar;Messaad;32;m;Tiac;01/09/2023
+22;Reguague sara;Messaad;39;f;Tiac;01/09/2023
+23;Reguague Rahma;Messaad;22;f;Tiac;01/09/2023
+24;Saksak Ammar;Taadhmit;26;m;TP;03/09/2023
+01;Dehmen Aamria;Moudjbara;21;f; Brucellose;07/09/2023
+02;Dehmen Aicha;Moudjbara;14;f; Brucellose;07/09/2023
+03;Naoui Omar;Moudjbara;44;m; Brucellose;11/09/2023
+04;Haoua Zoulikha;Messaad;41;f; Brucellose;10/09/2023
+05;Chaib Charafddine;Messaad;24;m; Brucellose;10/09/2023
+06;Othman Omlkheir;Messaad;20;f; Brucellose;10/09/2023
+07;Houcini Saadia;Messaad;60;f; Brucellose;10/09/2023
+08;Oubah Khadidja;Messaad;7;f; Brucellose;13/09/2023
+09;Saadi Soundos;Messaad;3;f; Brucellose;13/09/2023
+10;Djabri Zernane;Ain el ibel;69;m; Brucellose;23/08/2023
+11;Melik Badra;Ain el ibel;34;f; Brucellose;23/08/2023
+12;Barhoum Ahmed;Ain el ibel;33;m; Brucellose;24/08/2023
+13;Benkouider Ameur;Ain el ibel;46;m; Brucellose;24/08/2023
+14;Akrout Sadek;Ain el ibel;8;m; Brucellose;27/08/2023
+15;Alaoua Alarbi;Ain el ibel;14;m; Brucellose;27/08/2023
+16;Saada Rokia;Ain el ibel;38;f; Brucellose;27/08/2023
+17;Benattia Messaouda;Ain el ibel;65;f; Brucellose;28/08/2023
+18;Djakal Harzallah;Ain el ibel;37;m; Brucellose;28/08/2023
+19;Oubah Ahmed;Ain el ibel;47;m; Brucellose;29/08/2023
+20;Ghriab Mohamed;Ain el ibel;28;m; Brucellose;29/08/2023
+21;Rabehi Fathi;Ain el ibel;15;m; Brucellose;29/08/2023
+22;Toual Zohra;Ain el ibel;72;f; Brucellose;30/08/2023
+23;Helassa Bachir;Ain el ibel;15;m; Brucellose;31/08/2023
+24;Hamada AEK;Ain el ibel;55;m; Brucellose;02/09/2023
+25;Alaoua Naouri;Ain el ibel;27;m; Brucellose;04/09/2023
+26;Djouba Zineb;Ain el ibel;65;f; Brucellose;04/09/2023
+27;Ghriab Saad;Ain el ibel;15;m; Brucellose;04/09/2023
+28;Naoum Zineb;Ain el ibel;43;f; Brucellose;05/09/2023
+29;Boudjarane Cherifa;Ain el ibel;43;f; Brucellose;07/09/2023
+30;Belkheiri Fatna;Ain el ibel;45;f; Brucellose;10/09/2023
+31;Hamada Ahmed;Ain el ibel;23;m; Brucellose;10/09/2023
+32;Bouzouada Omlkheir;Ain el ibel;70;f; Brucellose;10/09/2023
+33;Lakhnech Maroua;Ain el ibel;17;f; Brucellose;11/09/2023
+34;Lamlouma Aicha;Ain el ibel;32;f; Brucellose;12/09/2023
+35;Belakhal Khadra;Ain el ibel;43;f; Brucellose;12/09/2023
+36;Hilet Mebarka;Ain el ibel;59;f; Brucellose;13/09/2023
+01;Halfaya Zineb;Messaad;7;f;Leishmaniose;19/09/2023
+02;Lagrab Fatiha;Moudjbara;35;f; Brucellose;14/09/2023
+03;Oubah Fatiha;Messaad;30;f; Brucellose;13/09/2023
+04;Elaoud Mebrouka;Messaad;60;f; Brucellose;13/09/2023
+05;Naami Mohamed;Messaad;86;m; Brucellose;14/09/2023
+06;Baghdadou Amar;Messaad;55;m; Brucellose;17/09/2023
+07;Zemit Djemaa;Messaad;79;f; Brucellose;17/09/2023
+08;Assali Themeur;Messaad;72;m; Brucellose;17/09/2023
+09;Rebih Aicha;Messaad;29;f; Brucellose;18/09/2023
+10;Touir Ahmed;Ain el ibel;63;m;Leishmaniose;25/09/2023
+11;Haoua Abdelaziz;Messaad;37;m; Brucellose;19/09/2023
+12;Lemlouma Mereim;Messaad;35;f; Brucellose;20/09/2023
+13;Rebih Bahria;Messaad;11;f; Brucellose;20/09/2023
+14;Ghriab Fadhila;Taadhmit;27;f; Brucellose;03/09/2023
+01;Rekiat Ahmed;Messaad;56;m; Brucellose;21/09/2023
+02;Benmouafek Mira;Messaad;38;f; Brucellose;21/09/2023
+03;Ghouini Ali;Messaad;40;m; Brucellose;21/09/2023
+04;Benderrah Abdelmotaleb;Messaad;43;m; Brucellose;24/09/2023
+05;Koumari Hameza;Messaad;34;m; Brucellose;24/09/2023
+06;Touati Fatna;Messaad;63;f; Brucellose;24/09/2023
+07;Benderrah Fatoum;Messaad;52;f; Brucellose;24/09/2023
+01;Bessaoud Yasmin;Messaad;0;f;Meningite;03/10/2023
+02;Benselilih Chahd;Messaad;0;f;Meningite;03/10/2022
+03;Krikar Hadda;Ain el ibel;0;f;Meningite;03/10/2022
+04;Ben lakhdar Elaatra;Messaad;29;f; Brucellose;03/10/2022
+05;Maameri Hanane;Messaad;20;f; Brucellose;24/09/2023
+06;Brahimi Zahira;Messaad;27;f; Brucellose;24/09/2023
+07;Bensaada Dahman;Messaad;59;m; Brucellose;25/09/2023
+08;Chetouh Messaouda;Messaad;25;f; Brucellose;25/09/2023
+09;Guzim Meriem;Messaad;36;f; Brucellose;25/09/2023
+10;Derkouche Chahed Imane;Messaad;11;f; Brucellose;26/09/2023
+11;Guerech Ramdhan;Messaad;23;m; Brucellose;26/09/2023
+12;Benghouthi Fatna;Messaad;39;f; Brucellose;28/09/2023
+13;Mehamedi Souad ;Messaad;48;f; Brucellose;29/09/2023
+14;Benyahya Yamena;Messaad;65;f; Brucellose;01/10/2023
+15;Djdir Lakhdar;Moudjbara;28;m; Brucellose;15/05/2023
+16;Bensaad Attia;Moudjbara;44;m; Brucellose;28/05/2023
+17;Decher Soltana;Moudjbara;35;f; Brucellose;31/05/2023
+18;Rebih Khalil;Moudjbara;25;m; Brucellose;31/05/2023
+19;Haoua Messaouda;Moudjbara;37;f; Brucellose;11/06/2023
+20;Mameria Rahema;Moudjbara;85;f; Brucellose;09/07/2023
+21;Mekadam Zekhroufa;Moudjbara;50;f; Brucellose;06/07/2023
+22;Rekiat Kadour;Moudjbara;58;m; Brucellose;20/09/2023
+23;Hamida Sarah;Moudjbara;20;f; Brucellose;14/09/2023
+01;Beziz Khelifa;Ain el ibel;17;m;Leishmaniose;05/10/2023
+02;Bennamane Ahmed;Messaad;61;m;Leishmaniose;10/10/2023
+03;Brahimi Khaoula;Messaad;31;f; Brucellose;04/10/2023
+04;Benaissa Fatna;Messaad;40;f; Brucellose;05/10/2023
+05;Ben fattacha Fatna;Messaad;27;f; Brucellose;05/10/2023
+06;Ghaibache Abdelbaki;Messaad;27;m; Brucellose;05/10/2023
+07;Gouicem Taher;Messaad;34;m; Brucellose;08/10/2023
+08;Omar Hacina;Messaad;43;f; Brucellose;08/10/2023
+09;Brahimi Imane;Messaad;27;f; Brucellose;09/10/2023
+10;Dbaa Fatima;Messaad;3;f; Brucellose;09/10/2023
+11;Ben elghouthi Fatima;Messaad;27;f; Brucellose;09/10/2023
+12;Ziane Fatna;Messaad;55;f; Brucellose;09/10/2023
+13;Benlakhdar Kadour;Moudjbara;19;m; Brucellose;05/10/2023
+14;Benhadda Kheira;Moudjbara;26;f; Brucellose;08/10/2023
+01;Harfouf Mekadem;Messaad;29;m; Brucellose;10/10/2023
+02;Boukefala Belkacem;Messaad;38;m; Brucellose;10/10/2023
+03;Derouiche Aicha;Messaad;37;f; Brucellose;10/10/2023
+04;Bakria Djamila;Messaad;40;f; Brucellose;10/10/2023
+05;Oubah Messaouda;Messaad;39;f; Brucellose;11/10/2023
+06;Mostfaoui Lamine;Messaad;53;m; Brucellose;10/10/2023
+07;Karrache Hameza;Messaad;66;m; Brucellose;15/10/2023
+08;Azouz Amar;Messaad;43;m; Brucellose;15/10/2023
+09;Laayadhi Ali;Messaad;29;m; Brucellose;15/10/2023
+10;Agoun Belabasse;Messaad;16;m; Brucellose;16/10/2023
+11;Zourgot Meriem;Messaad;18;f; Brucellose;16/10/2023
+12;Diab Kheira;Messaad;47;f; Brucellose;17/10/2023
+13;Sofrani Maram;Taadhmit;2;f; Brucellose;14/10/2023
+14;Aaleb Omlkheir;Taadhmit;40;f; Brucellose;14/10/2023
+01;Bakkay Mohamed;Ain el ibel;9;m;Hepatite A;29/10/2023
+02;Bakkay Amel;Ain el ibel;7;f;Hepatite A;29/10/2023
+03;Abdelbaki Belkacem;Messaad;27;m;Leishmaniose;25/10/2023
+04;Regayague Kheira;Moudjbara;35;f;Tiac;25/10/2023
+05;Naama Boulerbah;Moudjbara;54;m;Tiac;25/10/2023
+06;Kouidri Nourddine;Moudjbara;6;m;Tiac;25/10/2023
+07;Bastami Bahria;Moudjbara;48;f;Tiac;25/10/2023
+08;Kouidri Saad;Moudjbara;4;m;Tiac;25/10/2023
+09;Naama Abderrahman;Moudjbara;12;m;Tiac;25/10/2023
+10;Naama feriha;Moudjbara;33;f;Tiac;25/10/2023
+11;Naama Yamina;Moudjbara;43;f;Tiac;25/10/2023
+12;Rebih Chamsddine;Moudjbara;4;m;Tiac;25/10/2023
+13;Rebih Ranedja;Moudjbara;8;f;Tiac;25/10/2023
+14;Rebih Afaf;Moudjbara;43;f;Tiac;25/10/2023
+15;Naama Aicha;Moudjbara;15;f;Tiac;25/10/2023
+16;Naama Omlkheir;Moudjbara;6;f;Tiac;25/10/2023
+17;Naama Zohra;Moudjbara;18;f;Tiac;25/10/2023
+18;Regayague Khaoula;Moudjbara;5;f;Tiac;26/10/2023
+19;Regayague Maria;Moudjbara;7;f;Tiac;26/10/2023
+20;Regayagur Aicha;Moudjbara;41;f;Tiac;26/10/2023
+21;Mebarki Abderrahman;Moudjbara;2;m;Tiac;26/10/2023
+22;Regayague Mohamed;Moudjbara;35;m;Tiac;26/10/2023
+23;Boudoumi Mokhtar;Messaad;48;m;Brucellose;27/10/2023
+24;Ghouini Ouahiba;Messaad;15;f;Brucellose;26/10/2023
+25;Rekaiat Aicha;Messaad;29;f;Brucellose;26/10/2023
+26;Laarafi Abdelhamid;Messaad;31;m;Brucellose;24/10/2023
+27;Benyahya AEK;Messaad;21;m;Brucellose;22/10/2023
+28;Rebih Mebarka;Messaad;31;f;Brucellose;22/10/2023
+29;Rebih Zineb;Messaad;43;f;Brucellose;19/10/2023
+30;Benbachir Sida;Messaad;65;f;Brucellose;18/10/2023
+31;Tahah Ali ;Messaad;10;m;Brucellose;18/10/2023
+32;Berahimi Rabiaa;Messaad;43;f;Brucellose;17/10/2023
+33;Benlakhdar Zohra;Messaad;2;f;Brucellose;17/10/2023
+34;Hamadi Messaoud;Messaad;10;m;Brucellose;17/10/2023
+35;Baghdad Abdeldjabar;Ain el ibel;10;m;Brucellose;23/10/2023
+01;cheriet Moussa;Ain el ibel;20;m; Brucellose;03/10/2023
+02;Ghidjar Moussa;Ain el ibel;37;m; Brucellose;07/10/2023
+03;Belkheiri Belkheir;Ain el ibel;26;m; Brucellose;07/10/2023
+04;Far Said;Ain el ibel;30;m; Brucellose;07/10/2023
+05;Boudjarane Dhiyaa;Ain el ibel;25;f; Brucellose;08/10/2023
+06;Rebai Hiba;Ain el ibel;13;f; Brucellose;08/10/2023
+07;hamada Amra;Ain el ibel;27;f; Brucellose;09/10/2023
+08;Sadeka Ali;Ain el ibel;35;m; Brucellose;11/10/2023
+09;Amraoui Mostafa;Ain el ibel;14;m; Brucellose;11/10/2023
+10;Kacemi Feriha;Ain el ibel;20;f; Brucellose;11/10/2023
+11;Brahima Soltana;Ain el ibel;38;f; Brucellose;12/10/2023
+12;Assali Chaiaa;Ain el ibel;50;f; Brucellose;14/10/2023
+13;Kraikar Ameur;Ain el ibel;50;m; Brucellose;15/10/2023
+14;Djakal Mostafa;Ain el ibel;25;m; Brucellose;16/10/2023
+15;Halbaoui brahim;Ain el ibel;30;m; Brucellose;18/10/2023
+16;Sarar Mebarka;Ain el ibel;22;f; Brucellose;22/10/2023
+17;Gouicem Zohra;Ain el ibel;59;f; Brucellose;22/10/2023
+18;Gouicem Lakhdar;Ain el ibel;26;m; Brucellose;23/10/2023
+19;Benrabeh Attia;Ain el ibel;25;m; Brucellose;24/10/2023
+20;Kraikar Mebarka;Ain el ibel;25;f; Brucellose;24/10/2023
+21;Chakchak Omlkheir;Ain el ibel;36;f; Brucellose;25/10/2023
+22;Daoudi Bouakaz;Ain el ibel;52;m; Brucellose;26/10/2023
+23;Melik Aicha;Ain el ibel;28;f; Brucellose;29/10/2023
+24;Zahar Fatna;Ain el ibel;34;f; Brucellose;29/10/2023
+25;Bedi Fatna;Ain el ibel;60;f; Brucellose;30/10/2023
+26;Bedirina Youcef;Ain el ibel;43;m; Brucellose;30/10/2023
+01;Madeni Kouidar;Taadhmit;29;m;Leishmaniose;06/11/2023
+02;Touati Amera;Messaad;36;f; Brucellose;08/11/2023
+03;Malati Lakhdar;Messaad;21;m; Brucellose;06/11/2023
+04;Nara Nesrin;Messaad;14;f; Brucellose;06/11/2023
+05;Regayague Ishak;Messaad;32;m; Brucellose;01/11/2023
+06;Kraiouaa Ahmed;Messaad;61;m; Brucellose;31/10/2023
+07;Debchague Belkacem;Messaad;44;m; Brucellose;31/10/2023
+08;Hamida Mai;Messaad;36;f; Brucellose;29/10/2023
+09;Rebih Amel;Messaad;35;f; Brucellose;29/10/2023
+10;Dehmane Amed;Moudjbara;41;m; Brucellose;08/11/2023
+01;Ben rahmoune mohamed;Messaad;61;m;Leishmaniose;12/11/2023
+02;Mimoune Aicha;Messaad;50;f; Brucellose;22/11/2023
+03;Zitout Belkacem;Messaad;10;m; Brucellose;22/11/2023
+04;Teboun Saad;Messaad;39;m; Brucellose;21/11/2023
+05;Bedirina Salem;Messaad;75;m; Brucellose;19/11/2023
+06;Kahleleche Taher;Messaad;15;m; Brucellose;19/11/2023
+07;Haboul Hafessa;Messaad;32;f; Brucellose;19/11/2023
+08;Taibi Chaimaa;Messaad;25;f; Brucellose;12/11/2023
+09;Lekehal Fatna;Messaad;43;f; Brucellose;09/11/2023
+10;Nara Yamina;Messaad;32;f; Brucellose;08/11/2023
+11;Dehman Ahmed;Moudjbara;41;m; Brucellose;08/11/2023
+01;Nara Adem;Messaad;7;m;Leishmaniose;16/11/2023
+02;Bensaid Mokhtar;Messaad;28;m;Tuberculose P;20/11/2023
+03;Kehil Saad;Messaad;14;m;Tuberculose P;12/11/2023
+04;Debaa Noura Fatna;Messaad;5;f;Meningite;08/11/2023
+05;Naami Ali;Messaad;28;m;Leishmaniose;23/11/2023
+06;Messaoud Taher;Messaad;26;m;Leishmaniose;23/11/2023
+07;Messaoudi Oussama;Messaad;22;m;Leishmaniose;27/11/2023
+01;Benghlis Taher;moudjbara;35;m; Brucellose;02/11/2023
+02;Gaafazi Noura;moudjbara;5;f; Brucellose;05/11/2023
+03;Fouf Farah;moudjbara;11;f; Brucellose;05/11/2023
+04;Brahimi fatima;moudjbara;30;f; Brucellose;14/11/2023
+05;Mouafak Fatima;moudjbara;57;f; Brucellose;13/11/2023
+06;Mekhlouf Nacira;moudjbara;33;f; Brucellose;13/11/2023
+07;Brahimi Nacira;moudjbara;30;f; Brucellose;13/11/2023
+08;Benghlis Bendekmane;moudjbara;57;m; Brucellose;24/10/2023
+09;Fouf Saad;moudjbara;30;m; Brucellose;05/11/2023
+10;Brahimi Messaouda;moudjbara;30;f; Brucellose;12/11/2023
+11;Menni Ali;moudjbara;15;m; Brucellose;18/12/2023
+12;Brahimi Mebarka;moudjbara;25;f; Brucellose;14/11/2023
+13;Merouch Mira;moudjbara;33;f; Brucellose;05/12/2023
+14;Rebih Houcine;moudjbara;26;m; Brucellose;26/11/2023
+15;Rebih Zohra;moudjbara;19;f; Brucellose;12/12/2023
+16;Zaiouache Chikh;moudjbara;37;m; Brucellose;20/12/2023
+17;Naouri Saad;messaad;41;m; Brucellose;23/11/2023
+18;Rais Amar;messaad;17;m; Brucellose;23/11/2023
+19;Debaa Kheira;messaad;26;f; Brucellose;26/11/2023
+20;Malati Fatna;messaad;25;f; Brucellose;26/11/2023
+21;Haoua Fatima;messaad;27;f; Brucellose;28/11/2023
+22;Douaba El Arbi;messaad;21;m; Brucellose;28/11/2023
+23;Zitout Halima;messaad;4;f; Brucellose;30/11/2023
+24;Taouache Kadour;messaad;71;m; Brucellose;04/12/2023
+25;Boukefala Belkacem;messaad;38;m; Brucellose;06/12/2023
+26;Benlakhdar Brahim;messaad;6;m; Brucellose;07/12/2023
+27;Guaroud Belkacem;messaad;30;m; Brucellose;12/12/2023
+28;Haouari Mohamed;messaad;37;m; Brucellose;12/12/2023
+29;Senni Belkhir;messaad;80;m; Brucellose;17/12/2023
+30;Oubah Fatiha;messaad;30;f; Brucellose;18/12/2023
+31;Benzerguine Abderahman;messaad;35;m; Brucellose;19/12/2023
+32;Borchi Mohamed;messaad;9;m; Brucellose;25/12/2023
+33;Oubah Safaa;messaad;18;f; Brucellose;25/12/2023
+34;Othmani Mebarka;Ain el ibel;52;f; Brucellose;06/11/2023
+35;Mehirigua Zohra;Ain el ibel;29;f; Brucellose;06/11/2023
+36;Lemhor Aicha;Ain el ibel;53;f; Brucellose;08/11/2023
+37;Bourzegue Ahmed;Ain el ibel;67;m; Brucellose;09/11/2023
+38;Belekehal Nadhera;Ain el ibel;38;f; Brucellose;13/11/2023
+39;Far Fatima;Ain el ibel;14;f; Brucellose;16/11/2023
+40;Gouicem Zohra;Ain el ibel;66;f; Brucellose;16/11/2023
+41;Lahoual Malika;Ain el ibel;32;f; Brucellose;20/11/2023
+42;Melik Khadidja;Ain el ibel;30;f; Brucellose;23/11/2023
+43;Kaideche Khaounia;Ain el ibel;56;f; Brucellose;25/11/2023
+44;Far Fatna;Ain el ibel;12;f; Brucellose;29/11/2023
+45;Oubah Om hani;Ain el ibel;56;f; Brucellose;14/09/2023
+46;Dehasse Saida;Ain el ibel;21;f; Brucellose;14/09/2023
+47;Far Ali;Ain el ibel;10;m; Brucellose;18/12/2023
+48;Banaissa Aissa;Ain el ibel;42;m; Brucellose;13/12/2023
+49;Oubah belkacem;Ain el ibel;57;m; Brucellose;12/12/2023
+50;Rabehi Aymen;Ain el ibel;20;m; Brucellose;11/12/2023
+51;Chakali Kouider;Ain el ibel;33;m; Brucellose;06/12/2023
+52;Meknaze Ahmed;Ain el ibel;65;m; Brucellose;06/12/2023
+53;Baghdadou Mohamed;Ain el ibel;19;m; Brucellose;03/12/2023
+54;Benahmed Mohamed;Ain el ibel;36;m; Brucellose;18/09/2023
+55;Abbasi Messaouda;Ain el ibel;20;f; Brucellose;06/11/2023
+56;Zoubir Torkia;Ain el ibel;28;f; Brucellose;24/09/2023
+57;Abbasi Kheira;Ain el ibel;18;f; Brucellose;24/09/2023
+58;Beriki alkhdar;Taadhmit;25;m; Brucellose;16/11/2023
+59;Bessaoud Khadra;moudjbara;27;f;Tuberculose P;27/12/2023
+60;Sdara Essil ;moudjbara;9;f;Hepatite A;22/11/2023
+61;Lahoual Ahmed Essid;messaad;0;m;Meningite;11/12/2023
+62;othman Mohamed Djaouad;messaad;7;m;Meningite;21/12/2023
+63;Bennadji Youcef;messaad;17;m;Leishmaniose;14/12/2023
+64;Harzallah Bachir;messaad;21;m;Leishmaniose;11/12/2023
+65;Remadhnia Khadra;messaad;66;f;Leishmaniose;21/12/2023
+66;Farhat Fatehi;messaad;24;m;Leishmaniose;31/12/2023

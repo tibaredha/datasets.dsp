@@ -1,0 +1,1104 @@
+16 1
+#RELEVEDESM   22   1  30  72   1   0   0 112 RELEVE DES MALADIES A DECLARATION OBLIGATOIRE 2022
+_MAT           2   4  30   6   4  12   5 112 MAT
+#MOIS          2   5  30   7   5   0   2 112 MOIS
+_MOIS1        11   5  30  11   5   3   5 112 _
+_NOM           2   6  30   8   6   3  15 112 NOM
+_PRENOM        2   7  30  10   7   3  15 112 PRENOM
+#AGE           2   8  30   7   8 102   6 112 AGE
+#SEXE          2   9  30   7   9   0   1 112 SEXE
+_SEXE1        10   9  30  10   9   3   2 112 _
+#COMM          2  10  30   7  10   0   1 112 COMM
+_COMM1        10  10  30  10  10   3  10 112 _
+_ADRESEXAC     2  11  30  14  11   3  17 112 ADRESEXAC
+_NTEL          2  12  30   8  12   3  10 112 NTEL
+#PTHOLOGI      2  13  30  11  13   0   2 112 PTHOLOGI
+_PTHOLOGI1    15  13  30  15  13   3  12 112 _
+_DATDMAL       2  14  30  10  14  11  10 112 DATDMAL
+    1 1JAN  BEN MOHAMED    AICHA           55.002F 4CHAREF    CHAREF          !
+            3BRC         03/01/2022!
+    2 1JAN  BEN HABIB      AHMED           36.001M 1DJELFA    ROUS AYOUN      !
+            3BRC         03/01/2022!
+    3 1JAN  REBIH          HOUDA                2F 1DJELFA    BOUTRIFIS       !
+            3BRC         03/01/2022!
+    4 1JAN  TORKI          RABEH                1M 1DJELFA    BAB CHAREF      !
+            3BRC         03/01/2022!
+    5 1JAN  GACEM          MOHAMED              1M 1DJELFA    MESSAOUDI       !
+            3BRC         03/01/2022!
+    6 1JAN  ZEBDA          AYA              6.002F 2IDRISSIA  NAHDHA          !
+            3BRC         03/01/2022!
+    7 1JAN  TAIBI          IMANE           30.002F 2IDRISSIA  IDRISSIA        !
+            3BRC         04/01/2022!
+    8 1JAN  SILI           SOLTANE         47.001M 1DJELFA    MESSAOUDI       !
+            7LEISH.C     25/01/2022!
+    9 1JAN  DAOULA         MOHAMED         63.001M 1DJELFA    HACHI MAAMAR    !
+            3BRC         25/01/2022!
+   10 1JAN  ZITOUNI        MOHAMED          9.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         25/01/2022!
+   11 1JAN  NAOUI          MOHAMED         56.001M 1DJELFA    HACHI MAAMAR    !
+            3BRC         25/01/2022!
+   12 1JAN  SAIFINE        MOHAMED         28.001M 1DJELFA    KARIA           !
+            3BRC         25/01/2022!
+   13 1JAN  AOUISSI        BAKHTA          55.002F 6BENYAAGOUB                !
+            3BRC         25/01/2022!
+   14 2FEV  ORABI          NOURA           32.002F 4CHAREF    CHAREF          !
+            3BRC         07/02/2022!
+   15 2FEV  ATTAOUI        KADER           21.001M 1DJELFA    BAHRARA         !
+            7LEISH.C     07/02/2022!
+   16 2FEV  MAZOUZ         AHMED           12.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         07/02/2022!
+   17 2FEV  DAOULA         MOHAMED         68.001M 1DJELFA    DJELFA          !
+            3BRC         07/02/2022!
+   18 2FEV  HOURA          AMRI            37.001M 1DJELFA    BENDJERMAIN     !
+            3BRC         07/02/2022!
+   19 2FEV  KADOURI        BOUMEDIANE      46.001M 2IDRISSIA  IDRISSIA        !
+            3BRC         07/02/2022!
+   20 2FEV  LAGREB         ZOUINA          64.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         07/02/2022!
+   21 2FEV  KASRI          MOHAMED         33.001M 1DJELFA    DJELFA          !
+            3BRC         07/02/2022!
+   22 2FEV  BOUBAKRAOUI    ABDELRAHMANE    57.001M 1DJELFA    NVELLE MOSQUEE  !
+            3BRC         07/02/2022!
+   23 2FEV  BEN MOATAR     AHMED           74.001M 1DJELFA    DHAYA           !
+ 0663854168 1F.T         07/02/2022!
+   24 2FEV  BELKHEIRAT     MUSTAPHA        71.001M 1DJELFA    DJELFA          !
+ 069781829914TP          10/02/2022!
+   25 2FEV  BEN ABDELLAH   EMBARKA         46.002F 1DJELFA    DJELFA          !
+ 066359849943TEP         10/02/2022!
+   26 2FEV  CHEBILAT       KHEIRA          41.002F 1DJELFA    BOUTRIFIS       !
+            7LEISH.C     14/02/2022!
+   27 2FEV  ROUBA          TAHAR           60.001M 1DJELFA    BAB CHAREF      !
+            3BRC         14/02/2022!
+   28 2FEV  MADI           ALI             15.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         14/02/2022!
+   29 2FEV  BOUZIDI        MOHAMED         26.001M 1DJELFA    KARIA           !
+            7LEISH.C     14/02/2022!
+   30 2FEV  GHARBI         AMAR            25.001M 1DJELFA    WIAM            !
+            7LEISH.C     14/02/2022!
+   31 2FEV  CHELIHI        NOUH             0.701M 1DJELFA    BOUTRIFIS       !
+ 0663775747 4MNG         15/02/2022!
+   32 2FEV  TERMIL         AICHA           52.002F 3GUEDDID   OUM CHEGAG      !
+            3BRC         15/02/2022!
+   33 2FEV  ZAIRI          OUSSAMA         21.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         21/02/2022!
+   34 2FEV  DAOUDI         ISMAIL          14.001M 1DJELFA    BENYAAGOUB      !
+            3BRC         21/02/2022!
+   35 2FEV  BELABGAA       KHADIJA         29.002F 2IDRISSIA  IDRISSIA        !
+            3BRC         21/02/2022!
+   36 2FEV  MADI           BEN HAMZA       23.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         21/02/2022!
+   37 2FEV  BELHADJ        NACER           51.001M 1DJELFA    DHAYA           !
+           11SYPHILIS    21/02/2022!
+   38 2FEV  BELHADJ        OUARDA          46.002F 1DJELFA    DHAYA           !
+           11SYPHILIS    21/02/2022!
+   39 2FEV  BEN MOHAMED    FATNA           62.002F 1DJELFA    BELABIAD        !
+ 0778292634 2P.T         22/02/2022!
+   40 2FEV  GARAAT         OEK             30.002F 1DJELFA    DJELFA          !
+            3BRC         28/02/2022!
+   41 2FEV  ZITOUNI        MOHAMED         33.001M 1DJELFA    DJELFA          !
+            3BRC         28/02/2022!
+   42 2FEV  BOUKHALFA      BERKAHOUM       39.002F 1DJELFA    FOSHA           !
+           11SYPHILIS    28/02/2022!
+   43 2FEV  RAHMOUN        FERIHA          48.002F 1DJELFA    DJELFA          !
+            3BRC         28/02/2022!
+   44 3MARS CHOUIKAT       ABDELRAHMANE    60.001M 2IDRISSIA  IDRISSIA        !
+            3BRC         07/03/2022!
+   45 3MARS MAZOUZ         SERINE           4.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         09/03/2022!
+   46 3MARS BOUMAKHZAT     SAID            19.001M 1DJELFA    KARIA           !
+            3BRC         09/03/2022!
+   47 3MARS BOUHAMLA       AICHA           60.002F 1DJELFA    KARIA           !
+            3BRC         09/03/2022!
+   48 3MARS ZAIRI          MOHAMED         18.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         09/03/2022!
+   49 3MARS TAHRI          BALALI          40.001M 2IDRISSIA  IDRISSIA        !
+            3BRC         09/03/2022!
+   50 3MARS GOUISEM        KOUIDER         30.001M 1DJELFA    KARIA           !
+            3BRC         09/03/2022!
+   51 3MARS GOUISEM        LARBI           17.001M 1DJELFA    KARIA           !
+            3BRC         09/03/2022!
+   52 3MARS DEBAH          SAMIR           20.001M 1DJELFA    BOUTRIFIS       !
+            7LEISH.C     15/03/2022!
+   53 3MARS AGOUN          AISSA RAOUF     20.001M 1DJELFA    BERBIH          !
+            7LEISH.C     15/03/2022!
+   54 3MARS AGOUN          AHMED AISSA     18.001M 1DJELFA    BERBIH          !
+            7LEISH.C     15/03/2022!
+   55 3MARS REGUIEG        SAAD            25.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         15/03/2022!
+   56 3MARS CHELIHI        RABIAA          34.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         15/03/2022!
+   57 3MARS BEN SALEM      FERHAT          38.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         15/03/2022!
+   58 3MARS KARBOUA        FARES            6.001M 1DJELFA    BELAKHAL        !
+            3BRC         15/03/2022!
+   59 3MARS REGGAB         AEK             50.001M 1DJELFA    BERNADA 1784/9  !
+ 0665205941 7LEISH.C     16/03/2022!
+   60 3MARS DAOUDI         SIHAM           24.002F 1DJELFA    AIN CHIH        !
+            3BRC         20/03/2022!
+   61 3MARS REGUIEG        RAMLIA          27.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         20/03/2022!
+   62 3MARS KAS            KHEIRA          60.002F 1DJELFA    KARIA           !
+           11SYPHILIS    20/03/2022!
+   63 3MARS KHAMKHAM       AEK             75.001M 1DJELFA    KARIA           !
+           11SYPHILIS    20/03/2022!
+   64 3MARS CHOUIKAT       AICHA           56.002F 2IDRISSIA  NAHDHA          !
+            3BRC         22/03/2022!
+   65 3MARS CHOUIKAT       ABDELRAHMANE    60.001M 2IDRISSIA  NAHDHA          !
+            3BRC         22/03/2022!
+   66 3MARS HDAIDI         MABKHOUTA       61.002F 3GUEDDID                   !
+            3BRC         27/03/2022!
+   67 3MARS BOUSRI         AHMED           15.001M 1DJELFA    FOSHA           !
+            3BRC         27/03/2022!
+   68 3MARS NAOUI          ALI             42.001M 1DJELFA    HACHI M         !
+            3BRC         27/03/2022!
+   69 3MARS ATAMRIA        AHMED           88.001M 1DJELFA    FOSHA           !
+            3BRC         27/03/2022!
+   70 3MARS MESSAOUDI      AHMED           58.001M 6BENYAAGOUB                !
+            3BRC         27/03/2022!
+   71 3MARS BEN CHAOULI    ABDELRAHMANE    47.001M 1DJELFA                    !
+            3BRC         27/03/2022!
+   72 3MARS LAGREB         HOURA           21.001M 1DJELFA    ROUS AYOUN      !
+            3BRC         27/03/2022!
+   73 3MARS MADANI         MOURAD          14.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         27/03/2022!
+   74 3MARS MADI           BELKACEM        14.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         27/03/2022!
+   75 3MARS BOUZEKRI       KHALIFA         28.001M 1DJELFA    BAB CHAREF      !
+            3BRC         27/03/2022!
+   76 4AVRILLHADI          KHADIJA         67.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         03/04/2022!
+   77 4AVRILCHOUKRI        SOFIANE         26.001M 1DJELFA    BERBIH          !
+            7LEISH.C     04/04/2022!
+   78 4AVRILGUEDDID        ZOUINA          36.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         04/04/2022!
+   79 4AVRILBACHIR         MALIKA          42.002F 1DJELFA    CHAABANI        !
+            3BRC         04/04/2022!
+   80 4AVRILNAOUI          ALI             60.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         04/04/2022!
+   81 4AVRILRAHMOUN        AIDA            46.002F 1DJELFA    JARDINS         !
+            3BRC         04/04/2022!
+   82 4AVRILSAID           ABDELRAHMANE    15.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         04/04/2022!
+   83 4AVRILCHOUKRI        HADDA           52.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         04/04/2022!
+   84 4AVRILBEN SALEM      EMBARKA         46.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         12/04/2022!
+   85 4AVRILMADI           LAKHDAR         20.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         12/04/2022!
+   86 4AVRILAISSOUB        BRABAH           4.001M 1DJELFA    BEN SAID        !
+            3BRC         12/04/2022!
+   87 4AVRILAISSOUB        REBIHA           3.002F 1DJELFA    TOKERSANE       !
+            3BRC         12/04/2022!
+   88 4AVRILASSALI         HOURA           23.001M 1DJELFA    KARIA           !
+            3BRC         12/04/2022!
+   89 4AVRILDAHMANE        ALI             63.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         12/04/2022!
+   90 4AVRILABASSI         CHAIMA          23.002F 1DJELFA    BERBIH          !
+            3BRC         12/04/2022!
+   91 4AVRILZITOUT         TEYAB           41.001M 1DJELFA    DJELFA          !
+            3BRC         12/04/2022!
+   92 4AVRILNAFTI          SAMIRA          37.002F 1DJELFA    HACHI M         !
+            3BRC         12/04/2022!
+   93 4AVRILRABIA          LAKHDAR         54.001M 1DJELFA    BAHRARA         !
+            3BRC         12/04/2022!
+   94 4AVRILZEBDA          MOURAD          24.001M 2IDRISSIA  ZONE CHAIFA     !
+            3BRC         14/04/2022!
+   95 4AVRILGUASSAR        HAMZA           31.001M 2IDRISSIA  CHAIFA          !
+            3BRC         19/04/2022!
+   96 4AVRILBEN AMAR       HICHAM          28.001M 1DJELFA    DJELFA          !
+           44MONOXYDCAR  19/04/2022!
+   97 4AVRILBELHADJ        RABIA           28.002F 1DJELFA    DJELFA          !
+            3BRC         22/04/2022!
+   98 4AVRILKERCH          SID AHMED       47.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         22/04/2022!
+   99 4AVRILHMAIDI         MAAMAR          15.001M 3GUEDDID   GUEDDID         !
+            3BRC         22/04/2022!
+  100 4AVRILBEN ZERGINE    NAKHLA          43.002F 1DJELFA    HACHI M         !
+            3BRC         22/04/2022!
+  101 4AVRILBESAOUD        ABDELREZAK      11.001M 1DJELFA    BELAKHEL        !
+            3BRC         22/04/2022!
+  102 4AVRILLAGREB         MAAMAR          19.001M 1DJELFA    LA ZONE         !
+            3BRC         22/04/2022!
+  103 4AVRILTHAMEUR        AHMED           32.001M 1DJELFA    HACHI M         !
+            3BRC         22/04/2022!
+  104 4AVRILBEN AZOUZ      SAMIA           54.002F 1DJELFA    BENDJERMAIN     !
+           12IVC         26/04/2022!
+  105 5MAI  BOUSBOUA       MILOUD          68.001M 2IDRISSIA  IDRISSIA        !
+           44MONOXYDCAR  08/05/2022!
+  106 5MAI  ZAFZAFI        MESSAOUDA       49.002F 2IDRISSIA  IDRISSIA        !
+           44MONOXYDCAR  08/05/2022!
+  107 5MAI  GUACEM         SABRINE         35.002F 1DJELFA    MESSAOUDI       !
+            3BRC         09/05/2022!
+  108 5MAI  GUACEM         NAIMA           24.002F 1DJELFA    MESSAOUDI       !
+            3BRC         09/05/2022!
+  109 5MAI  GUACEM         AZZEDDINE       29.001M 1DJELFA    MISSAOUDI       !
+            3BRC         09/05/2022!
+  110 5MAI  GUACEM         HOCEM           31.001M 1DJELFA    MESSAOUDI       !
+            3BRC         09/05/2022!
+  111 5MAI  GUACEM         SAMIHA          15.002F 1DJELFA    MESSAOUDI       !
+            3BRC         09/05/2022!
+  112 5MAI  CHERFI         ABDELRAHMANE    52.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         09/05/2022!
+  113 5MAI  MADI           AMEUR           16.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         09/05/2022!
+  114 5MAI  ABBASSI        FARES           16.001M 1DJELFA    MUSTEKBEL       !
+            3BRC         09/05/2022!
+  115 5MAI  HACHI          MESSAOUD        33.001M 1DJELFA    AIN CHIH        !
+            7LEISH.C     09/05/2022!
+  116 5MAI  BELMIRIFOU     SEIFEDINE       14.001M 1DJELFA    ZEREA           !
+            3BRC         09/05/2022!
+  117 5MAI  MEDOUH         REBIA           30.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         09/05/2022!
+  118 5MAI  AMRAOUI        BELKACEM        43.001M 1DJELFA    ROUS AYOUN      !
+            3BRC         09/05/2022!
+  119 5MAI  CHERIF         ABDELLAOUI      52.001M 1DJELFA    FEKANI 565/43   !
+            3BRC         09/05/2022!
+  120 5MAI  TEFRIDJ        MOURAD           0.831M 1DJELFA    ZAHAF           !
+ 0778879333 8HP.V.A      12/05/2022!
+  121 5MAI  TALBI          FERIHA          37.002F 1DJELFA    BAB MESSAOUD    !
+            3BRC         16/05/2022!
+  122 5MAI  HACHI          MESSAOUD        33.001M 1DJELFA    AIN CHIH        !
+            7LEISH.C     16/05/2022!
+  123 5MAI  HAMEDA         REZKI           15.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         16/05/2022!
+  124 5MAI  HAMIDAT        ZINEB           54.002F 1DJELFA    FOSHA           !
+           12IVC         17/05/2022!
+  125 5MAI  MESSAOUDI      SOUAD           30.002F 1DJELFA    BEN SAID        !
+            7LEISH.C     23/05/2022!
+  126 5MAI  BEN AHMED      HAMZA           15.001M 1DJELFA    WIAM            !
+            3BRC         23/05/2022!
+  127 5MAI  GUERNOUN       AHLEM           14.002F 1DJELFA    MUSTEKBEL       !
+            3BRC         23/05/2022!
+  128 5MAI  CHINOUN        SAADI           40.001M 1DJELFA    DOUIS           !
+            3BRC         23/05/2022!
+  129 5MAI  BOUDIME        AMEUR           45.001M 4CHAREF    CHAREF          !
+            3BRC         23/05/2022!
+  130 5MAI  HOURI          KHEIRA          27.002F 1DJELFA    MUSTEKBEL       !
+            3BRC         23/05/2022!
+  131 5MAI  DAHMANE        NADHIR          25.001M 1DJELFA    MUSTEKBEL       !
+            3BRC         23/05/2022!
+  132 5MAI  KOUSKOUS       MESSAOUD        70.001M 1DJELFA    DJELFA          !
+            3BRC         23/05/2022!
+  133 5MAI  REBIHI         RAMLIA          59.001M 1DJELFA    DJELFA          !
+            3BRC         23/05/2022!
+  134 5MAI  CHALOUL        ASEMA           11.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         23/05/2022!
+  135 5MAI  DJENA          MANSOUR          5.001M 1DJELFA    KARIA           !
+            3BRC         23/05/2022!
+  136 5MAI  GUATTAF        BEMELIH         56.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         23/05/2022!
+  137 5MAI  ABBAS          NADJIA          26.002F 1DJELFA    HACHI M         !
+            3BRC         23/05/2022!
+  138 5MAI  SAADAOUI       AFFAF           10.002F 4CHAREF    CHAREF          !
+            3BRC         23/05/2022!
+  139 5MAI  GUEZAM         LAKHDAR         36.001M 1DJELFA    BERBIH          !
+            3BRC         23/05/2022!
+  140 5MAI  DLIOUAH        MENA            60.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         23/05/2022!
+  141 5MAI  REBIH          HOUDA           26.002F 1DJELFA    AIN CHIH        !
+            3BRC         23/05/2022!
+  142 5MAI  LATOUS         SALIHA          45.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         23/05/2022!
+  143 5MAI  SAADI          AIDA            33.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         23/05/2022!
+  144 5MAI  ZENZANE        ALI             70.001M 1DJELFA    ZEREA           !
+            3BRC         23/05/2022!
+  145 5MAI  AIDA           MOHAMED         63.001M 1DJELFA    BEN SAID        !
+            3BRC         23/05/2022!
+  146 5MAI  HAMIDAT        HMZOU           37.002F 4CHAREF    CHAREF          !
+            3BRC         23/05/2022!
+  147 5MAI  SLMI           FATIHA          53.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         30/05/2022!
+  148 5MAI  MLILU          MOARADJ         33.001M 1DJELFA    KARIA           !
+            3BRC         30/05/2022!
+  149 5MAI  SILAA          BADIS           35.001M 1DJELFA    KARIA           !
+            3BRC         30/05/2022!
+  150 5MAI  AZOUZ          SOUAD            3.002F 1DJELFA    FOSHA           !
+            3BRC         30/05/2022!
+  151 5MAI  AZOUZ          ALI RAHM         4.001M 1DJELFA    FOSHA           !
+            3BRC         30/05/2022!
+  152 5MAI  ALLOUM         AISSA           49.001M 1DJELFA    RAHMA           !
+            3BRC         30/05/2022!
+  153 5MAI  LAGREB         LATRA           41.002F 1DJELFA    ROUS AYOUN      !
+            3BRC         30/05/2022!
+  154 5MAI  LAGREB         AIMANE           4.001M 1DJELFA    ROUS AYOUN      !
+            3BRC         30/05/2022!
+  155 5MAI  BZIZ           HANANE          20.002F 1DJELFA    AIN CHIH        !
+            3BRC         30/05/2022!
+  156 5MAI  KERIDA         KAMEL           15.001M 1DJELFA    SNOUBER         !
+            3BRC         30/05/2022!
+  157 5MAI  ARABA          FATIHA          22.002F 1DJELFA    KARIA           !
+            3BRC         30/05/2022!
+  158 5MAI  HELIS          SALMA           18.002F 1DJELFA    S.AMIRAT        !
+            3BRC         30/05/2022!
+  159 5MAI  BEN AMAR       HENIA           60.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         30/05/2022!
+  160 5MAI  BEN MOATAR     ANGHAM          24.002F 1DJELFA    SNOUBER         !
+            3BRC         30/05/2022!
+  161 5MAI  BORAGDA        SAMIA           53.002F 4CHAREF    CHAREF          !
+            3BRC         30/05/2022!
+  162 5MAI  BORAGDA        SOUNDOS         16.002F 4CHAREF    CHAREF          !
+            3BRC         30/05/2022!
+  163 5MAI  BOUZIDI        ZAKARIA         12.001M 1DJELFA    FEKKANI         !
+            3BRC         30/05/2022!
+  164 5MAI  YOUNSI         YOUCEF          32.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         30/05/2022!
+  165 5MAI  RAHMOUN        ZAHRA           26.002F 2IDRISSIA  IDRISSIA        !
+            3BRC         30/05/2022!
+  166 5MAI  KHROR          ABDELREZAK      37.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         30/05/2022!
+  167 5MAI  BRID           ZOHRA           42.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         30/05/2022!
+  168 5MAI  ABIKCHI        KHADMA          76.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         30/05/2022!
+  169 5MAI  NAOUI          ABDELRAHMANE    38.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         30/05/2022!
+  170 5MAI  HELIS          AHMED           68.001M 1DJELFA    HACHI.M         !
+            3BRC         30/05/2022!
+  171 5MAI  GUENOUNI       ALI             52.001M 1DJELFA    ZEREA           !
+            3BRC         30/05/2022!
+  172 6JUIN BEN SAID       BEDEREDINE      43.001M 1DJELFA    BERNADA         !
+            3BRC         02/06/2022!
+  173 6JUIN GHARBI         ABDELREZAK      23.001M 1DJELFA    BOUTRIFIS       !
+            7LEISH.C     06/06/2022!
+  174 6JUIN OKAZI          ZINEB           60.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         06/06/2022!
+  175 6JUIN SERYAH         FATIHA          52.002F 1DJELFA    BERBIH          !
+            3BRC         06/06/2022!
+  176 6JUIN BEN ABDELSELAM EMBAREK         27.001M 1DJELFA    MESSAOUDI       !
+            3BRC         06/06/2022!
+  177 6JUIN BEN ABDELSELAM MOHAMED         91.001M 4CHAREF    CHAREF          !
+            3BRC         06/06/2022!
+  178 6JUIN LAIBI          ABDELHAKIM      18.001M 1DJELFA    AIN CHIH        !
+            3BRC         06/06/2022!
+  179 6JUIN DENIDINA       SAMIRA          28.002F 1DJELFA    BEN SAID        !
+            3BRC         06/06/2022!
+  180 6JUIN HAMIDA         MOHAMED         52.001M 1DJELFA    BEN DJERMAIN    !
+            3BRC         06/06/2022!
+  181 6JUIN FASIH          CHERIFA         25.001M 1DJELFA    AIN CHIH        !
+            3BRC         06/06/2022!
+  182 6JUIN ZAIRI          OUSSAMA         21.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         06/06/2022!
+  183 6JUIN ZAIRI          HIBA            14.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         06/06/2022!
+  184 6JUIN ZAIRI          KHELIF          29.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         06/06/2022!
+  185 6JUIN SMAT           HAITHAM         12.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         06/06/2022!
+  186 6JUIN GHORISI        WASIMA          57.002F 1DJELFA    BERBIH          !
+            3BRC         06/06/2022!
+  187 6JUIN BEN YLISSI     BENT BELKHEIR   61.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         06/06/2022!
+  188 6JUIN BAHII          ABDELAZIZ       35.001M 1DJELFA    BEN AZIZ        !
+           12IVC         06/06/2022!
+  189 6JUIN OUKIGH         FOUAD           57.001M 1DJELFA    BISKRA          !
+            7LEISH.C     12/06/2022!
+  190 6JUIN HANI           FATIHA          51.002F 1DJELFA    ZEREA           !
+            3BRC         12/06/2022!
+  191 6JUIN LAOUAR         FATIMA          72.002F 1DJELFA    BENDJERMAIN     !
+            3BRC         12/06/2022!
+  192 6JUIN MOUFEK         DHAOUADIA       65.002F 1DJELFA    BORDJ           !
+            3BRC         12/06/2022!
+  193 6JUIN TAHRAOUI       MOHAMED         22.001M 2IDRISSIA                  !
+            3BRC         12/06/2022!
+  194 6JUIN RAACH          LAKHDAR         38.001M 1DJELFA    BENDJERMAIN     !
+            3BRC         12/06/2022!
+  195 6JUIN MAHRAOUI       ABDELHADI       34.001M 5DOUIS                     !
+            3BRC         12/06/2022!
+  196 6JUIN CATOUM         AMERA           45.002F 1DJELFA    KARIA           !
+           12IVC         12/06/2022!
+  197 6JUIN KIDDAR         AZZEDDINE       16.001M 1DJELFA    BAHRARA         !
+            3BRC         12/06/2022!
+  198 6JUIN FIRAM          X               45.001M 1DJELFA    HADAIK          !
+            3BRC         12/06/2022!
+  199 6JUIN KHELIFA        FERIHA          54.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         12/06/2022!
+  200 6JUIN BEN TOUNSI     X               45.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         12/06/2022!
+  201 6JUIN CATOUM         OMRANI          45.001M 1DJELFA    KARIA           !
+            3BRC         12/06/2022!
+  202 6JUIN BEN ALIA       DHAHBIA         55.002F 1DJELFA    BAHRARA         !
+            3BRC         12/06/2022!
+  203 6JUIN GUENFOUD       NOUREDDINE      29.001M 1DJELFA    BEN SAID        !
+            3BRC         12/06/2022!
+  204 6JUIN ABBASI         KARIMA          17.002F 2IDRISSIA                  !
+            3BRC         12/06/2022!
+  205 6JUIN CHEIKH         FOUAD           57.001M 1DJELFA    DJELFA          !
+            3BRC         12/06/2022!
+  206 6JUIN BEN AHMED      AYA             15.002F 1DJELFA    BEN SAID        !
+            3BRC         12/06/2022!
+  207 6JUIN BEN AHMED      RAOUF           30.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         12/06/2022!
+  208 6JUIN AZZOUZ         ABDELKARIM      45.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         12/06/2022!
+  209 6JUIN CHEDDAD        KHEIRA          50.002F 1DJELFA    BEN SAID        !
+            3BRC         12/06/2022!
+  210 6JUIN MADANI         AEK             51.001M 1DJELFA    BAHRARA         !
+            3BRC         12/06/2022!
+  211 6JUIN SAKHRI         NACERA          22.002F 1DJELFA    ZEREA           !
+            3BRC         12/06/2022!
+  212 6JUIN OUBAH          MOHAMED         75.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         12/06/2022!
+  213 6JUIN KHARCHI        ZOUINA          11.002F 1DJELFA    BERBIH          !
+            3BRC         12/06/2022!
+  214 6JUIN KHARCHI        KHALED          16.001M 1DJELFA    BERBIH          !
+            3BRC         12/06/2022!
+  215 6JUIN BELAIB         ABDELAZIZ       32.001M 2IDRISSIA  IDRISSIA        !
+            3BRC         12/06/2022!
+  216 6JUIN AHMIT          FAZUID           6.001M 4CHAREF    CHAREF          !
+            3BRC         12/06/2022!
+  217 6JUIN KOUSKOUS       MOHAMED         27.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         12/06/2022!
+  218 3MARS DENIDINA       AHMED           21.001M 6BENYAAGOUB                !
+            3BRC         12/06/2022!
+  219 6JUIN BZIZ           ABDELREZAK      18.001M 1DJELFA    KARIA           !
+            3BRC         12/06/2022!
+  220 6JUIN BOUHALI        WADJEDI         23.001M 1DJELFA    DJELFA          !
+            3BRC         12/06/2022!
+  221 6JUIN SLILIH         WARDA           50.002F 1DJELFA    ROUS AYOUN      !
+            3BRC         12/06/2022!
+  222 6JUIN ROUINA         MOARADJ         15.001M 1DJELFA    KARIA           !
+            3BRC         12/06/2022!
+  223 6JUIN RAHMANI        FATIMA          31.002F 1DJELFA    WIAM            !
+            1F.T         19/06/2022!
+  224 6JUIN HAROUAS        HAMZA           39.001M 1DJELFA    BAHRARA         !
+ SUSPECT    1F.T         19/06/2022!
+  225 6JUIN EL GHOUL       AHMED           54.001M 1DJELFA    RTE MODJBARA    !
+            3BRC         19/06/2022!
+  226 6JUIN MALKI          MESSAOUD        50.001M 1DJELFA    BOUKHLFA        !
+            3BRC         20/06/2022!
+  227 6JUIN SAID           AHMED           61.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         20/06/2022!
+  228 6JUIN BADRI          KHEIRA          55.002F 4CHAREF    CHAREF          !
+            3BRC         20/06/2022!
+  229 6JUIN BZIZ           ALI             18.001M 1DJELFA                    !
+            3BRC         20/06/2022!
+  230 6JUIN SAILAA         ABDELRAHMANE    16.001M 1DJELFA    FELLAH          !
+            3BRC         20/06/2022!
+  231 6JUIN AISSAOUI       KHEIRA          52.002F 6BENYAAGOUB                !
+            3BRC         20/06/2022!
+  232 6JUIN BOUFRIKECH     RAMLIA          47.002F 2IDRISSIA                  !
+            3BRC         20/06/2022!
+  233 6JUIN SAADI          EL BAHI         59.001M 1DJELFA    BAHRARA         !
+            3BRC         20/06/2022!
+  234 6JUIN DJEBARA        LAKHDAR         29.001M 1DJELFA    BOUTRIFIS       !
+            6LEISH.V     20/06/2022!
+  235 6JUIN OKAZI          FOUAD           57.001M 1DJELFA    HAOUAS          !
+            3BRC         20/06/2022!
+  236 6JUIN AISSOUI        HAMZA           26.001M 1DJELFA    BERBIH          !
+            3BRC         20/06/2022!
+  237 6JUIN MAHDI          SAAD            37.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         20/06/2022!
+  238 6JUIN GHEHIRI        REBIHA          30.002F 1DJELFA    KARIA           !
+            3BRC         20/06/2022!
+  239 6JUIN FASIH          BOUDERBALA      25.001M 1DJELFA    AIN CHIH        !
+            3BRC         20/06/2022!
+  240 6JUIN FRITH          KHADIJA         33.002F 1DJELFA    AIN CHIH        !
+            3BRC         20/06/2022!
+  241 6JUIN KADIRI         ALI             36.001M 1DJELFA    AIN CHIH        !
+            3BRC         20/06/2022!
+  242 6JUIN ZITOUNI        NAAS            34.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         20/06/2022!
+  243 6JUIN LEGREB         CHERIFA         40.002F 1DJELFA    AIN CHIH        !
+            3BRC         20/06/2022!
+  244 6JUIN SLAMI          REKIA           42.002F 1DJELFA    CHAABANI        !
+            3BRC         20/06/2022!
+  245 6JUIN HAMAIDI        MOHAMED         53.001M 1DJELFA    BELAKHAL        !
+            3BRC         29/06/2022!
+  246 6JUIN THAMERI        TAOUS           52.002F 1DJELFA    GUENNANI        !
+            3BRC         29/06/2022!
+  247 6JUIN RENANI         MUSTAPHA        37.001M 1DJELFA    BELGHAZEL       !
+            3BRC         29/06/2022!
+  248 6JUIN HABOUL         HAFSA           35.002F 1DJELFA    BEN AZIEZ       !
+            3BRC         29/06/2022!
+  249 6JUIN BEN MAAMAR     HENIA           60.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         29/06/2022!
+  250 6JUIN ARACHIA        MAHFOUD         48.001M 7A.CHOUHADA                !
+            3BRC         29/06/2022!
+  251 6JUIN LAMOURA        LAKHDAR         23.001M 1DJELFA    KARIA           !
+            3BRC         29/06/2022!
+  252 6JUIN SALHI          ABDELREZAK      16.001M 1DJELFA    MESSAOUDI       !
+            7LEISH.C     29/06/2022!
+  253 6JUIN FASIH          WARDA           22.002F 1DJELFA    ZEREA           !
+            3BRC         29/06/2022!
+  254 6JUIN THAMERI        OUAHIBA         25.002F 1DJELFA    AIN SRAR        !
+            3BRC         29/06/2022!
+  255 6JUIN ARAGUE         CHAIMA          15.002F 1DJELFA    100 MAISON      !
+            3BRC         29/06/2022!
+  256 6JUIN SADKI          AHMED           42.001M 1DJELFA    KARIA           !
+            3BRC         29/06/2022!
+  257 6JUIN MAACH          ROKIA           64.002F 1DJELFA    MESSAOUD        !
+            3BRC         29/06/2022!
+  258 6JUIN FRIKH          NOURA           19.002F 1DJELFA    AIN CHIH        !
+            3BRC         29/06/2022!
+  259 6JUIN FERIKH         MUSTAPHA        32.001M 1DJELFA    AIN CHIH        !
+            3BRC         29/06/2022!
+  260 6JUIN AISSAOUI       ABDELRAHMANE    62.001M 1DJELFA    BERBIH          !
+            3BRC         29/06/2022!
+  261 6JUIN FASIH          SIHAM           17.002F 1DJELFA    AIN CHIH        !
+            3BRC         29/06/2022!
+  262 6JUIN FASIH          OUM ELKHEIR     49.002F 1DJELFA    AIN CHIH        !
+            3BRC         29/06/2022!
+  263 6JUIN ZAHIA          MESSAOUDA       57.002F 2IDRISSIA                  !
+            3BRC         29/06/2022!
+  264 6JUIN DJEHA          KHADIJA         18.002F 2IDRISSIA                  !
+            3BRC         29/06/2022!
+  265 6JUIN HELIS          OUSSAMA         27.001M 1DJELFA    SLIMANE A       !
+            3BRC         29/06/2022!
+  266 6JUIN THAMERI        BEN GHEZAL      58.001M 1DJELFA    05 JUILLET      !
+            3BRC         29/06/2022!
+  267 6JUIN THAMERI        SELAH           30.001M 1DJELFA    05 JUILLET      !
+            3BRC         29/06/2022!
+  268 6JUIN MESSAOUDI      AHMED           58.001M 6BENYAAGOUB                !
+            3BRC         29/06/2022!
+  269 6JUIN CHERIFI        AIMANE          52.001M 1DJELFA    SLIMANE A       !
+            3BRC         29/06/2022!
+  270 6JUIN GHARBI         OMAR            18.001M 1DJELFA    BAHRARA         !
+            7LEISH.C     30/06/2022!
+  271 6JUIN ROUINA         KHALED          53.001M 1DJELFA    LA GARE         !
+            7LEISH.C     30/06/2022!
+  272 7JUIL BELKHEIRI      ZOHRA           24.002F 1DJELFA    AIN CHIH        !
+            3BRC         03/07/2022!
+  273 7JUIL EL ALBI        FATIMA          72.002F 1DJELFA    BERBIH          !
+            3BRC         03/07/2022!
+  274 7JUIL OBAIZA         CHERIF               1M 5DOUIS     DOUIS           !
+            3BRC         03/07/2022!
+  275 7JUIL MOUISSA        KHALIFA              1M 5DOUIS                     !
+            3BRC         03/07/2022!
+  276 7JUIL BOUCHMAL       CHAIMA               2F 5DOUIS                     !
+            3BRC         03/07/2022!
+  277 7JUIL DJEBARA        HNIA            21.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         03/07/2022!
+  278 7JUIL AISSAOUI       CHERIFA         27.002F 1DJELFA    BERBIH          !
+            3BRC         03/07/2022!
+  279 7JUIL SAMADI         KHEIRA          37.002F 1DJELFA    FOSHA           !
+            3BRC         03/07/2022!
+  280 7JUIL BELLABGAA      BEN YATOU       68.001M 2IDRISSIA                  !
+            3BRC         03/07/2022!
+  281 7JUIL BEN GUIA       ALI             47.001M 1DJELFA    KARIA           !
+            3BRC         03/07/2022!
+  282 7JUIL RAKHROUKH      ABDELRAHIM      20.001M 1DJELFA    BELLAKHEL       !
+            3BRC         03/07/2022!
+  283 7JUIL YOUNSI         YOUCEF          32.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         03/07/2022!
+  284 7JUIL ARSAOUI        LWAARA          74.002F 4CHAREF                    !
+            3BRC         03/07/2022!
+  285 7JUIL ROUKAB         FAIZA           26.002F 1DJELFA    HADAIK          !
+            7LEISH.C     03/07/2022!
+  286 7JUIL MADI           MOUFEK          38.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         03/07/2022!
+  287 7JUIL KHERDAL        KHEIRA          17.002F 3GUEDDID                   !
+            3BRC         03/07/2022!
+  288 7JUIL DERRADJI       RABIAA          70.002F 1DJELFA    HACHI M         !
+            3BRC         03/07/2022!
+  289 7JUIL BOUFRIKH       CHEDOUM         27.001M 1DJELFA    ZEREA           !
+            3BRC         03/07/2022!
+  290 7JUIL FASIH          AMER            39.001M 1DJELFA    AIN CHIH        !
+            3BRC         03/07/2022!
+  291 7JUIL BEN AZOUZ      FATIHA          62.002F 1DJELFA    BAB CHEREF      !
+            3BRC         03/07/2022!
+  292 7JUIL DJEBARA        MOHAMED         42.001M 1DJELFA    BERBIH          !
+            3BRC         03/07/2022!
+  293 7JUIL BEN AZOUZ      BATOUL          70.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         03/07/2022!
+  294 7JUIL BOUHMLAL       ISMAHANE        49.002F 1DJELFA    100 MAISON      !
+            3BRC         03/07/2022!
+  295 7JUIL KHELIFI        ABDELRAHMANE    30.001M 1DJELFA    100 MAISON      !
+            3BRC         03/07/2022!
+  296 7JUIL FASIH          YOUCEF          14.001M 1DJELFA    BERBIH          !
+            3BRC         03/07/2022!
+  297 7JUIL SAADAOUI       KHEIRA          48.002F 1DJELFA    FOSHA           !
+            3BRC         03/07/2022!
+  298 7JUIL GUASMI         DJAMILA         60.002F 1DJELFA                    !
+            3BRC         03/07/2022!
+  299 7JUIL CHENOUF        HADDA           66.002F 1DJELFA    05 JUILLET      !
+            3BRC         03/07/2022!
+  300 7JUIL HOURA          KHADRA          25.002F 2IDRISSIA  IDRISSIA        !
+            3BRC         03/07/2022!
+  301 7JUIL LEMMRI         FATIMA          47.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         03/07/2022!
+  302 7JUIL LOUIFAL        FARAH           33.002F 1DJELFA    BERBIH          !
+            3BRC         03/07/2022!
+  303 7JUIL BEN SALEM      FATIMA Z        26.002F 1DJELFA    BOUTRIFIS       !
+ 0671569641 1F.T         04/07/2022!
+  304 7JUIL DOKMANE        DAHMANE         33.001M 1DJELFA    CHAABANI        !
+            3BRC         12/07/2022!
+  305 7JUIL LOUIBED        CHERIF          24.001M 1DJELFA    BAHRARA         !
+            3BRC         12/07/2022!
+  306 7JUIL AMOUR          RABIA           39.002F 1DJELFA    BERBIH          !
+            3BRC         12/07/2022!
+  307 7JUIL BAHLOUL        HAYAT           24.002F 2IDRISSIA                  !
+            3BRC         12/07/2022!
+  308 7JUIL AZAOUI         SAMIHA          30.002F 4CHAREF                    !
+            3BRC         12/07/2022!
+  309 7JUIL BEMER          KHADIJA         36.002F 1DJELFA    ZERIA           !
+            3BRC         12/07/2022!
+  310 7JUIL SAADI          FATHI           35.001M 1DJELFA    05 JUILLET      !
+            3BRC         12/07/2022!
+  311 7JUIL RIYAD          ALI             28.001M 1DJELFA    AIN CHIH        !
+            3BRC         12/07/2022!
+  312 7JUIL SADOK          SAIDA           16.002F 1DJELFA    KARIA           !
+            3BRC         12/07/2022!
+  313 7JUIL ZITOUNI        AHMED           42.001M 1DJELFA    BAHRARA         !
+            3BRC         12/07/2022!
+  314 7JUIL GARMITI        FATNA           32.002F 1DJELFA    BAHRARA         !
+            3BRC         12/07/2022!
+  315 7JUIL ABED           YOUCEF          26.001M 4CHAREF                    !
+            3BRC         12/07/2022!
+  316 7JUIL BELKHEIR       AMER            10.001M 1DJELFA    AIN CHIH        !
+            3BRC         12/07/2022!
+  317 7JUIL MIHOUB         ABDELRAHMANE    10.001M 4CHAREF                    !
+            3BRC         12/07/2022!
+  318 7JUIL MOKHTARI       MOHAMED         37.001M 1DJELFA                    !
+            3BRC         12/07/2022!
+  319 7JUIL MOKHTARI       ABDELRAHMANE    29.001M 1DJELFA                    !
+            3BRC         12/07/2022!
+  320 7JUIL ARBAOUI        MADJID          51.001M 4CHAREF                    !
+            3BRC         12/07/2022!
+  321 7JUIL ARBAOUI        CHAIMA          17.001M 4CHAREF                    !
+            3BRC         12/07/2022!
+  322 7JUIL GOUG           ZOHRA           65.002F 1DJELFA                    !
+            3BRC         12/07/2022!
+  323 7JUIL ABBASSI        MESSAOUDA       67.002F 1DJELFA    BEN SAID        !
+            3BRC         12/07/2022!
+  324 7JUIL BEN TIOUI      KHADIJA         44.002F 1DJELFA    OUED HADID      !
+            3BRC         12/07/2022!
+  325 7JUIL ROULAM         KHADIJA         26.002F 1DJELFA    05 JUILLET      !
+            7LEISH.C     12/07/2022!
+  326 7JUIL AMOUR          NAKHLA          44.002F 1DJELFA    BERNADA         !
+            3BRC         12/07/2022!
+  327 7JUIL CHEDDAD        SADAM HOCINE    31.001M 1DJELFA    100 MAISON      !
+            3BRC         12/07/2022!
+  328 7JUIL CHOUCHA        AEK             46.001M 1DJELFA    BAHAE           !
+           42COVID-19    20/07/2022!
+  329 7JUIL ZIANI          SALMA           34.002F 1DJELFA    BEN TAIBA       !
+ 0672703165 1F.T         21/07/2022!
+  330 7JUIL MOKHTARI       MANSOUR         19.001M 1DJELFA    BEN SAID        !
+            3BRC         21/07/2022!
+  331 7JUIL BAKRIA         ZAHIA           27.002F 1DJELFA    BELGHAZEL       !
+            3BRC         25/07/2022!
+  332 7JUIL TELI           ISLAM           48.001M 1DJELFA    HACHI M         !
+            3BRC         25/07/2022!
+  333 7JUIL BEN HEFFAF     AYAD             6.001M 1DJELFA    BERNADA         !
+            3BRC         25/07/2022!
+  334 7JUIL BEN KHELIFA    ISLAM           72.001M 1DJELFA    FEKKANI         !
+            3BRC         25/07/2022!
+  335 7JUIL KESSAIR        MOHAMED         72.001M 1DJELFA    BAB MESSAOUD    !
+            3BRC         25/07/2022!
+  336 7JUIL GUESSOM        BRAHIM          11.001M 1DJELFA    DJELFA          !
+            3BRC         25/07/2022!
+  337 7JUIL ABDELWAHAB     BELKHEIR        55.001M 1DJELFA    BAB CHAREF      !
+            3BRC         25/07/2022!
+  338 7JUIL SAID           EL ALEM         63.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         25/07/2022!
+  339 7JUIL EL HANI        ZOHRA           35.002F 1DJELFA    100 MAISON      !
+            3BRC         25/07/2022!
+  340 7JUIL EL BAR         MIMOUNA         46.002F 1DJELFA    BAKOUKA         !
+            3BRC         25/07/2022!
+  341 7JUIL BERKANI        NADJIA          40.002F 1DJELFA    DJELFA          !
+            3BRC         25/07/2022!
+  342 7JUIL LARYDJ         AICHA           30.002F 1DJELFA    AIN SRAR        !
+            3BRC         25/07/2022!
+  343 7JUIL KERIDIA        BRAHIM          75.001M 2IDRISSIA                  !
+            3BRC         25/07/2022!
+  344 7JUIL BOUZERKOUTA    AHMED           40.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         25/07/2022!
+  345 7JUIL BEN SADOK      FATNA           60.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         25/07/2022!
+  346 7JUIL AINA           EMBARKA         58.002F 1DJELFA    AIN CHIH        !
+            3BRC         25/07/2022!
+  347 7JUIL BELATRA        SALIHA          23.002F 1DJELFA    HADAIK          !
+            3BRC         25/07/2022!
+  348 7JUIL ABBASI         MOULAY          20.001M 5DOUIS                     !
+            3BRC         25/07/2022!
+  349 7JUIL RABEHI         SOFIANE         80.001M 1DJELFA    100 MAISON      !
+            3BRC         25/07/2022!
+  350 7JUIL EL HADI        MOHAMED         32.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         25/07/2022!
+  351 7JUIL BEN RYM        MOHAMED         33.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         25/07/2022!
+  352 7JUIL BEN DACHER     SAID            31.001M 1DJELFA    FEKKANI         !
+            3BRC         25/07/2022!
+  353 7JUIL ALATES         NADJAT          26.002F 1DJELFA    HACHI M         !
+            3BRC         25/07/2022!
+  354 7JUIL BEN ABDELSELAM SAID            42.001M 4CHAREF                    !
+            3BRC         25/07/2022!
+  355 7JUIL MOKHTARI       EMBARKA         43.002F 1DJELFA    BEN SAID        !
+            3BRC         25/07/2022!
+  356 7JUIL FASIH          AHMED           30.001M 1DJELFA    AIN CHIH        !
+            3BRC         25/07/2022!
+  357 7JUIL MOHAMEDI       HALIMA          61.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         25/07/2022!
+  358 7JUIL GUELIL         AMINA           32.002F 1DJELFA    BENDJERMAIN     !
+            3BRC         25/07/2022!
+  359 7JUIL MENNI          HALIMA          24.002F 1DJELFA    ZEREA           !
+            3BRC         25/07/2022!
+  360 7JUIL LEGREB         AMINE           22.001M 1DJELFA    ROUS AYOUN      !
+            3BRC         25/07/2022!
+  361 7JUIL ZEREA          MABKHOUTA       27.002F 1DJELFA    100 MAISON      !
+            3BRC         25/07/2022!
+  362 7JUIL LINKA          ZINEB           94.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         25/07/2022!
+  363 7JUIL BERABEH        EL HADJ         96.001M 1DJELFA    KARIA           !
+            7LEISH.C     28/07/2022!
+  364 7JUIL MIHRIB         HAMZA            5.001M 1DJELFA    KARIA           !
+            7LEISH.C     28/07/2022!
+  365 7JUIL LABOUKH        LAKHDAR         55.001M 1DJELFA                    !
+            7LEISH.C     28/07/2022!
+  366 7JUIL OUBAH          ZINEB           17.002F 1DJELFA    BERBIH          !
+            3BRC         28/07/2022!
+  367 7JUIL BENCHIR        AHMED           45.001M 1DJELFA                    !
+            3BRC         28/07/2022!
+  368 7JUIL ROUINA         FATNA           29.002F 1DJELFA    KARIA           !
+            3BRC         28/07/2022!
+  369 7JUIL GASMI          WIDAD           50.002F 1DJELFA    KARIA           !
+            3BRC         28/07/2022!
+  370 7JUIL MOUFAK         X               26.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         28/07/2022!
+  371 7JUIL HALSA          MONA            60.002F 1DJELFA    MESSAOUDI       !
+            3BRC         28/07/2022!
+  372 7JUIL FRIKH          FATMA           58.002F 1DJELFA    AIN CHIH        !
+            3BRC         28/07/2022!
+  373 7JUIL BEN HEFAF      MOHAMED         76.001M 3GUEDDID                   !
+            3BRC         28/07/2022!
+  374 7JUIL MAGDI          SOUAD           23.002F 1DJELFA    FOSHA           !
+            3BRC         28/07/2022!
+  375 7JUIL BEN CHERIET    LUHIM           62.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         28/07/2022!
+  376 7JUIL CHEREM         FATNA           84.002F 1DJELFA    GUENNANI        !
+            3BRC         28/07/2022!
+  377 7JUIL CHEDDAD        HLIMA           34.002F 1DJELFA    100 MAISON      !
+            3BRC         28/07/2022!
+  378 7JUIL CHEDDAD        SADIN           31.001M 1DJELFA    100 MAISON      !
+            3BRC         28/07/2022!
+  379 7JUIL MOUFAK         HANANE          23.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         28/07/2022!
+  380 8AOUT AYACHI         MOHAMED         19.001M 1DJELFA    AIN SRAR        !
+            3BRC         04/08/2022!
+  381 8AOUT CHOUIKAT       AHMED           57.001M 2IDRISSIA                  !
+            3BRC         04/08/2022!
+  382 8AOUT BOUCHADA       RABIAA          71.002F 1DJELFA    BORDJ           !
+            3BRC         07/08/2022!
+  383 8AOUT ZAAF           AMEUR           36.001M 1DJELFA    BERNADA         !
+            3BRC         07/08/2022!
+  384 8AOUT BOUSBAA        KHALED          27.001M 2IDRISSIA                  !
+            3BRC         07/08/2022!
+  385 8AOUT DJABOUKA       AMEUR           42.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         07/08/2022!
+  386 8AOUT KERDINIE       EMBARKA         25.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         07/08/2022!
+  387 8AOUT FASIH          AHMED           32.001M 1DJELFA    AIN CHIH        !
+            3BRC         07/08/2022!
+  388 8AOUT RAHMANE        NACERA          24.002F 1DJELFA    BEN SAID        !
+            3BRC         07/08/2022!
+  389 8AOUT MARHOUN        LOBNA           25.002F 1DJELFA    BERBIH          !
+            3BRC         07/08/2022!
+  390 8AOUT FRIKH          CHAHTA          66.001M 1DJELFA    AIN CHIH        !
+            3BRC         07/08/2022!
+  391 8AOUT MESSAOUD       LAKHDAR         42.001M 1DJELFA    KARIA           !
+            3BRC         07/08/2022!
+  392 8AOUT BOUSOIR        CHERIF          32.001M 1DJELFA    KARIA           !
+            3BRC         07/08/2022!
+  393 8AOUT REGUIEG        LAKHDAR         37.001M 5DOUIS                     !
+            3BRC         07/08/2022!
+  394 8AOUT KARMA          KHEIRA          32.002F 1DJELFA    BEN SAID        !
+            3BRC         07/08/2022!
+  395 8AOUT ARBAOUI        AICHA           47.002F 4CHAREF                    !
+            3BRC         14/08/2022!
+  396 8AOUT DAOUDI         MESSAOUDA       55.002F 1DJELFA    BERBIH          !
+            3BRC         14/08/2022!
+  397 8AOUT AZAOUI         SALAH           30.001M 4CHAREF                    !
+            3BRC         14/08/2022!
+  398 8AOUT ABEID          SOFIANE          7.001M 1DJELFA    05 JUILLET      !
+            3BRC         14/08/2022!
+  399 8AOUT DABACHI        KHEIRA          80.002F 4CHAREF                    !
+            3BRC         14/08/2022!
+  400 8AOUT CHATTOUH       LAKHDAR         63.001M 6BENYAAGOUB                !
+            3BRC         14/08/2022!
+  401 8AOUT AHMIDAT        AMER            22.001M 3GUEDDID                   !
+            3BRC         14/08/2022!
+  402 8AOUT ZAHAF          KHEIRA          15.002F 1DJELFA    BERNADA         !
+            3BRC         14/08/2022!
+  403 8AOUT SALAMAT        AHMED           69.001M 4CHAREF    TOKERSANE       !
+            3BRC         14/08/2022!
+  404 8AOUT HMIDA          MOHAMED         51.001M 4CHAREF    TOKERSANE       !
+            3BRC         14/08/2022!
+  405 8AOUT MOIDI          NAKHLA          47.002F 1DJELFA    WIAM            !
+            3BRC         14/08/2022!
+  406 8AOUT KABAILI        NAKHLA          27.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         14/08/2022!
+  407 8AOUT BENZRI         MOHAMED         29.001M 1DJELFA    BERBIH          !
+            3BRC         14/08/2022!
+  408 8AOUT BELSIHULI      MESSAOUDA       50.002F 1DJELFA    B.MESSAOUD      !
+            3BRC         14/08/2022!
+  409 8AOUT BELRAI         KHADIJA         28.002F 1DJELFA    BEN SAID        !
+            3BRC         14/08/2022!
+  410 8AOUT DAOUDI         X               38.001M 1DJELFA                    !
+            3BRC         14/08/2022!
+  411 8AOUT GUEMANE        MOKHTAR         56.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         14/08/2022!
+  412 8AOUT BELABGAA       SALEM           67.001M 2IDRISSIA                  !
+            3BRC         14/08/2022!
+  413 8AOUT GUEDDID        ISMAIL          13.001M 1DJELFA    FEKANI 1404/10  !
+ 0671077038 8HP.V.A      14/08/2022!
+  414 8AOUT GUEDDID        ZIANE           11.001M 1DJELFA    FEKKANI 1404/10 !
+ 0671077038 8HP.V.A      14/08/2022!
+  415 8AOUT GUAIRAA        HAMZA           14.001M 1DJELFA    BASATINE        !
+            1F.T         15/08/2022!
+  416 9SEPT ZITOUNI        LODJINE          3.002F 1DJELFA    BELABIED 119/104!
+0          23TIAC        08/09/2022!
+  417 9SEPT EL HANI        YOUNES           6.001M 1DJELFA    DIAR ECHAMES    !
+ B235/14    4MNG         08/09/2022!
+  418 9SEPT BEN ABDELLAH   AMEUR           46.001M 1DJELFA    DJELFA          !
+           14TP          08/06/2022!
+  419 9SEPT KHELFAOUI      ZINEB           26.002F 3GUEDDID                   !
+           14TP          08/09/2022!
+  420 9SEPT BOURAGBA       FATIHA          10.002F 1DJELFA    BELGHAZEL       !
+ 0672077783 2P.T         20/09/2022!
+  421 9SEPT SAILLAA        BILLAL          20.001M 1DJELFA    BERBIH          !
+ 0772055845 7LEISH.C     21/09/2022!
+  422 9SEPT BELLAKHEIT     MOHAMED         67.001M 1DJELFA    AIN CHIH        !
+            3BRC         22/09/2022!
+  423 9SEPT NOUI           MUSTAPHA        23.001M 1DJELFA    HACHI M         !
+            7LEISH.C     25/09/2022!
+  42410OCT  CHERIF         REYANE          14.001M 1DJELFA    BASSATINE       !
+            7LEISH.C     04/10/2022!
+  42510OCT  BEN YAMINA     FARAH            5.002F 1DJELFA    05 JUILLET      !
+            7LEISH.C     04/10/2022!
+  42610OCT  AISSAOUI       AISSA           43.001M 1DJELFA    BERBIH          !
+           11SYPHILIS    04/10/2022!
+  42710OCT  FARAH          WASILA          38.002F 1DJELFA    BERBIH          !
+           11SYPHILIS    04/10/2022!
+  42810OCT  K              FATNA           47.002F 1DJELFA    HAOUAS          !
+           12IVC         04/10/2022!
+  42910OCT  NAAM           X               28.001M 1DJELFA    AIN SRAR        !
+           12IVC         04/10/2022!
+  43010OCT  ZELHOUL        WALID           28.001M 1DJELFA    05 JUILLET      !
+            3BRC         04/10/2022!
+  43110OCT  CHERIET        AISSA           35.001M 1DJELFA    100 MAISON      !
+            3BRC         04/10/2022!
+  43210OCT  CHERIET        SELAHEDDINE     41.001M 1DJELFA    100 MAISON      !
+            3BRC         04/10/2022!
+  43310OCT  BEN LARBI      MUSTAPHA        30.001M 1DJELFA    AISSA KAID      !
+            3BRC         04/10/2022!
+  43410OCT  BELRABEH       FATIMA          31.002F 1DJELFA    DJELFA          !
+            3BRC         04/10/2022!
+  43510OCT  ABED           YOUCEF          25.001M 4CHAREF    CHAREF          !
+            3BRC         04/10/2022!
+  43610OCT  DJEDOUL        OEK             24.002F 4CHAREF                    !
+            3BRC         04/10/2022!
+  43710OCT  GUIAM          FRIHA           24.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         04/10/2022!
+  43810OCT  BEN AHMED      SAMIRA          26.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         04/10/2022!
+  43910OCT  DJIDOUL        MARIA           41.002F 1DJELFA    BENDJERMAIN     !
+            3BRC         04/10/2022!
+  44010OCT  KHTIM          MOHAMED         81.001M 4CHAREF                    !
+            3BRC         04/10/2022!
+  44110OCT  RAHMANI        NACERA          25.002F 1DJELFA    BEN SAID        !
+            3BRC         04/10/2022!
+  44210OCT  CHOULI         NAOUI           70.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         04/10/2022!
+  44310OCT  GUERMITI       THAMEUR         17.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         04/10/2022!
+  44410OCT  MAZOUZ         SELAH           32.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         04/10/2022!
+  44510OCT  BEN BAITOUN    SAAD            42.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         04/10/2022!
+  44610OCT  SOULAH         AMEUR           30.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         04/10/2022!
+  44710OCT  ZENATI         MERIEM           7.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         04/10/2022!
+  44810OCT  NAAM           ALI              8.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         04/10/2022!
+  44910OCT  BEN MILOUD     AHMED           10.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         04/10/2022!
+  45010OCT  HAMIDI         EMBARKA         27.002F 2IDRISSIA  IDRISSIA        !
+           43TEP         04/10/2022!
+  45110OCT  ATTELAOUI      OUSSAMA         12.001M 1DJELFA    ROUS AYOUN      !
+ 0673098879 7LEISH.C     03/04/2022!
+  45210OCT  SAILAA         MERIEM          34.002F 1DJELFA    NLLE MOQUEE     !
+ 0777758623 7LEISH.C     04/10/2022!
+  45310OCT  SILAA          MEMI            34.002F 1DJELFA    AMS             !
+            7LEISH.C     09/10/2022!
+  45410OCT  THEMRIA        KHADRA          23.002F 1DJELFA    BASSATINE       !
+            3BRC         09/10/2022!
+  45510OCT  KHALDOUN       EMBARKA         41.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         09/10/2022!
+  45610OCT  NAOUI          MOHAMED         47.001M 3GUEDDID                   !
+            3BRC         09/10/2022!
+  45710OCT  HAMIDA         AHMED           29.001M 1DJELFA    05 JUILLET      !
+            3BRC         09/10/2022!
+  45810OCT  SOULAH         NASSIMA         24.002F 1DJELFA    KARIA           !
+            3BRC         09/10/2022!
+  45910OCT  ABBASI         MADANI          17.001M 1DJELFA    BEN SAID        !
+            3BRC         09/10/2022!
+  46010OCT  BEN NAHRI      SAID            64.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         09/10/2022!
+  46110OCT  BEKAI          TOUFIK          30.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         09/10/2022!
+  46210OCT  SIFA           KHADRA          32.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         09/10/2022!
+  46310OCT  GUERMITI       HADDA           73.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         09/10/2022!
+  46410OCT  OUBAH          EL MADANI       59.001M 1DJELFA    KARIA           !
+           12IVC         17/10/2022!
+  46510OCT  BEN GUERINA    KHEIRA          51.002F 1DJELFA    STIHA           !
+           11SYPHILIS    17/10/2022!
+  46610OCT  OUDAI          MAYA            13.002F 1DJELFA    DJELFA          !
+            3BRC         17/10/2022!
+  46710OCT  MARHONE        AICHA           50.002F 1DJELFA    AIN CHIH        !
+            3BRC         17/10/2022!
+  46810OCT  CHATANE        AHMED           46.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         17/10/2022!
+  46910OCT  BEN RYM        KHADIJA         39.002F 1DJELFA    STIHA           !
+            3BRC         17/10/2022!
+  47010OCT  DJAAFAR        MOHAMED         13.001M 5DOUIS                     !
+            3BRC         17/10/2022!
+  47110OCT  BELAIB         MOKHTAR         36.001M 1DJELFA    BERNADA         !
+            3BRC         17/10/2022!
+  47210OCT  ATOUI          OUSAMA          12.001M 1DJELFA    ROUS AYOUN      !
+            7LEISH.C     17/10/2022!
+  47310OCT  ZITOUT         MESAOUD          6.001M 1DJELFA    BAHRARA         !
+            7LEISH.C     17/10/2022!
+  47410OCT  MOKADEM        ABDELAALI       23.001M 2IDRISSIA                  !
+            7LEISH.C     17/10/2022!
+  47510OCT  SAHRAOUI       MOHANED         16.001M 1DJELFA    BERBIH          !
+            7LEISH.C     17/10/2022!
+  47610OCT  BELABGAA       FATNA           50.002F 2IDRISSIA                  !
+           14TP          23/10/2022!
+  47710OCT  BOUKHARI       BEN YAAGOUB     23.001M 1DJELFA                    !
+            3BRC         23/10/2022!
+  47810OCT  BEN AISSA      AMER            57.001M 2IDRISSIA                  !
+            3BRC         23/10/2022!
+  47910OCT  KHELIFA        AHMED           21.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         23/10/2022!
+  48010OCT  ABDELRAHMANE   CHERIF          52.001M 1DJELFA                    !
+            3BRC         23/10/2022!
+  48110OCT  KHAITER        MOUSSA          52.001M 1DJELFA    BELAID          !
+            3BRC         23/10/2022!
+  48210OCT  GHOULEM        NAAS            33.001M 1DJELFA    100 MAISON      !
+            3BRC         23/10/2022!
+  48310OCT  BEN CHEKHI     MOHAMED         42.001M 1DJELFA    BERNADA         !
+            3BRC         23/10/2022!
+  48410OCT  HABOUL         HAFSA           35.002F 1DJELFA    BERNADA         !
+            3BRC         23/10/2022!
+  48510OCT  AZOUZ          ZAHIA           33.002F 1DJELFA    DHAYA           !
+            3BRC         23/10/2022!
+  48610OCT  AZAH           KHEIRA          27.002F 1DJELFA    AIN CHIH        !
+            3BRC         23/10/2022!
+  48710OCT  REGEG          FATNA           67.002F 1DJELFA    KARIA           !
+            3BRC         23/10/2022!
+  48810OCT  HABIB          MUSTAPHA        70.001M 1DJELFA    KARIA           !
+            3BRC         23/10/2022!
+  48910OCT  GUASMI         FATIMA          33.002F 1DJELFA    AIN CHIH        !
+            3BRC         23/10/2022!
+  49010OCT  ABDELLAOUI     TEYAB           20.001M 4CHAREF                    !
+            7LEISH.C     23/10/2022!
+  49110OCT  SAHRAOUI       MOHAMED         16.001M 1DJELFA    BERBIH          !
+            7LEISH.C     23/10/2022!
+  49210OCT  SAILAA         MERIEM          26.002F 1DJELFA    GUENNANI 183/01 !
+            7LEISH.C     27/10/2022!
+  49310OCT  CHOUICHA       WALID           28.001M 1DJELFA    BAHRARA         !
+            7LEISH.C     27/10/2022!
+  49410OCT  KOUAR          BEN ALIA        71.001M 2IDRISSIA                  !
+            7LEISH.C     27/10/2022!
+  49510OCT  MAATAOUI       X               26.002F 1DJELFA                    !
+           11SYPHILIS    27/10/2022!
+  49610OCT  ZITOUNI        AHMED           35.001M 1DJELFA    BELGHAZEL       !
+            3BRC         27/10/2022!
+  49710OCT  BEKAI          SALIMA          19.002F 4CHAREF                    !
+            3BRC         27/10/2022!
+  49810OCT  NETACH         HOURIA          76.002F 1DJELFA    CENTRE V        !
+            3BRC         27/10/2022!
+  49910OCT  GUERMITI       AICHA           80.002F 1DJELFA    BAHRARA         !
+            3BRC         27/10/2022!
+  50010OCT  ZITOUNI        SELAH           35.001M 1DJELFA    BAHRARA         !
+            3BRC         27/10/2022!
+  50110OCT  SAHRAOUI       MOHAMED         16.001M 1DJELFA                    !
+            7LEISH.C     31/10/2022!
+  50210OCT  BEN KHADA      MAHEDDINE       22.001M 4CHAREF                    !
+            7LEISH.C     31/10/2022!
+  50311NOV  BEN SIDI       KHAOULA         27.002F 4CHAREF                    !
+            3BRC         03/11/2022!
+  50411NOV  CHALABI        SALMA           37.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         03/11/2022!
+  50511NOV  ASEMA          ASEMA           11.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         03/11/2022!
+  50611NOV  BEN HANI       NAILA           19.002F 1DJELFA    HACHI M         !
+            3BRC         03/11/2022!
+  50711NOV  NAAM           HALIMA          13.002F 1DJELFA    AIN CHIH        !
+            3BRC         03/11/2022!
+  50811NOV  CHENNANA       AHMED           31.001M 1DJELFA    BELLABIED       !
+            7LEISH.C     06/11/2022!
+  50911NOV  BAKHTI         LAKHDER         44.001M 1DJELFA    MUSTAKBEL       !
+            7LEISH.C     06/11/2022!
+  51011NOV  TAIBI          MALIKA          60.002F 1DJELFA    PORTE CHAREF    !
+            7LEISH.C     06/11/2022!
+  51111NOV  BATACH         REBIH           63.001M 1DJELFA    GUENNANI        !
+            7LEISH.C     06/11/2022!
+  51211NOV  LAADJEL        AICHA           52.002F 1DJELFA    MESSAOUDI       !
+            3BRC         10/11/2022!
+  51311NOV  GUEDDID        FAIZA           35.002F 1DJELFA    BAHRARA         !
+            3BRC         10/11/2022!
+  51411NOV  BEN SIDI       AYA             19.002F 1DJELFA    HACHI M         !
+            3BRC         10/11/2022!
+  51511NOV  HEZIAL         BENT TEYAB      74.002F 2IDRISSIA                  !
+            3BRC         10/11/2022!
+  51611NOV  BRAHIMI        Z               50.002F 1DJELFA    BOUTRIFIS       !
+           12IVC         20/11/2022!
+  51711NOV  BEN BOUZID     TEYAB           47.002F 2IDRISSIA                  !
+            3BRC         20/11/2022!
+  51811NOV  GUASEM         ADEM            25.001M 2IDRISSIA                  !
+            3BRC         20/11/2022!
+  51911NOV  KOUADRIA       MIRA            58.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         20/11/2022!
+  52011NOV  RAICHI         ABDELRAHMANE     3.001M 4CHAREF                    !
+            3BRC         20/11/2022!
+  52111NOV  YOUSFI         MUISSA          47.001M 1DJELFA    AIN CHIH        !
+            3BRC         20/11/2022!
+  52211NOV  YAHYAOUI       FADILA          40.002F 2IDRISSIA                  !
+            3BRC         28/11/2022!
+  52311NOV  DIAB           MUSTAPHA        31.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         28/11/2022!
+  52411NOV  DARADJI        WASILA          29.002F 1DJELFA    BASATINE        !
+            3BRC         28/11/2022!
+  52511NOV  AICHI          A.RAHMANE       31.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         28/11/2022!
+  52611NOV  BEN DACHOU     AMAR            58.001M 1DJELFA    BOUTRIFIS       !
+           12IVC         28/11/2022!
+  52711NOV  BEN DACHOU     AICHA           48.002F 1DJELFA    BOUTRIFIS       !
+           12IVC         28/11/2022!
+  52812DEC  BEN SADEK      KAMEL           59.001M 1DJELFA    BEN TAIBA       !
+            7LEISH.C     01/12/2022!
+  52912DEC  BEN HAOUA      MOHAMED         53.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         05/12/2022!
+  53012DEC  DJEDIR         AMEUR           67.001M 1DJELFA    DJELFA          !
+           11SYPHILIS    13/12/2022!
+  53112DEC  AMRANE         FATOUM          45.002F 1DJELFA    KARIA           !
+           12IVC         13/12/2022!
+  53212DEC  MOUHI          ABELA           28.002F 1DJELFA    HAOUAS          !
+           14TP          13/12/2022!
+  53312DEC  BEN GOURINA    KOUIDER         72.001M 1DJELFA    BENDJERMAIN     !
+            3BRC         13/12/2022!
+  53412DEC  BEN HALA       MOHAMED         53.001M 1DJELFA    BOUTRIFIS       !
+           42COVID-19    13/12/2022!
+  53512DEC  AROUR          BEN AHMED       45.001M 2IDRISSIA                  !
+            3BRC         13/12/2022!
+  53612DEC  MOKHTARI       THAMEUR         19.001M 1DJELFA    DHAYA 82/15     !
+ 0698429999 7LEISH.C     15/12/2022!
+  53712DEC  GUISSAM        ALI             64.001M 1DJELFA    BENDJERMAIN     !
+           12IVC         15/12/2022!
+  53812DEC  BATACH         FATNA           29.002F 1DJELFA    HACHI M         !
+            3BRC         20/12/2022!
+  53912DEC  REGUIEG        HADDA           50.002F 1DJELFA    BAHRARA         !
+            3BRC         20/12/2022!
+  54012DEC  DJEBARA        MOKHTAR         24.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         20/12/2022!
+  54112DEC  MOKHTARI       MOHAMED         80.001M 1DJELFA    DHAYA           !
+            7LEISH.C     26/12/2022!
+  54212DEC  LOULID         IRRIJ           13.002F 1DJELFA    DJELFA          !
+            7LEISH.C     26/12/2022!
+  54312DEC  GOUMICH        AICHA           42.002F 1DJELFA    ZEREA           !
+            7LEISH.C     26/12/2022!
+

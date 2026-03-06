@@ -4,7 +4,7 @@ if(!require(pacman))install.packages("pacman");library("pacman")
 p_load(tidyverse,lubridate,ggthemes,gtsummary,labelled,questionr,readxl)
 
 ## import databases ----
-rh <- read_excel("data-raw/rh_2025.xlsx",col_names = FALSE, skip = 1)
+rh <- read_excel("data-raw/rh/rh_2025.xlsx",col_names = FALSE, skip = 1)
 colnames(rh) <- c("wilaya","structure",
                   "id","nom","prenom","nom_ar","prenom_ar","sexe","datenaissance",
                   "decret","echelon","grade_ar","grade","dateinstalation",

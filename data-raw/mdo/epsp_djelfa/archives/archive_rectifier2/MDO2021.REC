@@ -1,0 +1,640 @@
+16 1
+#RELEVEDESM   22   1  30  72   1   0   0 112 RELEVE DES MALADIES A DECLARATION OBLIGATOIRE 2021
+_MAT           2   4  30   6   4  12   5 112 MAT
+#MOIS          2   5  30   7   5   0   2 112 MOIS
+_MOIS1        11   5  30  11   5   3   5 112 _
+_NOM           2   6  30   8   6   3  15 112 NOM
+_PRENOM        2   7  30  10   7   3  15 112 PRENOM
+#AGE           2   8  30   7   8 102   6 112 AGE
+#SEXE          2   9  30   7   9   0   1 112 SEXE
+_SEXE1        10   9  30  10   9   3   2 112 _
+#COMM          2  10  30   7  10   0   1 112 COMM
+_COMM1        10  10  30  10  10   3  10 112 _
+_ADRESEXAC     2  11  30  14  11   3  17 112 ADRESEXAC
+_NTEL          2  12  30   8  12   3  10 112 NTEL
+#PTHOLOGI      2  13  30  11  13   0   2 112 PTHOLOGI
+_PTHOLOGI1    15  13  30  15  13   3  12 112 _
+_DATDMAL       2  14  30  10  14  11  10 112 DATDMAL
+    1 1JAN  GASMI          MESSAOUD        40.001M 1DJELFA    BOUKHALFA       !
+            3BRC         18/01/2021!
+    2 1JAN  HANI           SAIDA           18.002F 4CHAREF    TOKERSANE       !
+            3BRC         18/01/2021!
+    3 1JAN  DELOULA        MOHAMED         68.001M 4CHAREF    MESIKA          !
+            3BRC         18/01/2021!
+    4 1JAN  SOUAHLIA       LAKHDAR         38.001M 6BENYAAGOUBBENYAGOUB       !
+            3BRC         18/01/2021!
+    5 1JAN  GUETTAR        OMAR            65.001M 1DJELFA    AIN CHIH        !
+            3BRC         18/01/2021!
+    6 1JAN  KHAMKHAM       AICHA           30.002F 1DJELFA    KARIA           !
+            3BRC         18/01/2021!
+    7 1JAN  DJENAH         HMIDA           29.001M 1DJELFA    BAHRARA         !
+            3BRC         18/01/2021!
+    8 1JAN  HADIDI         MOKHTAR         35.001M 1DJELFA    100 MAISON      !
+            3BRC         18/01/2021!
+    9 1JAN  GACEM          MOHAMED         25.001M 2IDRISSIA  IDRISIA         !
+            3BRC         18/01/2021!
+   10 1JAN  DAHMOUN        AYOUB           10.001M 2IDRISSIA  IDRISIA         !
+            3BRC         18/01/2021!
+   11 1JAN  MIRA           ABDELAZIZ        8.001M 4CHAREF    CHAREF          !
+            3BRC         18/01/2021!
+   12 1JAN  BEN HADJ       X               50.001M 1DJELFA    DHAYA           !
+           11SYPHILIS    18/01/2021!
+   13 1JAN  BEN HADJ       OUARDIA         35.002F 1DJELFA    DHAYA           !
+           11SYPHILIS    18/01/2021!
+   14 1JAN  SALMI          FERIHA          70.002F 1DJELFA    WIAM            !
+           12IVC         18/01/2021!
+   15 1JAN  GACEM          MOHAMED         28.001M 1DJELFA    BEN TAIBA       !
+            3BRC         11/01/2021!
+   16 1JAN  GACEM          TEYAB            4.001M 2IDRISSIA  IDRISIA         !
+            3BRC         11/01/2021!
+   17 1JAN  TAIBI          AHMED           47.001M 4CHAREF    CHAREF          !
+            3BRC         01/02/2021!
+   18 1JAN  BEN AISSA      MELISA           1.202F 1DJELFA    BENDJERMAIN     !
+ 066788757637PFA         17/01/2021!
+   19 1JAN  BEN KOUS       AHLAM           36.002F 1DJELFA    BAHRARA         !
+           12IVC         20/01/2021!
+   20 1JAN  BZIZ           LAKHDAR         27.001M 1DJELFA    KARIA           !
+            7LEISH.C     01/02/2021!
+   21 1JAN  GATCHA         NACEREDDINE     16.001M 1DJELFA    BELGAZEL        !
+            3BRC         01/02/2021!
+   22 1JAN  BEN NOUFEL     EL HADI         33.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         01/02/2021!
+   23 1JAN  BEN HEDI       KHEIRA          28.002F 6BENYAAGOUB                !
+            3BRC         01/02/2021!
+   24 1JAN  KHODRI         AICHA           37.002F 1DJELFA    HACHI MAAMAR    !
+            3BRC         01/02/2021!
+   25 1JAN  ZIANI          KHEIRA          37.002F 1DJELFA    CHENANE         !
+            3BRC         01/02/2021!
+   26 1JAN  BOUSBAA        ACHORA          45.002F 2IDRISSIA                  !
+            3BRC         01/02/2021!
+   27 1JAN  BELKHEIR       MOHAMED         66.001M 1DJELFA    100 MAISON      !
+            3BRC         01/02/2021!
+   28 1JAN  HABITAT        SALMA           30.002F 1DJELFA    DJELFA          !
+            3BRC         01/02/2021!
+   29 1JAN  DJAID          FAIZA           18.002F 1DJELFA    HAOUAS          !
+            3BRC         01/02/2021!
+   30 1JAN  SEDIK          AHLEM           38.002F 1DJELFA    DHAYA           !
+            3BRC         01/02/2021!
+   31 1JAN  SEDIK          AHMED           28.001M 1DJELFA    DHAYA           !
+            3BRC         01/02/2021!
+   32 2FEV  BEN ALI        KHIDAR          33.001M 1DJELFA    BAHRARA         !
+            3BRC         08/02/2021!
+   33 2FEV  ABASSI         AICHA           20.002F 1DJELFA    BEN SAID        !
+            3BRC         08/02/2021!
+   34 2FEV  BEN SALEM      EMBARKA         75.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         08/02/2021!
+   35 2FEV  AMRI           SAIDA           27.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         08/02/2021!
+   36 2FEV  SEDIK          AICHA            3.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         08/02/2021!
+   37 2FEV  DJEHA          CHABANE         14.001M 4CHAREF    CHAREF          !
+            3BRC         08/02/2021!
+   38 2FEV  TOUIR          HADDA           44.002F 1DJELFA    AIN SRAR        !
+            7LEISH.C     08/02/2021!
+   39 2FEV  SILOR          BACHIR          40.001M 1DJELFA    BENDJERMAIN     !
+            3BRC         14/02/2021!
+   40 2FEV  DHAIFI         ZOUINA          60.002F 1DJELFA    ROUS AYOUN      !
+            3BRC         14/02/2021!
+   41 2FEV  BEN OTHMANE    AHMED           47.001M 4CHAREF    CHAREF          !
+            3BRC         14/02/2021!
+   42 2FEV  BOUABDELLI     MUSTAPHA        27.001M 1DJELFA    05 JUILLET      !
+            3BRC         14/02/2021!
+   43 2FEV  DOKMANE        BELKACEM        18.001M 1DJELFA    KARIA           !
+            3BRC         14/02/2021!
+   44 2FEV  BOUMKHALAT     DJEMAL          20.001M 1DJELFA    KARIA           !
+            3BRC         14/02/2021!
+   45 2FEV  KOUIDRI        MOHAMED         52.001M 2IDRISSIA  IDRISIA         !
+            3BRC         14/02/2021!
+   46 2FEV  GUEMANE        FATNA           30.002F 1DJELFA    DJELFA          !
+            7LEISH.C     14/02/2021!
+   47 2FEV  BERINI         RADOUANE        62.001M 1DJELFA    DJELFA          !
+            7LEISH.C     14/02/2021!
+   48 2FEV  BEN AHMED      HOCINE          35.001M 4CHAREF    CHAREF          !
+            3BRC         14/02/2021!
+   49 2FEV  KHAMKHAM       MILOUD          54.001M 1DJELFA    KARIA           !
+            3BRC         14/02/2021!
+   50 2FEV  KIDAR          BEN ALIA             1M 1DJELFA    BAHRARA         !
+            3BRC         18/02/2021!
+   51 2FEV  KIDAR          ALLAE           15.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         28/02/2021!
+   52 2FEV  SOUAHLIA       OEM             45.002F 1DJELFA    DJELFA          !
+            3BRC         28/02/2021!
+   53 2FEV  BEN SAADA      FATOUM          58.002F 4CHAREF    CHAREF          !
+            3BRC         28/02/2021!
+   54 2FEV  CHABILA        OEK             31.002F 1DJELFA    BERBIH          !
+            3BRC         28/02/2021!
+   55 2FEV  OUMRI          SELAH           19.001M 1DJELFA    BELGHAZEL       !
+            3BRC         28/02/2021!
+   56 2FEV  KHEDIRI        AICHA           30.002F 1DJELFA    DJELFA          !
+            9HP.V.B      28/02/2021!
+   57 2FEV  CHINA          BELKHEIR        21.001M 1DJELFA    KARIA           !
+            7LEISH.C     28/02/2021!
+   58 2FEV  ABDELHAFID     BOUSAOUD        74.001M 6BENYAAGOUBBENYAGOUB       !
+            3BRC         28/02/2021!
+   59 2FEV  ZIOUACH        ALI             19.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         28/02/2021!
+   60 2FEV  BEN SOUDNI     YOUCEF          18.001M 1DJELFA    KARIA           !
+            3BRC         28/02/2021!
+   61 2FEV  RAHMOUN        MILOUD          33.001M 3GUEDDID   GUEDDID         !
+            3BRC         28/02/2021!
+   62 2FEV  MAKHLOUF       MADNIA          74.002F 1DJELFA    05 JUILLET      !
+            3BRC         28/02/2021!
+   63 2FEV  BAHLOULI       MOHAMED         26.001M 2IDRISSIA  IDRISIA         !
+            3BRC         28/02/2021!
+   64 2FEV  BELKHIL        AEK             70.001M 1DJELFA    ZEREA           !
+            3BRC         28/02/2021!
+   65 3MARS ROUABEH        OUSSAMA         18.001M 2IDRISSIA  IDRISSIA        !
+            3BRC         04/03/2021!
+   66 3MARS CHEHABA        FATIHA          45.002F 1DJELFA    DJELFA          !
+           14TB          07/03/2021!
+   67 3MARS DERMAGE        MIMOUNA         34.002F 1DJELFA    BERBIH          !
+           23TIAC        05/03/2021!
+   68 3MARS FADHA          ASSIL            6.002F 1DJELFA    BERBIH          !
+           23TIAC        05/03/2021!
+   69 3MARS FADHA          ABDELHAFID       7.001M 1DJELFA    BERBIH          !
+           23TIAC        05/03/2021!
+   70 3MARS FEDHA          ASSINAT         10.002F 1DJELFA    BERBIH          !
+           23TIAC        05/03/2021!
+   71 3MARS FEDHA          LAMIS           12.002F 1DJELFA    BERBIH          !
+           23TIAC        05/03/2021!
+   72 3MARS YOUCEFI        EMBARKA         27.002F 3GUEDDID   GUEDID          !
+            3BRC         14/03/2021!
+   73 3MARS SERSAB         BACHIR          28.001M 4CHAREF    CHAREF          !
+            3BRC         14/03/2021!
+   74 3MARS TELLI          MOHAMED         30.001M 6BENYAAGOUB                !
+            3BRC         14/03/2021!
+   75 3MARS MADINE         MOHAMED         21.001M 1DJELFA    BERBIH          !
+            3BRC         14/03/2021!
+   76 3MARS BEN CHERIET    MHAMED          55.001M 1DJELFA    BEN SAID        !
+            3BRC         14/03/2021!
+   77 3MARS MDOUH          LAKHDAR         24.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         14/03/2021!
+   78 3MARS DJEDID         INYES           17.001M 1DJELFA    ZEREA           !
+            3BRC         14/03/2021!
+   79 3MARS CHERIET        AEK             15.001M 1DJELFA    05 JUILLET      !
+            3BRC         14/03/2021!
+   80 3MARS DAHMMED        MOHAMED         60.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         14/03/2021!
+   81 3MARS LOUIL          MOHAMED         53.001M 4CHAREF    MSIKA           !
+            3BRC         14/03/2021!
+   82 3MARS DENIDINA       RAMLIA          33.002F 4CHAREF    MSIKA           !
+            3BRC         14/03/2021!
+   83 3MARS LOUIL          YOUCEF          12.001M 4CHAREF    MSIKA           !
+            3BRC         14/03/2021!
+   84 3MARS LOUIL          BACHIR           5.001M 4CHAREF    MSIKA           !
+            3BRC         14/03/2021!
+   85 3MARS SEDIK          AHMED           23.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         14/03/2021!
+   86 3MARS ZOUABLIA       SOHILA           6.002F 1DJELFA    HACHI M         !
+            3BRC         14/03/2021!
+   87 3MARS ZOUABLIA       AMAR            59.001M 1DJELFA    HACHI M         !
+            3BRC         14/03/2021!
+   88 3MARS ABBASI         MOHAMED          6.001M 1DJELFA    BEN SAID        !
+            3BRC         14/03/2021!
+   89 3MARS ABBASI         MOULAY          17.001M 1DJELFA    BEN SAID        !
+            3BRC         14/03/2021!
+   90 3MARS CHERIET        AICHA           50.002F 1DJELFA    05 JUILLET      !
+            3BRC         14/03/2021!
+   91 3MARS DENIDINA       BILAL           16.001M 1DJELFA    BEN SAID        !
+            3BRC         14/03/2021!
+   92 3MARS MELOUL         AMRANE          11.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         14/03/2021!
+   93 3MARS BEN MOUFEK     SAADIA          33.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         14/03/2021!
+   94 3MARS BOUDANA        MEKADAM         43.001M 1DJELFA    KARIA           !
+            3BRC         14/03/2021!
+   95 3MARS GUERD          IMAD            68.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         14/03/2021!
+   96 3MARS LOIDANI        ZOHRA           25.002F 1DJELFA    BERBIH          !
+            3BRC         21/03/2021!
+   97 3MARS TAOUI          MOHAMED         18.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         21/03/2021!
+   98 3MARS TELLI          FETHI            3.001M 1DJELFA    BERBIH          !
+            3BRC         21/03/2021!
+   99 3MARS DAHMANI        FATIHA          45.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         21/03/2021!
+  100 3MARS HAMIDA         KHALED          16.001M 1DJELFA    BERBIH          !
+            3BRC         21/03/2021!
+  101 3MARS THOUANIA       MOHAMED         50.001M 1DJELFA    HACHI M         !
+            3BRC         21/03/2021!
+  102 3MARS SERSAB         BEN TORKIA      37.001M 1DJELFA    FOSHA           !
+            3BRC         21/03/2021!
+  103 3MARS DJERADA        HAKIM           12.001M 1DJELFA    KARIA           !
+            3BRC         21/03/2021!
+  104 3MARS BEN SALEM      SAAD            23.001M 4CHAREF    CHAREF          !
+            3BRC         21/03/2021!
+  105 3MARS CHINOUN        MILOUD          34.001M 1DJELFA    BERBIH          !
+            3BRC         21/03/2021!
+  106 3MARS LOUIL          MOHAMED          9.001M 4CHAREF    MESIKA          !
+            3BRC         21/03/2021!
+  107 3MARS BOUSRI         SAFI            29.001M 1DJELFA    FOSHA           !
+            3BRC         21/03/2021!
+  108 3MARS BOUSRI         RITAJ            5.002F 1DJELFA    FOSHA           !
+            3BRC         21/03/2021!
+  109 3MARS TELI           AEK             12.001M 1DJELFA    ROUS AYOUN      !
+            3BRC         21/03/2021!
+  110 3MARS SERSAB         ALI             30.001M 1DJELFA    FOSHA           !
+            3BRC         21/03/2021!
+  111 3MARS MARIAT         TAHER            5.001M 1DJELFA    WIAM            !
+            3BRC         21/03/2021!
+  112 3MARS DAHMANI        TEYAB           38.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         21/03/2021!
+  113 3MARS BOUSRI         MOHAMED         15.001M 1DJELFA    KARIA           !
+            3BRC         21/03/2021!
+  114 3MARS BOUSRI         MOUSSA          17.001M 1DJELFA    KARIA           !
+            3BRC         21/03/2021!
+  115 3MARS BOUSRI         KHOULA          11.002F 1DJELFA    KARIA           !
+            3BRC         21/03/2021!
+  116 3MARS BOUSRI         FATNA           10.002F 1DJELFA    KARIA           !
+            3BRC         21/03/2021!
+  117 3MARS DJENDAOUI      SELAH EDINE      8.001M 1DJELFA    AIN CHIH        !
+            3BRC         29/03/2021!
+  118 3MARS THAMERI        MERIEM          35.002F 1DJELFA    DJELFA          !
+            7LEISH.C     29/03/2021!
+  119 3MARS KOUISSI        HADDA           60.002F 1DJELFA    100 MAISON      !
+            7LEISH.C     29/03/2021!
+  120 3MARS KOUISSI        MESSAOUD        16.001M 1DJELFA    100 MAISON      !
+            7LEISH.C     29/03/2021!
+  121 3MARS TELLI          OUSAMA          13.001M 1DJELFA    BERBIH          !
+            3BRC         29/03/2021!
+  122 3MARS AMERI          HOURIA          19.002F 1DJELFA    KARIA           !
+            3BRC         29/03/2021!
+  123 3MARS BOUSRI         NAKHLA          15.002F 1DJELFA    KARIA           !
+            3BRC         29/03/2021!
+  124 3MARS BEN GUERINA    FATNA           44.002F 1DJELFA    KARIA           !
+            3BRC         29/03/2021!
+  125 3MARS CHETTOUH       AHMED           24.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         29/03/2021!
+  126 3MARS MADI           CHOUIHA         16.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         29/03/2021!
+  127 3MARS CHINOUN        NACER           28.001M 1DJELFA    BERBIH          !
+            3BRC         29/03/2021!
+  128 3MARS CHINOUN        MOHAMED         18.001M 1DJELFA    KARIA           !
+            3BRC         29/03/2021!
+  129 4AVRILHAMDANI        ADEL            36.001M 1DJELFA    DJELFA          !
+            3BRC         01/04/2021!
+  130 4AVRILBEN HADJ       ALI             79.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         04/04/2021!
+  131 4AVRILROUGUIEG       KHEIRA          18.002F 4CHAREF    TOUZARA         !
+            3BRC         04/04/2021!
+  132 4AVRILRABAH          ZOUINA          18.002F 1DJELFA    KARIA           !
+            3BRC         04/04/2021!
+  133 4AVRILSERSAB         KHADIJA         16.002F 1DJELFA    FOSHA           !
+            3BRC         04/04/2021!
+  134 4AVRILEL HAOUI       ACHOUAK          2.002F 1DJELFA    DJELFA          !
+            3BRC         04/04/2021!
+  135 4AVRILSERRAY         MOHAMED          2.001M 1DJELFA    100 MAISON      !
+            3BRC         04/04/2021!
+  136 4AVRILGARDI          KHEIRA          41.002F 1DJELFA    DJELFA          !
+            3BRC         04/04/2021!
+  137 4AVRILAMRI           HOURIA          19.002F 1DJELFA    KARIA           !
+            3BRC         04/04/2021!
+  138 4AVRILZAAIMINI       KHADIJA         23.002F 1DJELFA    KARIA           !
+            3BRC         04/04/2021!
+  139 4AVRILBAIDI          OUM HANI        38.002F 1DJELFA    KARIA           !
+            3BRC         04/04/2021!
+  140 4AVRILDIA            HADJIRA         33.002F 1DJELFA    BENDJERMAIN     !
+            3BRC         11/04/2021!
+  141 4AVRILDENIDINA       MAKHLOUF        23.001M 4CHAREF    TOKERSANE       !
+            3BRC         11/04/2021!
+  142 4AVRILABBASI         IDRISS          61.001M 1DJELFA    DJELFA          !
+            3BRC         11/04/2021!
+  143 4AVRILBOUSRI         SAADIA          10.002F 1DJELFA    KARIA           !
+            3BRC         11/04/2021!
+  144 4AVRILGOUHIRI        HANED           24.002F 1DJELFA    KARIA           !
+            3BRC         11/04/2021!
+  145 4AVRILBELKHEIRI      KHALED          27.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         11/04/2021!
+  146 4AVRILDJERADA        HAKIM            8.001M 1DJELFA    KARIA           !
+            3BRC         11/04/2021!
+  147 4AVRILDJEDIDI        MOHAMED         44.001M 1DJELFA    HAOUAS          !
+            3BRC         11/04/2021!
+  148 4AVRILGUEMANE        BACHIR          37.001M 1DJELFA    BERBIH          !
+            3BRC         11/04/2021!
+  149 4AVRILZITOUNI        ABDELHAMID      25.001M 1DJELFA    BAHRARA         !
+            3BRC         11/04/2021!
+  150 4AVRILZITOUT         MATAA           35.001M 1DJELFA    AMS             !
+            3BRC         19/01/2021!
+  151 4AVRILREHMI          FERIHA          50.002F 4CHAREF    CHAREF          !
+            3BRC         19/04/2021!
+  152 4AVRILTHAMRI         KHADRA          60.002F 1DJELFA    KARIA           !
+            3BRC         19/04/2021!
+  153 4AVRILBEN MESSAOUD   MOHAMED         35.001M 1DJELFA    BENDJERMAIN     !
+            3BRC         19/04/2021!
+  154 4AVRILDOKMANE        FATNA           36.002F 1DJELFA    CHAABANI        !
+            3BRC         19/04/2021!
+  155 4AVRILAISSAOUI       OUMHANI         34.002F 3GUEDDID   GUEDDID         !
+            3BRC         19/04/2021!
+  156 4AVRILBOUSRI         BATOUL           6.002F 1DJELFA    KARIA           !
+            3BRC         19/04/2021!
+  157 4AVRILRAKAH          ZOUINA          17.002F 1DJELFA    KARIA           !
+            3BRC         19/04/2021!
+  158 4AVRILTHAMERI        AHMED           60.001M 1DJELFA    HACHI MAAMAR    !
+            3BRC         19/04/2021!
+  159 4AVRILBEN AISSA      A.RAHMANE       13.001M 1DJELFA    BOUTRIFIS       !
+            4MNG         22/04/2021!
+  160 4AVRILHABIB          KAMEL           41.001M 1DJELFA    BENDJERMAIN     !
+            3BRC         26/04/2021!
+  161 4AVRILHABIB          ADEM             5.001M 1DJELFA    BENDJERMAIN     !
+            3BRC         26/04/2021!
+  162 4AVRILTOABA          HOUCEM           3.001M 1DJELFA    05 JUILLET      !
+            7LEISH.C     03/04/2021!
+  163 5MAI  CHEIKH         NAKHLA          59.002F 1DJELFA    BAHRARA         !
+            3BRC         10/05/2021!
+  164 5MAI  ABDELLAH       ZIDOUN          18.001M 1DJELFA    DJELFA          !
+            3BRC         10/05/2021!
+  165 5MAI  TOUIL          AMAR            58.001M 2IDRISSIA  IDRISSIA        !
+            3BRC         10/05/2021!
+  166 5MAI  ZEBDA          ZAKARIA         26.001M 2IDRISSIA  IDRISSIA        !
+            3BRC         10/05/2021!
+  167 5MAI  DAOUDI         AIMANE          40.001M 1DJELFA    BENDJERMAIN     !
+            3BRC         10/05/2021!
+  168 5MAI  TOUISSI        AICHA           34.002F 1DJELFA    KARIA           !
+            3BRC         10/05/2021!
+  169 5MAI  SEMA           IBTISSAM        39.002F 1DJELFA    BAHRARA         !
+            3BRC         10/05/2021!
+  170 5MAI  MADANI         AMEUR           42.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         10/05/2021!
+  171 5MAI  BEN SEGHIER    SIHAM           24.002F 1DJELFA    KARIA           !
+            3BRC         10/05/2021!
+  172 5MAI  HABIB          ZOHRA            6.001M 1DJELFA    CHAAWA          !
+            3BRC         10/05/2021!
+  173 5MAI  BEN SADOK      KHADRA          43.002F 1DJELFA    CHAAWA          !
+            3BRC         10/05/2021!
+  174 5MAI  GUASMI         ZOHRA           10.002F 1DJELFA    CHAAWA          !
+            3BRC         10/05/2021!
+  175 5MAI  BEN SADEK      AMIRA           30.002F 1DJELFA    CHAAWA          !
+            3BRC         10/05/2021!
+  176 5MAI  ZROUG          WALHA           60.002F 1DJELFA    AIN CHIH        !
+            3BRC         10/05/2021!
+  177 5MAI  RAMDANE        AHMED           42.001M 1DJELFA    BELGHAZEL       !
+            3BRC         10/05/2021!
+  178 5MAI  SOUAHLIA       BELKACEM        76.001M 1DJELFA    AIN CHIH        !
+            3BRC         10/05/2021!
+  179 5MAI  LELI           A.RAHMANE       12.001M 1DJELFA    KARIA           !
+            3BRC         10/05/2021!
+  180 5MAI  BOUSRI         EMBARKA         66.002F 1DJELFA    BEN SAID        !
+            3BRC         10/05/2021!
+  181 5MAI  AROUI          MOHAMED          9.001M 1DJELFA    KARIA           !
+            3BRC         10/05/2021!
+  182 5MAI  KOUIDRI        AHMED           59.001M 1DJELFA    FOSHA           !
+            3BRC         10/05/2021!
+  183 5MAI  KAHOUL         MIRA            12.002F 1DJELFA    DJELFA          !
+            3BRC         10/05/2021!
+  184 5MAI  CHOAIB         BELKIS          17.001M 1DJELFA    DJELFA          !
+            3BRC         10/05/2021!
+  185 5MAI  DAHMANE        AMRA            60.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         10/05/2021!
+  186 5MAI  BEN CHEIKH     TAHER           77.001M 1DJELFA    WIAM            !
+            3BRC         10/05/2021!
+  187 5MAI  ZIKEM          MOHAMED         32.001M 1DJELFA    100 MAISON      !
+            3BRC         10/05/2021!
+  188 5MAI  OMARI          MOHAMED         30.001M 1DJELFA    BAHRARA         !
+            3BRC         10/05/2021!
+  189 5MAI  BOUSRI         AMEUR           61.001M 1DJELFA    KARIA           !
+            3BRC         10/05/2021!
+  190 5MAI  YAKOUT         ZOHRA           37.002F 1DJELFA    KARIA           !
+            3BRC         10/05/2021!
+  191 5MAI  HAMAIDI        MESSAOUD        78.001M 1DJELFA    AIN CHIH        !
+            3BRC         19/05/2021!
+  192 5MAI  HAMAIDI        THAMEUR         29.001M 1DJELFA    AIN CHIH        !
+            3BRC         19/05/2021!
+  193 5MAI  KOUADRIA       ABDELREZAK       4.001M 1DJELFA    ROUS AYOUN      !
+            7LEISH.C     26/05/2021!
+  194 5MAI  BZIZ           ATTIA           25.001M 4CHAREF    CHAREF          !
+            3BRC         26/05/2021!
+  195 5MAI  HAFFAF         MOKHTAR         17.001M 1DJELFA    KARIA           !
+            3BRC         26/05/2021!
+  196 5MAI  MALEMTI        NACER            4.001M 1DJELFA    ZEREA           !
+            3BRC         26/05/2021!
+  197 5MAI  SENNI          NADJET          38.002F 1DJELFA    ZEREA           !
+            3BRC         26/05/2021!
+  198 5MAI  BEN HOUM       MOKHTAR         20.001M 6BENYAAGOUBBENYAGOUB       !
+            3BRC         26/05/2021!
+  199 5MAI  BEN HAMIDI     OTHEMANE        19.001M 1DJELFA    BERBIH          !
+            3BRC         26/05/2021!
+  200 5MAI  DJEHICH        FATIMA          45.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         26/05/2021!
+  201 5MAI  BEN NAOUM      TAOUS           26.002F 1DJELFA    BAHRARA         !
+            3BRC         26/05/2021!
+  202 5MAI  ZAKRI          KHADRA          18.002F 1DJELFA    100 MAISON      !
+            3BRC         26/05/2021!
+  203 5MAI  RABHI          ROMAISA         58.002F 1DJELFA    BOUTRIFIS       !
+            3BRC         26/05/2021!
+  204 5MAI  ZAKRI          ZAKHROUFA       30.002F 1DJELFA    100 MAISON      !
+            3BRC         26/05/2021!
+  205 5MAI  RABHI          ALI             40.001M 1DJELFA    ROUS AYOUN      !
+            3BRC         26/05/2021!
+  206 5MAI  BEN SALEM      MOHAMED         51.001M 4CHAREF    TOUAZI          !
+            3BRC         26/05/2021!
+  207 5MAI  ZITOUNI        ALI             35.001M 1DJELFA    BAHRARA         !
+            3BRC         26/05/2021!
+  208 5MAI  ZITOUNI        ABDELLAH        15.001M 1DJELFA    BAHRARA         !
+            3BRC         26/05/2021!
+  209 5MAI  AZOUZI         MOKHTAR         66.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         26/05/2021!
+  210 5MAI  MADI           AEK             79.001M 1DJELFA    AIN SRAR        !
+            3BRC         26/05/2021!
+  211 5MAI  MADI           KHEIRA          70.002F 1DJELFA    AIN SRAR        !
+            3BRC         26/05/2021!
+  212 5MAI  AISSAOUI       THAMEUR         34.001M 3GUEDDID   GUEDID          !
+            3BRC         26/05/2021!
+  213 5MAI  CHERBOUL       FATIHA          25.002F 1DJELFA    KARIA           !
+            3BRC         26/05/2021!
+  214 5MAI  NAOUI          AEK             26.001M 1DJELFA    HACHI M         !
+            3BRC         26/05/2021!
+  215 5MAI  TELLI          AICHA            5.002F 1DJELFA    ROUS AYOUN      !
+            3BRC         26/05/2021!
+  216 5MAI  OBAH           CHLAIKAM        49.001M 1DJELFA    KARIA           !
+            3BRC         26/05/2021!
+  217 5MAI  ASSALI         KHADROUN        52.001M 1DJELFA    BEN SAID        !
+            3BRC         26/05/2021!
+  218 5MAI  GAHGOUH        HADJIRA          5.002F 1DJELFA    DJELFA          !
+            3BRC         26/05/2021!
+  219 5MAI  GAHGOUH        REBIHA           8.002F 1DJELFA    DJELFA          !
+            3BRC         26/05/2021!
+  220 5MAI  MALTI          ZARGUA          70.001M 1DJELFA    HACHI M         !
+            3BRC         26/05/2021!
+  221 5MAI  ZITOUNI        RACHIDA          6.002F 1DJELFA    BAHRARA         !
+            3BRC         26/05/2021!
+  222 5MAI  SERSAB         THAMEUR         37.001M 1DJELFA    FOSHA           !
+            3BRC         26/05/2021!
+  223 5MAI  MALTI          BOUZID          51.001M 1DJELFA    ROUS AYOUN      !
+            3BRC         26/05/2021!
+  224 5MAI  MOULAY         KHEDRA          57.002F 1DJELFA    ZEREA           !
+            3BRC         26/05/2021!
+  225 5MAI  BOUSRI         AEK             17.001M 1DJELFA    KARIA           !
+            3BRC         26/05/2021!
+  226 5MAI  BELKEIR        KHALED          25.001M 1DJELFA    BOUTRIFIS       !
+            3BRC         26/05/2021!
+  227 5MAI  CHARBI         LAKHDAR         34.001M 1DJELFA    BERNADA         !
+            3BRC         26/05/2021!
+  228 5MAI  FASIH          FATIHA          55.002F 1DJELFA    BERBIH          !
+            3BRC         26/05/2021!
+  229 5MAI  MAIFI          BOUZID          51.001M 1DJELFA    ROUS AYOUN      !
+            3BRC         26/05/2021!
+  230 5MAI  BEN SAAD       OUM SAAD        69.002F 1DJELFA    BOUTRIFIS       !
+            7LEISH.C     27/05/2021!
+  231 6JUIN BOUZEKOUTA     KARIMA               2F 1DJELFA    FEKANI          !
+            3BRC         08/06/2021!
+  232 6JUIN ORABI          NOURA           30.002F 4CHAREF    CHAREF          !
+            3BRC         10/06/2021!
+  233 6JUIN DERKOUCH       OUM HANI        59.002F 1DJELFA    BASSATINE       !
+            7LEISH.C     23/06/2021!
+  234 6JUIN AYACH          DJIHANE          5.002F 2IDRISSIA  IDRISSIA        !
+            4MNG         24/06/2021!
+  235 6JUIN MBARKI         MERIEM          80.002F 1DJELFA    MAALBA          !
+            3BRC         27/06/2021!
+  236 6JUIN BACHIRI        REGAD            1.601M 1DJELFA    DJELFA          !
+           37PFA         24/06/2021!
+  237 6JUIN MESITFA        FATMA                2F 5DOUIS     DOUIS           !
+            3BRC         30/06/2021!
+  238 6JUIN HENICH         OEK                  2F 5DOUIS     DOUIS           !
+            3BRC         30/06/2021!
+  239 7JUIL BEN CHIRA      HAFSA           78.002F 1DJELFA    CENTRE V 109/61 !
+ 078330604523TIAC        13/07/2021!
+  240 7JUIL BEN KHELIF     SOUAD           46.002F 1DJELFA    CENTRE V 109/61 !
+           23TIAC        13/07/2021!
+  241 7JUIL HOHOUN         ABDELRAHIM      12.001M 1DJELFA    CENTRE V        !
+           23TIAC        13/07/2021!
+  242 7JUIL HOHOUN         YOUCEF           1.001M 1DJELFA    CENTRE V 109/61 !
+           23TIAC        13/07/2021!
+  243 7JUIL BEN KHELIF     ABDELRAHMANE     6.001M 1DJELFA    CENTRE V 109/61 !
+           23TIAC        13/07/2021!
+  244 7JUIL BEN KHELIF     SAFIA            4.002F 1DJELFA    CENTRE V        !
+           23TIAC        13/07/2021!
+  245 5MAI  GUESMI         KHARFIA         24.002F 1DJELFA    KARIA           !
+            7LEISH.C     10/05/2021!
+  246                                                                         !
+                                   !
+  247 6JUIN GHARBI         OMAR            17.001M 1DJELFA    BAHRARA         !
+            7LEISH.C     02/06/2021!
+  248 7JUIL KASRI          OMAR             6.001M 1DJELFA    HACHI M         !
+            7LEISH.C     17/07/2021!
+  249 7JUIL BAKHTI         MOATAZ           9.001M 1DJELFA    KARIA           !
+            7LEISH.C     12/07/2021!
+  250 8AOUT DHAIFELLAH     SADJIDA         15.002F 1DJELFA    BERNADA         !
+            7LEISH.C     15/08/2021!
+  251 8AOUT CHERBOUL       MOHAMED         26.001M 1DJELFA    KARIA           !
+            7LEISH.C     16/08/2021!
+  252 8AOUT BEN KHALED     OUM ELKHEIR     50.002F 1DJELFA    BOUTRIFIS       !
+            7LEISH.C     26/08/2021!
+  253 9SEPT MADRI          NOUR HOUDA       2.002F 1DJELFA    AIN CHIH        !
+            7LEISH.C     10/09/2021!
+  254 9SEPT BOULBINA       BOCHRA           2.002F 1DJELFA    BOUTRIFIS       !
+            7LEISH.C     30/09/2021!
+  25510OCT  YAAGOUB        AMEUR           41.001M 1DJELFA    DJELFA          !
+            7LEISH.C     04/10/2021!
+  25610OCT  MIHOUBI        FEHAD           19.001M 1DJELFA    DJELFA          !
+           23TIAC        11/10/2021!
+  25710OCT  KERIDA         OUM ELKHEIR     32.002F 1DJELFA    DJELFA          !
+           23TIAC        11/10/2021!
+  25810OCT  DJIDEL         KAMEL           20.001M 1DJELFA    DJELFA          !
+           23TIAC        11/10/2021!
+  25910OCT  DJIDEL         MILISA           4.002F 1DJELFA    DJELFA          !
+           23TIAC        11/10/2021!
+  26010OCT  EL MOD         DJAHID          36.001M 1DJELFA    AIN CHIH 422/10 !
+           23TIAC        11/10/2021!
+  26110OCT  SADKI          LOUIZA          32.002F 1DJELFA    DJELFA          !
+           23TIAC        11/10/2021!
+  26210OCT  HADJAJI        OUM EL KHEIR    34.002F 1DJELFA    BORDJ 27/76     !
+           23TIAC        11/10/2021!
+  26310OCT  ABBASI         ROKIA           49.002F 1DJELFA    DJELFA          !
+           23TIAC        11/10/2021!
+  26410OCT  SAOUD          INAS            16.002F 1DJELFA    DJELFA          !
+           23TIAC        11/10/2021!
+  26510OCT  KASRI          FATIMA          32.002F 1DJELFA    DJELFA          !
+           23TIAC        11/10/2021!
+  26610OCT  SAIHI          AHMED            5.001M 1DJELFA    DJELFA          !
+           23TIAC        11/10/2021!
+  26710OCT  SAIHI          LAMIA           12.002F 1DJELFA    DJELFA          !
+           23TIAC        11/10/2021!
+  26810OCT  BAITICH        KARIM           12.001M 1DJELFA    DJELFA          !
+           23TIAC        11/10/2021!
+  26910OCT  KOSKOS         REBIHA          67.002F 1DJELFA    DHAYA 100/49    !
+           23TIAC        13/10/2021!
+  27010OCT  CHOULI         ABDELMALEK      27.001M 1DJELFA    DHAYA 100/49    !
+           23TIAC        13/10/2021!
+  27110OCT  ABDELRAHMANE   ATTIA           19.001M 1DJELFA    BERBIH BT08/81  !
+           23TIAC        13/10/2021!
+  27210OCT  BAKHTI         SOUAD                2F 1DJELFA    DJELFA          !
+           23TIAC        13/10/2021!
+  27311NOV  NAOUI          ALI             42.001M 1DJELFA    HACHI MAAMAR    !
+            3BRC         04/11/2021!
+  27411NOV  SOUILAH        LAID            67.001M 1DJELFA    BERBIH          !
+            7LEISH.C     04/11/2021!
+  27511NOV  MESSAOUDI      ALLIA           18.001M 1DJELFA    FOSHA           !
+            3BRC         04/11/2021!
+  27611NOV  OBAH           AISSA            7.001M 1DJELFA    KARIA           !
+            3BRC         04/11/2021!
+  27711NOV  YAHYAOUI       LAHBIB          28.001M 1DJELFA    PRISONNIER      !
+           12IVC         04/11/2021!
+  27811NOV  TOUAMRI        MESSAOUD        37.001M 1DJELFA    EL AMEL         !
+            3BRC         04/11/2021!
+  27911NOV  BOUZID         MOHAMED         35.001M 1DJELFA    NLLE DJELFA     !
+            3BRC         04/11/2021!
+  28011NOV  ADILA          MOHAMED         22.001M 4CHAREF    CHAREF          !
+ 0659840977 7LEISH.C     08/11/2021!
+  28111NOV  ABDELLAOUI     AEK             24.001M 4CHAREF    CHAREF          !
+            7LEISH.C     08/11/2021!
+  28211NOV  GUERECH        TOUATI          18.001M 4CHAREF    CHAREF          !
+            7LEISH.C     08/11/2021!
+  28311NOV  BEN GASMIA     AYOUB           15.001M 1DJELFA    BERBIH          !
+            3BRC         11/11/2021!
+  28411NOV  NADJAA         CHEIKH          29.001M 1DJELFA    ZEREA           !
+            3BRC         11/11/2021!
+  28511NOV  DJERAIBIAA     ABDELHALIM      34.001M 1DJELFA    AIN SRAR B2310/3!
+1           4MNG         14/11/2021!
+  28611NOV  BACHIRI        CHAOULI         18.001M 4CHAREF    CHAREF          !
+            7LEISH.C     21/11/2021!
+  28711NOV  MADANI         TAHER            5.001M 1DJELFA    HACHI MAAMAR    !
+            3BRC         22/11/2021!
+  28811NOV  MADANI         HAYAT            7.002F 1DJELFA    HACHI MAAMAR    !
+            3BRC         22/11/2021!
+  28911NOV  DAHMANI        MOHAMED         13.001M 1DJELFA    BERBIH          !
+            3BRC         22/11/2021!
+  29011NOV  AIDA           ZOHRA           37.002F 2IDRISSIA  IDRISSIA        !
+            3BRC         22/11/2021!
+  29111NOV  HLASSA         KHEIRA               2F 1DJELFA    DJELFA          !
+            3BRC         22/11/2021!
+  29211NOV  NADJAA         OKBA            28.001M 1DJELFA    05 JUILLET      !
+            7LEISH.C     24/11/2021!
+  29311NOV  MADHI          X               50.002F 1DJELFA    BAB CHAREF      !
+            3BRC         29/11/2021!
+  29411NOV  HAMIDA         KHEREDDINE      14.001M 4CHAREF    CHAREF          !
+            7LEISH.C     29/11/2021!
+  29511NOV  KHIDAR         HAFIA           51.002F 6BENYAAGOUBBENYAGOUB       !
+            3BRC         06/12/2021!
+  29612DEC  GUIAL          SOUNDOS          7.002F 2IDRISSIA  NAHDHA          !
+ 0664426236 8HP.V.A      13/12/2021!
+  29712DEC  BIDI           KHIMA           80.002F 1DJELFA    DJELFA          !
+            3BRC         14/12/2021!
+  29812DEC  BEN AHMED      FATNA           62.002F 1DJELFA    DJELFA          !
+           11SYPHILIS    14/12/2021!
+  29912DEC  LAHOUAL        SAAD            32.001M 1DJELFA    DJELFA          !
+            7LEISH.C     14/12/2021!
+  30012DEC  BAB            ZOHRA           28.002F 1DJELFA    HACHI MAAMAR    !
+            3BRC         14/12/2021!
+  30112DEC  BAB            FATIHA          51.002F 1DJELFA    HACHI MAAMAR    !
+            3BRC         14/12/2021!
+  30212DEC  HAIRECH        HADDA           42.002F 1DJELFA    BERNADA         !
+            7LEISH.C     20/12/2021!
+  30312DEC  AGAGNA         BRAHIM          25.001M 3GUEDDID   GUEDID          !
+            3BRC         20/12/2021!
+  30412DEC  ADELI          KHAOULA         19.002F 1DJELFA    BERBIH          !
+            3BRC         20/12/2021!
+  30512DEC  BOUSRI         CHARFAOUI       60.001M 1DJELFA    BRIDJA          !
+            3BRC         20/12/2021!
+  30612DEC  BENDJRIBIA     AICHA           50.002F 1DJELFA    DJELFA          !
+            7LEISH.C     27/12/2021!
+  30712DEC  HMIDAT         MILOUD          70.001M 4CHAREF    CHAREF          !
+           11SYPHILIS    27/12/2021!
+  30812DEC  TAHCHI         FATNA           50.002F 1DJELFA    DJELFA          !
+            3BRC         27/12/2021!
+  30912DEC  KERIDA         SOFIANE         21.001M 1DJELFA    BAHRARA         !
+            7LEISH.C     27/12/2021!
+  31012DEC  ALAICHI        FATIHA          32.002F 1DJELFA    BOUTRIFIS       !
+           40HIV         27/12/2021!
+  31112DEC  TABAKH         BOULERBAH       45.001M 1DJELFA    BOUTRIFIS       !
+           40HIV         27/12/2021!
+
