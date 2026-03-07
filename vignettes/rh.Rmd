@@ -21,6 +21,6 @@ library(datasets.dsp)
 ### rh
 
 ```{r}
-rh %>% dplyr::select(structure,nom,prenom,sexe,datenaissance,age,grade,nv_grade,specialité) %>% head()
+rh %>% dplyr::select(structure,sexe,datenaissance,age,grade,nv_grade,specialité) %>% head()
 ```
 
