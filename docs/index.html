@@ -89,7 +89,7 @@
 </h2>
 <p>This is a basic example which shows you how to solve a common problem:</p>
 <div class="sourceCode" id="cb3"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va">datasets.dsp</span><span class="op">)</span></span>
+<code class="sourceCode R"><span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://github.com/tibaredha/datasets.dsp">datasets.dsp</a></span><span class="op">)</span></span>
 <span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://tidyverse.tidyverse.org" class="external-link">tidyverse</a></span><span class="op">)</span></span>
 <span><span class="co">#&gt; Warning: package 'tidyverse' was built under R version 4.3.3</span></span>
 <span><span class="co">#&gt; Warning: package 'tibble' was built under R version 4.3.3</span></span>
@@ -129,16 +129,16 @@
 <h3 id="rh">rh<a class="anchor" aria-label="anchor" href="#rh"></a>
 </h3>
 <div class="sourceCode" id="cb5"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="va">rh</span> <span class="op"><a href="reference/pipe.html">%&gt;%</a></span> <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/select.html" class="external-link">select</a></span><span class="op">(</span><span class="va">structure</span>,<span class="va">nom</span>,<span class="va">prenom</span>,<span class="va">sexe</span>,<span class="va">datenaissance</span>,<span class="va">age</span>,<span class="va">grade</span>,<span class="va">nv_grade</span>,<span class="va">specialité</span><span class="op">)</span> <span class="op"><a href="reference/pipe.html">%&gt;%</a></span> <span class="fu"><a href="https://rdrr.io/r/utils/head.html" class="external-link">head</a></span><span class="op">(</span><span class="op">)</span></span>
-<span><span class="co">#&gt; # A tibble: 6 × 9</span></span>
-<span><span class="co">#&gt;   structure  nom      prenom sexe  datenaissance   age grade nv_grade specialité</span></span>
-<span><span class="co">#&gt;   &lt;fct&gt;      &lt;chr&gt;    &lt;chr&gt;  &lt;fct&gt; &lt;date&gt;        &lt;dbl&gt; &lt;fct&gt; &lt;fct&gt;    &lt;fct&gt;     </span></span>
-<span><span class="co">#&gt; 1 DSP Djelfa AROUR    BELKA… M     1963-04-27       62 Admi… AD       &lt;NA&gt;      </span></span>
-<span><span class="co">#&gt; 2 DSP Djelfa DJAKBOUB BACHIR M     1972-04-09       53 Admi… AD       &lt;NA&gt;      </span></span>
-<span><span class="co">#&gt; 3 DSP Djelfa AMOUR    SAIDA  F     1983-09-01       42 Admi… AD       &lt;NA&gt;      </span></span>
-<span><span class="co">#&gt; 4 DSP Djelfa BEN KHA… NAIMA  F     1979-04-21       46 Admi… AD       &lt;NA&gt;      </span></span>
-<span><span class="co">#&gt; 5 DSP Djelfa AMDJKOU… SOUAD  F     1976-03-16       49 Atta… Other    &lt;NA&gt;      </span></span>
-<span><span class="co">#&gt; 6 DSP Djelfa KAMESSE  FATIHA F     1983-07-02       42 Secr… Other    &lt;NA&gt;</span></span></code></pre></div>
+<code class="sourceCode R"><span><span class="va">rh</span> <span class="op"><a href="reference/pipe.html">%&gt;%</a></span> <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/select.html" class="external-link">select</a></span><span class="op">(</span><span class="va">structure</span>,<span class="va">sexe</span>,<span class="va">datenaissance</span>,<span class="va">age</span>,<span class="va">grade</span>,<span class="va">nv_grade</span>,<span class="va">specialité</span><span class="op">)</span> <span class="op"><a href="reference/pipe.html">%&gt;%</a></span> <span class="fu"><a href="https://rdrr.io/r/utils/head.html" class="external-link">head</a></span><span class="op">(</span><span class="op">)</span></span>
+<span><span class="co">#&gt; # A tibble: 6 × 7</span></span>
+<span><span class="co">#&gt;   structure  sexe  datenaissance   age grade                 nv_grade specialité</span></span>
+<span><span class="co">#&gt;   &lt;fct&gt;      &lt;fct&gt; &lt;date&gt;        &lt;dbl&gt; &lt;fct&gt;                 &lt;fct&gt;    &lt;fct&gt;     </span></span>
+<span><span class="co">#&gt; 1 DSP Djelfa M     1963-04-27       62 Administrateur Conse… AD       &lt;NA&gt;      </span></span>
+<span><span class="co">#&gt; 2 DSP Djelfa M     1972-04-09       53 Administrateur        AD       &lt;NA&gt;      </span></span>
+<span><span class="co">#&gt; 3 DSP Djelfa F     1983-09-01       42 Administrateur        AD       &lt;NA&gt;      </span></span>
+<span><span class="co">#&gt; 4 DSP Djelfa F     1979-04-21       46 Administrateur        AD       &lt;NA&gt;      </span></span>
+<span><span class="co">#&gt; 5 DSP Djelfa F     1976-03-16       49 Attaché principal d'… Other    &lt;NA&gt;      </span></span>
+<span><span class="co">#&gt; 6 DSP Djelfa F     1983-07-02       42 Secrétaire            Other    &lt;NA&gt;</span></span></code></pre></div>
 </div>
 <div class="section level3">
 <h3 id="deceshosp">deceshosp<a class="anchor" aria-label="anchor" href="#deceshosp"></a>
