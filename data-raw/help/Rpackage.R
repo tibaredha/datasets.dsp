@@ -7,8 +7,14 @@ devtools::document()
 devtools::check()
 #################################################################################
 #git
+# in terminal execute which git to check work directory
+usethis::edit_git_config()
 usethis::use_git()
-usethis::use_github("tibaredha","ssh")  a revoire  ?????
+usethis::create_github_token()  # open browser and create a token  then copy
+library(gitcreds)
+gitcreds::gitcreds_set()
+# and copy paste  the  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
+usethis::use_github("tibaredha","ssh")  #a revoire  ?????
 #################################################################################
 #data
 usethis::use_data_raw("bloc") #create  data-raw/bloc.R  #edite bloc.R
