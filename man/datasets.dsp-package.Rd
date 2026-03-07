@@ -10,6 +10,13 @@
 
 Provides the RDP datasets.dsp.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/tibaredha/datasets.dsp}
+}
+
+}
 \author{
 \strong{Maintainer}: Redha TIBA \email{tibaredha@yahoo.fr}
 

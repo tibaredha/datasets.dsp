@@ -24,8 +24,9 @@ library(bannerCommenter)
 # importFrom ( graphics , plot ) #Pour une unique fonction en lui pr?ecisant le nom du package puis celui de la fonction
 
 # * create a cfg ----
-# usethis::use_package("ggplot2", type = "imports")   packages that your package requires to work
-# usethis::use_package("ggplot2", type = "suggests")  packages that developers of your package need
+# usethis::use_package("tidyverse", type = "depends")
+# usethis::use_package("ggplot2",   type = "imports")   packages that your package requires to work
+# usethis::use_package("ggplot2",   type = "suggests")  packages that developers of your package need
 # usethis::use_package("dplyr")
 # usethis::use_package("dplyr", min_version = "1.0.0")
 # usethis::use_package("dplyr", min_version = TRUE)
@@ -100,14 +101,16 @@ library(bannerCommenter)
 
 # 3.2 vignette : A vignette is a long-form guide to your package
 # 1-usethis::use_vignette("my-vignette")    create vignette folder  create my-vignette.Rmd file  and clic butun knit to get  html vignette
+#  and use :: for explecite call to function
 # 2-devtools::build_vignettes()             create doc/meta folder  or  with devtools::build_vignettes("package name") possible if we close the package !!!!!!
 # 3-first load all or libray(packagename)   and execute  browseVignettes("yahiatiba")  to display the vignette
 # 4-browseVignettes()
 # 5-remotes::install_github("multiple", build_vignettes = TRUE)
 
 # 3.3 pkgdown :  create a web_site  for mypakages : https://pkgdown.r-lib.org/
-# Remove docs/ from gitignore to ensure it is checked into git.
+
 # 1- usethis::use_pkgdown()              #  creat a config file
+# 1- Remove docs/ from gitignore to ensure it is checked into git.
 # 2- pkgdown::build_site()               #  create docs folder and all the site
 # 3- usethis::use_vignette("yahiatiba")  #  create a article in articles menu
 # 4- pkgdown::build_site()               #  build site

@@ -19,4 +19,4 @@ table(covid19$situation,covid19$sexe)
 
 usethis::use_data(covid19, overwrite = TRUE)
 
-
+devtools::document()

@@ -1,8 +1,8 @@
 ---
-title: "bloc-vignette"
+title: "rh"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{bloc-vignette}
+  %\VignetteIndexEntry{rh}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
@@ -18,9 +18,9 @@ knitr::opts_chunk$set(
 library(datasets.dsp)
 ```
 
-### bloc ophtalmologie
+### rh
 
 ```{r}
-bloc %>% dplyr::select(AGE,SEXE,DATE_INTERVENTION,MEDECIN,DIAGNOSTIC,TYPE) %>% head()
+rh %>% dplyr::select(structure,nom,prenom,sexe,datenaissance,age,grade,nv_grade,specialité) %>% head()
 ```
 

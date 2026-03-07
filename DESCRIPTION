@@ -15,3 +15,8 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+Imports:
+    tidyverse,
+    dplyr,
+    magrittr
+URL: https://github.com/tibaredha/datasets.dsp
