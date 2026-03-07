@@ -45,7 +45,7 @@ library(tidyverse)
 ### bloc ophtalmologie
 
 ```{r}
-bloc %>% select(AGE,SEXE,DATE_INTERVENTION,MEDECIN,DIAGNOSTIC,TYPE) %>% head()
+bloc %>% dplyr::select(AGE,SEXE,DATE_INTERVENTION,MEDECIN,DIAGNOSTIC,TYPE) %>% head()
 ```
 
 ### rh
@@ -57,6 +57,6 @@ rh %>% dplyr::select(structure,nom,prenom,sexe,datenaissance,age,grade,nv_grade,
 ### deceshosp
 
 ```{r}
-deceshosp %>%  select(DINS, DATENAISSANCE, SEX) %>% head()
+deceshosp %>%  dplyr::select(DINS, DATENAISSANCE, SEX) %>% head()
 ```
 

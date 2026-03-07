@@ -103,6 +103,25 @@
 "sig.c"
 
 
+#' covid19
+#'
+#' Look up covid19.
+#'
+#' @source DSP Djelfa
+#' @format Data frame with 05 columns  and 420rows
+#' \describe{
+#' \item{SECTION}{section.}
+#' \item{TITRE}{titre.}
+#' \item{CHAPITRE}{chapitre.}
+#' \item{MONTANT}{montant.}
+#' \item{STR}{structure sanitaire.}
+#' }
+#' @examples
+#'   covid19
+"covid19"
+
+
+
 #' budget section 2 dépence
 #'
 #' Look up budget.
