@@ -1,0 +1,26 @@
+---
+title: "deces"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{deces}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(datasets.dsp)
+```
+
+### deceshosp
+
+```{r}
+deceshosp %>%  dplyr::select(DINS, DATENAISSANCE, SEX) %>% head()
+```
+

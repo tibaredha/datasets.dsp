@@ -58,7 +58,7 @@ rh %>% dplyr::select(structure,sexe,datenaissance,age,grade,nv_grade,specialité
 ### deceshosp
 
 ``` {r}
-deceshosp %>%  select(DINS, DATENAISSANCE, SEX) %>% head()
+deceshosp %>% dplyr:: select(DINS, DATENAISSANCE, SEX) %>% head()
 
 ```
 

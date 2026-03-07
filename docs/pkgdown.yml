@@ -3,8 +3,9 @@ pkgdown: 2.1.1
 pkgdown_sha: ~
 articles:
   bloc-vignette: bloc-vignette.html
+  deces: deces.html
   rh: rh.html
-last_built: 2026-03-07T11:42Z
+last_built: 2026-03-07T11:56Z
 urls:
   reference: https://github.com/tibaredha/datasets.dsp/reference
   article: https://github.com/tibaredha/datasets.dsp/articles
