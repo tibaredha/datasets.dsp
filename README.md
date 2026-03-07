@@ -17,7 +17,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 
 <a href="https://lifecycle.r-lib.org/articles/stages.html#experimental">
-<img alt="datasets.dsp website" src=".//man//figures//lifecycle-experimental.svg" ></img></a>
+<img src=".//man//figures//lifecycle-experimental.svg" ></img></a>
 <!-- badges: end --> The goal of datasets.dsp is to …
 
 ## Installation
