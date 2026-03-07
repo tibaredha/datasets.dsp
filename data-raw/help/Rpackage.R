@@ -10,16 +10,21 @@ devtools::check()
 # in terminal execute which git to check work directory
 usethis::edit_git_config()
 
-# for the first time only we get the token
+# for the first time only we get the token  use https protocole ++++ not ssh
 # usethis::create_github_token()  # open browser and create a token  then copy
 # library(gitcreds)
 # gitcreds::gitcreds_set()
-# and copy paste  the  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
+# and copy paste  the  code given
 
+ #### git push dont work with Rstudio terminal in mode ssh ++++++ but it work in mode https
 usethis::use_git()      # create a repo git in locale 
-usethis::use_github()   # create a repo git in remote 
+usethis::use_github()   # create a repo git in remote  use https protocole  create a new project 
 # add file and then create a commit and then git push in Rstudio terminal work properly  +++++++
+# il peut ya voir un confli entre https and ssh +++++
 ##usethis::use_github("tibaredha","ssh")  #a revoire  ?????
+
+# NB ++ a nother way to create a project from scratch 
+# or create a project from github and then take url from github and then create a project from Rstudio verssion controle and paste the url
 #################################################################################
 #data
 usethis::use_data_raw("bloc") #create  data-raw/bloc.R  #edite bloc.R
