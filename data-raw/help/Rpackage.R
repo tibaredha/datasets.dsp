@@ -9,13 +9,17 @@ devtools::check()
 #git
 # in terminal execute which git to check work directory
 usethis::edit_git_config()
-usethis::use_git()
-usethis::create_github_token()  # open browser and create a token  then copy
-library(gitcreds)
-gitcreds::gitcreds_set()
-# and copy paste  the  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
-usethis::use_github()
-usethis::use_github("tibaredha","ssh")  #a revoire  ?????
+
+# for the first time only we get the token
+# usethis::create_github_token()  # open browser and create a token  then copy
+# library(gitcreds)
+# gitcreds::gitcreds_set()
+# and copy paste  the  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
+
+usethis::use_git()      # create a repo git in locale 
+usethis::use_github()   # create a repo git in remote 
+# add file and then create a commit and then git push in Rstudio terminal work properly  +++++++
+##usethis::use_github("tibaredha","ssh")  #a revoire  ?????
 #################################################################################
 #data
 usethis::use_data_raw("bloc") #create  data-raw/bloc.R  #edite bloc.R
