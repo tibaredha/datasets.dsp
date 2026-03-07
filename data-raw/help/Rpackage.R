@@ -13,7 +13,8 @@ usethis::use_git()
 usethis::create_github_token()  # open browser and create a token  then copy
 library(gitcreds)
 gitcreds::gitcreds_set()
-# and copy paste  the  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
+# and copy paste  the  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
+usethis::use_github()
 usethis::use_github("tibaredha","ssh")  #a revoire  ?????
 #################################################################################
 #data
