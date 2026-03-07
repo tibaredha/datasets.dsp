@@ -114,6 +114,7 @@ library(bannerCommenter)
 # 1- add man/figures/*.* folder to docs/  pour prendre en charge les files
 # 2- pkgdown::build_site()               #  create docs folder and all the site
 # 3- usethis::use_vignette("yahiatiba")  #  create a article in articles menu
+# 3- devtools::build_vignettes()         #  mettre ajour les fichier rmd
 # 4- pkgdown::build_site()               #  build site
 # 5- usethis::use_pkgdown_github_pages() #  Run this once to publish your site regularly
 #
