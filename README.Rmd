@@ -4,7 +4,7 @@ output: github_document
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-```{r, include = FALSE}
+```{r message=FALSE, warning=FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>",
@@ -13,15 +13,15 @@ knitr::opts_chunk$set(
 )
 ```
 
+<!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # datasets.dsp <a href="https://tibaredha.com"><img src="man/figures/logo.png" align="right" height="138" alt="datasets.dsp website" /></a>
 
-
 <!-- badges: start -->
-<a href="https://lifecycle.r-lib.org/articles/stages.html#experimental">
-<img src=".//man//figures//lifecycle-experimental.svg" ></img></a>
-<!-- badges: end -->
 
+<a href="https://lifecycle.r-lib.org/articles/stages.html#experimental">
+<img alt="datasets.dsp website" src=".//man//figures//lifecycle-experimental.svg" ></img></a>
+<!-- badges: end -->
 The goal of datasets.dsp is to ...
 
 ## Installation
@@ -37,26 +37,42 @@ pak::pak("tibaredha/datasets.dsp")
 
 This is a basic example which shows you how to solve a common problem:
 
-```{r example,warning=FALSE,message=FALSE}
+```{r example}
 library(datasets.dsp)
 library(tidyverse)
 ```
 
+
 ### bloc ophtalmologie
 
-```{r}
+``` {r}
 bloc %>% dplyr::select(AGE,SEXE,DATE_INTERVENTION,MEDECIN,DIAGNOSTIC,TYPE) %>% head()
 ```
 
 ### rh
 
-```{r}
+``` {r}
 rh %>% dplyr::select(structure,nom,prenom,sexe,datenaissance,age,grade,nv_grade,specialité) %>% head()
 ```
 
 ### deceshosp
 
-```{r}
-deceshosp %>%  dplyr::select(DINS, DATENAISSANCE, SEX) %>% head()
+``` {r}
+deceshosp %>%  select(DINS, DATENAISSANCE, SEX) %>% head()
+
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

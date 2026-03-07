@@ -1,15 +1,24 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+``` r
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
 # datasets.dsp <a href="https://tibaredha.com"><img src="man/figures/logo.png" align="right" height="138" alt="datasets.dsp website" /></a>
 
 <!-- badges: start -->
 
 <a href="https://lifecycle.r-lib.org/articles/stages.html#experimental">
-<img src=".//man//figures//lifecycle-experimental.svg" ></img></a>
-<!-- badges: end -->
-
-The goal of datasets.dsp is to …
+<img alt="datasets.dsp website" src=".//man//figures//lifecycle-experimental.svg" ></img></a>
+<!-- badges: end --> The goal of datasets.dsp is to …
 
 ## Installation
 
@@ -28,12 +37,31 @@ This is a basic example which shows you how to solve a common problem:
 ``` r
 library(datasets.dsp)
 library(tidyverse)
+#> Warning: package 'tidyverse' was built under R version 4.3.3
+#> Warning: package 'tibble' was built under R version 4.3.3
+#> Warning: package 'tidyr' was built under R version 4.3.3
+#> Warning: package 'readr' was built under R version 4.3.3
+#> Warning: package 'purrr' was built under R version 4.3.3
+#> Warning: package 'dplyr' was built under R version 4.3.3
+#> Warning: package 'stringr' was built under R version 4.3.3
+#> Warning: package 'forcats' was built under R version 4.3.3
+#> Warning: package 'lubridate' was built under R version 4.3.3
+#> ── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+#> ✔ dplyr     1.1.4     ✔ readr     2.1.5
+#> ✔ forcats   1.0.0     ✔ stringr   1.5.1
+#> ✔ ggplot2   4.0.1     ✔ tibble    3.2.1
+#> ✔ lubridate 1.9.3     ✔ tidyr     1.3.1
+#> ✔ purrr     1.0.4     
+#> ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+#> ✖ dplyr::filter() masks stats::filter()
+#> ✖ dplyr::lag()    masks stats::lag()
+#> ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
 ```
 
 ### bloc ophtalmologie
 
 ``` r
-bloc %>% select(AGE,SEXE,DATE_INTERVENTION,MEDECIN,DIAGNOSTIC,TYPE) %>% head()
+bloc %>% dplyr::select(AGE,SEXE,DATE_INTERVENTION,MEDECIN,DIAGNOSTIC,TYPE) %>% head()
 #> # A tibble: 6 × 6
 #>     AGE SEXE  DATE_INTERVENTION   MEDECIN                 DIAGNOSTIC TYPE     
 #>   <dbl> <chr> <dttm>              <chr>                   <chr>      <chr>    
