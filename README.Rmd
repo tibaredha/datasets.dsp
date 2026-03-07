@@ -52,7 +52,7 @@ bloc %>% dplyr::select(AGE,SEXE,DATE_INTERVENTION,MEDECIN,DIAGNOSTIC,TYPE) %>% h
 ### rh
 
 ``` {r}
-rh %>% dplyr::select(structure,nom,prenom,sexe,datenaissance,age,grade,nv_grade,specialité) %>% head()
+rh %>% dplyr::select(structure,sexe,datenaissance,age,grade,nv_grade,specialité) %>% head()
 ```
 
 ### deceshosp

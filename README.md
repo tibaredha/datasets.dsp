@@ -17,7 +17,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 
 <a href="https://lifecycle.r-lib.org/articles/stages.html#experimental">
-<img src=".//man//figures//lifecycle-experimental.svg" ></img></a>
+<img alt="datasets.dsp website" src=".//man//figures//lifecycle-experimental.svg" ></img></a>
 <!-- badges: end --> The goal of datasets.dsp is to …
 
 ## Installation
@@ -76,16 +76,16 @@ bloc %>% dplyr::select(AGE,SEXE,DATE_INTERVENTION,MEDECIN,DIAGNOSTIC,TYPE) %>% h
 ### rh
 
 ``` r
-rh %>% dplyr::select(structure,nom,prenom,sexe,datenaissance,age,grade,nv_grade,specialité) %>% head()
-#> # A tibble: 6 × 9
-#>   structure  nom      prenom sexe  datenaissance   age grade nv_grade specialité
-#>   <fct>      <chr>    <chr>  <fct> <date>        <dbl> <fct> <fct>    <fct>     
-#> 1 DSP Djelfa AROUR    BELKA… M     1963-04-27       62 Admi… AD       <NA>      
-#> 2 DSP Djelfa DJAKBOUB BACHIR M     1972-04-09       53 Admi… AD       <NA>      
-#> 3 DSP Djelfa AMOUR    SAIDA  F     1983-09-01       42 Admi… AD       <NA>      
-#> 4 DSP Djelfa BEN KHA… NAIMA  F     1979-04-21       46 Admi… AD       <NA>      
-#> 5 DSP Djelfa AMDJKOU… SOUAD  F     1976-03-16       49 Atta… Other    <NA>      
-#> 6 DSP Djelfa KAMESSE  FATIHA F     1983-07-02       42 Secr… Other    <NA>
+rh %>% dplyr::select(structure,sexe,datenaissance,age,grade,nv_grade,specialité) %>% head()
+#> # A tibble: 6 × 7
+#>   structure  sexe  datenaissance   age grade                 nv_grade specialité
+#>   <fct>      <fct> <date>        <dbl> <fct>                 <fct>    <fct>     
+#> 1 DSP Djelfa M     1963-04-27       62 Administrateur Conse… AD       <NA>      
+#> 2 DSP Djelfa M     1972-04-09       53 Administrateur        AD       <NA>      
+#> 3 DSP Djelfa F     1983-09-01       42 Administrateur        AD       <NA>      
+#> 4 DSP Djelfa F     1979-04-21       46 Administrateur        AD       <NA>      
+#> 5 DSP Djelfa F     1976-03-16       49 Attaché principal d'… Other    <NA>      
+#> 6 DSP Djelfa F     1983-07-02       42 Secrétaire            Other    <NA>
 ```
 
 ### deceshosp

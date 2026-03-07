@@ -111,6 +111,7 @@ library(bannerCommenter)
 
 # 1- usethis::use_pkgdown()              #  creat a config file
 # 1- Remove docs/ from gitignore to ensure it is checked into git.
+# 1- add man/figures/*.* folder to docs/  pour prendre en charge les files
 # 2- pkgdown::build_site()               #  create docs folder and all the site
 # 3- usethis::use_vignette("yahiatiba")  #  create a article in articles menu
 # 4- pkgdown::build_site()               #  build site
