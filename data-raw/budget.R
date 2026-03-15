@@ -13,6 +13,7 @@ budget_djelfa <- function(budget) {
   df_eph_hb <- read.csv(paste0(budget,"/budget_eph_hb.csv"),sep = ";")   %>% mutate(str="hb",type="EPH")
   df_eph_ma <- read.csv(paste0(budget,"/budget_eph_ma.csv"),sep = ";")   %>% mutate(str="ma",type="EPH")
   df_eph_id <- read.csv(paste0(budget,"/budget_eph_id.csv"),sep = ";")   %>% mutate(str="id",type="EPH")
+  df_eph_mx <- read.csv(paste0(budget,"/budget_eph_mx.csv"),sep = ";")   %>% mutate(str="mx",type="EPH")
 
   df_epsp_ao <- read.csv(paste0(budget,"/budget_epsp_ao.csv"),sep = ";") %>% mutate(str="eao",type="EPSP")
   df_epsp_hb <- read.csv(paste0(budget,"/budget_epsp_hb.csv"),sep = ";") %>% mutate(str="ehb",type="EPSP")
@@ -21,7 +22,7 @@ budget_djelfa <- function(budget) {
   df_epsp_gt <- read.csv(paste0(budget,"/budget_epsp_gt.csv"),sep = ";") %>% mutate(str="egt",type="EPSP")
 
   dft <- bind_rows(df_oph,df_me,df_cac,
-                   df_eph_br,df_eph_dj,df_eph_ao,df_eph_hb,df_eph_ma,df_eph_id,
+                   df_eph_br,df_eph_dj,df_eph_ao,df_eph_hb,df_eph_ma,df_eph_id,df_eph_mx,
                    df_epsp_ao,df_epsp_hb,df_epsp_dj,df_epsp_ma,df_epsp_gt)
 }
 budget_25 <- budget_djelfa("data-raw/budget/budget_25") %>% mutate(annee="2025")
