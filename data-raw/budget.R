@@ -35,7 +35,7 @@ rm(budget)
 
 ## mise a jour documentation ----
 devtools::document()
-devtools::build_readme()
+#devtools::build_readme()
 remove.packages("datasets.dsp")
 #reinstall package
 #datasets.dsp::budget %>% dplyr::filter(annee=="2025")
