@@ -140,6 +140,41 @@
 "budget"
 
 
+#' sante scolaire
+#'
+#' Look up sscolaire.
+#'
+#' @source DSP Djelfa
+#' @format Data frame with 07 columns  and 170 rows
+#' \describe{
+#' \item{etablissement}{etablissement.}
+#' \item{PRE}{PRE.}
+#' \item{1F}{1F.}
+#' \item{2F}{2F.}
+#' \item{3F}{3F.}
+#' \item{4F}{4F.}
+#' \item{5F}{5F.}
+#' \item{1M}{1m.}
+#' \item{2M}{2M.}
+#' \item{3M}{3M.}
+#' \item{4M}{4M.}
+#' \item{1S}{1S.}
+#' \item{2S}{2S.}
+#' \item{3S}{3S.}
+#' \item{UDS}{UDS.}
+#' }
+#' @examples
+#'   sscolaire
+"sscolaire"
+
+
+
+
+
+
+
+
+
 
 
 
