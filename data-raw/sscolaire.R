@@ -5,7 +5,7 @@ p_load(tidyverse,readxl,lubridate,ggthemes,sf,mapsf,foreign,stringr,knitr,kableE
 
 name_ss <- function(uds_x,range_x,sheet_x) {
   ss_hbb <- read_excel(uds_x, col_names = FALSE,skip = 7,range = range_x,sheet = sheet_x )
-  colnames(ss_hbb) <- c("etatblissements","TYPE","PRE","1F","2F","3F","4F","5F","1M","2M","3M","4M","1S","2S","3S","TOT")
+  colnames(ss_hbb) <- c("etatblissements","TYPE","PS","1F","2F","3F","4F","5F","1M","2M","3M","4M","1S","2S","3S","TOT")
   ss_hbb <-  ss_hbb %>% mutate(etatblissements=str_trunc(etatblissements,15)) %>% replace(., is.na(.), 0)
   return(ss_hbb)
 }
