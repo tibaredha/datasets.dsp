@@ -1,0 +1,79 @@
+MEDECIN;TYPE;DIAGNOSTIC;AGE;NOM_PRENOM;SEXE;DATE_INTERVENTION
+Bakkoche abdelnour;U;Appendicite;29;RANBI Aarbiaa;F;08/01/2025
+Bakkoche abdelnour;P;Circoncision;2;SLILIH Bakaar;M;09/01/2025
+Acheuk N;U;Appendicite;12;Mahamedi Aissa;M;12/01/2025
+Hirech khiera;P;L V;30;Hamadi kahdra;F;13/01/2025
+Hirech khiera;P;G M N;40;Maklouf saida;F;13/01/2025
+Boulahbal safaa;P;LV;38;Mbarki Fatiha;F;13/01/2025
+Acheuk N;P;H LB;40;Saalhi Hossain;M;14/01/2025
+Hirech khiera;P;Lipome;40;Lombarki Tayab;M;14/01/2025
+Hirech khiera;P;Lipome;59;Ben mdani aissa;M;14/01/2025
+Hirech khiera;P;Lipome;30;Chakali Ahmed;M;14/01/2025
+Boulahbal safaa;U;Appendicite;50;Salmi Mouhamed;M;15/01/2025
+Hirech khiera;U;Hematame ;50;Ben mdani aissa;M;15/01/2025
+Boulahbal safaa;P;L V;54;Rougaig Aicha;F;15/01/2025
+Abdo walid;U;cholecustite;43;Belmazouz Zoubir;M;15/01/2025
+Abdo walid;P;Hemorroides;70;Ayachi belkhir;M;15/01/2025
+Hirech khiera;P;L v;29;chddad fatima;F;15/01/2025
+Hirech khiera;P;L V;39;Ben Saada Fatima;F;16/01/2025
+Hirech khiera;U;Hematame s: cutané;59;Belmadani Aissa;M;16/01/2025
+Hirech khiera;P;L V;47;Naami Zineb;F;16/01/2025
+Lacheheb hadgira;P;Ablation de materiel;;Othmane Saida      à;F;16/01/2025
+Lacheheb hadgira;P;Ablation de materiel;;Abdellaoui ameur à;M;16/01/2025
+Lacheheb hadgira;P;Halus yalgus;55;Gacem Toumi;M;16/01/2025
+Lacheheb hadgira;P;Pied Septique;49;Ferraj Aissa;M;16/01/2025
+Lacheheb hadgira;U;Pied Septique;55;Taouache Taher;M;16/01/2025
+Lacheheb hadgira;U;Main traumlique;65;Gqrroud Abd elkader;M;16/01/2025
+Gudmain Amir;U;BRULé;5;Mobarki sidra;F;16/01/2025
+Belkaious Mohamed;P;H I D;34;Baira Benazouz;M;19/01/2025
+Belkaious Mohamed;P;L V;36;Sabra Siham;F;19/01/2025
+Belkaious Mohamed;P;N F T;40;Bograhra Zouhra;F;19/01/2025
+Lacheheb hadgira;P;clou pletoire;19;Slilih iman;F;19/01/2025
+Lacheheb hadgira;U;Fracture ,MI;33;Mostfaoi snoussi;M;19/01/2025
+Belhocin ahcene;P;Ectopie TG;6;Ben darrah MOUAYAD;M;20/01/2025
+Belhocin ahcene;P;Hypospadiac;4;Ben darrah Ali;M;20/01/2025
+Belhocin ahcene;P;E T G;6;khenich youssaf;M;20/01/2025
+Belhocin ahcene;U;Palett humérale;8;Marigui abdelkader   ;M;20/01/2025
+Hirech khiera;P;kyste sebacé;20;Larbi Mehamed   ;M;20/01/2025
+BELAMRI massoud;P;Fisule utero vesical;45;Gacem saada;F;21/01/2025
+Belkaious Mohamed;P;H I G;56;Sdara Aissa;M;21/01/2025
+Lacheheb hadgira;P;Ablation de materiel;30;Djoudi touati;M;21/01/2025
+Lacheheb hadgira;P;Calvicieux;15;Sdara mostapha;M;21/01/2025
+Lacheheb hadgira;P;Hyperbourg ene,ent;40;Ben ali tonsi;M;21/01/2025
+Lacheheb hadgira;P;Lesin de flaichisseur;20;chsoui chaima;F;21/01/2025
+Lacheheb hadgira;P;Lxation de la hanche;44;BAGDADI Hosine;M;21/01/2025
+Lacheheb hadgira;U;Main traumlique;16;Larbi Mehamed   ;M;21/01/2025
+Lacheheb hadgira;P;pied diubelique;55;Taouache Taher;M;22/01/2025
+Sakkal sanaa;P;Luxation de lépule;22;Ben aissa yacine;M;22/01/2025
+BELAMRI massoud;P;Eventration;45;Guerda Ahmed;M;22/01/2025
+Gudmain Amir;P;G M N;58;Abbas Mariem;F;22/01/2025
+Gudmain Amir;P;G M N;34;Slikh oumalkhir;F;22/01/2025
+Gudmain Amir;P;H Ydrochdecystite;58;Dahmane Ama;F;22/01/2025
+Gudmain Amir;P;L V;37;Ben arif Meriam;F;23/01/2025
+Gudmain Amir;U;Appendicite;19;Goula Aaya;F;25/01/2025
+Gudmain Amir;U;Iaparatomie;37;Saksak nacira;F;26/01/2025
+Gudmain Amir;P;Fistule anale;45;Sadara Mostafa;M;26/01/2025
+Gudmain Amir;P;H O;76;Taleb Ahmed;M;26/01/2025
+Gudmain Amir;P;Lv;37;Roubah mariem;F;26/01/2025
+Gudmain Amir;P;LV;69;Brahimi ramachia;F;26/01/2025
+Sakkal sanaa;U;Fracture     du femur;31;Saksak nacira;F;26/01/2025
+Sakkal sanaa;U;ploie profonde;56;Ben Ahmed ALI ;M;27/01/2025
+Mohgane faycal;P;H I D;3;Rmitha Aziz;M;27/01/2025
+Mohgane faycal;P;E TD;6;Belkahiri hossan;M;27/01/2025
+Sakkal sanaa;U;Fracture     du femur;31;Sakak Nacira;F;27/01/2025
+Mohgane faycal;P;Ablation de materiel;11;RAYKI Nadjwa;F;27/01/2025
+Mohgane faycal;U;FRACture AVB;15;othmane Bachir;M;28/01/2025
+Mohgane faycal;U;Torsion tecticulaire;15;Merazak abderazak;M;28/01/2025
+Mohgane faycal;U;Pritonite;6;Lachehb Hassna;F;28/01/2025
+Abdo walid;P;Pance,ent beulé;5;Mbarki Sidra;F;28/01/2025
+Sakkal sanaa;U;INCISION de decharge;53;saksak mebarka;F;28/01/2025
+Sakkal sanaa;U;Fracture de l avantbras;41;Harmouch hamid;M;28/01/2025
+BELAMRI massoud;P;Kyste pilonidal;55;Djeklil Ahmed;M;29/01/2025
+Abdo walid;P;LV;38;Bodraa fadila;F;29/01/2052
+Mohgane faycal;U;Appendicite;11;Ben sadra Brahime;M;29/01/2025
+BELAMRI massoud;P;Hemorroides;39;Chaguettisse ghanem,;M;29/01/2025
+Abdo walid;P;Pance,ent beulé;5;Mbarki Sidra;F;30/01/2025
+Abdo walid;P;G M N;41;DLIA Nacira;F;30/01/2025
+Abdo walid;P; Kyste  abdominale;43;Attalahe Zineb;F;30/01/2025
+Mohgane faycal;U;Appendicite;13;Lahwal Mehamed;M;31/01/2025
+Mohgane faycal;U;Fracture     du femur;4;chahara lamin;M;31/01/2025

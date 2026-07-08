@@ -63,14 +63,14 @@ library(tidyverse)
 ``` r
 bloc %>% dplyr::select(AGE,SEXE,DATE_INTERVENTION,MEDECIN,DIAGNOSTIC,TYPE) %>% head()
 #> # A tibble: 6 × 6
-#>     AGE SEXE  DATE_INTERVENTION   MEDECIN                 DIAGNOSTIC TYPE     
-#>   <dbl> <chr> <dttm>              <chr>                   <chr>      <chr>    
-#> 1    76 M     2024-01-02 00:00:00 Yaimeris Martinez pavon Pterygium. Programme
-#> 2    42 M     2024-01-02 00:00:00 Yaimeris Martinez pavon Pterygium. Programme
-#> 3    74 M     2024-01-02 00:00:00 Yaimeris Martinez pavon Pterygium. Programme
-#> 4    38 F     2024-01-02 00:00:00 Yaimeris Martinez pavon Pterygium. Programme
-#> 5    57 M     2024-01-02 00:00:00 Yaimeris Martinez pavon Pterygium. Programme
-#> 6    70 M     2024-01-02 00:00:00 Yaimeris Martinez pavon Pterygium. Programme
+#>     AGE SEXE  DATE_INTERVENTION   MEDECIN     DIAGNOSTIC  TYPE 
+#>   <dbl> <chr> <dttm>              <chr>       <chr>       <chr>
+#> 1    38 F     2024-01-08 00:00:00 Dr, ALIOUAT LV          PR   
+#> 2    68 M     2024-01-08 00:00:00 Dr, ALIOUAT HIG         PR   
+#> 3    24 F     2024-01-08 00:00:00 Dr, ALIOUAT LV          PR   
+#> 4    57 M     2024-01-08 00:00:00 Dr, ALIOUAT hémorroides PR   
+#> 5    40 M     2024-01-09 00:00:00 Dr, ALIOUAT LV          PR   
+#> 6    58 F     2024-01-09 00:00:00 Dr, ALIOUAT LV          PR
 ```
 
 ### rh
@@ -91,7 +91,7 @@ rh %>% dplyr::select(structure,sexe,datenaissance,age,grade,nv_grade,specialité
 ### deceshosp
 
 ``` r
-deceshosp %>%  select(DINS, DATENAISSANCE, SEX) %>% head()
+deceshosp %>% dplyr:: select(DINS, DATENAISSANCE, SEX) %>% head()
 #>         DINS DATENAISSANCE SEX
 #> 1 2020-01-27    1948-08-12   M
 #> 2 2019-08-10    1963-06-08   M

@@ -9,16 +9,33 @@ name_ss <- function(uds_x,range_x,sheet_x) {
   ss_hbb <-  ss_hbb %>% mutate(etatblissements=str_trunc(etatblissements,15)) %>% replace(., is.na(.), 0)
   return(ss_hbb)
 }
+# epsp ain oussera
+Omar_Idris <- name_ss ("data-raw/sscolaire/ss_ao.xlsx","A4:O28","Omar Idris") %>% mutate(UDS="Omar Idris")
+Bouamama   <- name_ss ("data-raw/sscolaire/ss_ao.xlsx","A4:O29","Bouamama") %>% mutate(UDS="Bouamama")
+Technicum  <- name_ss ("data-raw/sscolaire/ss_ao.xlsx","A4:O33","Technicum") %>% mutate(UDS="Technicum")
+Guernini   <- name_ss ("data-raw/sscolaire/ss_ao.xlsx","A4:O7","Guernini") %>% mutate(UDS="Guernini")
+Birine     <- name_ss ("data-raw/sscolaire/ss_ao.xlsx","A4:O32","Birine") %>% mutate(UDS="Birine")
+Benhar     <- name_ss ("data-raw/sscolaire/ss_ao.xlsx","A4:O18","Benhar") %>% mutate(UDS="Benhar")
+Had_sahari <- name_ss ("data-raw/sscolaire/ss_ao.xlsx","A4:O39","Had sahari") %>% mutate(UDS="Had sahari")
+Ain_fekka  <- name_ss ("data-raw/sscolaire/ss_ao.xlsx","A4:O28","Ain fekka") %>% mutate(UDS="Ain fekka")
+Bouiret_lahdeb<- name_ss ("data-raw/sscolaire/ss_ao.xlsx","A4:O13","Bouiret lahdeb") %>% mutate(UDS="Bouiret lahdeb")
+Sidi_laadjel  <- name_ss ("data-raw/sscolaire/ss_ao.xlsx","A4:O21","Sidi laadjel") %>% mutate(UDS="Sidi laadjel")
+Hassi_fedoul  <- name_ss ("data-raw/sscolaire/ss_ao.xlsx","A4:O29","Hassi fedoul") %>% mutate(UDS="Hassi fedoul")
+Lekhmis       <- name_ss ("data-raw/sscolaire/ss_ao.xlsx","A4:O12","Lekhmis") %>% mutate(UDS="Lekhmis")
+ss_ao <- rbind(Omar_Idris,Bouamama,Technicum,Guernini,Birine,Benhar,Had_sahari,Ain_fekka,
+               Bouiret_lahdeb,Sidi_laadjel,Hassi_fedoul,Lekhmis)%>% mutate(EPSP="ao")
+rm(Omar_Idris,Bouamama,Technicum,Guernini,Birine,Benhar,Had_sahari,Ain_fekka,
+      Bouiret_lahdeb,Sidi_laadjel,Hassi_fedoul,Lekhmis)
 
 # epsp hassi-bahbah
-KACIMI     <- name_ss ("data-raw/sscolaire/ss_hbb.xls","A8:O32","KACIMI") %>% mutate(UDS="KACIMI")
-BELAHRECHE <- name_ss ("data-raw/sscolaire/ss_hbb.xls","A8:O34","BELAHRECHE") %>% mutate(UDS="BELAHRECHE")
-BENKHAIRA  <- name_ss ("data-raw/sscolaire/ss_hbb.xls","A8:O25","BENKHAIRA") %>% mutate(UDS="BENKHAIRA")
-BENBADISS  <- name_ss ("data-raw/sscolaire/ss_hbb.xls","A8:O19","BEN BADISS") %>% mutate(UDS="BEN BADISS")
-AINMAABED  <- name_ss ("data-raw/sscolaire/ss_hbb.xls","A8:O19","AIN MAABED") %>% mutate(UDS="AIN MAABED")
-ZAAFRANE   <- name_ss ("data-raw/sscolaire/ss_hbb.xls","A8:O21","ZAAFRANE") %>% mutate(UDS="ZAAFRANE")
-FATEH      <- name_ss ("data-raw/sscolaire/ss_hbb.xls","A8:O38","FATEH") %>% mutate(UDS="FATEH")
-NOOR       <- name_ss ("data-raw/sscolaire/ss_hbb.xls","A8:O38","NOOR") %>% mutate(UDS="NOOR")
+KACIMI     <- name_ss ("data-raw/sscolaire/ss_hbb.xls","A8:O32","KACIMI") %>% mutate(UDS="kacimi")
+BELAHRECHE <- name_ss ("data-raw/sscolaire/ss_hbb.xls","A8:O34","BELAHRECHE") %>% mutate(UDS="belahreche")
+BENKHAIRA  <- name_ss ("data-raw/sscolaire/ss_hbb.xls","A8:O25","BENKHAIRA") %>% mutate(UDS="benkhaira")
+BENBADISS  <- name_ss ("data-raw/sscolaire/ss_hbb.xls","A8:O19","BEN BADISS") %>% mutate(UDS="ben badiss")
+AINMAABED  <- name_ss ("data-raw/sscolaire/ss_hbb.xls","A8:O19","AIN MAABED") %>% mutate(UDS="ain maabed")
+ZAAFRANE   <- name_ss ("data-raw/sscolaire/ss_hbb.xls","A8:O21","ZAAFRANE") %>% mutate(UDS="zaafrane")
+FATEH      <- name_ss ("data-raw/sscolaire/ss_hbb.xls","A8:O38","FATEH") %>% mutate(UDS="fateh")
+NOOR       <- name_ss ("data-raw/sscolaire/ss_hbb.xls","A8:O38","NOOR") %>% mutate(UDS="noor")
 ss_hbb <- rbind(KACIMI,BELAHRECHE,BENKHAIRA,BENBADISS,AINMAABED,ZAAFRANE,FATEH,NOOR)%>% mutate(EPSP="hbb")
 rm(KACIMI,BELAHRECHE,BENKHAIRA,BENBADISS,AINMAABED,ZAAFRANE,FATEH,NOOR)
 
@@ -46,16 +63,27 @@ ss_dj <- rbind(ADILA,p1_nov,nadjah,al_amir,saila_karia,tahiri,mahata_rggab,belah
 rm(ADILA,p1_nov,nadjah,al_amir,saila_karia,tahiri,mahata_rggab,belahrch,
    bakai,belhwadjb,el_kotb,idrissia,charef,guedid,ben_yaagoub,douis,ain_chouhadda)
 
+# epsp messaad
+UDS1 <- name_ss ("data-raw/sscolaire/ss_ma.xlsx","A3:O63","UDS 1") %>% mutate(UDS="UDS 1")
+UDS2 <- name_ss ("data-raw/sscolaire/ss_ma.xlsx","A3:O9","UDS 2") %>% mutate(UDS="UDS 2")
+UDS3 <- name_ss ("data-raw/sscolaire/ss_ma.xlsx","A3:O15","UDS 3") %>% mutate(UDS="UDS 3")
+UDS4 <- name_ss ("data-raw/sscolaire/ss_ma.xlsx","A3:O13","UDS 4") %>% mutate(UDS="UDS 4")
+UDS5 <- name_ss ("data-raw/sscolaire/ss_ma.xlsx","A3:O10","UDS 5") %>% mutate(UDS="UDS 5")
+UDS6 <- name_ss ("data-raw/sscolaire/ss_ma.xlsx","A3:O10","UDS 6") %>% mutate(UDS="UDS 6")
+UDS7 <- name_ss ("data-raw/sscolaire/ss_ma.xlsx","A3:O15","UDS 7") %>% mutate(UDS="UDS 7")
+ss_ma <- rbind(UDS1,UDS2,UDS3,UDS4,UDS5,UDS6,UDS7)%>%mutate(EPSP="ma")
+rm(UDS1,UDS2,UDS3,UDS4,UDS5,UDS6,UDS7)
 
-sscolaire <- rbind(ss_hbb,ss_dj)
-rm(ss_hbb,ss_dj)
+
+sscolaire <- rbind(ss_ao,ss_hbb,ss_dj,ss_ma)
+rm(ss_ao,ss_hbb,ss_dj,ss_ma)
 usethis::use_data(sscolaire, overwrite = TRUE)
 rm(sscolaire)
 
 ## mise a jour documentation ----
 devtools::document()
 #devtools::build_readme()
-remove.packages("datasets.dsp")
+#remove.packages("datasets.dsp")
 #reinstall package
 #datasets.dsp::budget %>% dplyr::filter(annee=="2025")
 

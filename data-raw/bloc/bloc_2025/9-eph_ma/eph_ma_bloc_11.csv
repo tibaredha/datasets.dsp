@@ -1,0 +1,93 @@
+MEDECIN;TYPE;DIAGNOSTIC;AGE;NOM_PRENOM;SEXE;DATE_INTERVENTION
+Hirech khiera;U;hernie;32;gouzim nasrin;M;11/01/2025
+Sakkal sanaa;U;fracture;78;gheiri fetir ;F;11/02/2025
+bekkouche;P;l v ;46;jilani kheira;F;11/02/2025
+bekkouche;U;ploie;64;tannah freiha;F;11/03/2025
+Hirech khiera;P;h i d;5;mahmedi abdellah;M;11/03/2025
+Belhocine ahcene;P;e t g ;7;ben taher med;M;11/03/2025
+Belhocine ahcene;P;hypospadias;15;belkheir ahmed;M;11/03/2025
+bekkouche;P;h i g ;;rabhi kouider ;M;11/04/2025
+BELAMRI massoud;P;l v ;;halis saida;F;11/04/2025
+BELAMRI massoud;P;fistule;;debaa mailoud;M;11/04/2025
+BELAMRI massoud;P;fistule;;blouk ali abdallha;M;11/04/2025
+Sakkal sanaa;P;ongle incarre ;18;sadi meriem;F;11/04/2025
+bekkouche;P;l v ;;mimoune aicha ;F;11/05/2025
+BELAMRI massoud;P;l v ;;harizi saida;F;11/05/2025
+Gudmain Amir;P;l v ;39;ben abdesalem khdra;F;11/06/2025
+Gudmain Amir;P;l v ;40;ganai nawal ;F;11/06/2025
+Gudmain Amir;U;appendiculire;38;rabih zeana ;F;11/06/2025
+Sakkal sanaa;U;plaie profonde;24;belkheri rahmani ;M;11/06/2025
+Gudmain Amir;U;testiculaire;20;bedrina med;M;11/08/2025
+Gudmain Amir;U;appendiculire;;houri med;M;11/08/2025
+Mohgane faycal;U;appendiculire;;mehd abdelmoman ;M;11/08/2025
+Mohgane faycal;U;evisceration ;;gezim nasrin ;F;11/08/2025
+Sakkal sanaa;P;fracture;17;garoud rachid ;M;11/08/2025
+Mohgane faycal;U;appendiculire;5;saiti malek ;M;11/09/2025
+Mohgane faycal;U;h i d;8;haouas zohra;F;11/09/2025
+Mohgane faycal;P;h i g ;11;djeribie ramdan ;M;11/09/2025
+Mohgane faycal;P;allongement t a;10;tifouche asma;F;11/09/2025
+Abdo walid;U;hemoperitoine;;rahmoun fatna;F;11/09/2025
+Sakkal sanaa;P;fr du bassin ;50;rinabou moustaf ;M;11/09/2025
+Abdo walid;U;kyste;;karrech med;M;11/10/2025
+Mohgane faycal;P;e t g ;4;tahah saif ;M;11/10/2025
+Mohgane faycal;P;h i d ;4;barboura med chaikh ;M;11/10/2025
+Mohgane faycal;P;h i d ;12;bessaoud sifeddine;M;11/10/2025
+Lacheheb hadgira;U;calvicieux;36;noui nadji;M;11/11/2025
+Lacheheb hadgira;P;canal corpien ;56;belkhiri saida;F;11/11/2025
+Lacheheb hadgira;P;lipome;;faritis siham;F;11/11/2025
+BELAMRI massoud;U;lipome;49;ben thabet ahmed;M;11/11/2025
+Gudmain Amir;U;corps etranger;29;khadiri dahbia;F;11/12/2025
+Gudmain Amir;U;cholecystite;38;dacher med;M;11/12/2025
+Gudmain Amir;P;g m n ;40;adjimi barhim ;M;11/12/2025
+Gudmain Amir;P;h i g ;33;djaid abdallah ;M;11/12/2025
+Abdo walid;P;h i g ;44;touti lakhder;M;11/12/2025
+BELAMRI massoud;P;cholecystite;37;dbaa wineb;F;13/11/2025
+Lacheheb hadgira;U;fracture;;abbas fatima;F;13/11/2025
+Lacheheb hadgira;P;pied ;90;toual tayeb;M;13/11/2025
+Lacheheb hadgira;P;angle incarne;23;krab fatima;F;13/11/2025
+Abdo walid;P;l v ;29;lagreb khadra;F;13/11/2025
+Abdo walid;P;henorroides;44;souiah salem ;M;13/11/2025
+Abdo walid;P;necre ctomie;;bougrina omar;M;13/11/2025
+Mohgane faycal;P;h i s g ;2;chettouh choaib ;M;13/11/2025
+Mohgane faycal;P;e t g ;4;boussen sadek ;M;13/11/2025
+Mohgane faycal;P;h i d ;5;bedrina omar;M;13/11/2025
+Belkaious Mohamed;P;l v ;;rehmoune fatna;F;16/11/2025
+Belkaious Mohamed;P;l v ;44;touti lakhder;M;16/11/2025
+Lacheheb hadgira;P;tumer de doigt;35;din isamia;F;16/11/2025
+Lacheheb hadgira;P;angle incarne;16;ben zergine youcef;M;16/11/2025
+Lacheheb hadgira;P;angle incarne;13;ghabi yasmine;M;16/11/2025
+Lacheheb hadgira;P;corps etranger;48;baghdadi houcine ;M;16/11/2025
+Lacheheb hadgira;P;angle incarne;23;gaafazi khelifa;M;16/11/2025
+Lacheheb hadgira;U;abces;17;hamidi aicha;F;16/11/2025
+BELAMRI massoud;P;h i g ;84;ben derrah lakjdar;M;17/11/2025
+Lacheheb hadgira;P;ablation de metiriel ;22;ben tounsi tahar;M;17/11/2025
+Lacheheb hadgira;P;ablation de metiriel ;25;tahiri khaled;M;17/11/2025
+Lacheheb hadgira;U;mallet finger;43;djelita omelkhir ;F;17/11/2025
+Lacheheb hadgira;U;fractuer;30;rehmoune fatna;F;17/11/2025
+Lacheheb hadgira;P;exostose;36;gouamaz maamar ;M;18/11/2025
+Lacheheb hadgira;P;lipome;83;khadraoui saida;F;18/11/2025
+Lacheheb hadgira;U;phlegmon de ;23;touti ahmed;M;18/11/2025
+BELAMRI massoud;P;g m n ;58;djoghlfi barhim ;M;19/11/2025
+BELAMRI massoud;P;l v ;38;zaidi soumia;F;19/11/2025
+Hirech khiera;P;g m n ;56;douech aida;F;20/11/2025
+Hirech khiera;P;h i b ;51;slim abdelkader;M;20/11/2025
+Acheuk N;P;l v ;;khabab lakhdar;M;22/11/2025
+BELAMRI massoud;P;l v ;86;ben said zohra;F;24/11/2025
+BELAMRI massoud;P;kyste;58;malki lakhdar ;M;24/11/2025
+BELAMRI massoud;P;h i d ;73;dliouh salah ;M;25/11/2025
+Acheuk N;P;l v ;90;tahiri halima;F;25/11/2025
+Acheuk N;P;l v ;23;dacher amer;M;25/11/2025
+Acheuk N;P;lipome;35;garbi khadidja;F;25/11/2025
+BELAMRI massoud;P;l v ;52;bouhlal farida;F;26/11/2025
+BELAMRI massoud;P;lv ;45;fritis souaad ;F;26/11/2025
+Acheuk N;P;appendiculire;13;massoudi med ;M;26/11/2025
+Acheuk N;P;abces;48;souissi chahrrazed;F;26/11/2026
+Boulahbal safaa;P;h i d ;;abbas med ;M;27/11/2025
+Boulahbal safaa;P;h i d;66;tahiri lazhari;M;27/11/2025
+Boulahbal safaa;P;l v ;23;bouzid souad ;F;27/11/2025
+Boulahbal safaa;P;hemorroides;41;siar smail ;M;27/11/2025
+Boulahbal safaa;U;stenose ;59;toual omlkhri;F;27/11/2025
+Boulahbal safaa;U;appendiculire;12;said med ;M;29/11/2025
+Boulahbal safaa;P;l v ;42;el hani fatima ;F;30/11/2025
+Boulahbal safaa;P;h i d ;65;ben djabalh lid ;M;30/11/2025
+Boulahbal safaa;P;l v ;34;assali kheira;F;30/11/2025

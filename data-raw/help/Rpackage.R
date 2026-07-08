@@ -17,13 +17,13 @@ usethis::edit_git_config()
 # and copy paste  the  code given
 
  #### git push dont work with Rstudio terminal in mode ssh ++++++ but it work in mode https
-usethis::use_git()      # create a repo git in locale 
-usethis::use_github()   # create a repo git in remote  use https protocole  create a new project 
+usethis::use_git()      # create a repo git in locale
+usethis::use_github()   # create a repo git in remote  use https protocole  create a new project
 # add file and then create a commit and then git push in Rstudio terminal work properly  +++++++
 # il peut ya voir un confli entre https and ssh +++++
 ##usethis::use_github("tibaredha","ssh")  #a revoire  ?????
 
-# NB ++ a nother way to create a project from scratch 
+# NB ++ a nother way to create a project from scratch
 # or create a project from github and then take url from github and then create a project from Rstudio verssion controle and paste the url
 #################################################################################
 #data
@@ -57,7 +57,7 @@ my_news <- newsmd() # Initializes a new news object
 my_news$add_version("0.0.1")
 my_news$add_subtitle("Bugfixes")
 my_news$add_bullet(c("this is point 1", "this is point 2"))
-my_news$get_text() or  print(my_news)
+my_news$get_text() # or  print(my_news)
 my_news$write()
 
 # check

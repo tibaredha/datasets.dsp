@@ -1,0 +1,68 @@
+MEDECIN;TYPE;DIAGNOSTIC;AGE;NOM_PRENOM;SEXE;DATE_INTERVENTION
+Abdo walid;U;Appendicite;56;Bahou Larbi;M;01/02/2025
+Bakkoche abdelnour;U;Appendicite;17;Zourig Said;M;01/02/2025
+Bakkoche abdelnour;P;Pancement de brulé;5;Mebarki Sidra;F;01/02/2025
+Bakkoche abdelnour;U;Appendicite;14;Mabrouki MOHAMED;M;04/02/2025
+Bakkoche abdelnour;P;Pancement de brulé;5;Mebarki Sidra;F;04/02/2025
+Bakkoche abdelnour;U;Appendicite;12;Zine faysal;M;04/02/2025
+BELAMRI massoud;P;Ongle incarné;30;Boudayna Zouhra;F;05/02/2025
+BELAMRI massoud;P;L V;58;Kouidri salih;M;09/02/2025
+Acheuk N;P;H I G;76;Haidach abdelhafid;M;09/02/2025
+Boulahbal safaa;P;L V;24;Rahmoune Asma;F;09/02/2025
+Boulahbal safaa;P;L V;25;Ben fatacha oum alkhir;F;09/02/2025
+Boulahbal safaa;U;Occlusion;70;Laoud Hafnaoui;M;10/02/2025
+Boulahbal safaa;P;L V;35;Haouri Massouda;F;11/02/2025
+Boulahbal safaa;P;H I G;38;Allal Hassan;M;11/02/2025
+Lacheheb hadgira;P;Halus Valgus;21;Bel arbi Brahim;M;12/02/2025
+Sakkal sanaa;U;Fracture de doigt;14;Khenniche soufian;M;12/02/2025
+Sakkal sanaa;U;Fracture de Poignet;18;Haoua Ben houcine;M;12/02/2025
+Lacheheb hadgira;P;Fracture de reprise;25;Taouti abd elaziz;M;12/02/2025
+Boulahbal safaa;U;Occlusion;55;Bassoud Basoud;M;12/02/2025
+Boulahbal safaa;U;Cholecystite;38;Bel gouti halima;F;13/02/2025
+Boulahbal safaa;P;L V;54;Dbaa Mebarka;F;13/02/2025
+Boulahbal safaa;P;L V;75;Ben Naoui cherifa;F;13/02/2025
+Mohgane faycal;U;Fracture   ouverte;5;Bousbaa Zakariya;M;15/02/2025
+Mohgane faycal;U;Appendicite;9;Yazir Mostapha;M;15/02/2025
+Belkaious Mohamed;U;Appendicite;17;Dacher Salma;F;16/02/2025
+Belkaious Mohamed;U;plaie;28;Ben hamed abd eljabar;M;16/02/2025
+Belkaious Mohamed;P;Ritbli ssement;50;Ayachi khdra;F;16/02/2025
+Belkaious Mohamed;P;kyste pilonidal ;45;Haoua belkacem;M;16/02/2025
+Belkaious Mohamed;P;Hemmeroide ;48;chine mehamed ;M;16/02/2025
+Belkaious Mohamed;P;Fistule anale ;45;Gozim rabeh ;M;16/02/2025
+Lacheheb hadgira;P;canal carpien;70;NAOURI  Med;M;16/02/2025
+Gudmain Amir;U;Appendicite;16;Rida rabeh;M;17/02/2025
+Gudmain Amir;U;Iaparatomie;20;Naou Rachid;M;18/02/2025
+BELAMRI massoud;P;lipome dorsal;32;Benttaher kheira ;F;20/02/2025
+Gudmain Amir;P;LV;62;Homimesse oumhani ;F;20/02/2025
+BELAMRI massoud;P;Hysterctomie;53;Geulila fatima ;F;20/02/2025
+Abdo walid;P;Eventration ;70;Debaa rahma ;F;20/02/2025
+Sakkal sanaa;U;Fructer de vertebre;26;Cherifi Haj ahmed;M;22/02/2025
+Gudmain Amir;P;LV;37;Boukhtam fatima;F;23/02/2025
+Gudmain Amir;P;K H F;56;Malki hadda;F;23/02/2025
+Gudmain Amir;P;H I B;51;Abdelhadi Mouktar;M;23/02/2025
+Gudmain Amir;P;Fistule anale ;33;Baoun Hassan;M;23/02/2025
+Abdo walid;P;Kyste dorsale;17;Moussaoui Ossama;M;23/02/2025
+Abdo walid;P;Appendicite;25;Manssour Maroui;F;23/02/2025
+Abdo walid;P;Appendicite;21;Roiabeh Ahmed;M;23/02/2025
+Mohgane faycal;P;H I D;2;Belkhairat MOAATASIM;M;24/02/2025
+Mohgane faycal;P;H I G ;13;Doudou Mouaataz;M;24/02/2025
+Mohgane faycal;P;E T G;4;Balkak abd elkarem;M;24/02/2025
+Mohgane faycal;P;Hypospadias ;6;Houcini youssaf;M;24/02/2025
+Mohgane faycal;P;Allongemet de tendon ;14;Abdellaoui Lamia;F;24/02/2025
+Abdo walid;U;Brulé ;35;charboul  Slimane;M;24/02/2025
+Abdo walid;U;Brulé ;20;Oubah Nadia;F;24/02/2025
+Mohgane faycal;U;Main traumatik;8;Dahaaz Douaa;F;25/02/2025
+Sakkal sanaa;U;Fructer avant bras;15;chegaf youcef;M;25/02/2025
+Hirech khiera;P;Lv;54;Dokia med;M;25/02/2025
+Hirech khiera;P;Lv;41;Ben kihoul hadda;F;25/02/2025
+Hirech khiera;P;LV;22;Dacher sara;F;26/02/2025
+Sakkal sanaa;U;Poly Traumatisé;24;Kheire Maamar;M;26/02/2025
+Gudmain Amir;U;Appendicite;36;Laakhdari  djemaa;F;26/02/2025
+Sakkal sanaa;U;Fructer de jambe;28;Messaoudi lamia;F;26/02/2025
+Mohgane faycal;P;LV;4;Kouskous anfal;F;27/02/2025
+Hirech khiera;U;Peroratoin du dulcer;90;kriouaa ahmed;M;27/02/2025
+Gudmain Amir;P;Cholecystite;;Ben Zerguina Belkhir;M;27/02/2025
+Gudmain Amir;U;Cholecystite;50;Slike Med;M;27/02/2025
+Abdo walid;U;Fistule anale ;30;taibi ahmed;M;27/02/2025
+Abdo walid;P;Fistule anale ;35;slike ben alia;M;27/02/2025
+Abdo walid;P;circoncion;;DJaidir dahmane;M;27/02/2025
