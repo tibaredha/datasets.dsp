@@ -346,7 +346,7 @@ devtools::document()
 # datasets.dsp::bloc %>% view()
 # table(datasets.dsp::bloc$STRUCTURE,datasets.dsp::bloc$SEXE)
 
-
+# type :wq! dans console apres git  dans vim
 
 
 
